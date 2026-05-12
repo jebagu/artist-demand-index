@@ -1,0 +1,699 @@
+{
+  "totalArtistCount": 119,
+  "tierCounts": {
+    "1": 11,
+    "2": 5,
+    "3": 46,
+    "4": 23,
+    "5": 32,
+    "N/A": 2
+  },
+  "genreClusterCounts": {
+    "Downtempo/Ambient": 6,
+    "Avant-Garde/Sound Art": 17,
+    "Electronic/IDM": 11,
+    "World/Jazz": 7,
+    "Bass/Dubstep": 4,
+    "Classic Rock": 10,
+    "Pop/R&B": 18,
+    "House/Techno": 14,
+    "Pop Electronic": 18,
+    "N/A": 6,
+    "Hip-Hop/Electronic": 8
+  },
+  "venueScaleCounts": {
+    "N/A": 51,
+    "Theater/Festival": 5,
+    "Festival (rare)": 1,
+    "Arena/Festival": 3,
+    "Stadium (hist.)": 2,
+    "Stadium": 7,
+    "Arena": 17,
+    "Theater/Arena": 5,
+    "Theater": 5,
+    "Arena/Club": 1,
+    "Arena/Stadium": 1,
+    "Festival": 1,
+    "Concert Hall": 5,
+    "Small Venue": 1,
+    "Mid Venue": 2,
+    "Mid Venue/Festival": 3,
+    "Club/Theater": 5,
+    "Club": 1,
+    "Arena (hist.)": 2,
+    "Amphitheater": 1
+  },
+  "confidenceDistribution": {
+    "1": 9,
+    "2": 41,
+    "3": 39,
+    "4": 23,
+    "5": 7
+  },
+  "averageConfidence": 2.8151260504201683,
+  "averageCompositeScore": 41.93697478991595,
+  "heatScoreDistribution": {
+    "low": 119,
+    "medium": 0,
+    "high": 0
+  },
+  "missingnessCounts": {
+    "spotifyMonthlyListeners": {
+      "available": 110,
+      "missing": 9
+    },
+    "socialReach": {
+      "available": 59,
+      "missing": 60
+    },
+    "tourGrossUsd": {
+      "available": 10,
+      "missing": 109
+    },
+    "catalogStreams": {
+      "available": 71,
+      "missing": 48
+    },
+    "bandsintownFollowers": {
+      "available": 4,
+      "missing": 115
+    }
+  },
+  "topArtists": {
+    "spotifyMonthlyListeners": [
+      {
+        "id": 114,
+        "artist": "The Weeknd",
+        "tier": 4,
+        "value": 115000000
+      },
+      {
+        "id": 67,
+        "artist": "Lady Gaga",
+        "tier": 5,
+        "value": 100100000
+      },
+      {
+        "id": 107,
+        "artist": "Taylor Swift",
+        "tier": 5,
+        "value": 96000000
+      },
+      {
+        "id": 11,
+        "artist": "Billie Eilish",
+        "tier": 5,
+        "value": 84800000
+      },
+      {
+        "id": 64,
+        "artist": "Kendrick Lamar",
+        "tier": 5,
+        "value": 71738928
+      },
+      {
+        "id": 68,
+        "artist": "Lana Del Rey",
+        "tier": 5,
+        "value": 65743303
+      },
+      {
+        "id": 112,
+        "artist": "Travis Scott",
+        "tier": 5,
+        "value": 62000000
+      },
+      {
+        "id": 76,
+        "artist": "Miley Cyrus",
+        "tier": 5,
+        "value": 60700000
+      },
+      {
+        "id": 103,
+        "artist": "SZA",
+        "tier": 5,
+        "value": 59000000
+      },
+      {
+        "id": 9,
+        "artist": "Beyoncé",
+        "tier": 5,
+        "value": 57300000
+      },
+      {
+        "id": 70,
+        "artist": "Madonna",
+        "tier": 5,
+        "value": 54187982
+      },
+      {
+        "id": 41,
+        "artist": "Future",
+        "tier": 5,
+        "value": 54071838
+      },
+      {
+        "id": 47,
+        "artist": "Halsey",
+        "tier": 5,
+        "value": 52600000
+      },
+      {
+        "id": 32,
+        "artist": "Ellie Goulding",
+        "tier": 5,
+        "value": 49234716
+      },
+      {
+        "id": 43,
+        "artist": "Gorillaz",
+        "tier": 5,
+        "value": 43600000
+      }
+    ],
+    "spotifyFollowers": [
+      {
+        "id": 11,
+        "artist": "Billie Eilish",
+        "tier": 5,
+        "value": 126300000
+      },
+      {
+        "id": 107,
+        "artist": "Taylor Swift",
+        "tier": 5,
+        "value": 102000000
+      },
+      {
+        "id": 114,
+        "artist": "The Weeknd",
+        "tier": 4,
+        "value": 99400000
+      },
+      {
+        "id": 68,
+        "artist": "Lana Del Rey",
+        "tier": 5,
+        "value": 57055296
+      },
+      {
+        "id": 112,
+        "artist": "Travis Scott",
+        "tier": 5,
+        "value": 50000000
+      },
+      {
+        "id": 64,
+        "artist": "Kendrick Lamar",
+        "tier": 5,
+        "value": 47714884
+      },
+      {
+        "id": 67,
+        "artist": "Lady Gaga",
+        "tier": 5,
+        "value": 46312068
+      },
+      {
+        "id": 9,
+        "artist": "Beyoncé",
+        "tier": 5,
+        "value": 42700000
+      },
+      {
+        "id": 8,
+        "artist": "The Beatles",
+        "tier": 5,
+        "value": 31900000
+      },
+      {
+        "id": 103,
+        "artist": "SZA",
+        "tier": 5,
+        "value": 25200000
+      },
+      {
+        "id": 41,
+        "artist": "Future",
+        "tier": 5,
+        "value": 24241105
+      },
+      {
+        "id": 47,
+        "artist": "Halsey",
+        "tier": 5,
+        "value": 23000000
+      },
+      {
+        "id": 25,
+        "artist": "Cigarettes After Sex",
+        "tier": 4,
+        "value": 18978453
+      },
+      {
+        "id": 111,
+        "artist": "Tove Lo",
+        "tier": 5,
+        "value": 17600000
+      },
+      {
+        "id": 43,
+        "artist": "Gorillaz",
+        "tier": 5,
+        "value": 16000000
+      }
+    ],
+    "socialReach": [
+      {
+        "id": 9,
+        "artist": "Beyoncé",
+        "tier": 5,
+        "value": 300900000
+      },
+      {
+        "id": 107,
+        "artist": "Taylor Swift",
+        "tier": 5,
+        "value": 274117948
+      },
+      {
+        "id": 76,
+        "artist": "Miley Cyrus",
+        "tier": 5,
+        "value": 218000000
+      },
+      {
+        "id": 67,
+        "artist": "Lady Gaga",
+        "tier": 5,
+        "value": 187623846
+      },
+      {
+        "id": 16,
+        "artist": "Cardi B",
+        "tier": 5,
+        "value": 161700000
+      },
+      {
+        "id": 11,
+        "artist": "Billie Eilish",
+        "tier": 5,
+        "value": 125000000
+      },
+      {
+        "id": 112,
+        "artist": "Travis Scott",
+        "tier": 5,
+        "value": 59341338
+      },
+      {
+        "id": 47,
+        "artist": "Halsey",
+        "tier": 5,
+        "value": 42557740
+      },
+      {
+        "id": 64,
+        "artist": "Kendrick Lamar",
+        "tier": 5,
+        "value": 41610825
+      },
+      {
+        "id": 70,
+        "artist": "Madonna",
+        "tier": 5,
+        "value": 39862998
+      },
+      {
+        "id": 68,
+        "artist": "Lana Del Rey",
+        "tier": 5,
+        "value": 38986057
+      },
+      {
+        "id": 41,
+        "artist": "Future",
+        "tier": 5,
+        "value": 37815948
+      },
+      {
+        "id": 103,
+        "artist": "SZA",
+        "tier": 5,
+        "value": 28300000
+      },
+      {
+        "id": 32,
+        "artist": "Ellie Goulding",
+        "tier": 5,
+        "value": 20365582
+      },
+      {
+        "id": 96,
+        "artist": "Skrillex",
+        "tier": 5,
+        "value": 17000000
+      }
+    ],
+    "tourGrossUsd": [
+      {
+        "id": 107,
+        "artist": "Taylor Swift",
+        "tier": 5,
+        "value": 2077618000
+      },
+      {
+        "id": 9,
+        "artist": "Beyoncé",
+        "tier": 5,
+        "value": 579000000
+      },
+      {
+        "id": 67,
+        "artist": "Lady Gaga",
+        "tier": 5,
+        "value": 419500000
+      },
+      {
+        "id": 64,
+        "artist": "Kendrick Lamar",
+        "tier": 5,
+        "value": 369600000
+      },
+      {
+        "id": 70,
+        "artist": "Madonna",
+        "tier": 5,
+        "value": 227200000
+      },
+      {
+        "id": 40,
+        "artist": "Fred Again",
+        "tier": 5,
+        "value": 32300000
+      },
+      {
+        "id": 41,
+        "artist": "Future",
+        "tier": 5,
+        "value": 27800000
+      },
+      {
+        "id": 88,
+        "artist": "Radiohead",
+        "tier": 5,
+        "value": 12000000
+      },
+      {
+        "id": 83,
+        "artist": "Nine Inch Nails",
+        "tier": 5,
+        "value": 1330000
+      },
+      {
+        "id": 89,
+        "artist": "RAYE",
+        "tier": 5,
+        "value": 947154
+      }
+    ],
+    "riaaTotalUnits": [
+      {
+        "id": 8,
+        "artist": "The Beatles",
+        "tier": 5,
+        "value": 198500000
+      },
+      {
+        "id": 9,
+        "artist": "Beyoncé",
+        "tier": 5,
+        "value": 198500000
+      },
+      {
+        "id": 41,
+        "artist": "Future",
+        "tier": 5,
+        "value": 144000000
+      },
+      {
+        "id": 114,
+        "artist": "The Weeknd",
+        "tier": 4,
+        "value": 100000000
+      },
+      {
+        "id": 11,
+        "artist": "Billie Eilish",
+        "tier": 5,
+        "value": 81500000
+      },
+      {
+        "id": 16,
+        "artist": "Cardi B",
+        "tier": 5,
+        "value": 77000000
+      },
+      {
+        "id": 47,
+        "artist": "Halsey",
+        "tier": 5,
+        "value": 75000000
+      },
+      {
+        "id": 86,
+        "artist": "Pink Floyd",
+        "tier": 5,
+        "value": 75000000
+      },
+      {
+        "id": 70,
+        "artist": "Madonna",
+        "tier": 5,
+        "value": 65000000
+      },
+      {
+        "id": 98,
+        "artist": "Steve Miller Band",
+        "tier": 4,
+        "value": 65000000
+      },
+      {
+        "id": 107,
+        "artist": "Taylor Swift",
+        "tier": 5,
+        "value": 62500000
+      },
+      {
+        "id": 64,
+        "artist": "Kendrick Lamar",
+        "tier": 5,
+        "value": 50000000
+      },
+      {
+        "id": 67,
+        "artist": "Lady Gaga",
+        "tier": 5,
+        "value": 50000000
+      },
+      {
+        "id": 76,
+        "artist": "Miley Cyrus",
+        "tier": 5,
+        "value": 50000000
+      },
+      {
+        "id": 112,
+        "artist": "Travis Scott",
+        "tier": 5,
+        "value": 40000000
+      }
+    ],
+    "catalogStreams": [
+      {
+        "id": 11,
+        "artist": "Billie Eilish",
+        "tier": 5,
+        "value": 47500000000
+      },
+      {
+        "id": 114,
+        "artist": "The Weeknd",
+        "tier": 4,
+        "value": 39200000000
+      },
+      {
+        "id": 64,
+        "artist": "Kendrick Lamar",
+        "tier": 5,
+        "value": 32482897504
+      },
+      {
+        "id": 67,
+        "artist": "Lady Gaga",
+        "tier": 5,
+        "value": 30000000000
+      },
+      {
+        "id": 47,
+        "artist": "Halsey",
+        "tier": 5,
+        "value": 29120000000
+      },
+      {
+        "id": 8,
+        "artist": "The Beatles",
+        "tier": 5,
+        "value": 27500000000
+      },
+      {
+        "id": 107,
+        "artist": "Taylor Swift",
+        "tier": 5,
+        "value": 27500000000
+      },
+      {
+        "id": 9,
+        "artist": "Beyoncé",
+        "tier": 5,
+        "value": 27000000000
+      },
+      {
+        "id": 68,
+        "artist": "Lana Del Rey",
+        "tier": 5,
+        "value": 21000000000
+      },
+      {
+        "id": 112,
+        "artist": "Travis Scott",
+        "tier": 5,
+        "value": 19950000000
+      },
+      {
+        "id": 86,
+        "artist": "Pink Floyd",
+        "tier": 5,
+        "value": 18363682870
+      },
+      {
+        "id": 43,
+        "artist": "Gorillaz",
+        "tier": 5,
+        "value": 15960000000
+      },
+      {
+        "id": 76,
+        "artist": "Miley Cyrus",
+        "tier": 5,
+        "value": 14000000000
+      },
+      {
+        "id": 103,
+        "artist": "SZA",
+        "tier": 5,
+        "value": 12950000000
+      },
+      {
+        "id": 88,
+        "artist": "Radiohead",
+        "tier": 5,
+        "value": 12576734709
+      }
+    ],
+    "heatScore": [
+      {
+        "id": 8,
+        "artist": "The Beatles",
+        "tier": 5,
+        "value": 5
+      },
+      {
+        "id": 9,
+        "artist": "Beyoncé",
+        "tier": 5,
+        "value": 5
+      },
+      {
+        "id": 11,
+        "artist": "Billie Eilish",
+        "tier": 5,
+        "value": 5
+      },
+      {
+        "id": 20,
+        "artist": "Charli XCX",
+        "tier": 4,
+        "value": 5
+      },
+      {
+        "id": 25,
+        "artist": "Cigarettes After Sex",
+        "tier": 4,
+        "value": 5
+      },
+      {
+        "id": 40,
+        "artist": "Fred Again",
+        "tier": 5,
+        "value": 5
+      },
+      {
+        "id": 41,
+        "artist": "Future",
+        "tier": 5,
+        "value": 5
+      },
+      {
+        "id": 64,
+        "artist": "Kendrick Lamar",
+        "tier": 5,
+        "value": 5
+      },
+      {
+        "id": 67,
+        "artist": "Lady Gaga",
+        "tier": 5,
+        "value": 5
+      },
+      {
+        "id": 70,
+        "artist": "Madonna",
+        "tier": 5,
+        "value": 5
+      },
+      {
+        "id": 83,
+        "artist": "Nine Inch Nails",
+        "tier": 5,
+        "value": 5
+      },
+      {
+        "id": 88,
+        "artist": "Radiohead",
+        "tier": 5,
+        "value": 5
+      },
+      {
+        "id": 89,
+        "artist": "RAYE",
+        "tier": 5,
+        "value": 5
+      },
+      {
+        "id": 91,
+        "artist": "Robyn",
+        "tier": 4,
+        "value": 5
+      },
+      {
+        "id": 103,
+        "artist": "SZA",
+        "tier": 5,
+        "value": 5
+      }
+    ]
+  },
+  "consistencyWarningCount": 34
+}

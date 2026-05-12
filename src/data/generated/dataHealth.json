@@ -1,0 +1,292 @@
+{
+  "snapshotDate": "2026-05-12",
+  "sourceTabs": [
+    "Artist Master",
+    "Streaming Detail",
+    "Social Media",
+    "Live & Touring",
+    "Sales & RIAA",
+    "Catalog Info",
+    "Genre Classification",
+    "Heat Check",
+    "Normalization",
+    "Sources & QA"
+  ],
+  "dataQualityNote": "Research snapshot from May 12, 2026. Values are directional and include missing or low-confidence fields. Raw footprint charts use source detail tabs; model tier and composite use the original normalization tab. Tour gross is latest public tour gross, while catalog streams and RIAA units are lifetime-style signals.",
+  "missingnessCounts": {
+    "spotifyMonthlyListeners": {
+      "available": 110,
+      "missing": 9
+    },
+    "socialReach": {
+      "available": 59,
+      "missing": 60
+    },
+    "tourGrossUsd": {
+      "available": 10,
+      "missing": 109
+    },
+    "catalogStreams": {
+      "available": 71,
+      "missing": 48
+    },
+    "bandsintownFollowers": {
+      "available": 4,
+      "missing": 115
+    }
+  },
+  "consistencyWarnings": [
+    {
+      "id": 9,
+      "artist": "Beyoncé",
+      "message": "Latest public tour gross: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 9,
+      "artist": "Beyoncé",
+      "message": "Latest public tour gross: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 40,
+      "artist": "Fred Again",
+      "message": "Lifetime RIAA units: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 40,
+      "artist": "Fred Again",
+      "message": "Lifetime RIAA units: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 41,
+      "artist": "Future",
+      "message": "Latest public tour gross: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 41,
+      "artist": "Future",
+      "message": "Latest public tour gross: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 41,
+      "artist": "Future",
+      "message": "Lifetime RIAA units: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 41,
+      "artist": "Future",
+      "message": "Lifetime RIAA units: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 64,
+      "artist": "Kendrick Lamar",
+      "message": "Latest public tour gross: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 64,
+      "artist": "Kendrick Lamar",
+      "message": "Latest public tour gross: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 64,
+      "artist": "Kendrick Lamar",
+      "message": "Lifetime RIAA units: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 64,
+      "artist": "Kendrick Lamar",
+      "message": "Lifetime RIAA units: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 67,
+      "artist": "Lady Gaga",
+      "message": "Latest public tour gross: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 67,
+      "artist": "Lady Gaga",
+      "message": "Latest public tour gross: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 67,
+      "artist": "Lady Gaga",
+      "message": "Lifetime RIAA units: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 67,
+      "artist": "Lady Gaga",
+      "message": "Lifetime RIAA units: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 70,
+      "artist": "Madonna",
+      "message": "Latest public tour gross: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 70,
+      "artist": "Madonna",
+      "message": "Latest public tour gross: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 70,
+      "artist": "Madonna",
+      "message": "Lifetime RIAA units: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 70,
+      "artist": "Madonna",
+      "message": "Lifetime RIAA units: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 83,
+      "artist": "Nine Inch Nails",
+      "message": "Latest public tour gross: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 83,
+      "artist": "Nine Inch Nails",
+      "message": "Latest public tour gross: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 83,
+      "artist": "Nine Inch Nails",
+      "message": "Lifetime RIAA units: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 83,
+      "artist": "Nine Inch Nails",
+      "message": "Lifetime RIAA units: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 88,
+      "artist": "Radiohead",
+      "message": "Latest public tour gross: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 88,
+      "artist": "Radiohead",
+      "message": "Latest public tour gross: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 89,
+      "artist": "RAYE",
+      "message": "Latest public tour gross: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 89,
+      "artist": "RAYE",
+      "message": "Latest public tour gross: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 89,
+      "artist": "RAYE",
+      "message": "Lifetime RIAA units: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 89,
+      "artist": "RAYE",
+      "message": "Lifetime RIAA units: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 107,
+      "artist": "Taylor Swift",
+      "message": "Latest public tour gross: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 107,
+      "artist": "Taylor Swift",
+      "message": "Latest public tour gross: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 107,
+      "artist": "Taylor Swift",
+      "message": "Lifetime RIAA units: Normalization differs from detail tab; dashboard uses detail-tab value."
+    },
+    {
+      "id": 107,
+      "artist": "Taylor Swift",
+      "message": "Lifetime RIAA units: Artist Master differs from detail tab; dashboard uses detail-tab value."
+    }
+  ],
+  "disambiguationIssues": [
+    {
+      "id": 5,
+      "artist": "Aphex Twin",
+      "issue": "Multiple Aphex Twin profiles"
+    },
+    {
+      "id": 18,
+      "artist": "Carl Craig",
+      "issue": "Multiple Carl Craig profiles"
+    },
+    {
+      "id": 29,
+      "artist": "David Sheppard",
+      "issue": "Very niche artist, limited data"
+    },
+    {
+      "id": 46,
+      "artist": "Halina Rice",
+      "issue": "Very niche artist"
+    },
+    {
+      "id": 51,
+      "artist": "Ian Dearden",
+      "issue": "Could not identify artist"
+    },
+    {
+      "id": 59,
+      "artist": "Justin Gray",
+      "issue": "Could not identify artist"
+    },
+    {
+      "id": 61,
+      "artist": "Karlheinz Stockhausen",
+      "issue": "Deceased 2007; estate-managed"
+    },
+    {
+      "id": 74,
+      "artist": "Mick Jagger",
+      "issue": "Primarily known as Rolling Stones member"
+    },
+    {
+      "id": 79,
+      "artist": "Monolake / Robert Henke",
+      "issue": "Multiple Spotify profiles"
+    },
+    {
+      "id": 80,
+      "artist": "Naomi Jon",
+      "issue": "German-language socials"
+    },
+    {
+      "id": 92,
+      "artist": "Romy",
+      "issue": "Also member of The xx"
+    },
+    {
+      "id": 108,
+      "artist": "Thom Yorke",
+      "issue": "Also member of Radiohead + The Smile"
+    },
+    {
+      "id": 113,
+      "artist": "UNIIQU3",
+      "issue": "Underground artist, limited data"
+    }
+  ],
+  "parser": {
+    "rowCounts": {
+      "master": 119,
+      "streaming": 119,
+      "social": 119,
+      "live": 119,
+      "sales": 119,
+      "catalog": 119,
+      "genre": 119,
+      "heat": 119,
+      "normalization": 119,
+      "qa": 119
+    },
+    "generatedAt": "2026-05-12T15:29:15.448Z"
+  }
+}
