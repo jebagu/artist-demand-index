@@ -131,7 +131,8 @@ export function OnlineFootprintSection({ artists, summary, onSelect }: OnlineFoo
 
 function AtmosResearchStatus({ artists }: { artists: ArtistRecord[] }) {
   const pending = artists.filter((artist) => artist.atmos.status === "pending").length;
-  const researched = artists.length - pending;
+  const researched = artists.filter((artist) => artist.atmos.status === "researched").length;
+  const inconclusive = artists.filter((artist) => artist.atmos.status === "inconclusive").length;
   const yes = artists.filter((artist) => artist.atmos.hasAtmosAlbum === true).length;
   const no = artists.filter((artist) => artist.atmos.hasAtmosAlbum === false).length;
 
@@ -139,11 +140,12 @@ function AtmosResearchStatus({ artists }: { artists: ArtistRecord[] }) {
     <ChartCard
       className="mt-6"
       title="Atmos Research Status"
-      description="Album-level Dolby Atmos / Spatial Audio research is tracked separately from demand. Current rows stay pending until a cited Yes or No result is imported."
+      description="Album-level Dolby Atmos / Spatial Audio research is tracked separately from demand. Rows stay pending until a cited Yes, No, or inconclusive result is imported."
     >
-      <div className="grid gap-3 md:grid-cols-4">
+      <div className="grid gap-3 md:grid-cols-5">
         <AtmosMetric label="Pending" value={pending} />
         <AtmosMetric label="Researched" value={researched} />
+        <AtmosMetric label="Inconclusive" value={inconclusive} />
         <AtmosMetric label="Confirmed Yes" value={yes} />
         <AtmosMetric label="Confirmed No" value={no} />
       </div>
