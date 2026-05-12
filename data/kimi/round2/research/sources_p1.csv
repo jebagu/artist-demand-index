@@ -1,0 +1,104 @@
+artistId,artist,field,value,sourceName,sourceUrl,dateAccessed,confidence,status
+3,Air,spotifyFollowers,1200000,ChartMasters,https://chartmasters.org/artist/?id=1P6U1dCeHxPui5pIrGmndZ,2026-05-12,5,verified
+3,Air,spotifyUrl,https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ,ChartMasters,https://chartmasters.org/artist/?id=1P6U1dCeHxPui5pIrGmndZ,2026-05-12,5,verified
+4,Alva Noto,spotifyFollowers,101756,Music Metrics Vault,https://www.musicmetricsvault.com/artists/alva-noto/1zrqDVuh55auIRthalFdXp,2026-05-12,5,verified
+4,Alva Noto,spotifyUrl,https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp,Music Metrics Vault,https://www.musicmetricsvault.com/artists/alva-noto/1zrqDVuh55auIRthalFdXp,2026-05-12,5,verified
+5,Aphex Twin,spotifyFollowers,2000000,ChartMasters,https://chartmasters.org/artist/?id=6kBDZFXuLrZgHnvmPu9NsG,2026-05-12,5,verified
+5,Aphex Twin,spotifyUrl,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,ChartMasters,https://chartmasters.org/artist/?id=6kBDZFXuLrZgHnvmPu9NsG,2026-05-12,5,verified
+15,Brian Eno,spotifyFollowers,869200,ChartMasters,https://chartmasters.org/artist/?id=7MSUfLeTdDEoZiJPDSBXgi,2026-05-12,5,verified
+15,Brian Eno,spotifyUrl,https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi,ChartMasters,https://chartmasters.org/artist/?id=7MSUfLeTdDEoZiJPDSBXgi,2026-05-12,5,verified
+16,Cardi B,spotifyFollowers,27000000,ChartMasters,https://chartmasters.org/artist/?id=4kYSro6naA4h99UJvo89HB,2026-05-12,5,verified
+16,Cardi B,spotifyUrl,https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB,ChartMasters,https://chartmasters.org/artist/?id=4kYSro6naA4h99UJvo89HB,2026-05-12,5,verified
+17,Caribou,spotifyFollowers,2770000,Songstats,https://songstats.com/artist/mjirc5b7/caribou,2026-05-12,5,verified
+17,Caribou,spotifyUrl,https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54,Songstats,https://songstats.com/artist/mjirc5b7/caribou,2026-05-12,5,verified
+18,Carl Craig,spotifyFollowers,99417,Music Metrics Vault,https://www.musicmetricsvault.com/artists/carl-craig/17dbJyUCrxh4I7iyUrjaHU,2026-05-12,5,verified
+18,Carl Craig,spotifyUrl,https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU,Music Metrics Vault,https://www.musicmetricsvault.com/artists/carl-craig/17dbJyUCrxh4I7iyUrjaHU,2026-05-12,5,verified
+19,Channel Tres,spotifyFollowers,261871,Music Stats for Spotify,https://musicstatsforspotify.com/artist/21470/Channel-Tres,2026-05-12,5,verified
+19,Channel Tres,spotifyUrl,https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp,Music Stats for Spotify,https://musicstatsforspotify.com/artist/21470/Channel-Tres,2026-05-12,5,verified
+20,Charli XCX,spotifyFollowers,7000000,ChartMasters,https://chartmasters.org/artist/?id=25uiPmTg16RbhZWAqwLBy5,2026-05-12,5,verified
+20,Charli XCX,spotifyUrl,https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5,ChartMasters,https://chartmasters.org/artist/?id=25uiPmTg16RbhZWAqwLBy5,2026-05-12,5,verified
+21,The Chemical Brothers,spotifyFollowers,2348449,Spotify Official / Songstats,https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo,2026-05-12,5,verified
+21,The Chemical Brothers,spotifyUrl,https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo,Spotify Official / Songstats,https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo,2026-05-12,5,verified
+22,Christian Marclay,spotifyFollowers,4732,Songstats,https://songstats.com/artist/m8q7v3jy/christian-marclay,2026-05-12,5,verified
+22,Christian Marclay,spotifyUrl,https://open.spotify.com/artist/3s4oEo05Do24wMkcjXlxll,Songstats,https://songstats.com/artist/m8q7v3jy/christian-marclay,2026-05-12,5,verified
+23,Christina Kubisch,spotifyFollowers,null,Spotify Official,https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O,2026-05-12,4,verified
+23,Christina Kubisch,spotifyUrl,https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O,Spotify Official,https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O,2026-05-12,4,verified
+24,Christine Sun Kim,spotifyFollowers,null,Flash Art / Multiple sources,https://flash---art.com/2020/07/listening-in-5-christine-sun-kim/,2026-05-12,4,not_found_publicly
+28,Dave Stewart,spotifyFollowers,1520000,Songstats / Spotify,https://songstats.com/artist/7ctmhdq6/dave-stewart,2026-05-12,5,verified
+28,Dave Stewart,spotifyUrl,https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg,Songstats / Spotify,https://songstats.com/artist/7ctmhdq6/dave-stewart,2026-05-12,5,verified
+29,David Sheppard,spotifyFollowers,37,Spotify,https://open.spotify.com/artist/3qBx8Q6WrNigsENrNt1aSf,2026-05-12,4,verified
+29,David Sheppard,spotifyUrl,https://open.spotify.com/artist/3qBx8Q6WrNigsENrNt1aSf,Spotify,https://open.spotify.com/artist/3qBx8Q6WrNigsENrNt1aSf,2026-05-12,4,verified
+31,DeLaurentis,spotifyFollowers,6347,Spotify,https://open.spotify.com/artist/1Km7DPrZEzlSllBzzkCSN8,2026-05-12,5,verified
+31,DeLaurentis,spotifyUrl,https://open.spotify.com/artist/1Km7DPrZEzlSllBzzkCSN8,Spotify,https://open.spotify.com/artist/1Km7DPrZEzlSllBzzkCSN8,2026-05-12,5,verified
+32,Ellie Goulding,spotifyFollowers,13716140,Spotify / Chartmetric,https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ,2026-05-12,5,verified
+32,Ellie Goulding,spotifyUrl,https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ,Spotify / Chartmetric,https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ,2026-05-12,5,verified
+33,Eurythmics,spotifyFollowers,7790000,Songstats / Spotify,https://songstats.com/artist/mh9ie2x7/eurythmics,2026-05-12,5,verified
+33,Eurythmics,spotifyUrl,https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB,Songstats / Spotify,https://songstats.com/artist/mh9ie2x7/eurythmics,2026-05-12,5,verified
+34,Excision,spotifyFollowers,798435,Spotify,https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb,2026-05-12,5,verified
+34,Excision,spotifyUrl,https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb,Spotify,https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb,2026-05-12,5,verified
+35,Fatboy Slim,spotifyFollowers,1492073,Spotify,https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW,2026-05-12,5,verified
+35,Fatboy Slim,spotifyUrl,https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW,Spotify,https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW,2026-05-12,5,verified
+36,FKA twigs,spotifyFollowers,1548358,Spotify,https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH,2026-05-12,5,verified
+36,FKA twigs,spotifyUrl,https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH,Spotify,https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH,2026-05-12,5,verified
+37,Floating Points,spotifyFollowers,386708,Spotify,https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L,2026-05-12,5,verified
+37,Floating Points,spotifyUrl,https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L,Spotify,https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L,2026-05-12,5,verified
+38,Flying Lotus,spotifyFollowers,838269,Music Metrics Vault,https://www.musicmetricsvault.com/artists/flying-lotus/29XOeO6KIWxGthejQqn793,2026-05-12,5,verified
+38,Flying Lotus,spotifyUrl,https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793,Music Metrics Vault,https://www.musicmetricsvault.com/artists/flying-lotus/29XOeO6KIWxGthejQqn793,2026-05-12,5,verified
+39,Four Tet,spotifyFollowers,824333,Spotify,https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh,2026-05-12,5,verified
+39,Four Tet,spotifyUrl,https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh,Spotify,https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh,2026-05-12,5,verified
+40,Fred Again,spotifyFollowers,2572184,Spotify,https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe,2026-05-12,5,verified
+40,Fred Again,spotifyUrl,https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe,Spotify,https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe,2026-05-12,5,verified
+49,Haroon Mirza,spotifyFollowers,null,Spotify,https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC,2026-05-12,4,verified
+49,Haroon Mirza,spotifyUrl,https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC,Spotify,https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC,2026-05-12,4,verified
+50,Holly Herndon,spotifyFollowers,57078,Spotify,https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ,2026-05-12,5,verified
+50,Holly Herndon,spotifyUrl,https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ,Spotify,https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ,2026-05-12,5,verified
+51,Ian Dearden,spotifyFollowers,null,Multiple web searches,https://www.google.com/search,2026-05-12,3,not_found_publicly
+56,Jennifer Walshe,spotifyFollowers,1896,Spotify,https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J,2026-05-12,5,verified
+56,Jennifer Walshe,spotifyUrl,https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J,Spotify,https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J,2026-05-12,5,verified
+57,Jon Hopkins,spotifyFollowers,584162,Spotify,https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI,2026-05-12,5,verified
+57,Jon Hopkins,spotifyUrl,https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI,Spotify,https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI,2026-05-12,5,verified
+58,Jorja Smith,spotifyFollowers,3700000,Spotify / Music Metrics Vault,https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd,2026-05-12,5,verified
+58,Jorja Smith,spotifyUrl,https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd,Spotify / Music Metrics Vault,https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd,2026-05-12,5,verified
+59,Justin Gray,spotifyFollowers,165,Spotify / Wikipedia,https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR,2026-05-12,4,verified
+59,Justin Gray,spotifyUrl,https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR,Spotify / Wikipedia,https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR,2026-05-12,4,verified
+60,Kaitlyn Aurelia Smith,spotifyFollowers,75880,Spotify,https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH,2026-05-12,5,verified
+60,Kaitlyn Aurelia Smith,spotifyUrl,https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH,Spotify,https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH,2026-05-12,5,verified
+75,Mike Oldfield,spotifyFollowers,706248,Spotify / Chosic,https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn,2026-05-12,5,verified
+75,Mike Oldfield,spotifyUrl,https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn,Spotify / Chosic,https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn,2026-05-12,5,verified
+76,Miley Cyrus,spotifyFollowers,27785348,Spotify / Chartmasters,https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6,2026-05-12,5,verified
+76,Miley Cyrus,spotifyUrl,https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6,Spotify / Chartmasters,https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6,2026-05-12,5,verified
+77,Moby,spotifyFollowers,2100000,Music Metrics Vault,https://www.musicmetricsvault.com/artists/moby/3OsRAKCvk37zwYcnzRf5XF,2026-05-12,5,verified
+77,Moby,spotifyUrl,https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF,Music Metrics Vault,https://www.musicmetricsvault.com/artists/moby/3OsRAKCvk37zwYcnzRf5XF,2026-05-12,5,verified
+78,Moderat,spotifyFollowers,778194,Chosic,https://www.chosic.com/similar-artists/apparat/40Ojab0UtVQFjA76qXr8Ot/,2026-05-12,5,verified
+78,Moderat,spotifyUrl,https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy,Chosic,https://www.chosic.com/similar-artists/apparat/40Ojab0UtVQFjA76qXr8Ot/,2026-05-12,5,verified
+79,Monolake / Robert Henke,spotifyFollowers,44998,allmusicplaylists.com,https://www.allmusicplaylists.com/artist.monolake.html,2026-05-12,5,verified
+79,Monolake / Robert Henke,spotifyUrl,https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq,allmusicplaylists.com,https://www.allmusicplaylists.com/artist.monolake.html,2026-05-12,5,verified
+80,Naomi Jon,spotifyFollowers,115026,Music Metrics Vault,https://www.musicmetricsvault.com/artists/naomi-jon/7dp0IBlB3OJ5WYURSsc6Do,2026-05-12,5,verified
+80,Naomi Jon,spotifyUrl,https://open.spotify.com/artist/7dp0IBlB3OJ5WYURSsc6Do,Music Metrics Vault,https://www.musicmetricsvault.com/artists/naomi-jon/7dp0IBlB3OJ5WYURSsc6Do,2026-05-12,5,verified
+86,Pink Floyd,spotifyFollowers,23800000,ChartMasters,https://chartmasters.org/artist/pink-floyd/,2026-05-12,5,verified
+86,Pink Floyd,spotifyUrl,https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9,ChartMasters,https://chartmasters.org/artist/pink-floyd/,2026-05-12,5,verified
+95,Samson Young,spotifyFollowers,null,Spotify,https://open.spotify.com/intl-it/artist/3AiEBEtUkD6TKUJKBnAjeh,2026-05-12,4,ambiguous
+95,Samson Young,spotifyUrl,https://open.spotify.com/artist/3AiEBEtUkD6TKUJKBnAjeh,Spotify,https://open.spotify.com/intl-it/artist/3AiEBEtUkD6TKUJKBnAjeh,2026-05-12,4,ambiguous
+96,Skrillex,spotifyFollowers,7620740,ChartMasters,https://chartmasters.org/spotify-most-followed-artists/,2026-05-12,5,verified
+96,Skrillex,spotifyUrl,https://open.spotify.com/artist/0PaW10jafDcKj0muu0Iip4,ChartMasters,https://chartmasters.org/spotify-most-followed-artists/,2026-05-12,5,verified
+97,Sofia Kourtesis,spotifyFollowers,92139,Spotify,https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf,2026-05-12,5,verified
+97,Sofia Kourtesis,spotifyUrl,https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf,Spotify,https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf,2026-05-12,5,verified
+98,Steve Miller Band,spotifyFollowers,3500000,ChartMasters,https://chartmasters.org/artist/steve-miller-band/,2026-05-12,5,verified
+98,Steve Miller Band,spotifyUrl,https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk,ChartMasters,https://chartmasters.org/artist/steve-miller-band/,2026-05-12,5,verified
+99,Steve Reich,spotifyFollowers,255746,Music Metrics Vault / Spotify,https://www.musicmetricsvault.com/artists/steve-reich/1aVONoJ0EM97BB26etc1vo,2026-05-12,5,verified
+99,Steve Reich,spotifyUrl,https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo,Music Metrics Vault / Spotify,https://www.musicmetricsvault.com/artists/steve-reich/1aVONoJ0EM97BB26etc1vo,2026-05-12,5,verified
+100,Steven Wilson,spotifyFollowers,453176,Spotify,https://open.spotify.com/artist/11vSt9K9vxSWzUw08gZlBG,2026-05-12,5,verified
+100,Steven Wilson,spotifyUrl,https://open.spotify.com/artist/11vSt9K9vxSWzUw08gZlBG,Spotify,https://open.spotify.com/artist/11vSt9K9vxSWzUw08gZlBG,2026-05-12,5,verified
+105,Tarik Barri,spotifyFollowers,null,Wikipedia / Multiple searches,https://en.wikipedia.org/wiki/Tarik_Barri,2026-05-12,4,not_found_publicly
+113,UNIIQU3,spotifyFollowers,24772,Spotify / Music Metrics Vault,https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx,2026-05-12,5,verified
+113,UNIIQU3,spotifyUrl,https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx,Spotify / Music Metrics Vault,https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx,2026-05-12,5,verified
+115,Weval,spotifyFollowers,214083,Spotify / Music Metrics Vault,https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ,2026-05-12,5,verified
+115,Weval,spotifyUrl,https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ,Spotify / Music Metrics Vault,https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ,2026-05-12,5,verified
+116,The xx,spotifyFollowers,3900000,Music Metrics Vault / Spotify,https://www.musicmetricsvault.com/artists/the-xx/3iOvXCl6edW5Um0fXEBRXy,2026-05-12,5,verified
+116,The xx,spotifyUrl,https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy,Music Metrics Vault / Spotify,https://www.musicmetricsvault.com/artists/the-xx/3iOvXCl6edW5Um0fXEBRXy,2026-05-12,5,verified
+117,Yaeji,spotifyFollowers,477453,Spotify / Music Metrics Vault,https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt,2026-05-12,5,verified
+117,Yaeji,spotifyUrl,https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt,Spotify / Music Metrics Vault,https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt,2026-05-12,5,verified
+118,Yīn Yīn,spotifyFollowers,145943,Music Metrics Vault / Spotify,https://www.musicmetricsvault.com/artists/yin-yin/2sLMYvxNmHIYNx6re1WUM2,2026-05-12,5,verified
+118,Yīn Yīn,spotifyUrl,https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2,Music Metrics Vault / Spotify,https://www.musicmetricsvault.com/artists/yin-yin/2sLMYvxNmHIYNx6re1WUM2,2026-05-12,5,verified
+119,yunè pinku,spotifyFollowers,35707,Spotify / Music Metrics Vault,https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD,2026-05-12,5,verified
+119,yunè pinku,spotifyUrl,https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD,Spotify / Music Metrics Vault,https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD,2026-05-12,5,verified

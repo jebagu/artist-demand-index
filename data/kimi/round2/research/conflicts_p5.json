@@ -1,0 +1,79 @@
+[
+  {
+    "id": 20,
+    "artist": "Charli XCX",
+    "field": "totalCatalogStreams",
+    "issue": "all_credits_vs_lead",
+    "description": "Total 14B includes all-credits (lead + featured). Lead streams ~10.6B, featured ~4.2B. The 14B figure reflects her total Spotify presence including features on tracks by other artists.",
+    "recommendedAction": "Use all-credits total (14B) as it reflects total catalog impact.",
+    "sourceUrls": [
+      "https://chartmasters.org/artist/?id=25uiPmTg16RbhZWAqwLBy5"
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "field": "totalCatalogStreams",
+    "issue": "solo_vs_group",
+    "description": "Total 71.1M represents solo/lead work only. Combined with Eurythmics work his total Spotify presence exceeds 2.9B. Solo catalog is small compared to Eurythmics legacy.",
+    "recommendedAction": "Use solo/lead figure (71.1M) unless Eurythmics work should be included.",
+    "sourceUrls": [
+      "https://kworb.net/spotify/artist/7gcCQIlkkfbul5Mt0jBQkg_songs.html"
+    ]
+  },
+  {
+    "id": 40,
+    "artist": "Fred Again..",
+    "field": "totalCatalogStreams",
+    "issue": "all_credits_vs_lead",
+    "description": "5B represents all-credits streams. Lead streams ~4B. The difference is due to production credits and features on tracks by other artists.",
+    "recommendedAction": "Use all-credits total (5B) as it reflects total catalog impact.",
+    "sourceUrls": [
+      "https://chartmasters.org/fred-again-streaming-statistics-spotify-top-songs.html"
+    ]
+  },
+  {
+    "id": 41,
+    "artist": "Future",
+    "field": "totalCatalogStreams",
+    "issue": "lead_vs_all_credits",
+    "description": "29.9B represents lead streams. All-credits streams exceed 53B. Future is frequently featured on tracks by other artists, inflating all-credits numbers significantly.",
+    "recommendedAction": "Use lead streams (29.9B) for consistency unless all-credits is preferred.",
+    "sourceUrls": [
+      "https://chartmasters.org/future-streaming-statistics-spotify-top-songs.html"
+    ]
+  },
+  {
+    "id": 59,
+    "artist": "Justin Gray",
+    "field": "totalCatalogStreams",
+    "issue": "solo_vs_collaboration",
+    "description": "Solo catalog ~500K streams. However, Justin Gray has 8B+ career streams from collaborations with major artists (Mariah Carey, Avril Lavigne). Solo work represents a tiny fraction of total output.",
+    "recommendedAction": "Note that solo catalog (~500K) is separate from extensive career collaboration streams (8B+).",
+    "sourceUrls": [
+      "https://www.iamjustingray.com/"
+    ]
+  },
+  {
+    "id": 50,
+    "artist": "Holly Herndon",
+    "field": "totalCatalogStreams",
+    "issue": "estimated_data",
+    "description": "No aggregate stream count available on Kworb or ChartMasters. Total ~8M estimated from visible track data (~30 tracks across 3 albums). Top track Frontier at 1.75M.",
+    "recommendedAction": "Use estimated total (~8M) with low confidence. Actual may differ.",
+    "sourceUrls": [
+      "https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ"
+    ]
+  },
+  {
+    "id": 46,
+    "artist": "Halina Rice",
+    "field": "topTrackStreams",
+    "issue": "missing_data",
+    "description": "Songstats reports 3.16M total streams but individual track stream counts require subscription. Top track TERRAIN identified but stream count not available without premium access.",
+    "recommendedAction": "Use estimated top track stream count or mark as unavailable.",
+    "sourceUrls": [
+      "https://songstats.com/artist/sbxyt6k5/halina-rice"
+    ]
+  }
+]

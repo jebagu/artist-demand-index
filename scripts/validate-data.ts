@@ -67,14 +67,20 @@ for (const artist of artists) {
   }
 
   const atmos = artist.atmos;
-  if (!atmos || !["pending", "researched"].includes(atmos.status)) {
+  if (!atmos || !["pending", "researched", "inconclusive"].includes(atmos.status)) {
     fail(`invalid Atmos research status for ${artist.artist}.`);
   }
   if (atmos.status === "pending" && atmos.hasAtmosAlbum !== null) {
     fail(`pending Atmos research must not have a Yes/No value for ${artist.artist}.`);
   }
+  if (atmos.status === "pending" && (atmos.albums?.length || atmos.notes !== null)) {
+    fail(`pending Atmos research must not include researched details for ${artist.artist}.`);
+  }
   if (atmos.status === "researched" && typeof atmos.hasAtmosAlbum !== "boolean") {
     fail(`researched Atmos row needs a Yes/No value for ${artist.artist}.`);
+  }
+  if (atmos.status === "inconclusive" && atmos.hasAtmosAlbum !== null) {
+    fail(`inconclusive Atmos row must not have a Yes/No value for ${artist.artist}.`);
   }
   if (!Array.isArray(atmos.albums)) {
     fail(`Atmos albums must be an array for ${artist.artist}.`);

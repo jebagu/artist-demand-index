@@ -1,0 +1,1168 @@
+[
+  {
+    "id": 3,
+    "artist": "Air",
+    "updates": {
+      "streaming.spotifyFollowers": 1200000,
+      "streaming.spotifyMonthlyListeners": 5046659,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 1200000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ChartMasters",
+        "sourceUrl": "https://chartmasters.org/artist/?id=1P6U1dCeHxPui5pIrGmndZ",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Air - Spotify statistics: Followers 1.2m, Monthly listeners 5.0m. French electronic duo Nicolas Godin and Jean-Benoît Dunckel.",
+        "notes": "Verified French electronic duo from Versailles."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "artist": "Alva Noto",
+    "updates": {
+      "streaming.spotifyFollowers": 101756,
+      "streaming.spotifyMonthlyListeners": 108235,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 101756,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Music Metrics Vault",
+        "sourceUrl": "https://www.musicmetricsvault.com/artists/alva-noto/1zrqDVuh55auIRthalFdXp",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "alva noto - Followers 101,756, Monthly Listeners 108,235. German audiovisual artist Carsten Nicolai.",
+        "notes": "Verified German electronic/ambient artist Carsten Nicolai."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "artist": "Aphex Twin",
+    "updates": {
+      "streaming.spotifyFollowers": 2000000,
+      "streaming.spotifyMonthlyListeners": 3499548,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 2000000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ChartMasters",
+        "sourceUrl": "https://chartmasters.org/artist/?id=6kBDZFXuLrZgHnvmPu9NsG",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Aphex Twin - Spotify statistics: Followers 2.0m, Monthly listeners 3.5m. GB artist born 1971-08-18.",
+        "notes": "Verified Richard D. James. Multiple Spotify profiles may exist - this is the main verified profile."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "artist": "Brian Eno",
+    "updates": {
+      "streaming.spotifyFollowers": 869200,
+      "streaming.spotifyMonthlyListeners": 1733000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 869200,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ChartMasters",
+        "sourceUrl": "https://chartmasters.org/artist/?id=7MSUfLeTdDEoZiJPDSBXgi",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Brian Eno - Spotify statistics: Followers 869.2k, Monthly listeners 1.7m. GB artist born 1948-05-15.",
+        "notes": "Verified ambient music pioneer."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "artist": "Cardi B",
+    "updates": {
+      "streaming.spotifyFollowers": 27000000,
+      "streaming.spotifyMonthlyListeners": 34000000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 27000000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ChartMasters",
+        "sourceUrl": "https://chartmasters.org/artist/?id=4kYSro6naA4h99UJvo89HB",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Cardi B - Spotify statistics: Followers 27.0m, Monthly listeners 34.0m. US artist born 1992-10-11.",
+        "notes": "Verified rapper."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "artist": "Caribou",
+    "updates": {
+      "streaming.spotifyFollowers": 2770000,
+      "streaming.spotifyMonthlyListeners": null,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 2770000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songstats",
+        "sourceUrl": "https://songstats.com/artist/mjirc5b7/caribou",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Caribou | Artist Analytics - Followers 2.77M, Streams 855M. Bio confirms: 'Hi, it's Dan. I make music under this name...'",
+        "notes": "Verified Dan Snaith's Caribou project."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "artist": "Carl Craig",
+    "updates": {
+      "streaming.spotifyFollowers": 99417,
+      "streaming.spotifyMonthlyListeners": 152472,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 99417,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Music Metrics Vault",
+        "sourceUrl": "https://www.musicmetricsvault.com/artists/carl-craig/17dbJyUCrxh4I7iyUrjaHU",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Carl Craig - Followers 99,417, Monthly Listeners 152,472. Detroit techno pioneer, Planet E Communications founder.",
+        "notes": "Verified Detroit techno DJ/producer. Multiple Spotify profiles exist - this is the main verified profile."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "artist": "Channel Tres",
+    "updates": {
+      "streaming.spotifyFollowers": 261871,
+      "streaming.spotifyMonthlyListeners": 2700000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 261871,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Music Stats for Spotify",
+        "sourceUrl": "https://musicstatsforspotify.com/artist/21470/Channel-Tres",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Channel Tres - 261,871 followers. Official Spotify shows 2.7M monthly listeners.",
+        "notes": "Verified house/electronic producer from Compton."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "artist": "Charli XCX",
+    "updates": {
+      "streaming.spotifyFollowers": 7000000,
+      "streaming.spotifyMonthlyListeners": 32300000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 7000000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ChartMasters",
+        "sourceUrl": "https://chartmasters.org/artist/?id=25uiPmTg16RbhZWAqwLBy5",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Charli XCX - Spotify statistics: Followers 7.0m, Monthly listeners 32.3m. GB artist born 1992-08-02.",
+        "notes": "Verified pop artist."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "artist": "The Chemical Brothers",
+    "updates": {
+      "streaming.spotifyFollowers": 2348449,
+      "streaming.spotifyMonthlyListeners": 6079033,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 2348449,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify Official / Songstats",
+        "sourceUrl": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify page shows 2,348,449 followers and 6,079,033 monthly listeners. Bio mentions '35 years of block rockin beats'.",
+        "notes": "Electronic duo (Tom Rowlands & Ed Simons)."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "artist": "Christian Marclay",
+    "updates": {
+      "streaming.spotifyFollowers": 4732,
+      "streaming.spotifyMonthlyListeners": 431,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/3s4oEo05Do24wMkcjXlxll"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 4732,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songstats",
+        "sourceUrl": "https://songstats.com/artist/m8q7v3jy/christian-marclay",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Songstats shows 4,732 followers, 280K streams. Spotify page shows ~431 monthly listeners.",
+        "notes": "Swiss-American visual artist and composer. Pioneer of turntablism/sound art."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "artist": "Christina Kubisch",
+    "updates": {
+      "streaming.spotifyFollowers": null,
+      "streaming.spotifyMonthlyListeners": 537,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": null,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify Official",
+        "sourceUrl": "https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify page shows 537 monthly listeners. Follower count below tracking thresholds.",
+        "notes": "German sound artist/composer (b. 1948). Follower count too small to be tracked."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "artist": "Christine Sun Kim",
+    "updates": {
+      "streaming.spotifyFollowers": null,
+      "streaming.spotifyMonthlyListeners": null,
+      "streaming.spotifyUrl": null
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "Flash Art / Multiple sources",
+        "sourceUrl": "https://flash---art.com/2020/07/listening-in-5-christine-sun-kim/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No Spotify artist page with music releases found. Berlin-based deaf/sound artist working in visual art, performance, installation.",
+        "notes": "Deaf sound artist working primarily in visual arts. Not distributed as music on Spotify."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "updates": {
+      "streaming.spotifyFollowers": 1520000,
+      "streaming.spotifyMonthlyListeners": 16729776,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 1520000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songstats / Spotify",
+        "sourceUrl": "https://songstats.com/artist/7ctmhdq6/dave-stewart",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Songstats shows 1.52M followers, 5.81B streams. Spotify shows 16.7M monthly listeners.",
+        "notes": "Eurythmics co-founder. Solo artist page verified."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "artist": "David Sheppard",
+    "updates": {
+      "streaming.spotifyFollowers": 37,
+      "streaming.spotifyMonthlyListeners": 63,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/3qBx8Q6WrNigsENrNt1aSf"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 37,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/3qBx8Q6WrNigsENrNt1aSf",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify page shows 37 followers, 63 monthly listeners. Solo releases include 'Intervals' (2012) and 'Home to Stay' (2019).",
+        "notes": "Ambient/electronic producer. Low count reflects niche/experimental genre."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "artist": "DeLaurentis",
+    "updates": {
+      "streaming.spotifyFollowers": 6347,
+      "streaming.spotifyMonthlyListeners": 30106,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/1Km7DPrZEzlSllBzzkCSN8"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 6347,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/1Km7DPrZEzlSllBzzkCSN8",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify page shows 6,347 followers and 30,106 monthly listeners. Bio: 'the Electronician' French electronic artist.",
+        "notes": "French electronic artist."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "artist": "Ellie Goulding",
+    "updates": {
+      "streaming.spotifyFollowers": 13716140,
+      "streaming.spotifyMonthlyListeners": 49234716,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 13716140,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify / Chartmetric",
+        "sourceUrl": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify page shows 13,716,140 followers and 49,234,716 monthly listeners.",
+        "notes": "UK pop singer-songwriter."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "artist": "Eurythmics",
+    "updates": {
+      "streaming.spotifyFollowers": 7790000,
+      "streaming.spotifyMonthlyListeners": 16398321,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 7790000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songstats / Spotify",
+        "sourceUrl": "https://songstats.com/artist/mh9ie2x7/eurythmics",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Songstats shows 7.79M followers, 5.45B streams. Spotify shows ~16.4M monthly listeners.",
+        "notes": "British synth-pop duo (Annie Lennox & Dave Stewart)."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "artist": "Excision",
+    "updates": {
+      "streaming.spotifyFollowers": 798435,
+      "streaming.spotifyMonthlyListeners": 1453159,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 798435,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Excision - 798,435 Followers. DJ, producer and festival creator Jeff Abel.",
+        "notes": "Dubstep/bass music producer."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "artist": "Fatboy Slim",
+    "updates": {
+      "streaming.spotifyFollowers": 1492073,
+      "streaming.spotifyMonthlyListeners": 7200000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 1492073,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fatboy Slim - 1,492,073 Followers. Grammy and Brit award winning artist.",
+        "notes": "Norman Cook, big beat/electronic artist."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "artist": "FKA twigs",
+    "updates": {
+      "streaming.spotifyFollowers": 1548358,
+      "streaming.spotifyMonthlyListeners": 3200000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 1548358,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "FKA twigs - 1,548,358 Followers. Artist name FKA twigs.",
+        "notes": "Tahliah Debrett Barnett, experimental pop/R&B artist."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "artist": "Floating Points",
+    "updates": {
+      "streaming.spotifyFollowers": 386708,
+      "streaming.spotifyMonthlyListeners": 676600,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 386708,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Floating Points - 386,708 followers. Sam Shepherd - Eglo Records.",
+        "notes": "Sam Shepherd, electronic/jazz producer."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "artist": "Flying Lotus",
+    "updates": {
+      "streaming.spotifyFollowers": 838269,
+      "streaming.spotifyMonthlyListeners": 1100000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 838269,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Music Metrics Vault",
+        "sourceUrl": "https://www.musicmetricsvault.com/artists/flying-lotus/29XOeO6KIWxGthejQqn793",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Flying Lotus: 1.1M monthly listeners, 838,269 followers.",
+        "notes": "Steven Ellison, electronic/hip-hop producer."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "artist": "Four Tet",
+    "updates": {
+      "streaming.spotifyFollowers": 824333,
+      "streaming.spotifyMonthlyListeners": 3396950,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 824333,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Four Tet - 3,396,950 monthly listeners. 824,333 Followers.",
+        "notes": "Kieran Hebden, electronic producer."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "artist": "Fred Again",
+    "updates": {
+      "streaming.spotifyFollowers": 2572184,
+      "streaming.spotifyMonthlyListeners": 18580878,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 2572184,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fred again.. - 18,580,878 monthly listeners. 2,572,184 Followers.",
+        "notes": "British electronic producer."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "artist": "Haroon Mirza",
+    "updates": {
+      "streaming.spotifyFollowers": null,
+      "streaming.spotifyMonthlyListeners": 59,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": null,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Haroon Mirza - 59 monthly listeners. Albums: The Wave Epoch (2021).",
+        "notes": "Profile found but follower count not publicly displayed. Very low engagement consistent with visual/sound installation artist."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "artist": "Holly Herndon",
+    "updates": {
+      "streaming.spotifyFollowers": 57078,
+      "streaming.spotifyMonthlyListeners": 9589,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 57078,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Holly Herndon - 57,078 Followers. 9,589 monthly listeners.",
+        "notes": "Experimental electronic/AI music artist."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "artist": "Ian Dearden",
+    "updates": {
+      "streaming.spotifyFollowers": null,
+      "streaming.spotifyMonthlyListeners": null,
+      "streaming.spotifyUrl": null
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 3,
+        "sourceName": "Multiple web searches",
+        "sourceUrl": "https://www.google.com/search",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Ian Dearden the sound designer (Sound Intermedia) has no dedicated Spotify artist profile. An Australian folk musician with same name is a different person.",
+        "notes": "Two people named Ian Dearden exist. The requested sound artist (#1) is not a primary artist on Spotify."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "artist": "Jennifer Walshe",
+    "updates": {
+      "streaming.spotifyFollowers": 1896,
+      "streaming.spotifyMonthlyListeners": 300,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 1896,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jennifer Walshe on Spotify: 300 monthly listeners, 1,896 followers.",
+        "notes": "Contemporary classical composer/vocalist."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "artist": "Jon Hopkins",
+    "updates": {
+      "streaming.spotifyFollowers": 584162,
+      "streaming.spotifyMonthlyListeners": 1227304,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 584162,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jon Hopkins on Spotify: 1,227,304 monthly listeners, 584,162 Followers.",
+        "notes": "Electronic/ambient producer."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "artist": "Jorja Smith",
+    "updates": {
+      "streaming.spotifyFollowers": 3700000,
+      "streaming.spotifyMonthlyListeners": 10770550,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 3700000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify / Music Metrics Vault",
+        "sourceUrl": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jorja Smith on Spotify: 10,770,550 monthly listeners; 3.7M followers.",
+        "notes": "R&B/soul singer from Walsall, UK."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "artist": "Justin Gray",
+    "updates": {
+      "streaming.spotifyFollowers": 165,
+      "streaming.spotifyMonthlyListeners": 2328,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 165,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify / Wikipedia",
+        "sourceUrl": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Justin Gray on Spotify: 2,328 monthly listeners, 165 followers. Won Grammy for Best Immersive Audio Album for 'Immersed' (2026).",
+        "notes": "Canadian musician, composer, bassist. Grammy winner 2026. Identity confirmed via discography matching."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "artist": "Kaitlyn Aurelia Smith",
+    "updates": {
+      "streaming.spotifyFollowers": 75880,
+      "streaming.spotifyMonthlyListeners": 141790,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 75880,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Kaitlyn Aurelia Smith on Spotify: 141,790 monthly listeners, 75,880 Followers.",
+        "notes": "Modular synth/electronic composer."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "artist": "Mike Oldfield",
+    "updates": {
+      "streaming.spotifyFollowers": 706248,
+      "streaming.spotifyMonthlyListeners": 2200000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 706248,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify / Chosic",
+        "sourceUrl": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Mike Oldfield on Spotify: 2.2M monthly listeners; Chosic confirms 706,248 followers.",
+        "notes": "Progressive rock composer, Tubular Bells creator. Multiple fake/secondary profiles exist."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "artist": "Miley Cyrus",
+    "updates": {
+      "streaming.spotifyFollowers": 27785348,
+      "streaming.spotifyMonthlyListeners": 60800000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 27785348,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify / Chartmasters",
+        "sourceUrl": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Miley Cyrus on Spotify: 60.8M monthly listeners; Chartmasters confirms 27,785,348 followers.",
+        "notes": "Pop singer."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "artist": "Moby",
+    "updates": {
+      "streaming.spotifyFollowers": 2100000,
+      "streaming.spotifyMonthlyListeners": 9300000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 2100000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Music Metrics Vault",
+        "sourceUrl": "https://www.musicmetricsvault.com/artists/moby/3OsRAKCvk37zwYcnzRf5XF",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Followers 2.1 million | Monthly Listeners 9.3 million | Total Streams 234.2 million.",
+        "notes": "Electronic music pioneer."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "artist": "Moderat",
+    "updates": {
+      "streaming.spotifyFollowers": 778194,
+      "streaming.spotifyMonthlyListeners": 1400000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 778194,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Chosic",
+        "sourceUrl": "https://www.chosic.com/similar-artists/apparat/40Ojab0UtVQFjA76qXr8Ot/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Moderat. 778,194 followers. 62% similarity with Apparat.",
+        "notes": "Modeselektor + Apparat electronic trio."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "artist": "Monolake / Robert Henke",
+    "updates": {
+      "streaming.spotifyFollowers": 44998,
+      "streaming.spotifyMonthlyListeners": 24200,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 44998,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "allmusicplaylists.com",
+        "sourceUrl": "https://www.allmusicplaylists.com/artist.monolake.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify followers: 44,998. Robert Henke solo: 6,253 followers.",
+        "notes": "Monolake project profile (44,998). Robert Henke solo: 6,253 followers. Both are the same person; Monolake is the more prominent project."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "artist": "Naomi Jon",
+    "updates": {
+      "streaming.spotifyFollowers": 115026,
+      "streaming.spotifyMonthlyListeners": 146683,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/7dp0IBlB3OJ5WYURSsc6Do"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 115026,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Music Metrics Vault",
+        "sourceUrl": "https://www.musicmetricsvault.com/artists/naomi-jon/7dp0IBlB3OJ5WYURSsc6Do",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Naomi Jon Spotify statistics: 146,683 monthly listeners, 115,026 followers.",
+        "notes": "German pop artist. An older/inactive profile with 44 followers also exists."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "artist": "Pink Floyd",
+    "updates": {
+      "streaming.spotifyFollowers": 23800000,
+      "streaming.spotifyMonthlyListeners": 27700000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 23800000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ChartMasters",
+        "sourceUrl": "https://chartmasters.org/artist/pink-floyd/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Followers 23.8m | Monthly listeners 27.7m | On-demand audio streams B-.",
+        "notes": "Psychedelic/progressive rock band."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "updates": {
+      "streaming.spotifyFollowers": null,
+      "streaming.spotifyMonthlyListeners": 14,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/3AiEBEtUkD6TKUJKBnAjeh"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": null,
+        "status": "ambiguous",
+        "confidence": 4,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/intl-it/artist/3AiEBEtUkD6TKUJKBnAjeh",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Profile shows 14 monthly listeners. Bio mentions Princeton Ph.D. and Hong Kong Venice Biennale.",
+        "notes": "Hong Kong sound artist/composer with minimal streaming presence. Follower count not publicly displayed."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "artist": "Skrillex",
+    "updates": {
+      "streaming.spotifyFollowers": 7620740,
+      "streaming.spotifyMonthlyListeners": null,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/0PaW10jafDcKj0muu0Iip4"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 7620740,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ChartMasters",
+        "sourceUrl": "https://chartmasters.org/spotify-most-followed-artists/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Skrillex - Followers: 7,620,740 (from ChartMasters most-followed artists list, May 12, 2026).",
+        "notes": "Verified official profile."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "artist": "Sofia Kourtesis",
+    "updates": {
+      "streaming.spotifyFollowers": 92139,
+      "streaming.spotifyMonthlyListeners": 497631,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 92139,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Sofia Kourtesis | 92,139 Followers | 497.6K monthly listeners.",
+        "notes": "Peruvian electronic DJ/producer."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "artist": "Steve Miller Band",
+    "updates": {
+      "streaming.spotifyFollowers": 3500000,
+      "streaming.spotifyMonthlyListeners": 8000000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 3500000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ChartMasters",
+        "sourceUrl": "https://chartmasters.org/artist/steve-miller-band/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify statistics: Followers 3.5m | Monthly listeners 8.0m | Lead streams 2.2b.",
+        "notes": "Classic rock band."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "artist": "Steve Reich",
+    "updates": {
+      "streaming.spotifyFollowers": 255746,
+      "streaming.spotifyMonthlyListeners": 162738,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 255746,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Music Metrics Vault / Spotify",
+        "sourceUrl": "https://www.musicmetricsvault.com/artists/steve-reich/1aVONoJ0EM97BB26etc1vo",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Followers 255,746. Monthly Listeners 162,738. Artist profile verified.",
+        "notes": "Classical/minimalist composer. Multiple ensemble profiles also exist."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "artist": "Steven Wilson",
+    "updates": {
+      "streaming.spotifyFollowers": 453176,
+      "streaming.spotifyMonthlyListeners": 400026,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/11vSt9K9vxSWzUw08gZlBG"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 453176,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/11vSt9K9vxSWzUw08gZlBG",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "453,176 Followers. 400,026 monthly listeners. Verified artist profile.",
+        "notes": "Progressive rock musician/producer."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "artist": "Tarik Barri",
+    "updates": {
+      "streaming.spotifyFollowers": null,
+      "streaming.spotifyMonthlyListeners": null,
+      "streaming.spotifyUrl": null
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "Wikipedia / Multiple searches",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tarik_Barri",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No dedicated Spotify artist profile found. Dutch audiovisual composer.",
+        "notes": "Primarily a visual/audiovisual artist and software developer (Versum). No official artist page."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "artist": "UNIIQU3",
+    "updates": {
+      "streaming.spotifyFollowers": 24772,
+      "streaming.spotifyMonthlyListeners": 66405,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 24772,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify / Music Metrics Vault",
+        "sourceUrl": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "24,772 Followers. 66,405 monthly listeners. Bio: UNIIQU3 Producer, Dj, Rapper and Singer. The Jersey Club movement.",
+        "notes": "Jersey club/footwork producer."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "artist": "Weval",
+    "updates": {
+      "streaming.spotifyFollowers": 214083,
+      "streaming.spotifyMonthlyListeners": 546456,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 214083,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify / Music Metrics Vault",
+        "sourceUrl": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "214,083 Followers. 546,456 monthly listeners. Dutch electronic duo.",
+        "notes": "Dutch electronic duo on Ninja Tune's Technicolour imprint."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "artist": "The xx",
+    "updates": {
+      "streaming.spotifyFollowers": 3900000,
+      "streaming.spotifyMonthlyListeners": 5700000,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 3900000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Music Metrics Vault / Spotify",
+        "sourceUrl": "https://www.musicmetricsvault.com/artists/the-xx/3iOvXCl6edW5Um0fXEBRXy",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Followers 3.9 million. Monthly Listeners 5.7 million. Total Streams 3.4 billion.",
+        "notes": "Indie pop/electronic trio from London."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "artist": "Yaeji",
+    "updates": {
+      "streaming.spotifyFollowers": 477453,
+      "streaming.spotifyMonthlyListeners": 609914,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 477453,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify / Music Metrics Vault",
+        "sourceUrl": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "477,453 Followers. 609,914 monthly listeners. NYC-via-Seoul producer.",
+        "notes": "Electronic/house producer and DJ."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "artist": "Yīn Yīn",
+    "updates": {
+      "streaming.spotifyFollowers": 145943,
+      "streaming.spotifyMonthlyListeners": 607700,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 145943,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Music Metrics Vault / Spotify",
+        "sourceUrl": "https://www.musicmetricsvault.com/artists/yin-yin/2sLMYvxNmHIYNx6re1WUM2",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "145,943 Followers. 607,700 monthly listeners. West coast psychedelia from Maastricht.",
+        "notes": "Dutch psychedelic rock quartet from Maastricht."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "artist": "yunè pinku",
+    "updates": {
+      "streaming.spotifyFollowers": 35707,
+      "streaming.spotifyMonthlyListeners": 224846,
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyFollowers",
+        "value": 35707,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify / Music Metrics Vault",
+        "sourceUrl": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "35,707 Followers. 224,846 monthly listeners. Half-Malaysian and half-Irish.",
+        "notes": "Electronic/UK garage producer. A duplicate/old artist page exists with 0 followers."
+      }
+    ]
+  }
+]

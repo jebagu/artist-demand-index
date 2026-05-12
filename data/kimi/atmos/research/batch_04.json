@@ -1,0 +1,173 @@
+[
+  {
+    "id": 31,
+    "artist": "DeLaurentis",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Musicalism",
+        "releaseYear": 2025,
+        "sourceService": "Label/Artist site",
+        "sourceUrls": [
+          "https://delaurentismusic.com/",
+          "https://cslmusicteam.sony.fr/news/musicalism-delaurentis-new-album-is-out/",
+          "https://www.mixonline.com/recording/music-production/new-release-makes-synesthetic-experiences-immersive",
+          "https://www.headlinerhub.com/delaurentis-unveils-musicalism-a-synesthetic-immersive-audio-album-mixed-with-l-acoustics%E2%80%99-l-isa-studio.html"
+        ],
+        "confidence": 5,
+        "notes": "Multiple authoritative sources confirm the album was conceived and produced in Dolby Atmos from inception, mixed by Hervé Déjardin at Radio France. Also available in L-ISA spatial audio. Artist's official website explicitly lists 'Dolby Atmos' as a format."
+      }
+    ],
+    "notes": "DeLaurentis is a pioneer in spatial audio. Her album Musicalism (2025) was explicitly designed as a spatialized auditory experience in Dolby Atmos, with a corresponding 360° live immersive show."
+  },
+  {
+    "id": 32,
+    "artist": "Ellie Goulding",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Higher Than Heaven (Deluxe)",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/tr/playlist/hits-in-spatial-audio/pl.ba2404fbc4464b8ba2d60399189cf24e",
+          "https://music.apple.com/ca/playlist/ellie-goulding-in-spatial-audio/pl.62ed6f062b22429da7f903655909cf68",
+          "https://musicbrainz.org/artist/33ca19f4-18c8-4411-98df-ac23890ce9f5/recordings"
+        ],
+        "confidence": 4,
+        "notes": "Appears in Apple Music 'Hits in Spatial Audio' and 'Ellie Goulding in Spatial Audio' playlists. MusicBrainz database shows 'Better Man (Dolby Atmos mix)' entry. The deluxe edition is listed with Spatial Audio availability."
+      }
+    ],
+    "notes": "Ellie Goulding's 'Higher Than Heaven' (2023) is available in Spatial Audio with Dolby Atmos on Apple Music. Individual tracks have been confirmed with Dolby Atmos mixes."
+  },
+  {
+    "id": 33,
+    "artist": "Eurythmics",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Sweet Dreams (Are Made Of This) [2018 Remaster]",
+        "releaseYear": 1983,
+        "sourceService": "Other",
+        "sourceUrls": [
+          "https://www.isrbx.me/artist/Eurythmics/",
+          "https://superdeluxeedition.com/interview/eurythmics-talk-to-sde-about-their-back-catalogue-and-the-new-vinyl-reissues/"
+        ],
+        "confidence": 3,
+        "notes": "Found on ISRBX with 'E-AC-3 JOC Dolby Atmos' quality listed as 2018 remaster from Sony Music Entertainment Germany. This appears to be an immersive remaster of the classic 1983 album. SuperDeluxeEdition also discussed the potential for Atmos mixes of the Eurythmics catalog."
+      }
+    ],
+    "notes": "Eurythmics' classic 'Sweet Dreams (Are Made Of This)' appears to have a 2018 remaster with Dolby Atmos from Sony Music. Other albums in their catalog have been discussed for surround/immersive treatment but this is the only confirmed Atmos title found."
+  },
+  {
+    "id": 34,
+    "artist": "Excision",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No album-level Dolby Atmos releases found for Excision. Only DJ mixes (e.g., 'Excision Live at Lost Lands 2023') are available in Spatial Audio on Apple Music, but these are live mixes, not studio albums. Studio albums like 'Apex' (2018) and 'Onyx' do not appear to have Atmos mixes."
+  },
+  {
+    "id": 35,
+    "artist": "Fatboy Slim",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No album-level Dolby Atmos releases found for Fatboy Slim. Individual tracks (e.g., 'Right Here, Right Now') appear in DJ mixes available in Spatial Audio via Warehouse Project recordings on Apple Music. Classic albums like 'You've Come a Long Way, Baby' (1998) do not have confirmed Atmos mixes."
+  },
+  {
+    "id": 36,
+    "artist": "FKA twigs",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "EUSEXUA",
+        "releaseYear": 2025,
+        "sourceService": "Dolby",
+        "sourceUrls": [
+          "https://www.dolby.com/en-in/creator-lab/dolby-creator-talks/episode-252/",
+          "https://immersiveaudioalbum.com/2026-immersive-audio-album-listeners-choice-awards/",
+          "https://sona.mx/en/session/eusexua-fka-twigs-823f51"
+        ],
+        "confidence": 5,
+        "notes": "Official Dolby Creator Talks episode features mix engineer Alex Gamble discussing the Dolby Atmos mix of EUSEXUA. Immersive Audio Album lists the Atmos mix by Alex Gamble at Union Sound Company. Sona.mx hosts dedicated EUSEXUA listening sessions in Dolby Atmos."
+      },
+      {
+        "title": "CAPRISONGS",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://immersiveaudioalbum.com/now-available-in-dolby-atmos-fka-twigs-caprisongs/",
+          "https://music.apple.com/us/playlist/spatial-audio-mixed-by-mwa/pl.69c3ee864f6d4043a5e78a37b6b8c19e",
+          "https://quadraphonicquad.com/threads/beggars-group-iaa-atmos-releases-now-available-worldwide.38704/"
+        ],
+        "confidence": 5,
+        "notes": "Immersive Audio Album explicitly confirms CAPRISONGS was released in Dolby Atmos in September 2024, mixed by Mike Dean. Appears in Apple Music 'Spatial Audio: Mixed by MWA' playlist. Confirmed as part of Beggars Group's worldwide IAA Atmos releases."
+      }
+    ],
+    "notes": "FKA twigs has two confirmed album-level Dolby Atmos releases: EUSEXUA (2025) with Atmos mix by Alex Gamble, and CAPRISONGS (2022/2024) with Atmos mix by Mike Dean. Both are widely available on streaming services."
+  },
+  {
+    "id": 37,
+    "artist": "Floating Points",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Falling to Earth",
+        "releaseYear": 2026,
+        "sourceService": "Dolby",
+        "sourceUrls": [
+          "https://www.deutschegrammophon.com/en/projects/dolbyatmos/discography",
+          "https://www.deutschegrammophon.com/en/artists/diverse-kuenstler/news/a-journey-in-sound-floating-points-shares-falling-to-earth-278943"
+        ],
+        "confidence": 4,
+        "notes": "Listed on Deutsche Grammophon's official Dolby Atmos discography with release date May 1, 2026. Described as a standalone single that is an extended excerpt from the forthcoming album 'Mere Mortals' ballet score. DG is a major label with verified Atmos releases."
+      }
+    ],
+    "notes": "Floating Points has 'Falling to Earth' confirmed on Deutsche Grammophon's Dolby Atmos discography (May 2026). This appears to be a single/release ahead of a full album. His 2024 album 'Cascade' has not been confirmed with Atmos."
+  },
+  {
+    "id": 38,
+    "artist": "Flying Lotus",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Flamagra",
+        "releaseYear": 2019,
+        "sourceService": "Other",
+        "sourceUrls": [
+          "https://www.recordshopx.com/company/warp_records/",
+          "https://uhfrecords.com/Store"
+        ],
+        "confidence": 3,
+        "notes": "Recordshopx listing for Flamagra mentions 'Stereo & Dolby Atmos' as formats. UHF Records store also references Flying Lotus in context of Dolby Atmos releases. However, no direct Apple Music or official label press release explicitly confirming the Atmos mix was found."
+      }
+    ],
+    "notes": "Flying Lotus has 'Flamagra' (2019) indicated with Dolby Atmos on at least one retailer's site (Recordshopx). Flying Lotus is known as an artist who uses Atmos as a deliberate compositional tool. However, concrete confirmation from Apple Music, Dolby, or Warp Records was not independently verified."
+  },
+  {
+    "id": 39,
+    "artist": "Four Tet",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No album-level Dolby Atmos releases found for Four Tet. DJ sets (e.g., Warehouse Project 2024) are available in Spatial Audio on Apple Music, but these are live recordings, not studio albums. Studio albums like 'New Energy' (2017), 'Three' (2024), and others do not have confirmed Atmos mixes."
+  },
+  {
+    "id": 40,
+    "artist": "Fred Again",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Ten Days",
+        "releaseYear": 2024,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://sona.mx/en/session/ten-days-fred-again-2f6175",
+          "https://music.apple.com/us/playlist/electronic-in-spatial-audio/pl.9ca5521e31c8408c97377a71030396d1",
+          "https://www.reddit.com/r/fredagain/comments/1f78927/confusion_with_usb_album/"
+        ],
+        "confidence": 5,
+        "notes": "Sona.mx hosts 'Masterpieces in Atmos' listening sessions specifically for Ten Days in Dolby Atmos. Multiple Reddit posts praise the Dolby Atmos mixing on the album. Appears in Apple Music 'Electronic in Spatial Audio' playlist. Tracks including 'Delilah' specifically noted for Atmos quality."
+      }
+    ],
+    "notes": "Fred Again's 'Ten Days' (2024) is confirmed as a Dolby Atmos release on Apple Music, widely praised for its immersive mix quality. The album appears in multiple Spatial Audio playlists and is featured in dedicated Atmos listening events. The ongoing 'USB' project is not confirmed as an Atmos album release."
+  }
+]

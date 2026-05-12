@@ -9,7 +9,7 @@ export type AtmosAlbum = {
   notes: string | null;
 };
 
-export type AtmosResearchStatus = "pending" | "researched";
+export type AtmosResearchStatus = "pending" | "researched" | "inconclusive";
 
 export type ArtistRecord = {
   id: number;
@@ -152,6 +152,17 @@ export type DataHealth = {
   disambiguationIssues: Array<{ id: number; artist: string; issue: string | null }>;
   parser: {
     rowCounts: Record<string, number>;
+    kimiRound2?: {
+      available: boolean;
+      filesRead: number;
+      updateRows: number;
+      appliedUpdates: number;
+      skippedUpdates: number;
+      unsupportedUpdates: number;
+      updatedArtists: number;
+      supportedFields: Record<string, number>;
+      unsupportedFields: Record<string, number>;
+    };
     generatedAt: string;
   };
 };

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 51,
+    "artist": "Ian Dearden",
+    "programmingStyle": "Sound Art",
+    "genreLabels": "Sound Art",
+    "subGenre": "Theatrical Sound Design",
+    "instrumentSounds": "Sound Design, Field Recording, Electronics",
+    "mf": "Male",
+    "descriptionShort": "Ian Dearden is a renowned sound designer and co-founder of Sound Intermedia, a duo established in 1996 with David Sheppard. He has created sound designs for major opera productions at the Royal Opera House, English National Opera, and Glyndebourne, working on pieces by Harrison Birtwistle, Stockhausen, and Monteverdi.",
+    "confidence": 4
+  },
+  {
+    "id": 52,
+    "artist": "Igor Levit",
+    "programmingStyle": "Classical",
+    "genreLabels": "Classical",
+    "subGenre": "Contemporary Classical",
+    "instrumentSounds": "Piano",
+    "mf": "Male",
+    "descriptionShort": "Igor Levit is a Russian-German classical pianist acclaimed for his recordings of Beethoven's complete piano sonatas and Bach's Goldberg Variations. He is known for his rigorous technique combined with bold interpretive personality, and was awarded the prestigious Gilmore Artist Award in 2018.",
+    "confidence": 5
+  },
+  {
+    "id": 53,
+    "artist": "James Blake",
+    "programmingStyle": "Subheadliner",
+    "genreLabels": "Electronic",
+    "subGenre": "Art Pop, Post-Dubstep",
+    "instrumentSounds": "Synthesizer, Vocals, Modular Synth",
+    "mf": "Male",
+    "descriptionShort": "James Blake is an English electronic musician and singer-songwriter known for blending experimental electronic soundscapes with soulful, introspective songwriting. Since his pioneering post-dubstep beginnings, he has evolved into a Grammy-winning producer and collaborator with artists like Kendrick Lamar, Beyoncé, and Frank Ocean.",
+    "confidence": 5
+  },
+  {
+    "id": 54,
+    "artist": "Jamie xx",
+    "programmingStyle": "DJ Set",
+    "genreLabels": "Electronic",
+    "subGenre": "Indie Electronic, UK Bass",
+    "instrumentSounds": "MPC, Synthesizer, Turntables",
+    "mf": "Male",
+    "descriptionShort": "Jamie xx is an English musician, DJ, and producer known as a member of the indie pop band The xx and for his acclaimed solo work. His 2015 album In Colour earned a Mercury Prize nomination and a Grammy nomination, establishing him as a leading figure in contemporary electronic and club music.",
+    "confidence": 5
+  },
+  {
+    "id": 55,
+    "artist": "Janelle Monáe",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Pop",
+    "subGenre": "Art Pop, R&B",
+    "instrumentSounds": "Vocals, Synthesizer",
+    "mf": "Non-Binary",
+    "descriptionShort": "Janelle Monáe is an American singer, rapper, actress, and producer known for conceptually ambitious albums like The ArchAndroid and Dirty Computer. A critically acclaimed and culturally influential artist, Monáe has also built a significant acting career with roles in Moonlight and Hidden Figures.",
+    "confidence": 5
+  },
+  {
+    "id": 56,
+    "artist": "Jennifer Walshe",
+    "programmingStyle": "Sound Art",
+    "genreLabels": "Experimental",
+    "subGenre": "Contemporary Classical, Extended Vocal",
+    "instrumentSounds": "Vocals, Electronics, Multimedia",
+    "mf": "Female",
+    "descriptionShort": "Jennifer Walshe is an Irish composer, vocalist, and improviser known for her experimental works incorporating extended vocal techniques, multimedia, and AI-generated material. Her pieces have been performed at major international festivals including Donaueschingen, Darmstadt, and the Huddersfield Contemporary Music Festival.",
+    "confidence": 5
+  },
+  {
+    "id": 57,
+    "artist": "Jon Hopkins",
+    "programmingStyle": "Live Electronic",
+    "genreLabels": "Electronic",
+    "subGenre": "Ambient, Techno",
+    "instrumentSounds": "Synthesizer, Piano, Laptop",
+    "mf": "Male",
+    "descriptionShort": "Jon Hopkins is a British electronic musician and producer whose work merges ambient introspection with club-oriented intensity. Albums like Immunity and Singularity have earned Mercury Prize and Grammy nominations, establishing him as one of the most celebrated electronic musicians of his generation.",
+    "confidence": 5
+  },
+  {
+    "id": 58,
+    "artist": "Jorja Smith",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "R&B",
+    "subGenre": "Neo-Soul, UK R&B",
+    "instrumentSounds": "Vocals",
+    "mf": "Female",
+    "descriptionShort": "Jorja Smith is an English singer-songwriter from Walsall whose debut single Blue Lights announced her as a major voice in UK R&B. Blending classical vocal artistry with modern R&B, reggae, and hip-hop influences, she has become one of Britain's most celebrated contemporary soul artists.",
+    "confidence": 5
+  },
+  {
+    "id": 59,
+    "artist": "Justin Gray",
+    "programmingStyle": "Second Stage",
+    "genreLabels": "Jazz",
+    "subGenre": "World Jazz, Contemporary",
+    "instrumentSounds": "Bass, Bass Veena, Double Bass",
+    "mf": "Male",
+    "descriptionShort": "Justin Gray is a Juno Award-winning Canadian bassist, composer, producer, and educator based in Toronto. Known for inventing the Bass Veena, an instrument designed for Indian classical music, he leads the ensemble Justin Gray & Synthesis and has been nominated for a Grammy Award for immersive audio.",
+    "confidence": 4
+  },
+  {
+    "id": 60,
+    "artist": "Kaitlyn Aurelia Smith",
+    "programmingStyle": "Ambient Stage",
+    "genreLabels": "Electronic",
+    "subGenre": "Ambient, Modular Synth",
+    "instrumentSounds": "Buchla Modular Synthesizer, Synthesizer",
+    "mf": "Female",
+    "descriptionShort": "Kaitlyn Aurelia Smith is an American composer and electronic musician known for her immersive, meditative works created primarily on Buchla modular synthesizers. Her acclaimed albums on labels like Ghostly International and RVNG Intl. explore the intersection of sound, color, body movement, and expression.",
+    "confidence": 5
+  }
+]

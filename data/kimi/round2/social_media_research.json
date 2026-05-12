@@ -1,0 +1,714 @@
+[
+  {
+    "id": 107,
+    "artist": "Taylor Swift",
+    "instagramHandle": "@taylorswift",
+    "instagramFollowers": 274116555,
+    "xHandle": "@taylorswift13",
+    "xFollowers": 79797199,
+    "facebookPage": "Taylor Swift",
+    "facebookFollowers": 79000000,
+    "totalSocialReach": 432913754,
+    "verifiedStatus": "Verified on all platforms",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@taylorswift",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/taylorswift/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "taylorswift - Instagram official account with verified badge",
+        "notes": null
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 274116555,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "wikistats.org",
+        "sourceUrl": "https://en.wikistats.org/ig-followers/taylor-swift",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "taylor swift Instagram Statistics Summary ... Updated 2026-05-11 ... 274,116,555 total followers and growing",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "@taylorswift13",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/taylorswift13",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Taylor Swift @taylorswift13 - Official verified account",
+        "notes": null
+      },
+      {
+        "field": "xFollowers",
+        "value": 79797199,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "TweeStats",
+        "sourceUrl": "https://tweestats.com/users/report/taylorswift13",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Followers: 79,797,199 - Following: 0",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "Taylor Swift",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "TheRichest",
+        "sourceUrl": "https://www.therichest.com/music/20-most-followed-artists-on-facebook/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Taylor Swift ... Facebook Followers: 79 million",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "artist": "Thom Yorke",
+    "instagramHandle": "@thomyorke",
+    "instagramFollowers": 543777,
+    "xHandle": "@thomyorke",
+    "xFollowers": 1003371,
+    "facebookPage": "Thom Yorke",
+    "facebookFollowers": null,
+    "totalSocialReach": 1547148,
+    "verifiedStatus": "Verified on Instagram and X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@thomyorke",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Official Radiohead Website",
+        "sourceUrl": "https://www.radiohead.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Thom Yorke Instagram @thomyorke - Official band website links",
+        "notes": null
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 543777,
+        "status": "verified",
+        "confidence": 3,
+        "sourceName": "Klynox Blog",
+        "sourceUrl": "https://klynox.com/blog/thom-yorke-biography/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Thom Yorke has 543.7K followers on Instagram",
+        "notes": "Data from 2022, may be outdated"
+      },
+      {
+        "field": "xHandle",
+        "value": "@thomyorke",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/thomyorke",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "@thomyorke - Radiohead/Tomorrows Modern Boxes etc",
+        "notes": null
+      },
+      {
+        "field": "xFollowers",
+        "value": 1003371,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "SocialTracker",
+        "sourceUrl": "https://socialtracker.io/top-100-twitter-users-in-united-kingdom/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Thom Yorke Followers: 1,003,371",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "Thom Yorke",
+        "status": "data_unavailable",
+        "confidence": 3,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/ThomYorke",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Facebook page exists but requires login to view follower count",
+        "notes": "No publicly accessible follower count found"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "artist": "Tipper (Dave Tipper)",
+    "instagramHandle": null,
+    "instagramFollowers": null,
+    "xHandle": null,
+    "xFollowers": null,
+    "facebookPage": "tippermusic",
+    "facebookFollowers": null,
+    "totalSocialReach": null,
+    "verifiedStatus": "Not verified - no official social presence found",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "Tipper Official Website",
+        "sourceUrl": "https://tippermusic.net/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official website tippermusic.net does not list an Instagram link",
+        "notes": "Tipper is known for being reclusive on social media"
+      },
+      {
+        "field": "xHandle",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "Tipper Official Website",
+        "sourceUrl": "https://tippermusic.net/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official website does not list a Twitter/X link",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "tippermusic",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Tipper Official Website",
+        "sourceUrl": "https://tippermusic.net/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Facebook link: https://www.facebook.com/tippermusic - confirmed on official website",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": null,
+        "status": "data_unavailable",
+        "confidence": 3,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/tippermusic",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Facebook page exists but requires login to view follower count",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "artist": "Tourist (William Phillips)",
+    "instagramHandle": "@tourist",
+    "instagramFollowers": 44000,
+    "xHandle": null,
+    "xFollowers": null,
+    "facebookPage": "musicbytourist",
+    "facebookFollowers": 56000,
+    "totalSocialReach": 100000,
+    "verifiedStatus": "Instagram verified (notable musician badge)",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@tourist",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Official Tourist Website",
+        "sourceUrl": "https://www.touristmusic.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official website touristmusic.com links to @tourist Instagram",
+        "notes": null
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 44000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/tourist/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "@tourist - 4.4万 followers (44,000) - Will - New album Music Is Invisible out now. LP6",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/touristmusic",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "@Tourist account on X is suspended",
+        "notes": "Official Twitter handle @Tourist is suspended; no active official X presence found"
+      },
+      {
+        "field": "facebookPage",
+        "value": "musicbytourist",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Tourist Reddit AMA",
+        "sourceUrl": "https://www.reddit.com/r/electronicmusic/comments/1c7qs7h/im_tourist_ama/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official AMA links to https://www.facebook.com/musicbytourist/",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 56000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/musicbytourist",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "musicbytourist - 5.6万 (56,000) followers",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "artist": "Tove Lo",
+    "instagramHandle": "@tovelo",
+    "instagramFollowers": 2505887,
+    "xHandle": "@ToveLo",
+    "xFollowers": 375471,
+    "facebookPage": "tovelo",
+    "facebookFollowers": 2110000,
+    "totalSocialReach": 4991358,
+    "verifiedStatus": "Verified on all platforms",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@tovelo",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Tove Lo Official Website",
+        "sourceUrl": "https://www.tovelo.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official website links to Instagram @tovelo",
+        "notes": null
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 2505887,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "StarNgage",
+        "sourceUrl": "https://starngage.com/instagram/tovelo",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Tove Lo Instagram Stats in 2026: 2.51M followers (2,505,887)",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "@ToveLo",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/ToveLo",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Tove Lo @ToveLo - Verified account",
+        "notes": null
+      },
+      {
+        "field": "xFollowers",
+        "value": 375471,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "FollowerAnalytics",
+        "sourceUrl": "https://followeranalytics.com/twitter/followers/ToveLo",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "@ToveLo has 375.5K followers. The @ToveLo is ranked #3,328 on Twitter",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "tovelo",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/tovelo",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Tove Lo - 211万 (2.11 million) followers",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "artist": "Travis Scott",
+    "instagramHandle": "@travisscott",
+    "instagramFollowers": 59341338,
+    "xHandle": "@trvisXX",
+    "xFollowers": 12163992,
+    "facebookPage": "travisscott",
+    "facebookFollowers": 12200000,
+    "totalSocialReach": 83705330,
+    "verifiedStatus": "Verified on all platforms",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@travisscott",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Techie + Gamers",
+        "sourceUrl": "https://techieplusgamers.com/travis-scott-instagram/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Travis Scott has an Instagram account with the handle @travisscott. With 59.3 million followers",
+        "notes": null
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 59341338,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Statisticalio",
+        "sourceUrl": "https://statisticalio.com/instagram/user/travisscott",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Travis Scott's Instagram Stats ... Followers 59,341,338",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "@trvisXX",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/trvisXX",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "@trvisXX - TRAVIS SCOTT - Verified account",
+        "notes": null
+      },
+      {
+        "field": "xFollowers",
+        "value": 12163992,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "SocialTracker",
+        "sourceUrl": "https://socialtracker.io/top-100-twitter-users-in-united-states/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Travis Scott Followers: 12,163,992",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 12200000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Chartmetric",
+        "sourceUrl": "https://chartmetric.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Travis Scott ... 12.2M Facebook Followers",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "artist": "UNIIQU3",
+    "instagramHandle": "@uniiqu3music",
+    "instagramFollowers": 51000,
+    "xHandle": "@UNIIQU3",
+    "xFollowers": 17235,
+    "facebookPage": "UNIIQU3MUSIC",
+    "facebookFollowers": 8620,
+    "totalSocialReach": 76855,
+    "verifiedStatus": "Not verified - emerging artist",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@uniiqu3music",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "3 Feet High",
+        "sourceUrl": "https://www.3feethi.com/uniiqu3",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official artist page links to Instagram: https://www.instagram.com/uniiqu3music/",
+        "notes": null
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 51000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/uniiqu3music/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "@uniiqu3music - 5.1万 (51,000) followers - Born n Bred Jersey Club Artist/DJ/Producer/Party Starter NJ/CA",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "@UNIIQU3",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/UNIIQU3",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "UNIIQU3 @UNIIQU3 - Jersey Club Producer & DJ ... Followers: 17,235",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "UNIIQU3MUSIC",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "3 Feet High",
+        "sourceUrl": "https://www.3feethi.com/uniiqu3",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official artist page links to Facebook: https://www.facebook.com/UNIIQU3MUSIC/",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 8620,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/UNIIQU3MUSIC",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "UNIIQU3 - 8,620 followers",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "artist": "The Weeknd (Abel Tesfaye)",
+    "instagramHandle": "@theweeknd",
+    "instagramFollowers": 76640425,
+    "xHandle": "@theweeknd",
+    "xFollowers": 16665132,
+    "facebookPage": "theweeknd",
+    "facebookFollowers": 16890000,
+    "totalSocialReach": 110195557,
+    "verifiedStatus": "Verified on all platforms",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@theweeknd",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Chartmetric",
+        "sourceUrl": "https://chartmetric.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The Weeknd @theweeknd on Instagram - Followers: 76.6M",
+        "notes": null
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 76640425,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "socialmate.io",
+        "sourceUrl": "https://socialmate.io/theweeknd-instagram-followers/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "76.6M followers (Dec 2025 data)",
+        "notes": "May have grown since December 2025"
+      },
+      {
+        "field": "xHandle",
+        "value": "@theweeknd",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/theweeknd",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The Weeknd @theweeknd - Verified account",
+        "notes": null
+      },
+      {
+        "field": "xFollowers",
+        "value": 16665132,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "FollowerAnalytics",
+        "sourceUrl": "https://followeranalytics.com/twitter/followers/theweeknd",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "@theweeknd has 16.7M followers",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "theweeknd",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "TheRichest",
+        "sourceUrl": "https://www.therichest.com/music/20-most-followed-artists-on-facebook/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The Weeknd ... Facebook Followers: 17 million",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 16890000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/theweeknd",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The Weeknd - 1,689万 (16.89 million) followers - Official Facebook page",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "artist": "Weval (Dutch electronic duo)",
+    "instagramHandle": "weval",
+    "instagramFollowers": 44988,
+    "xHandle": "weval",
+    "xFollowers": 2559,
+    "facebookPage": "weval",
+    "facebookFollowers": 63629,
+    "totalSocialReach": 111176,
+    "verifiedStatus": "Not verified",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "weval",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Weval Official Website",
+        "sourceUrl": "https://www.weval.net/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official website weval.net links to Instagram",
+        "notes": null
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 44988,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "ESNS (Eurosonic)",
+        "sourceUrl": "https://esns.nl/artist/weval/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Instagram: 44,988 followers",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "weval",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Weval Official Website",
+        "sourceUrl": "https://www.weval.net/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official website links to Twitter/X",
+        "notes": null
+      },
+      {
+        "field": "xFollowers",
+        "value": 2559,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "ESNS (Eurosonic)",
+        "sourceUrl": "https://esns.nl/artist/weval/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Twitter: 2,559 followers",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "weval",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Weval Official Website",
+        "sourceUrl": "https://www.weval.net/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official website links to Facebook",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 63629,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "ESNS (Eurosonic)",
+        "sourceUrl": "https://esns.nl/artist/weval/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Facebook: 63,629 followers",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "artist": "The xx",
+    "instagramHandle": "@thexx",
+    "instagramFollowers": 830000,
+    "xHandle": "@The_xx",
+    "xFollowers": 60949,
+    "facebookPage": "thexx",
+    "facebookFollowers": 3480000,
+    "totalSocialReach": 4370949,
+    "verifiedStatus": "Verified on all platforms",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@thexx",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/thexx/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "@thexx - the xx - 83万 (830,000) followers - Official band account",
+        "notes": null
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 830000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/thexx/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "the xx - 83万 followers",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "@The_xx",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/The_xx",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "the xx @The_xx - Official band account",
+        "notes": null
+      },
+      {
+        "field": "xFollowers",
+        "value": 60949,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Instagram followers comparison",
+        "sourceUrl": "https://www.instagram.com/thexx/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "@thexx on Twitter/X has 60,949 followers",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "thexx",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/thexx",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "the xx - 348万 (3.48 million) fans",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 3480000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/thexx",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "the xx - 348万 fans (3.48 million)",
+        "notes": null
+      }
+    ]
+  }
+]

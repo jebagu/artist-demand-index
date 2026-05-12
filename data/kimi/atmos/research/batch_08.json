@@ -1,0 +1,193 @@
+[
+  {
+    "id": 71,
+    "artist": "Maribou State",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Hallucinating Love",
+        "releaseYear": 2025,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/hallucinating-love/1716587925",
+          "https://www.israbox-music.com/artist/Maribou+State/"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed Dolby Atmos release. Apple Music page and israbox listing show E-AC-3 JOC Dolby Atmos format. Also appears in Apple Music's Electronic in Spatial Audio playlist."
+      },
+      {
+        "title": "Portraits",
+        "releaseYear": 2015,
+        "sourceService": "Other",
+        "sourceUrls": [
+          "https://www.thisismetropolis.com/atmos/atmos-credits/"
+        ],
+        "confidence": 4,
+        "notes": "Listed in Metropolis Studios' Atmos credits page as having received a Dolby Atmos mix. The original album was released in 2015; the Atmos mix was done later (post-2021 when Metropolis launched their Atmos room). Availability on streaming services not independently confirmed."
+      }
+    ],
+    "notes": "Maribou State has multiple albums with Dolby Atmos treatment. The 2025 album Hallucinating Love is their most recent Atmos release, confirmed on Apple Music and in download formats. Their 2015 debut Portraits was also mixed in Atmos at Metropolis Studios."
+  },
+  {
+    "id": 72,
+    "artist": "Mat Dryhurst",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Mat Dryhurst is primarily known as a collaborator with Holly Herndon (partnering on albums 'Platform' 2015 and 'PROTO' 2019, both released under Holly Herndon's name via 4AD). He does not have commercially released solo albums, and no solo Dolby Atmos album releases were found. His spatial audio work is focused on immersive installations (e.g., 'The Call' at Serpentine Galleries, 'Starmirror' at KW Institute) using custom spatial audio systems, not commercially released Dolby Atmos albums."
+  },
+  {
+    "id": 73,
+    "artist": "Max Cooper",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Emergence (Dolby Atmos Edition)",
+        "releaseYear": 2019,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/mm/album/emergence-dolby-atmos-edition/1756324828",
+          "https://tidal.com/album/374924743",
+          "https://www.dolby.com/en-gb/music/max-cooper/"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed Dolby Atmos Edition on Apple Music, Tidal, and referenced on Dolby's official website. Originally released in 2019; the Atmos edition was made available later. Blu-ray release also available with Atmos remaster."
+      },
+      {
+        "title": "Unspoken Words (Dolby Atmos Edition)",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://pureaudiorecordings.com/en/product/max-cooper-unspoken-words-dolby-atmos-edition/",
+          "https://maxcooper.bandcamp.com/merch/unspoken-words-dolby-atmos-blu-ray-cd",
+          "https://maxcooper.net/a-collection-of-audio-visual-album-projects"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed Dolby Atmos release. Available on Blu-ray with Dolby Atmos, and on streaming platforms. Max Cooper's website explicitly states it's available in Dolby Atmos Surround Sound."
+      },
+      {
+        "title": "On Being (Dolby Atmos Edition)",
+        "releaseYear": 2024,
+        "sourceService": "Label",
+        "sourceUrls": [
+          "https://maxcooper.net/a-collection-of-audio-visual-album-projects"
+        ],
+        "confidence": 4,
+        "notes": "Max Cooper's website states 'Emergence, Unspoken Words and On Being are available in Dolby Atmos Surround Sound.' Specific release year estimated at 2024 based on project timeline."
+      }
+    ],
+    "notes": "Max Cooper is one of the most prominent electronic artists embracing Dolby Atmos. He has at least three audio-visual albums available in Dolby Atmos, with his own website, Dolby's official site, Apple Music, and Tidal all confirming availability. He also hosts spatial audio listening sessions at events like ADE."
+  },
+  {
+    "id": 74,
+    "artist": "Mick Jagger",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Mick Jagger has four solo studio albums (She's the Boss 1985, Primitive Cool 1987, Wandering Spirit 1993, Goddess in the Doorway 2001) plus soundtrack and compilation albums. None of his solo albums are available in Dolby Atmos. While The Rolling Stones (his band) have multiple albums in Dolby Atmos including Hackney Diamonds (2023), Foreign Tongues (2026), and classic titles remixed in Atmos via ABKCO, these are band releases credited to The Rolling Stones, not solo Mick Jagger albums."
+  },
+  {
+    "id": 75,
+    "artist": "Mike Oldfield",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Tubular Bells (50th Anniversary Dolby Atmos Mix)",
+        "releaseYear": 2023,
+        "sourceService": "Tidal",
+        "sourceUrls": [
+          "https://superdeluxeedition.com/news/mike-oldfield-tubular-bells-50th-anniversary-sde-exclusive-blu-ray/",
+          "https://magicvinyldigital.net/2023/07/02/mike-oldfield-tubular-bells-review-test-vinyl-vinyl-quadraphonic-vinyl-abbey-road-amazon-ultrahd-and-tidal-dolby-atmos-hdcd-sacd-sacd-4-0-blu-ray-stereo-quad-mix-5-1-mix-and-dolby-atmo/",
+          "https://www.hiresedition.com/review/progressive-rock/mike-oldfield-tubular-bells.html"
+        ],
+        "confidence": 5,
+        "notes": "50th anniversary edition features a new Dolby Atmos mix by David Kosten (2023). Available on SDE-exclusive Blu-ray Audio with Dolby TrueHD Atmos, and streaming on Tidal in Dolby Atmos and Amazon Music Ultra HD. Also includes 5.1 surround mix (2009), quad mix (1975), and new stereo mix."
+      },
+      {
+        "title": "Hergest Ridge (Dolby Atmos Mix)",
+        "releaseYear": 2025,
+        "sourceService": "Tidal",
+        "sourceUrls": [
+          "https://quadraphonicquad.com/threads/oldfield-mike-hergest-ridge-blu-ray-audio-dolby-atmos.37653/"
+        ],
+        "confidence": 4,
+        "notes": "SDE-exclusive Blu-ray Audio release with Dolby Atmos mix by David Kosten. Also includes quad mix and stereo mix. Confirmed as Dolby Atmos on Blu-ray; streaming availability not independently verified."
+      }
+    ],
+    "notes": "Mike Oldfield's classic albums have received the Dolby Atmos treatment for their anniversary editions. Tubular Bells' 50th anniversary (2023) features a highly acclaimed Atmos mix by David Kosten, available on both physical Blu-ray and streaming (Tidal, Amazon Music). Hergest Ridge also has an Atmos mix on Blu-ray. These are among the best-regarded immersive mixes of classic progressive rock albums."
+  },
+  {
+    "id": 76,
+    "artist": "Miley Cyrus",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Something Beautiful",
+        "releaseYear": 2025,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/something-beautiful/1804974240",
+          "https://magicvinyldigital.net/2025/06/14/miley-cyrus-something-beautifull-crushed-by-the-loudness-war-saved-in-extremis-by-dolby-atmos-review-vinyl-record-tidal-max-24-bits-96-khz-and-dolby-atmos/",
+          "https://tv.apple.com/eg/movie/miley-cyrus-something-beautiful/umc.cmc.663aymaei1jf9k5d806eyzl7y"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed Dolby Atmos release on Apple Music and Tidal (Tidal Dolby Atmos confirmed with DR12 dynamic range). Accompanied by a musical film also in Dolby Atmos on Apple TV+. The Atmos mix has been praised as significantly better than the compressed stereo master."
+      }
+    ],
+    "notes": "Miley Cyrus's 2025 album Something Beautiful is available in Dolby Atmos on Apple Music, Tidal, and Amazon Music. The Atmos mix has been critically praised for its superior dynamic range (DR12) compared to the heavily compressed stereo version (DR4). The album is also accompanied by a Dolby Atmos film on Apple TV+."
+  },
+  {
+    "id": 77,
+    "artist": "Moby",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Reprise",
+        "releaseYear": 2021,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://shop.deccarecordsus.com/products/moby-reprise-blu-ray-cd",
+          "https://www.hiresedition.com/review/classical/moby-reprise.html",
+          "https://www.deutschegrammophon.com/en/catalogue/products/reprise-moby-special-edition-12456",
+          "https://www.blu-ray.com/movies/Moby-Reprise-Blu-ray/305369/"
+        ],
+        "confidence": 5,
+        "notes": "Special edition CD + Blu-ray features the full album in Dolby Atmos (48kHz/24-bit) mixed by Alan Meyerson, plus 5.1 surround. Available on Deutsche Grammophon. Also available on Apple Music in Spatial Audio. The album features orchestral reimaginings of tracks from Moby's 30-year career."
+      }
+    ],
+    "notes": "Moby's 2021 album 'Reprise' on Deutsche Grammophon is available in Dolby Atmos on Blu-ray and streaming platforms (Apple Music). The album features orchestral and acoustic arrangements of his classic tracks including 'Go,' 'Porcelain,' 'Extreme Ways,' and 'Natural Blues.' The Atmos mix was done by Alan Meyerson and has been praised for its subtle but effective use of immersive sound."
+  },
+  {
+    "id": 78,
+    "artist": "Moderat",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "MORE D4TA",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.waterdomemusic.de/moderat-more-d4ta-album-2022/",
+          "https://dancingastronaut.com/2022/06/pitch-black-playback-offers-immersive-first-listen-for-albums-from-flume-tourist-moderat-and-more/",
+          "https://www.keyimagazine.com/2022/11/24/appleaudiospatial/",
+          "https://www.sleek-mag.com/article/eddy-cue-about-curation-in-music/"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed Dolby Atmos on Apple Music. Mixed at Immersive Lab Berlin by Eric Horstmann and team. Apple executive Eddy Cue specifically mentioned Moderat releasing in Spatial Audio. Also featured in Pitch Black Playback immersive listening events in Dolby Atmos."
+      }
+    ],
+    "notes": "Moderat's fourth album MORE D4TA (2022) is available in Dolby Atmos on Apple Music. It was mixed at Immersive Lab Berlin and has been cited by Apple as an example of Spatial Audio adoption by major artists. The album represents Moderat's return after a six-year hiatus."
+  },
+  {
+    "id": 79,
+    "artist": "Monolake / Robert Henke",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Robert Henke (performing as Monolake) has no commercially released Dolby Atmos albums. His immersive audio work focuses on live spatial performances using d&b Soundscape (e.g., 'Dust' album premiere at Palazzo Grassi) and custom multi-channel installations, not Dolby Atmos format album releases. Monolake's 2024 album 'Studio' was released on digital, CD, and vinyl formats with no Atmos version. Henke's work is primarily in stereo or custom spatial configurations for installations, not commercially distributed Dolby Atmos music."
+  },
+  {
+    "id": 80,
+    "artist": "Naomi Jon",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Naomi Jon is an independent pop artist with albums including 'Villain Of Your Dreams' (2024) and 'St. Valentine' (2023). No Dolby Atmos releases were found for any of her albums. She is a smaller independent artist without major label distribution that would typically facilitate Atmos mixing."
+  }
+]

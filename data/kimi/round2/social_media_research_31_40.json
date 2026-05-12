@@ -1,0 +1,780 @@
+[
+  {
+    "id": 31,
+    "artist": "DeLaurentis",
+    "instagramHandle": "delaurentis.music",
+    "instagramFollowers": 14000,
+    "xHandle": "delaurentis000",
+    "xFollowers": 627,
+    "facebookPage": "delaurentis.music",
+    "facebookFollowers": 11000,
+    "totalSocialReach": 25627,
+    "verifiedStatus": "Not verified on any platform",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "delaurentis.music",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/delaurentis.music/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "\ufffdＤｅＬａｕｒｅｎｔｉｓ (@delaurentis.music) · 1.4万粉丝 · French Composer • Music Producer · MUSICALISM - OUT NOW",
+        "notes": "Official Instagram account verified by Spotify profile cross-reference"
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 14000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/delaurentis.music/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1.4万粉丝",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "delaurentis000",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/delaurentis000",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "DELAURENTIS (@delaurentis000) · French Composer - Music Producer - Artist",
+        "notes": "Account created November 2022, bio matches artist identity"
+      },
+      {
+        "field": "xFollowers",
+        "value": 627,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/delaurentis000",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "627 followers",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "delaurentis.music",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/delaurentis.music/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "DeLaurentis · 1.1万 followers · Musician/band",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 11000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/delaurentis.music/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1.1万 followers",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "artist": "Ellie Goulding",
+    "instagramHandle": "elliegoulding",
+    "instagramFollowers": 13200000,
+    "xHandle": "elliegoulding",
+    "xFollowers": 5364000,
+    "facebookPage": "elliegoulding",
+    "facebookFollowers": 13530000,
+    "totalSocialReach": 32094000,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "elliegoulding",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/elliegoulding/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "elliegoulding · 1320万粉丝",
+        "notes": "Official verified Instagram account"
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 13200000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/elliegoulding/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1320万粉丝 = 13,200,000 followers",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "elliegoulding",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/elliegoulding",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Ellie Goulding (@elliegoulding) · 536.4万 followers · Verified account",
+        "notes": "Official verified account, blue checkmark confirmed"
+      },
+      {
+        "field": "xFollowers",
+        "value": 5364000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/elliegoulding",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "536.4万 followers = 5,364,000",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "elliegoulding",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/elliegoulding/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "elliegoulding · 1,353万 followers · Musician/Band",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 13530000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/elliegoulding/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1,353万 followers = 13,530,000",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "artist": "Eurythmics",
+    "instagramHandle": null,
+    "instagramFollowers": null,
+    "xHandle": "Eurythmics",
+    "xFollowers": 5277,
+    "facebookPage": "eurythmics",
+    "facebookFollowers": 1780000,
+    "totalSocialReach": 1785277,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "Eurythmics Official Website",
+        "sourceUrl": "https://www.eurythmics.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official website links to Dave Stewart Instagram (@davestewarteurythmics), not a dedicated Eurythmics account",
+        "notes": "Eurythmics does not have a dedicated official Instagram account. Individual members have their own accounts."
+      },
+      {
+        "field": "xHandle",
+        "value": "Eurythmics",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/Eurythmics",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Eurythmics (@Eurythmics) · 5277 followers · Verified account",
+        "notes": "Official band account, verified"
+      },
+      {
+        "field": "xFollowers",
+        "value": 5277,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/Eurythmics",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "5277 followers",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "eurythmics",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/eurythmics/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Eurythmics · 178万 followers · Musician/Band",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 1780000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/eurythmics/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "178万 followers = 1,780,000",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "artist": "Excision",
+    "instagramHandle": "excision",
+    "instagramFollowers": 1025000,
+    "xHandle": "Excision",
+    "xFollowers": 426000,
+    "facebookPage": "excision",
+    "facebookFollowers": 1750000,
+    "totalSocialReach": 3201000,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "excision",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/excision/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "excision · 102.5万粉丝 · Musician",
+        "notes": "Official Instagram account"
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 1025000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/excision/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "102.5万粉丝 = 1,025,000 followers",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "Excision",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/Excision",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Excision (@Excision) · 42.6万 followers · Verified account",
+        "notes": "Official verified account"
+      },
+      {
+        "field": "xFollowers",
+        "value": 426000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/Excision",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "42.6万 followers = 426,000",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "excision",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/excision/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Excision · 175万 followers · Musician/Band",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 1750000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/excision/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "175万 followers = 1,750,000",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "artist": "Fatboy Slim",
+    "instagramHandle": "fatboyslim",
+    "instagramFollowers": 1886240,
+    "xHandle": "FatboySlim",
+    "xFollowers": 175000,
+    "facebookPage": "fatboyslim",
+    "facebookFollowers": 1550000,
+    "totalSocialReach": 3611240,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "fatboyslim",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/fatboyslim/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "fatboyslim - Official Instagram",
+        "notes": "Official Instagram account"
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 1886240,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "hafi.pro",
+        "sourceUrl": "https://hafi.pro/en/search/instagram/fatboyslim",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1,886,240 followers (April 2026 data)",
+        "notes": "Third-party analytics data, consistent with account scale"
+      },
+      {
+        "field": "xHandle",
+        "value": "FatboySlim",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/FatboySlim",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fatboy Slim (@FatboySlim) · 17.5万 followers · Verified account",
+        "notes": "Official verified account"
+      },
+      {
+        "field": "xFollowers",
+        "value": 175000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/FatboySlim",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "17.5万 followers = 175,000",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "fatboyslim",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/fatboyslim/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fatboy Slim · 155万 followers · Musician/Band",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 1550000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/fatboyslim/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "155万 followers = 1,550,000",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "artist": "FKA twigs",
+    "instagramHandle": "fkatwigs",
+    "instagramFollowers": 2683041,
+    "xHandle": "FKAtwigs",
+    "xFollowers": 459000,
+    "facebookPage": "FKAtwigs",
+    "facebookFollowers": 460000,
+    "totalSocialReach": 3602041,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "fkatwigs",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "HypeAuditor",
+        "sourceUrl": "https://hypeauditor.com/instagram/fkatwigs/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "FKA twigs (@fkatwigs) · 2,683,041 followers · Quality Score: 85/100 · Engagement rate: 1.25%",
+        "notes": "Official Instagram account, May 2026 analytics data"
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 2683041,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "HypeAuditor",
+        "sourceUrl": "https://hypeauditor.com/instagram/fkatwigs/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2,683,041 followers (May 2026)",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "FKAtwigs",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/FKAtwigs",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "FKA twigs (@FKAtwigs) · 45.9万 followers · Verified account",
+        "notes": "Official verified account"
+      },
+      {
+        "field": "xFollowers",
+        "value": 459000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/FKAtwigs",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "45.9万 followers = 459,000",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "FKAtwigs",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/FKAtwigs/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "FKA twigs · 46万 followers · Musician/Band",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 460000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/FKAtwigs/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "46万 followers = 460,000",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "artist": "Floating Points",
+    "instagramHandle": "floatingpoints",
+    "instagramFollowers": 258000,
+    "xHandle": "floatingpoints",
+    "xFollowers": 64000,
+    "facebookPage": "floatingpoints",
+    "facebookFollowers": 150000,
+    "totalSocialReach": 472000,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "floatingpoints",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/floatingpoints/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Floating Points (@floatingpoints) · 25.8万粉丝 · 474 posts · Soundsystem, Promises Live, Ocotillo, Key103",
+        "notes": "Official Instagram account linked from Spotify"
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 258000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/floatingpoints/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "25.8万粉丝 = 258,000 followers",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "floatingpoints",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/floatingpoints",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Floating Points (@floatingpoints) · 6.4万 followers · Verified account",
+        "notes": "Official verified account"
+      },
+      {
+        "field": "xFollowers",
+        "value": 64000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/floatingpoints",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "6.4万 followers = 64,000",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "floatingpoints",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/floatingpoints/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Floating Points · 15万 followers · Musician/Band",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 150000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/floatingpoints/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "15万 followers = 150,000",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "artist": "Flying Lotus",
+    "instagramHandle": "flyinglotus",
+    "instagramFollowers": 462000,
+    "xHandle": "flyinglotus",
+    "xFollowers": 458000,
+    "facebookPage": "flyinglotus",
+    "facebookFollowers": 650000,
+    "totalSocialReach": 1570000,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "flyinglotus",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/flyinglotus/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Flying Lotus (@flyinglotus) · 46.2万粉丝 · Musician",
+        "notes": "Official Instagram account"
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 462000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/flyinglotus/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "46.2万粉丝 = 462,000 followers",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "flyinglotus",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/flyinglotus",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Flying Lotus (@flyinglotus) · 45.8万 followers · Verified account · Comedy and music",
+        "notes": "Official verified account"
+      },
+      {
+        "field": "xFollowers",
+        "value": 458000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/flyinglotus",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "45.8万 followers = 458,000",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "flyinglotus",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/flyinglotus/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Flying Lotus · 65万 followers · Musician/Band",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 650000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/flyinglotus/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "65万 followers = 650,000",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "artist": "Four Tet",
+    "instagramHandle": "fourtetkieran",
+    "instagramFollowers": 607700,
+    "xHandle": "FourTet",
+    "xFollowers": 261000,
+    "facebookPage": null,
+    "facebookFollowers": null,
+    "totalSocialReach": 868700,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "fourtetkieran",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram / Chartmetric",
+        "sourceUrl": "https://www.instagram.com/fourtetkieran/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Four Tet (@fourtetkieran) · Official Instagram linked from fourtet.net website",
+        "notes": "Handle confirmed via official website cross-reference"
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 607700,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Chartmetric",
+        "sourceUrl": "https://airshou.com/tag/four-tet-instagram-followers/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "607.7K followers on Instagram (Chartmetric data)",
+        "notes": "Third-party analytics data"
+      },
+      {
+        "field": "xHandle",
+        "value": "FourTet",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/FourTet",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Four Tet (@FourTet) · 26.1万 followers · Verified account",
+        "notes": "Official verified account"
+      },
+      {
+        "field": "xFollowers",
+        "value": 261000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/FourTet",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "26.1万 followers = 261,000",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "Four Tet Official Website",
+        "sourceUrl": "https://www.fourtet.net/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official website links to Spotify, Apple, Twitter, YouTube, Instagram, Discogs - no Facebook link",
+        "notes": "Four Tet does not appear to have an official Facebook page. Facebook link absent from official website."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "artist": "Fred Again..",
+    "instagramHandle": "fredagainagainagainagainagain",
+    "instagramFollowers": 4444393,
+    "xHandle": "fredagainagain1",
+    "xFollowers": 133000,
+    "facebookPage": "fredagainagain",
+    "facebookFollowers": 190000,
+    "totalSocialReach": 4767393,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "fredagainagainagainagainagain",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "HypeAuditor",
+        "sourceUrl": "https://hypeauditor.com/instagram/fredagainagainagainagainagain/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fred again.. (@fredagainagainagainagainagain) · 4,444,393 followers · Quality Score: 83/100",
+        "notes": "Official Instagram account, May 2026 analytics data"
+      },
+      {
+        "field": "instagramFollowers",
+        "value": 4444393,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "HypeAuditor",
+        "sourceUrl": "https://hypeauditor.com/instagram/fredagainagainagainagainagain/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "4,444,393 followers (May 2026)",
+        "notes": null
+      },
+      {
+        "field": "xHandle",
+        "value": "fredagainagain1",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/fredagainagain1",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "fred again (@fredagainagain1) · 13.3万 followers · Verified account",
+        "notes": "Official verified account"
+      },
+      {
+        "field": "xFollowers",
+        "value": 133000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/fredagainagain1",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "13.3万 followers = 133,000",
+        "notes": null
+      },
+      {
+        "field": "facebookPage",
+        "value": "fredagainagain",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/fredagainagain/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fred again.. · 19万 followers · Musician/Band",
+        "notes": null
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 190000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/fredagainagain/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "19万 followers = 190,000",
+        "notes": null
+      }
+    ]
+  }
+]

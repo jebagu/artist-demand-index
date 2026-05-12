@@ -1,0 +1,244 @@
+[
+  {
+    "id": 79,
+    "artist": "Monolake / Robert Henke",
+    "data": {},
+    "confidence": 1,
+    "sources": [
+      {
+        "name": "Robert Henke Official Website",
+        "url": "https://roberthenke.com/",
+        "snippet": "Robert Henke is an electronic music pioneer and co-founder of Ableton Live. Monolake is his solo project since 1999."
+      },
+      {
+        "name": "Orb Magazine Interview",
+        "url": "https://www.orbmag.com/features/interview-robert-henke-monolake/",
+        "snippet": "Henke releases music on his own label Imbalance Computer Music. No commercial certification data found."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "artist": "Naomi Jon",
+    "data": {
+      "topAlbumSales": {
+        "album": "Villain Of Your Dreams",
+        "sales": 0
+      }
+    },
+    "confidence": 2,
+    "sources": [
+      {
+        "name": "Wikipedia - Naomi Jon",
+        "url": "https://en.wikipedia.org/wiki/Naomi_Jon",
+        "snippet": "Debut album Villain Of Your Dreams (2024) reached #7 on German Albums Chart. Second album Strawberry (2026) debuted at #12. Self-funded independent artist with no RIAA/BPI certifications found."
+      },
+      {
+        "name": "Songstats",
+        "url": "https://songstats.com/artist/nzxhfm3t/naomi-jon",
+        "snippet": "As an independent artist, released debut album that entered German charts at 7, played sold-out European tour."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "artist": "Nicolas Jaar",
+    "data": {
+      "topAlbumSales": {
+        "album": "Space Is Only Noise",
+        "sales": 20000
+      }
+    },
+    "confidence": 3,
+    "sources": [
+      {
+        "name": "Wikipedia - Space Is Only Noise",
+        "url": "https://en.wikipedia.org/wiki/Space_Is_Only_Noise",
+        "snippet": "In 2012 it was awarded a silver certification from the Independent Music Companies Association which indicated sales of at least 20,000 copies throughout Europe."
+      },
+      {
+        "name": "Wikipedia - Nicolas Jaar",
+        "url": "https://en.wikipedia.org/wiki/Nicolas_Jaar",
+        "snippet": "Won BBC Radio 1 Essential Mix of the Year 2012. No RIAA, IFPI Global Artist, or RIAJ certifications found."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "artist": "Nils Frahm",
+    "data": {},
+    "confidence": 2,
+    "sources": [
+      {
+        "name": "Erased Tapes - Nils Frahm",
+        "url": "https://www.erasedtapes.com/artists/nils-frahm",
+        "snippet": "Berlin-based pianist and composer. Breakthrough album Felt (2011), All Melody (2018). Extensive touring but no certifications found."
+      },
+      {
+        "name": "Kworb - Nils Frahm Spotify",
+        "url": "https://kworb.net/spotify/artist/5gqhueRUZEa7VDnQt4HODp_albums.html",
+        "snippet": "All Melody has ~66M Spotify streams, Felt ~35M. Independent artist with no RIAA/BPI/IFPI certifications."
+      },
+      {
+        "name": "Official Charts - Nils Frahm",
+        "url": "https://www.officialcharts.com/artist/22907/nils-frahm/",
+        "snippet": "Has 1 UK Top 40 album. No BPI certifications listed."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "artist": "Nitin Sawhney",
+    "data": {
+      "topAlbumSales": {
+        "album": "Beyond Skin",
+        "sales": 160000
+      }
+    },
+    "confidence": 3,
+    "sources": [
+      {
+        "name": "BestSellingAlbums.org - Nitin Sawhney",
+        "url": "https://bestsellingalbums.org/artist/9606",
+        "snippet": "NITIN SAWHNEY sold over 160,000 albums in the United Kingdom. Best-selling album Beyond Skin sold over 100,000 copies (1x Gold). Prophesy sold 60,000 (1x Silver)."
+      },
+      {
+        "name": "Universal Music Publishing - Nitin Sawhney",
+        "url": "https://www.umusicpub.com/uk/Artists/Nitin-Sawhney.aspx",
+        "snippet": "Beyond Skin (1999) was a Gold selling album that took a Mercury Music Prize nomination. Prophesy (2001) was Silver certified."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "artist": "Photay",
+    "data": {},
+    "confidence": 2,
+    "sources": [
+      {
+        "name": "Photay Bandcamp - Waking Hours",
+        "url": "https://photay.bandcamp.com/album/waking-hours",
+        "snippet": "Second full-length (2020) following 2017's Onism. Released on Mexican Summer/Anthology Records. No certifications found."
+      },
+      {
+        "name": "Last.fm - Photay",
+        "url": "https://www.last.fm/music/Photay/+albums",
+        "snippet": "89,475 listeners. Onism has 65,408 listeners, Waking Hours 30,091. Small indie electronic artist."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "artist": "Portishead",
+    "data": {
+      "topAlbumSales": {
+        "album": "Dummy",
+        "sales": 2735000
+      },
+      "riaaCertifications": [
+        {
+          "album": "Dummy",
+          "level": "Gold",
+          "date": "1997-08-21"
+        }
+      ],
+      "totalCertifications": 1
+    },
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Wikipedia - Dummy (album)",
+        "url": "https://en.wikipedia.org/wiki/Dummy_(album)",
+        "snippet": "Dummy was certified triple platinum in the UK (February 2019), had sold 920,000 copies in UK as of September 2020. Worldwide sold 3.6 million copies by 2008. RIAA Gold certified August 21, 1997 (500,000 units)."
+      },
+      {
+        "name": "MusicGoldMine - RIAA Gold Award",
+        "url": "https://musicgoldmine.com/products/portishead-dummy-riaa-gold-album-award",
+        "snippet": "RIAA Gold Album Award for Portishead album Dummy. Released Oct 18, 1994, went Gold for 500,000 copies sold on August 21, 1997."
+      },
+      {
+        "name": "BestSellingAlbums.org - Portishead",
+        "url": "https://bestsellingalbums.org/artist/10558",
+        "snippet": "Total sales ~3,996,198 albums. Dummy sold 2,735,000. US sales 500,000. UK sales 1,360,000. Also certified Platinum in Canada, Belgium, New Zealand, Switzerland."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "artist": "Rival Consoles",
+    "data": {},
+    "confidence": 2,
+    "sources": [
+      {
+        "name": "Erased Tapes - Rival Consoles",
+        "url": "https://www.erasedtapes.com/artists/rival-consoles",
+        "snippet": "London-based producer Ryan Lee West. Albums include Persona (2018), Articulation (2020), Overflow (2021), Now Is (2022), Landscape from Memory (2025). No certifications found."
+      },
+      {
+        "name": "Wikipedia - Persona (Rival Consoles album)",
+        "url": "https://en.wikipedia.org/wiki/Persona_(Rival_Consoles_album)",
+        "snippet": "Fifth studio album released April 13, 2018 by Erased Tapes. Widespread critical acclaim but no commercial certifications."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "artist": "Romy",
+    "data": {
+      "topAlbumSales": {
+        "album": "Mid Air (solo)",
+        "sales": 0
+      },
+      "riaaCertifications": [
+        {
+          "album": "xx (with The xx)",
+          "level": "Gold",
+          "date": "2021-03-01"
+        }
+      ],
+      "riaaGold": [
+        {
+          "track": "Intro (with The xx)",
+          "level": "Platinum"
+        }
+      ],
+      "totalCertifications": 2
+    },
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Wikipedia - xx (The xx album)",
+        "url": "https://en.wikipedia.org/wiki/Xx_(The_xx_album)",
+        "snippet": "RIAA Gold certified (500,000 units). BPI 2x Platinum (612,000 UK sales). Also certified Platinum in Canada and Denmark, Gold in Australia, Belgium, Germany, Italy, New Zealand."
+      },
+      {
+        "name": "Wikipedia - Intro (The xx song)",
+        "url": "https://en.wikipedia.org/wiki/Intro_(The_xx_song)",
+        "snippet": "RIAA Platinum (1,000,000 units), BPI Platinum (600,000), Music Canada 2x Platinum (160,000), certified Gold/Platinum in multiple territories."
+      },
+      {
+        "name": "Wikipedia - Mid Air (Romy album)",
+        "url": "https://en.wikipedia.org/wiki/Mid_Air_(Romy_album)",
+        "snippet": "Debut solo album released September 8, 2023. Peaked at UK #15, US Top Dance/Electronic Albums #8. No certifications found for solo work."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "artist": "Ryoji Ikeda",
+    "data": {},
+    "confidence": 2,
+    "sources": [
+      {
+        "name": "Wikipedia - Dataplex",
+        "url": "https://en.wikipedia.org/wiki/Dataplex",
+        "snippet": "2005 album by Japanese sound artist Ryoji Ikeda, released on Raster-Noton. Part of the Datamatics series. Experimental minimalist electronic music."
+      },
+      {
+        "name": "Discogs - Ryoji Ikeda",
+        "url": "https://www.discogs.com/artist/Ryoji-Ikeda",
+        "snippet": "Japanese electronic composer and visual artist. Works include dataplex, test pattern, and ultratronics. No certifications found."
+      }
+    ]
+  }
+]

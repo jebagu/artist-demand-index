@@ -1,0 +1,38 @@
+[
+  {
+    "id": 55,
+    "artist": "Janelle Monáe",
+    "field": "mf",
+    "issue": "non_binary_classification",
+    "description": "Janelle Monáe came out as non-binary in 2022 and uses she/they pronouns. Classified as 'Non-Binary' per their stated identity.",
+    "recommendedAction": "Use 'Non-Binary' as confirmed by the artist themselves.",
+    "sourceUrls": []
+  },
+  {
+    "id": 106,
+    "artist": "Tash Sultana",
+    "field": "mf",
+    "issue": "non_binary_classification",
+    "description": "Tash Sultana identifies as non-binary and uses they/them pronouns. Classified as 'Non-Binary' per their stated identity.",
+    "recommendedAction": "Use 'Non-Binary' as confirmed by the artist themselves.",
+    "sourceUrls": []
+  },
+  {
+    "id": 29,
+    "artist": "David Sheppard",
+    "field": "descriptionShort",
+    "issue": "low_confidence",
+    "description": "Limited public information available. David Sheppard is primarily known through his collaborative projects (State River Widening, Ellis Island Sound, Snow Palms) rather than as a solo artist.",
+    "recommendedAction": "Description based on project associations. Verify identity if specific solo profile is intended.",
+    "sourceUrls": []
+  },
+  {
+    "id": 31,
+    "artist": "DeLaurentis",
+    "field": "programmingStyle",
+    "issue": "ambiguous_classification",
+    "description": "DeLaurentis creates immersive A/V performances that could classify as 'Live Electronic' or 'A/V Installation.' Her shows blend concert and installation elements.",
+    "recommendedAction": "Use 'Live Electronic' as primary, note installation elements in description.",
+    "sourceUrls": []
+  }
+]

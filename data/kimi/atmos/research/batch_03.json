@@ -1,0 +1,111 @@
+[
+  {
+    "id": 21,
+    "artist": "The Chemical Brothers",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "For That Beautiful Feeling",
+        "releaseYear": 2023,
+        "sourceService": "Universal Music",
+        "sourceUrls": [
+          "https://www.universalmusic.it/popular-music/album/for-that-beautiful-feeling_36329919335/",
+          "https://music.apple.com/us/album/for-that-beautiful-feeling/1700963390",
+          "https://www.musicimmersive.com/"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed by Universal Music Italy eAlbum listing with Dolby Atmos format tag. All 11 tracks listed with (Dolby Atmos) or (Dolby Atmos / Crossfaded Version) in their titles. Music Immersive lists Stan Kybert as the Dolby Atmos mixing engineer. Apple Music shows the album in Electronic in Spatial Audio. Also the single No Reason (2023) was mastered in Dolby Atmos by Giles Martin at Abbey Road Studios, predating the album."
+      }
+    ],
+    "notes": "The Chemical Brothers have confirmed Dolby Atmos album availability for For That Beautiful Feeling (2023). The single No Reason was also released in Dolby Atmos ahead of the album. Universal Music's official listing confirms the full album is available in Dolby Atmos."
+  },
+  {
+    "id": 22,
+    "artist": "Christian Marclay",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Christian Marclay is a London-based visual artist and composer whose work explores the intersection of sound and visual art using turntables, vinyl records, sampling, video, and collage. His work is primarily conceptual/experimental art. No commercial music releases in Dolby Atmos format were found after thorough searching. No Apple Music, Tidal, Amazon, or label sources indicate any Atmos availability."
+  },
+  {
+    "id": 23,
+    "artist": "Christina Kubisch",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Christina Kubisch is a German sound art pioneer and composer who creates electronic and acoustic music for installations since the 1970s. Her work focuses on electromagnetic induction, field recordings, and sound installations. She is primarily an installation/performance artist rather than a commercial recording artist. No Dolby Atmos album releases were found after thorough searching."
+  },
+  {
+    "id": 24,
+    "artist": "Christine Sun Kim",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Christine Sun Kim is a Deaf American sound artist, performer, and activist based in Berlin. Her work explores the social and political dimensions of sound through drawings, videos, sculptures, installations, and performances using ASL, musical notation, and visual communication. She is not a commercial recording artist. A small limited-edition vinyl EP (Panning Fanning, 2013) was found but no Dolby Atmos releases exist."
+  },
+  {
+    "id": 25,
+    "artist": "Cigarettes After Sex",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "X's",
+        "releaseYear": 2024,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/xs/1783182368",
+          "https://www.officialcharts.com/chart-news/new-music-friday-songs-12-july-2024/",
+          "https://www.reddit.com/r/CigarettesAfterSex/comments/1e197pw/xs_first_thoughts/"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed by Official Charts article stating the album was 'in Dolby Atmos Spatial Audio for Apple Music' (July 2024). Reddit user also confirmed it sounds 'beautiful in dolby atmos Apple Music surround sound'. Apple Music page confirms the album exists. Released July 12, 2024 on Partisan Records."
+      }
+    ],
+    "notes": "Cigarettes After Sex's third studio album X's (2024) is confirmed to be available in Dolby Atmos Spatial Audio on Apple Music. Official Charts and user reports confirm the immersive audio availability."
+  },
+  {
+    "id": 26,
+    "artist": "Colin Benders",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Colin Benders (also known as Kyteman) is a Dutch electronic musician and modular synthesist. He started as a hip-hop artist with The Kyteman Orchestra and later transitioned to modular techno. Albums include The Hermit Sessions (2009), The Kyteman Orchestra (2012), and Rigmarole (2021). No Dolby Atmos releases were found after searching. He is primarily an independent/Dutch-market artist."
+  },
+  {
+    "id": 27,
+    "artist": "DARKSIDE",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "DARKSIDE is an American electronic/psychedelic rock duo (now trio) of Nicolas Jaar and Dave Harrington, with drummer Tlacael Esparza joining in 2025. Albums include Psychic (2013), Spiral (2021), and Nothing (2025), all on Matador Records. Despite Nicolas Jaar's prominence in electronic music, no Dolby Atmos album releases were found for any DARKSIDE album after thorough searching."
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Dave Stewart is a British musician best known as one half of Eurythmics. He has released solo albums (including The Blackbird Diaries, 2011 and Ebony McQueen, 2022) and has produced many artists. The Crypt Studio in London, which Stewart once owned, now features Dolby Atmos capability, but no Dave Stewart solo albums in Dolby Atmos were found. Eurythmics reissues have not been announced in Atmos format. Note: There may be multiple artists named Dave Stewart; this refers to the Eurythmics member."
+  },
+  {
+    "id": 29,
+    "artist": "David Sheppard",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "David John Sheppard is a London-based multi-instrumentalist, composer, and writer (author of Brian Eno biography On Some Faraway Beach). Known for projects State River Widening, Ellis Island Sound, Snow Palms, and Phelan Sheppard. Solo album Vertical Land (2015) on Village Green Recordings. He is primarily an instrumental/ambient artist. No Dolby Atmos releases found after searching. Note: A different David Sheppard works as an immersive audio designer."
+  },
+  {
+    "id": 30,
+    "artist": "deadmau5",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Kx5",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/kx5/1676361995",
+          "https://rumble.com/playlists/VFbKBC_4qsQ",
+          "https://www.edmtunes.com/2017/02/deadmau5-dolby-atmos-sound-production/"
+        ],
+        "confidence": 5,
+        "notes": "Kx5 is the collaborative album by deadmau5 and Kaskade, released March 17, 2023. Apple Music lists it in Dance in Spatial Audio. Individual Dolby Atmos versions of tracks exist (Alive, Escape, Bright Lights, pwdr Blu, When I Talk, Eat Sleep, Take Me High, Avalanche confirmed in Dolby Atmos). Deadmau5 also has a calibrated 11.3 Dolby Atmos system in his studio since 2017."
+      }
+    ],
+    "notes": "deadmau5 has confirmed Dolby Atmos album availability for the Kx5 collaboration with Kaskade (2023). Additionally, the single Pomegranate (2020) with The Neptunes was released in Dolby Atmos on Amazon Music HD and TIDAL. Deadmau5 has had a Dolby Atmos-equipped studio since 2017. Note: While deadmau5's solo albums have not been found in Atmos, the Kx5 collaboration is a full album confirmed in Spatial Audio."
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "id": 11,
+    "artist": "Billie Eilish",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Happier Than Ever",
+        "releaseYear": 2021,
+        "sourceService": "Dolby",
+        "sourceUrls": [
+          "https://news.dolby.com/en-WW/202293-billie-eilish-s-happier-than-ever-a-love-letter-to-los-angeles-available-today-on-disney-in-dolby-vision-and-dolby-atmos/",
+          "https://www.audioadvice.com/blogs/expert-advice/best-dolby-atmos-music-demo-albums"
+        ],
+        "confidence": 5,
+        "notes": "Official Dolby press release confirms entire album streaming in Dolby Atmos on Apple Music. Also available as concert film on Disney+ in Dolby Atmos."
+      },
+      {
+        "title": "Hit Me Hard and Soft",
+        "releaseYear": 2024,
+        "sourceService": "Tidal",
+        "sourceUrls": [
+          "https://magicvinyldigital.net/2024/05/24/billie-eilish-hit-me-hard-and-soft-review-test-eco-mix-vinyl-record-limited-edition-yellow-vinyl-record-tidal-max-tidal-dolby-atmos/",
+          "https://www.reddit.com/r/billieeilish/comments/1ggilbp/hit_me_hard_and_soft_sound_quality/"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed in Dolby Atmos on Tidal with measured DR13 dynamic range. Reddit users confirm Atmos availability on Apple Music."
+      }
+    ],
+    "notes": "Both of Billie Eilish's most recent studio albums are available in Dolby Atmos. Finneas has spoken about mixing in Atmos as part of their creative process."
+  },
+  {
+    "id": 12,
+    "artist": "Björk",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Fossora",
+        "releaseYear": 2022,
+        "sourceService": "Tidal",
+        "sourceUrls": [
+          "https://tidal.com/album/247844429",
+          "https://www.reddit.com/r/bjork/comments/xwqojn/fossora_dolby_atmos/"
+        ],
+        "confidence": 5,
+        "notes": "Explicitly labeled as 'Fossora (Dolby Atmos)' on Tidal. First Björk album with spatial audio on release."
+      },
+      {
+        "title": "Debut",
+        "releaseYear": 1993,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+          "https://x.com/mynameisobelpg/status/1877464199284117871"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed available in Dolby Atmos on Apple Music as of January 2025 along with other catalog albums."
+      },
+      {
+        "title": "Post",
+        "releaseYear": 1995,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+          "https://x.com/mynameisobelpg/status/1877464199284117871"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed available in Dolby Atmos on Apple Music as of January 2025."
+      },
+      {
+        "title": "Homogenic",
+        "releaseYear": 1997,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+          "https://tech.yahoo.com/audio/articles/compare-spotify-lossless-apple-music-170000373.html"
+        ],
+        "confidence": 5,
+        "notes": "Recommended as top Dolby Atmos album pick by Yahoo Tech. Available on Apple Music in Atmos."
+      },
+      {
+        "title": "Selmasongs",
+        "releaseYear": 2000,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+          "https://x.com/mynameisobelpg/status/1877464199284117871"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed available in Dolby Atmos on Apple Music as of January 2025."
+      },
+      {
+        "title": "Vespertine",
+        "releaseYear": 2001,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+          "https://x.com/mynameisobelpg/status/1877464199284117871"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed available in Dolby Atmos on Apple Music as of January 2025."
+      },
+      {
+        "title": "Medúlla",
+        "releaseYear": 2004,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+          "https://www.tiktok.com/@bjork_hq/video/7614885410241531158"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed available in Dolby Atmos on Apple Music as of January 2025."
+      },
+      {
+        "title": "Vulnicura",
+        "releaseYear": 2015,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.threads.com/@stereogum/post/DEvYJK_ydcE"
+        ],
+        "confidence": 4,
+        "notes": "Reported as part of 'every Björk album except Biophilia' available in Dolby Atmos on Apple Music."
+      },
+      {
+        "title": "Utopia",
+        "releaseYear": 2017,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.threads.com/@stereogum/post/DEvYJK_ydcE"
+        ],
+        "confidence": 4,
+        "notes": "Reported as part of 'every Björk album except Biophilia' available in Dolby Atmos on Apple Music."
+      }
+    ],
+    "notes": "As of January 2025, virtually Björk's entire studio album catalog (except Biophilia) became available in Dolby Atmos on Apple Music. This was a major catalog rollout. Fossora had Atmos from its 2022 release."
+  },
+  {
+    "id": 13,
+    "artist": "Bob Dylan",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Time Out of Mind (2022 Remix)",
+        "releaseYear": 2022,
+        "sourceService": "Other",
+        "sourceUrls": [
+          "https://superdeluxeedition.com/news/bob-dylans-time-out-of-mind-is-the-next-release-in-the-sde-surround-series/",
+          "https://www.thesdeshop.com/products/bob-dylan-time-out-of-mind-2022-remix-limited-edition-sde-exclusive-blu-ray-audio",
+          "https://www.hiresedition.com/review/frolk-rock/bob-dylan-time-out-of-mind.html"
+        ],
+        "confidence": 5,
+        "notes": "First ever Dolby Atmos mix for Bob Dylan, created by Michael Brauer and Fernando Reyes. Available on SDE-exclusive Blu-ray Audio (#8 in Surround Series) and on streaming platforms (Apple Music, Tidal). 2022 Remix of original 1997 album."
+      }
+    ],
+    "notes": "Bob Dylan's only confirmed Dolby Atmos album is Time Out of Mind (2022 Remix). This was a landmark release as his first-ever Atmos mix."
+  },
+  {
+    "id": 14,
+    "artist": "Bonobo",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Fragments",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.reddit.com/r/SpatialSongs/comments/r05vhd/bonobo_fragments_album/"
+        ],
+        "confidence": 4,
+        "notes": "Reddit user on r/SpatialSongs reports 'The album sounds amazing in Dolby Atmos.' No official press release found but credible community confirmation exists. Also nominated for Grammy Best Dance/Electronic Album."
+      }
+    ],
+    "notes": "Fragments (2022) appears to be available in Dolby Atmos on Apple Music based on user reports. Bonobo has also had DJ mixes released in Spatial Audio through Warehouse Project collaboration. Other albums (Migration, Black Sands) not confirmed in Atmos."
+  },
+  {
+    "id": 15,
+    "artist": "Brian Eno",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "FOREVERANDEVERNOMORE",
+        "releaseYear": 2022,
+        "sourceService": "Dolby",
+        "sourceUrls": [
+          "https://professional.dolby.com/hear-from-the-creators/brian-eno/",
+          "https://www.brian-eno.net/foreverandevernomore/",
+          "https://www.thesdeshop.com/products/brian-eno-foreverandevernomore-sde-exclusive-blu-ray-audio"
+        ],
+        "confidence": 5,
+        "notes": "Atmos Mix created by Brian Eno himself. Available on Dolby Blu-ray (SDE exclusive), Apple Music, and Tidal. Eno discussed his approach to Atmos mixing in a Dolby feature."
+      },
+      {
+        "title": "Taking Tiger Mountain (By Strategy)",
+        "releaseYear": 1974,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/",
+          "https://forums.stevehoffman.tv/threads/brian-eno-releasing-7-albums-in-dolby-atmos.1178995/"
+        ],
+        "confidence": 5,
+        "notes": "One of seven classic Eno titles released in Dolby Atmos for the first time in July 2023."
+      },
+      {
+        "title": "Another Green World",
+        "releaseYear": 1975,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/",
+          "https://immersiveaudioalbum.com/spatial-audio-highlights-july-august-2023/"
+        ],
+        "confidence": 5,
+        "notes": "One of seven classic Eno titles released in Dolby Atmos for the first time in July 2023. Immersive Audio Album reviewed the Atmos mix of 'Sky Saw' positively."
+      },
+      {
+        "title": "Small Craft On A Milk Sea",
+        "releaseYear": 2011,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/"
+        ],
+        "confidence": 5,
+        "notes": "One of seven classic Eno titles released in Dolby Atmos for the first time in July 2023."
+      },
+      {
+        "title": "The Ship",
+        "releaseYear": 2016,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/"
+        ],
+        "confidence": 5,
+        "notes": "One of seven classic Eno titles released in Dolby Atmos for the first time in July 2023."
+      },
+      {
+        "title": "Forever Voiceless",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/"
+        ],
+        "confidence": 5,
+        "notes": "Instrumental companion album to FOREVERANDEVERNOMORE. Released in Dolby Atmos and Spatial Audio."
+      },
+      {
+        "title": "Aurum",
+        "releaseYear": 2025,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://theneedledrop.com/news/brian-eno-surprise-releases-new-record-aurum/"
+        ],
+        "confidence": 5,
+        "notes": "Surprise-released exclusively on Apple Music, making use of Spatial Audio technology. Partnering with Apple Music and Dolby Atmos."
+      }
+    ],
+    "notes": "Brian Eno has embraced Dolby Atmos extensively. Starting with FOREVERANDEVERNOMORE in 2022, seven catalog titles were released in Atmos in July 2023, and his 2025 album Aurum was an Apple Music Spatial Audio exclusive. Eno has spoken philosophically about 3D music as '3-dimensional sound-sculpting.'"
+  },
+  {
+    "id": 16,
+    "artist": "Cardi B",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No album-level Dolby Atmos releases found for Cardi B after thorough searching. Singles like 'Up' and 'Like What (Freestyle)' appear in Apple Music Spatial Audio playlists, but studio albums 'Invasion of Privacy' (2018) and 'Am I the Drama?' (2025) are not confirmed in Dolby Atmos format."
+  },
+  {
+    "id": 17,
+    "artist": "Caribou",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No album-level Dolby Atmos releases found for Caribou (Dan Snaith) after thorough searching. Recent albums 'Honey' (2024), 'Suddenly' (2020), and 'Swim' (2010) are available on Apple Music but not confirmed in Dolby Atmos. Note: Elton John has an album titled 'Caribou' (1974) which is unrelated."
+  },
+  {
+    "id": 18,
+    "artist": "Carl Craig",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No album-level Dolby Atmos releases found for Carl Craig after thorough searching. DJ mixes (including Hï Ibiza 2024 live mix) are available in Spatial Audio on Apple Music, but studio albums and the 'Desire: The Carl Craig Story' (2025) soundtrack are not confirmed in Dolby Atmos. Apple Music launched DJ mixes in Spatial Audio in 2022 which includes some Carl Craig mixes."
+  },
+  {
+    "id": 19,
+    "artist": "Channel Tres",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No album-level Dolby Atmos releases confirmed for Channel Tres after thorough searching. Debut album 'Head Rush' (2024) is available on Apple Music but no Dolby Atmos badge or confirmation found. Singles like 'Cactus Water' appear in Spatial Audio playlists. Some singles tagged with 'Electronic in Spatial Audio' category on Apple Music, but this does not confirm full album Atmos availability."
+  },
+  {
+    "id": 20,
+    "artist": "Charli XCX",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "CRASH",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.tiktok.com/@charlixcx/video/7079898010347523334",
+          "https://forums.stevehoffman.tv/threads/apple-music-and-dolby-atmos-your-album-reviews.1105275/page-27"
+        ],
+        "confidence": 5,
+        "notes": "Charli XCX herself promoted CRASH in Spatial Audio with Dolby Atmos on TikTok. SteveHoffman forum users praised the Atmos mix of the title track."
+      },
+      {
+        "title": "BRAT",
+        "releaseYear": 2024,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://musicbrainz.org/release/f0bf83e1-adec-4ce5-9e1b-0e08db01e2b5",
+          "https://music.apple.com/us/playlist/hits-in-spatial-audio/pl.ba2404fbc4464b8ba2d60399189cf24e"
+        ],
+        "confidence": 5,
+        "notes": "MusicBrainz release entry explicitly lists 'Dolby Atmos mix' as format. Featured in Apple Music's 'Hits in Spatial Audio' playlist."
+      }
+    ],
+    "notes": "Both of Charli XCX's most recent studio albums are available in Dolby Atmos. BRAT was a massive commercial and cultural success in 2024."
+  }
+]

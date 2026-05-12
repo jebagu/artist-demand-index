@@ -1,0 +1,175 @@
+[
+  {
+    "id": 111,
+    "artist": "Tove Lo",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Dirt Femme",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://musicbrainz.org/release-group/97d87cf8-6be0-439b-87a3-9c128bfee2cc",
+          "https://www.soundandvision.com/content/shining-bolt-spatial-audio",
+          "https://music.apple.com/se/playlist/hits-in-spatial-audio/pl.ba2404fbc4464b8ba2d60399189cf24e?l=en-GB"
+        ],
+        "confidence": 5,
+        "notes": "MusicBrainz lists explicit 'Dirt Femme (Dolby Atmos mix)' release. Sound & Vision reviewed 'True Romance' track in Atmos. Album appears in Apple Music 'Hits in Spatial Audio' playlist."
+      }
+    ],
+    "notes": "Tove Lo's album 'Dirt Femme' has a confirmed Dolby Atmos mix available on Apple Music. Individual tracks like 'True Romance,' '2 Die 4,' 'How Long,' 'Suburbia,' 'Kick In The Head,' and 'I'm To Blame' have been noted in Atmos mixes."
+  },
+  {
+    "id": 112,
+    "artist": "Travis Scott",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "UTOPIA",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://x.com/tervisscoot/status/1705606289173205347",
+          "https://www.reddit.com/r/travisscott/comments/16q7r2c/whole_utopia_just_got_updated_with_dolby_atmos_if/",
+          "https://www.last.fm/music/Travis+Scott/UTOPIA+(Dolby+Atmos)",
+          "https://music.apple.com/us/playlist/top-100-2024-spatial-audio/pl.35c3c0a025b04025a895a9365e85ab1b"
+        ],
+        "confidence": 5,
+        "notes": "Twitter post confirmed UTOPIA updated with Dolby Atmos on Apple Music in Sept 2023. Reddit users confirmed the same. Last.fm has dedicated 'UTOPIA (Dolby Atmos)' page. Tracks appear in Apple Music Spatial Audio playlists."
+      }
+    ],
+    "notes": "Travis Scott's 'UTOPIA' album was officially updated with Dolby Atmos on Apple Music shortly after its July 2023 release. Reddit discussions and social media posts confirmed the Atmos availability."
+  },
+  {
+    "id": 113,
+    "artist": "UNIIQU3",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "UNIIQU3 is a Jersey Club artist with EPs including 'Phase 3' (2018), 'Digital Diva' (2020), 'Heartbeats' (2021), and 'Ramen Noodles' (with Black Caviar). No Dolby Atmos album releases were found across multiple searches including Apple Music, Tidal, and Dolby listings."
+  },
+  {
+    "id": 114,
+    "artist": "The Weeknd",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "After Hours",
+        "releaseYear": 2020,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://news.dolby.com/en-WW/202531-dolby-teams-up-with-the-weeknd-to-explore-how-he-creates-worlds-with-music/",
+          "https://www.reddit.com/r/TheWeeknd/comments/nuu6hk/after_hours_mdm_and_starboy_in_lossless_with/"
+        ],
+        "confidence": 5,
+        "notes": "Official Dolby press release (Sept 2021) confirms 'After Hours' streaming in Dolby Atmos on Apple Music. Apple Music Spatial Audio playlist inclusions confirm."
+      },
+      {
+        "title": "My Dear Melancholy",
+        "releaseYear": 2018,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://news.dolby.com/en-WW/202531-dolby-teams-up-with-the-weeknd-to-explore-how-he-creates-worlds-with-music/",
+          "https://www.reddit.com/r/TheWeeknd/comments/qe8ga2/the_weeknd_my_dear_melancholy_dolby_atmos/"
+        ],
+        "confidence": 5,
+        "notes": "Official Dolby press release (Sept 2021) confirms 'My Dear Melancholy' streaming in Dolby Atmos on Apple Music."
+      },
+      {
+        "title": "Starboy",
+        "releaseYear": 2016,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://news.dolby.com/en-WW/202531-dolby-teams-up-with-the-weeknd-to-explore-how-he-creates-worlds-with-music/",
+          "https://www.reddit.com/r/TheWeeknd/comments/nuu6hk/after_hours_mdm_and_starboy_in_lossless_with/"
+        ],
+        "confidence": 5,
+        "notes": "Official Dolby press release (Sept 2021) confirms 'Starboy' streaming in Dolby Atmos on Apple Music."
+      },
+      {
+        "title": "Beauty Behind the Madness",
+        "releaseYear": 2015,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://news.dolby.com/en-WW/202531-dolby-teams-up-with-the-weeknd-to-explore-how-he-creates-worlds-with-music/",
+          "https://musicbrainz.org/release-group/a85b8aff-fcbc-4431-95ba-d8c20bbfb77e"
+        ],
+        "confidence": 5,
+        "notes": "Official Dolby press release (Sept 2021) confirms 'Beauty Behind the Madness' streaming in Dolby Atmos on Apple Music. MusicBrainz also lists explicit 'Beauty Behind the Madness (Dolby Atmos mix)' entries."
+      },
+      {
+        "title": "Dawn FM",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.subjectivesounds.com/musicblog/the-weeknd-dawn-fm-album-review",
+          "https://helloatmos.app/ranking/albums/",
+          "https://www.audioadvice.com/blogs/expert-advice/best-dolby-atmos-music-demo-albums"
+        ],
+        "confidence": 5,
+        "notes": "Review confirms Dolby Atmos mix on Apple Music. Listed on helloatmos.app Top 50 Dolby Atmos albums. Audio Advice recommends it as a top Atmos demo album. Apple Music promoted it with Spatial Audio at launch."
+      }
+    ],
+    "notes": "The Weeknd has the most extensive Dolby Atmos catalog among artists in this batch. Five albums are confirmed in Dolby Atmos: After Hours, My Dear Melancholy, Starboy, Beauty Behind the Madness (all confirmed by official Dolby press release in Sept 2021), and Dawn FM (confirmed by multiple reviews and Atmos ranking sites). The Weeknd also has an official Dolby partnership/spotlight video."
+  },
+  {
+    "id": 115,
+    "artist": "Weval",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "CHOROPHOBIA",
+        "releaseYear": 2025,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/chorophobia/1811689083",
+          "https://www.reddit.com/r/SpatialSongs/comments/1geea5u/just_found_weval_is_both_24bit_and_atmos_on_tidal/"
+        ],
+        "confidence": 4,
+        "notes": "Album appears in Apple Music 'Electronic in Spatial Audio' playlist. Reddit user confirmed Weval is available in Dolby Atmos on Tidal. Released Sept 2025 on Ninja Tune/Technicolour."
+      }
+    ],
+    "notes": "Weval's 'CHOROPHOBIA' (2025) is confirmed in Dolby Atmos via Apple Music Spatial Audio playlist inclusion and a Reddit post noting Atmos availability on Tidal. Weval is a Dutch electronic music duo."
+  },
+  {
+    "id": 116,
+    "artist": "The xx",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "The xx is an English indie pop band with albums 'xx' (2009), 'Coexist' (2012), and 'I See You' (2017). While Apple Music pages for their albums were found, no explicit Dolby Atmos badging or mentions were discovered. Solo projects by members (Jamie xx's 'In Waves' and Romy's 'Mid Air') have Dolby Atmos, but no Atmos releases were found for The xx as a band."
+  },
+  {
+    "id": 117,
+    "artist": "Yaeji",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "With A Hammer",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://immersiveaudioalbum.com/now-available-in-dolby-atmos-yaejis-with-a-hammer/",
+          "https://immersiveaudioalbum.com/product/with-a-hammer-yaeji-atmos-mkv-mp4/",
+          "https://music.apple.com/us/album/with-a-hammer/1654198968",
+          "https://www.thisismetropolis.com/atmos/atmos-credits/"
+        ],
+        "confidence": 5,
+        "notes": "Immersive Audio Album (IAA) offers 'With A Hammer' as Dolby Atmos digital download (MKV + MP4), confirming an official Atmos mix by Chris Botta. Metropolis Studios lists Yaeji in their Atmos credits. Available to stream in Dolby Atmos on Apple Music."
+      }
+    ],
+    "notes": "Yaeji's debut studio album 'With A Hammer' (2023) has a confirmed Dolby Atmos mix, mixed by Chris Botta. The album is available as a Dolby Atmos digital download via Immersive Audio Album and streams in Atmos on Apple Music."
+  },
+  {
+    "id": 118,
+    "artist": "Yīn Yīn",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Yīn Yīn is a Dutch psychedelic/funk/disco band with albums 'The Rabbit That Hunts Tigers' (2019), 'The Age of Aquarius' (2022), 'Mount Matsu' (2024), and 'Yatta!' (2026). Despite searching Apple Music, Tidal, and Dolby sources, no Dolby Atmos album releases were found for this artist."
+  },
+  {
+    "id": 119,
+    "artist": "yunè pinku",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "yunè pinku is an Irish electronic musician with EPs 'Bluff' (2022), 'Babylon IX' (2023), and 'Scarlet Lamb' (2024). Despite extensive searching across Apple Music, Tidal, and Dolby sources, no Dolby Atmos album or EP releases were found."
+  }
+]

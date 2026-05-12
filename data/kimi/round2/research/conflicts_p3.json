@@ -1,0 +1,53 @@
+[
+  {
+    "id": 5,
+    "artist": "Aphex Twin",
+    "field": "spotifyUrl",
+    "issue": "multiple_profiles",
+    "description": "Main profile (6kBDZFXuLrZgHnvmPu9NsG) verified. Additional alias profiles may exist (AFX, Polygon Window, Caustic Window). Monthly listeners (3.5M) refers to main profile only.",
+    "recommendedAction": "Use main Aphex Twin profile. Decide whether to also track alias profiles.",
+    "sourceUrls": [
+      "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+    ]
+  },
+  {
+    "id": 24,
+    "artist": "Christine Sun Kim",
+    "field": "spotifyUrl",
+    "issue": "artist_type_no_music",
+    "description": "Deaf sound/visual artist. No Spotify profile exists. Creates conceptual sound art and installations, not commercial music releases.",
+    "recommendedAction": "Keep spotifyUrl and spotifyMonthlyListeners as null. Expected for a visual artist.",
+    "sourceUrls": []
+  },
+  {
+    "id": 51,
+    "artist": "Ian Dearden",
+    "field": "spotifyUrl",
+    "issue": "newly_discovered_profile",
+    "description": "Profile was NOT found in Priority 1 but has now been located. URL: https://open.spotify.com/artist/5xqKm3vDsiBTFchNTQaSXE. Only 3 monthly listeners and 39 followers. Confirmed as Sound Intermedia sound designer via track 'The Mask of Orpheus: First Passing Cloud' with Harrison Birtwistle.",
+    "recommendedAction": "Update database with newly found URL. Very low engagement expected for a sound designer.",
+    "sourceUrls": [
+      "https://open.spotify.com/artist/5xqKm3vDsiBTFchNTQaSXE"
+    ]
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "field": "spotifyUrl",
+    "issue": "minimal_presence",
+    "description": "Profile exists (3AiEBEtUkD6TKUJKBnAjeh) with only 14 monthly listeners. Follower count not publicly displayed. Identity verified via bio.",
+    "recommendedAction": "Keep URL as verified. Note follower count is below display threshold.",
+    "sourceUrls": [
+      "https://open.spotify.com/artist/3AiEBEtUkD6TKUJKBnAjeh"
+    ]
+  },
+  {
+    "id": 105,
+    "artist": "Tarik Barri",
+    "field": "spotifyUrl",
+    "issue": "artist_type_no_music",
+    "description": "Dutch audiovisual artist and Versum software developer. No Spotify artist profile exists. Has physical/DIY releases on experimental labels but none on streaming platforms.",
+    "recommendedAction": "Keep spotifyUrl and spotifyMonthlyListeners as null. Expected for audiovisual artist.",
+    "sourceUrls": []
+  }
+]

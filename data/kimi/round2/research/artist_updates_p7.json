@@ -1,0 +1,2827 @@
+[
+  {
+    "id": 1,
+    "artist": "Acid Pauli",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Psychedelic House",
+      "identity.instrumentSounds": "Synthesizer, Laptop, Drum Machine",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Acid Pauli is the alias of German musician and producer Martin Gretschmann, known for eclectic DJ sets that blend techno, house, and global psychedelic influences with live improvisation. Over two decades, he has developed a distinctive sound that traverses downtempo grooves, ambient textures, and adventurous electronic explorations."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: Electronic, subGenre: Psychedelic House, instrumentSounds: Synthesizer, Laptop, Drum Machine, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Acid Pauli is the alias of German musician and producer Martin Gretschmann, know...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "artist": "AfroRack",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Experimental Techno",
+      "identity.instrumentSounds": "Modular Synthesizer, DIY Electronics, Percussion",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "AfroRack is the performance alias of Ugandan multidisciplinary artist Brian Bamanya, who built Africa's first large-scale DIY modular synthesizer from locally sourced components. His live sets merge polyrhythmic structures drawn from East African musical traditions with acid, techno, and ambient sounds."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: Experimental Techno, instrumentSounds: Modular Synthesizer, DIY Electronics, Percussion, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "AfroRack is the performance alias of Ugandan multidisciplinary artist Brian Bama...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "artist": "Air",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Downtempo",
+      "identity.instrumentSounds": "Synthesizer, Guitar, Vocoder",
+      "identity.mf": "Mixed",
+      "identity.descriptionShort": "Air is a French electronic duo comprising Nicolas Godin and Jean-Benoît Dunckel, best known for their seminal 1998 debut album Moon Safari that helped define the downtempo and chill-out genres. Their cinematic sound blends analog synthesizers, gentle vocals, and live instrumentation into dreamlike sonic landscapes."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Electronic, subGenre: Downtempo, instrumentSounds: Synthesizer, Guitar, Vocoder, mf: Mixed",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Air is a French electronic duo comprising Nicolas Godin and Jean-Benoît Dunckel,...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "artist": "Alva Noto",
+    "updates": {
+      "identity.programmingStyle": "A/V Installation",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Minimal Glitch",
+      "identity.instrumentSounds": "Laptop, Modular Synthesizer, Tone Generators",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Alva Noto is the electronic music alias of German sound and visual artist Carsten Nicolai, whose minimalist work explores the intersection of sound, frequency, and visual art. His compositions transform electrical signals and data sounds into precisely edited rhythmic structures and immersive ambient textures."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: A/V Installation, genreLabels: Electronic, subGenre: Minimal Glitch, instrumentSounds: Laptop, Modular Synthesizer, Tone Generators, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Alva Noto is the electronic music alias of German sound and visual artist Carste...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "artist": "Aphex Twin",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "IDM",
+      "identity.instrumentSounds": "Synthesizer, Sampler, Laptop",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Aphex Twin is the iconic alias of Richard D. James, a pioneering British electronic musician widely credited with defining the IDM genre. His work spans complex ambient compositions, frenetic breakbeats, and intricate sound design crafted with samplers, synthesizers, and computers."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: IDM, instrumentSounds: Synthesizer, Sampler, Laptop, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Aphex Twin is the iconic alias of Richard D. James, a pioneering British electro...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "artist": "Arooj Aftab",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Jazz",
+      "identity.subGenre": "Neo-Sufi",
+      "identity.instrumentSounds": "Vocals, Guitar, Electronics",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Arooj Aftab is a Grammy-winning Pakistani-American composer and vocalist known for her genre-defying music that blends jazz, Pakistani semi-classical forms, and minimalist ambient textures. Her neo-Sufi sound, featured on acclaimed albums like Vulture Prince, relocates qawwali and ghazal traditions into a diasporic context."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Jazz, subGenre: Neo-Sufi, instrumentSounds: Vocals, Guitar, Electronics, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Arooj Aftab is a Grammy-winning Pakistani-American composer and vocalist known f...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "artist": "Bassnectar",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Dubstep",
+      "identity.instrumentSounds": "Laptop, MIDI Controller, Turntables",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Bassnectar is the project of American producer and DJ Lorin Ashton, a central figure in the development and popularization of bass-heavy electronic music in the United States. His immersive live performances fuse dubstep, drum and bass, glitch-hop, and metal influences through massive custom sound systems."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Electronic, subGenre: Dubstep, instrumentSounds: Laptop, MIDI Controller, Turntables, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Bassnectar is the project of American producer and DJ Lorin Ashton, a central fi...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "artist": "The Beatles",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Rock",
+      "identity.subGenre": "Pop Rock",
+      "identity.instrumentSounds": "Guitar, Drums, Bass",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "The Beatles are the legendary British rock band comprising John Lennon, Paul McCartney, George Harrison, and Ringo Starr, widely regarded as the most influential musical act of all time. Their revolutionary songwriting and studio innovations transformed popular music across the 1960s."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Rock, subGenre: Pop Rock, instrumentSounds: Guitar, Drums, Bass, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The Beatles are the legendary British rock band comprising John Lennon, Paul McC...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "artist": "Beyoncé",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Pop",
+      "identity.subGenre": "Contemporary R&B",
+      "identity.instrumentSounds": "Vocals, Backing Band, Synthesizer",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Beyoncé Knowles-Carter is one of the most significant artists in contemporary music, a pop and R&B superstar whose work as a singer, songwriter, and performer has earned her the title of Queen Bey. From her Destiny's Child beginnings to landmark solo albums like Lemonade and Renaissance, she consistently pushes creative boundaries."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Pop, subGenre: Contemporary R&B, instrumentSounds: Vocals, Backing Band, Synthesizer, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Beyoncé Knowles-Carter is one of the most significant artists in contemporary mu...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "artist": "Bicep",
+    "updates": {
+      "identity.programmingStyle": "Second Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Techno",
+      "identity.instrumentSounds": "Synthesizer, Drum Machine, Sampler",
+      "identity.mf": "Mixed",
+      "identity.descriptionShort": "Bicep is a Belfast-raised, London-based electronic duo consisting of Matt McBriar and Andy Ferguson, known for their euphoric and emotionally charged blend of techno, house, and breakbeat. Their thrilling live shows and productions on Ninja Tune have earned them a devoted following."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Second Stage, genreLabels: Electronic, subGenre: Techno, instrumentSounds: Synthesizer, Drum Machine, Sampler, mf: Mixed",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Bicep is a Belfast-raised, London-based electronic duo consisting of Matt McBria...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "artist": "Billie Eilish",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Pop",
+      "identity.subGenre": "Alt-Pop",
+      "identity.instrumentSounds": "Vocals, Production, Synthesizer",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Billie Eilish is an American singer-songwriter who rose to international prominence as a Gen Z icon, known for her whispery vocal delivery and dark, introspective pop songs produced alongside her brother Finneas. She is one of the defining pop artists of her generation."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Pop, subGenre: Alt-Pop, instrumentSounds: Vocals, Production, Synthesizer, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Billie Eilish is an American singer-songwriter who rose to international promine...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "artist": "Björk",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Experimental",
+      "identity.subGenre": "Art Pop",
+      "identity.instrumentSounds": "Vocals, Electronics, Synthesizer",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Björk is an Icelandic artist renowned for her singular vision spanning avant-garde pop, electronic experimentation, and innovative multimedia art. Over three decades she has consistently pushed boundaries in music, technology, and performance."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Experimental, subGenre: Art Pop, instrumentSounds: Vocals, Electronics, Synthesizer, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Björk is an Icelandic artist renowned for her singular vision spanning avant-gar...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "artist": "Bob Dylan",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Rock",
+      "identity.subGenre": "Singer-Songwriter",
+      "identity.instrumentSounds": "Guitar, Vocals, Harmonica",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Bob Dylan is a legendary American singer-songwriter whose poetic lyrics and genre-defying catalog have made him one of the most important cultural figures of the 20th century. As a Nobel laureate and decades-spanning artist, he remains a revered festival headliner."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Rock, subGenre: Singer-Songwriter, instrumentSounds: Guitar, Vocals, Harmonica, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Bob Dylan is a legendary American singer-songwriter whose poetic lyrics and genr...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "artist": "Bonobo",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Downtempo",
+      "identity.instrumentSounds": "Synthesizer, Drums, Samples",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Bonobo is the stage name of Simon Green, a British producer and DJ celebrated for his lush, organic electronic compositions that blend downtempo, world music textures, and live instrumentation. His immersive live shows and DJ sets have made him a staple of major electronic music festivals."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Electronic, subGenre: Downtempo, instrumentSounds: Synthesizer, Drums, Samples, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Bonobo is the stage name of Simon Green, a British producer and DJ celebrated fo...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "artist": "Brian Eno",
+    "updates": {
+      "identity.programmingStyle": "Ambient Stage",
+      "identity.genreLabels": "Ambient",
+      "identity.subGenre": "Generative Ambient",
+      "identity.instrumentSounds": "Synthesizer, Tape Machines, Laptop",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Brian Eno is a British musician, producer, and artist credited with pioneering ambient music and shaping modern sound through his innovative use of studio technology and generative composition. His vast body of work spans solo ambient albums and landmark productions."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Ambient Stage, genreLabels: Ambient, subGenre: Generative Ambient, instrumentSounds: Synthesizer, Tape Machines, Laptop, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Brian Eno is a British musician, producer, and artist credited with pioneering a...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "artist": "Cardi B",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Hip-Hop",
+      "identity.subGenre": "Pop Rap",
+      "identity.instrumentSounds": "Vocals, Beats, Samples",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Cardi B is an American rapper and cultural icon known for her bold personality, chart-topping hits, and rapid-fire lyrical delivery that blends trap and pop sensibilities. Rising from social media stardom to Grammy-winning artist, she is one of the most commercially successful female rappers in history."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Hip-Hop, subGenre: Pop Rap, instrumentSounds: Vocals, Beats, Samples, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Cardi B is an American rapper and cultural icon known for her bold personality, ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "artist": "Caribou",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Psychedelic Electronic",
+      "identity.instrumentSounds": "Synthesizer, Drums, Vocals",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Caribou is the stage name of Canadian composer and producer Dan Snaith, known for his emotionally rich electronic music that fuses psychedelic textures with dancefloor rhythms and live instrumentation. His performances blend electronic production with a full band setup."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Electronic, subGenre: Psychedelic Electronic, instrumentSounds: Synthesizer, Drums, Vocals, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Caribou is the stage name of Canadian composer and producer Dan Snaith, known fo...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "artist": "Carl Craig",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Detroit Techno",
+      "identity.instrumentSounds": "Turntables, Synthesizer, Drum Machine",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Carl Craig is a pioneering Detroit techno producer and DJ who has been instrumental in shaping the second wave of the genre since the early 1990s. Known for his boundary-pushing productions under aliases like Innerzone Orchestra and Paperclip People."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: Electronic, subGenre: Detroit Techno, instrumentSounds: Turntables, Synthesizer, Drum Machine, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Carl Craig is a pioneering Detroit techno producer and DJ who has been instrumen...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "artist": "Channel Tres",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "House",
+      "identity.subGenre": "G-Funk House",
+      "identity.instrumentSounds": "Drum Machine, Synthesizer, Vocals",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Channel Tres is a producer, DJ, and vocalist from Compton, California, who merges the deep grooves of Chicago house with the swagger of West Coast hip-hop. Known for his distinctive baritone vocals over infectious house beats."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: House, subGenre: G-Funk House, instrumentSounds: Drum Machine, Synthesizer, Vocals, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Channel Tres is a producer, DJ, and vocalist from Compton, California, who merge...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "artist": "Charli XCX",
+    "updates": {
+      "identity.programmingStyle": "Subheadliner",
+      "identity.genreLabels": "Pop",
+      "identity.subGenre": "Hyperpop",
+      "identity.instrumentSounds": "Synthesizer, Vocals, Production",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Charli XCX is a British singer-songwriter and pop innovator who has evolved from catchy mainstream hits to become the driving force behind the hyperpop movement. Known for her forward-thinking collaborations with PC Music artists and avant-garde approach to pop songwriting."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Subheadliner, genreLabels: Pop, subGenre: Hyperpop, instrumentSounds: Synthesizer, Vocals, Production, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Charli XCX is a British singer-songwriter and pop innovator who has evolved from...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "artist": "The Chemical Brothers",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Big Beat / Electronica",
+      "identity.instrumentSounds": "Synthesizer, Drum Machine, Sampler",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Tom Rowlands and Ed Simons formed The Chemical Brothers in Manchester in 1989, becoming one of the most successful electronic acts in history. Their explosive blend of big beat, psychedelic electronics, and immersive visuals has made them festival headliners worldwide for over three decades."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Electronic, subGenre: Big Beat / Electronica, instrumentSounds: Synthesizer, Drum Machine, Sampler, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Tom Rowlands and Ed Simons formed The Chemical Brothers in Manchester in 1989, b...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "artist": "Christian Marclay",
+    "updates": {
+      "identity.programmingStyle": "Sound Art",
+      "identity.genreLabels": "Sound Art",
+      "identity.subGenre": "Turntablism / Plunderphonics",
+      "identity.instrumentSounds": "Turntables, Vinyl Records",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Christian Marclay is a Swiss-American visual artist and composer whose pioneering work since the late 1970s has explored the intersection of sound and visual culture. He is widely credited as an originator of turntablism, manipulating vinyl records as both sculptural objects and musical instruments."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Sound Art, genreLabels: Sound Art, subGenre: Turntablism / Plunderphonics, instrumentSounds: Turntables, Vinyl Records, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Christian Marclay is a Swiss-American visual artist and composer whose pioneerin...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "artist": "Christina Kubisch",
+    "updates": {
+      "identity.programmingStyle": "Sound Art",
+      "identity.genreLabels": "Sound Art",
+      "identity.subGenre": "Electroacoustic / Installation",
+      "identity.instrumentSounds": "Electromagnetic Induction, Custom Headphones, Flute",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Christina Kubisch is a German sound artist and composer born in 1948 who belongs to the first generation of sound artists. Since the late 1970s she has created space-related sound installations using electromagnetic induction and light as primary materials."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Sound Art, genreLabels: Sound Art, subGenre: Electroacoustic / Installation, instrumentSounds: Electromagnetic Induction, Custom Headphones, Flute, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Christina Kubisch is a German sound artist and composer born in 1948 who belongs...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "artist": "Christine Sun Kim",
+    "updates": {
+      "identity.programmingStyle": "Sound Art",
+      "identity.genreLabels": "Sound Art",
+      "identity.subGenre": "Conceptual Art / Performance",
+      "identity.instrumentSounds": "American Sign Language, Drawing, Voice",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Christine Sun Kim is a California-born, Berlin-based artist who was born deaf and works across drawing, performance, video, and sound installation. Her practice investigates how sound operates in society, deconstructing the politics of voice and language while creating visibility for Deaf culture."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Sound Art, genreLabels: Sound Art, subGenre: Conceptual Art / Performance, instrumentSounds: American Sign Language, Drawing, Voice, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Christine Sun Kim is a California-born, Berlin-based artist who was born deaf an...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "artist": "Cigarettes After Sex",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Ambient Pop",
+      "identity.subGenre": "Dream Pop / Slowcore",
+      "identity.instrumentSounds": "Guitar, Synthesizer, Vocals",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Cigarettes After Sex is an ambient pop project led by Greg Gonzalez, known for its ethereal, minimalist sound and hushed, intimate vocals. Their music is characterized by slow tempos, reverb-drenched guitars, and romantic lyricism."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Ambient Pop, subGenre: Dream Pop / Slowcore, instrumentSounds: Guitar, Synthesizer, Vocals, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Cigarettes After Sex is an ambient pop project led by Greg Gonzalez, known for i...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "artist": "Colin Benders",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Modular Techno / IDM",
+      "identity.instrumentSounds": "Modular Synthesizer, Eurorack",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Colin Benders is a Dutch musician and composer based in Utrecht who first gained recognition as founder of the Kyteman Orchestra before pivoting to modular synthesizer performance. His live sets are built entirely on hardware manipulation in real time."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: Modular Techno / IDM, instrumentSounds: Modular Synthesizer, Eurorack, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Colin Benders is a Dutch musician and composer based in Utrecht who first gained...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "artist": "DARKSIDE",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Psychedelic Electronic / Art Rock",
+      "identity.instrumentSounds": "Synthesizer, Guitar, Laptop",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "DARKSIDE is the electronic duo of Nicolas Jaar and Dave Harrington, formed in 2011, known for their hypnotic fusion of electronic production and psychedelic guitar improvisation. Their debut album Psychic received widespread critical acclaim."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Electronic, subGenre: Psychedelic Electronic / Art Rock, instrumentSounds: Synthesizer, Guitar, Laptop, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "DARKSIDE is the electronic duo of Nicolas Jaar and Dave Harrington, formed in 20...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Pop / Rock",
+      "identity.subGenre": "Synth-Pop / New Wave",
+      "identity.instrumentSounds": "Guitar, Synthesizer, Vocals",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Dave Stewart is a Grammy and Golden Globe award-winning British musician, songwriter, and producer best known as co-founder of Eurythmics alongside Annie Lennox. With a career spanning four decades and over 100 million album sales."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Pop / Rock, subGenre: Synth-Pop / New Wave, instrumentSounds: Guitar, Synthesizer, Vocals, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dave Stewart is a Grammy and Golden Globe award-winning British musician, songwr...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "artist": "David Sheppard",
+    "updates": {
+      "identity.programmingStyle": "Ambient Stage",
+      "identity.genreLabels": "Ambient / Electronic",
+      "identity.subGenre": "Post-Rock / Minimalist",
+      "identity.instrumentSounds": "Guitar, Vibraphone, Electronics",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "David John Sheppard is a London-based multi-instrumentalist, composer, and music writer known for his work with acclaimed instrumental projects State River Widening, Ellis Island Sound, and Snow Palms. He is also the author of the Brian Eno biography."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Ambient Stage, genreLabels: Ambient / Electronic, subGenre: Post-Rock / Minimalist, instrumentSounds: Guitar, Vibraphone, Electronics, mf: Male",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "David John Sheppard is a London-based multi-instrumentalist, composer, and music...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "artist": "deadmau5",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Progressive House / EDM",
+      "identity.instrumentSounds": "Synthesizer, Laptop, Drum Machine",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "deadmau5 is the stage name of Canadian electronic music producer Joel Zimmerman, one of the most recognizable figures in electronic dance music. Known for his distinctive mau5head helmet and anthemic progressive house productions."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Electronic, subGenre: Progressive House / EDM, instrumentSounds: Synthesizer, Laptop, Drum Machine, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "deadmau5 is the stage name of Canadian electronic music producer Joel Zimmerman,...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "artist": "DeLaurentis",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Electro-Cinematic",
+      "identity.instrumentSounds": "Synthesizer, Ableton Push, Vocals",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "DeLaurentis is the solo project of French musician Cécile Léogé, often described as the 'Woman Machine.' She creates electro-cinematic music blending synthesizers, vocals, and AI-assisted composition, crafting immersive sonic experiences rooted in synesthesia and color."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: Electro-Cinematic, instrumentSounds: Synthesizer, Ableton Push, Vocals, mf: Female",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "DeLaurentis is the solo project of French musician Cécile Léogé, often described...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "artist": "Ellie Goulding",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Pop",
+      "identity.subGenre": "Electropop",
+      "identity.instrumentSounds": "Vocals, Synthesizer, Guitar",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Ellie Goulding is an English singer-songwriter who rose to prominence in 2010 with her distinctive blend of ethereal vocals and electronic-tinged pop production. Known for global hits like 'Love Me Like You Do' and 'Lights.'"
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Pop, subGenre: Electropop, instrumentSounds: Vocals, Synthesizer, Guitar, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Ellie Goulding is an English singer-songwriter who rose to prominence in 2010 wi...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "artist": "Eurythmics",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Electronic, Pop",
+      "identity.subGenre": "Synth-Pop",
+      "identity.instrumentSounds": "Synthesizer, Vocals, Guitar",
+      "identity.mf": "Mixed",
+      "identity.descriptionShort": "Eurythmics is the iconic synth-pop duo of Annie Lennox and Dave Stewart, formed in 1980. They pioneered the commercialization of electronic pop with era-defining hits like 'Sweet Dreams (Are Made of This)."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Electronic, Pop, subGenre: Synth-Pop, instrumentSounds: Synthesizer, Vocals, Guitar, mf: Mixed",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Eurythmics is the iconic synth-pop duo of Annie Lennox and Dave Stewart, formed ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "artist": "Excision",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Dubstep, Bass Music",
+      "identity.instrumentSounds": "Laptop, Synthesizer, DJ Controller",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Excision (Jeff Abel) is a Canadian DJ, producer, and festival creator who stands as a pioneer of the North American dubstep scene. Known for his bone-rattling bass sound and massive audiovisual stage productions."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Electronic, subGenre: Dubstep, Bass Music, instrumentSounds: Laptop, Synthesizer, DJ Controller, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Excision (Jeff Abel) is a Canadian DJ, producer, and festival creator who stands...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "artist": "Fatboy Slim",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Big Beat",
+      "identity.instrumentSounds": "Turntables, Sampler, Laptop",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Fatboy Slim (Norman Cook) is a British DJ and producer who became one of the most recognizable figures of the big beat movement in the 1990s. Famous for iconic tracks like 'Praise You' and 'Right Here, Right Now.'"
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: Electronic, subGenre: Big Beat, instrumentSounds: Turntables, Sampler, Laptop, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fatboy Slim (Norman Cook) is a British DJ and producer who became one of the mos...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "artist": "FKA twigs",
+    "updates": {
+      "identity.programmingStyle": "Second Stage",
+      "identity.genreLabels": "Electronic, Pop",
+      "identity.subGenre": "Art Pop, Experimental R&B",
+      "identity.instrumentSounds": "Vocals, Synthesizer, Laptop",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "FKA twigs (Tahliah Barnett) is an English singer, songwriter, and dancer known for her genre-defying art pop and avant-garde approach to music. Her work seamlessly blends electronic, trip-hop, R&B, and industrial elements."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Second Stage, genreLabels: Electronic, Pop, subGenre: Art Pop, Experimental R&B, instrumentSounds: Vocals, Synthesizer, Laptop, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "FKA twigs (Tahliah Barnett) is an English singer, songwriter, and dancer known f...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "artist": "Floating Points",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic, Jazz",
+      "identity.subGenre": "Nu Jazz, IDM",
+      "identity.instrumentSounds": "Buchla Synthesizer, Keyboards, Laptop",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Floating Points (Sam Shepherd) is a British electronic music producer, DJ, and musician known for his refusal to be confined to a single genre. His work fluidly moves between jazz, classical, electronic, and ambient territories."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, Jazz, subGenre: Nu Jazz, IDM, instrumentSounds: Buchla Synthesizer, Keyboards, Laptop, mf: Male",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Floating Points (Sam Shepherd) is a British electronic music producer, DJ, and m...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "artist": "Flying Lotus",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic, Hip-Hop",
+      "identity.subGenre": "Experimental Hip-Hop, IDM",
+      "identity.instrumentSounds": "Laptop, Synthesizer, Drums",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Flying Lotus (Steven Ellison) is a Los Angeles-based producer, DJ, and filmmaker who fuses hip-hop beats with experimental electronic music and avant-garde jazz. As the founder of the influential Brainfeeder label."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, Hip-Hop, subGenre: Experimental Hip-Hop, IDM, instrumentSounds: Laptop, Synthesizer, Drums, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Flying Lotus (Steven Ellison) is a Los Angeles-based producer, DJ, and filmmaker...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "artist": "Four Tet",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Folktronica, Ambient",
+      "identity.instrumentSounds": "Laptop, Sampler, Synthesizer",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Four Tet (Kieran Hebden) is a British musician and producer credited with pioneering the 'folktronica' genre. Over two decades, he has built a legacy of emotionally rich, genre-fluid electronic music."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: Electronic, subGenre: Folktronica, Ambient, instrumentSounds: Laptop, Sampler, Synthesizer, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Four Tet (Kieran Hebden) is a British musician and producer credited with pionee...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "artist": "Fred Again..",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "House, UK Garage",
+      "identity.instrumentSounds": "Laptop, Sampler, Keyboards",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Fred Again.. (Fred Gibson) is a British record producer, songwriter, and DJ who has become one of electronic music's biggest breakthrough stars. His 'Actual Life' series transforms voice memos and samples into emotionally resonant dance tracks."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: Electronic, subGenre: House, UK Garage, instrumentSounds: Laptop, Sampler, Keyboards, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fred Again.. (Fred Gibson) is a British record producer, songwriter, and DJ who ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "artist": "Future",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Hip-Hop",
+      "identity.subGenre": "Trap",
+      "identity.instrumentSounds": "Vocals, 808 Drum Machine, Synthesizer",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Future (Nayvadius Wilburn) is an American rapper, singer, and songwriter widely credited as a pioneer of trap music. Known for his melodic flow, introspective lyrics, and prolific output, he has shaped the sound of modern Southern hip-hop."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Hip-Hop, subGenre: Trap, instrumentSounds: Vocals, 808 Drum Machine, Synthesizer, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Future (Nayvadius Wilburn) is an American rapper, singer, and songwriter widely ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "artist": "Gold Panda",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "IDM, Ambient",
+      "identity.instrumentSounds": "Laptop, Sampler, Field Recordings",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Gold Panda (Derwin Schlecker) is a British electronic music producer and DJ known for his intricate, sample-based compositions. Drawing from influences ranging from Japanese culture to ambient textures."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: IDM, Ambient, instrumentSounds: Laptop, Sampler, Field Recordings, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Gold Panda (Derwin Schlecker) is a British electronic music producer and DJ know...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "artist": "Gorillaz",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Alternative Rock, Electronic",
+      "identity.subGenre": "Art Pop, Trip-Hop",
+      "identity.instrumentSounds": "Synthesizer, Vocals, Drum Machine",
+      "identity.mf": "Mixed",
+      "identity.descriptionShort": "Gorillaz is a British virtual band created by musician Damon Albarn and artist Jamie Hewlett, featuring a rotating ensemble of collaborators. Blurring the lines between alternative rock, hip-hop, and electronic music."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Alternative Rock, Electronic, subGenre: Art Pop, Trip-Hop, instrumentSounds: Synthesizer, Vocals, Drum Machine, mf: Mixed",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Gorillaz is a British virtual band created by musician Damon Albarn and artist J...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "artist": "Grandbrothers",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Electronic, Classical",
+      "identity.subGenre": "Neo-Classical, Ambient",
+      "identity.instrumentSounds": "Grand Piano, Modular Electronics, Electromechanical Hammers",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Grandbrothers is a German-Swiss duo comprising pianist Erol Sarp and engineer Lukas Vogel, known for their innovative fusion of acoustic piano and electronic manipulation. Using custom-built electromechanical hammers and self-designed software."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Electronic, Classical, subGenre: Neo-Classical, Ambient, instrumentSounds: Grand Piano, Modular Electronics, Electromechanical Hammers, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Grandbrothers is a German-Swiss duo comprising pianist Erol Sarp and engineer Lu...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "artist": "Grimes",
+    "updates": {
+      "identity.programmingStyle": "Subheadliner",
+      "identity.genreLabels": "Electronic, Pop",
+      "identity.subGenre": "Art Pop, Synth-Pop",
+      "identity.instrumentSounds": "Synthesizer, Vocals, Drum Machine",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Grimes (Claire Boucher) is a Canadian musician, singer, songwriter, and visual artist known for her eclectic, experimental approach to pop music. Her work blends ethereal vocals with dense electronic production."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Subheadliner, genreLabels: Electronic, Pop, subGenre: Art Pop, Synth-Pop, instrumentSounds: Synthesizer, Vocals, Drum Machine, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Grimes (Claire Boucher) is a Canadian musician, singer, songwriter, and visual a...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "artist": "Halina Rice",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "IDM, Ambient",
+      "identity.instrumentSounds": "Synthesizer, Laptop, Spatial Audio System",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Halina Rice is a London-based electronic music producer and audiovisual artist renowned for her immersive, technology-driven live performances. Working at the intersection of music, art, and spatial audio."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: IDM, Ambient, instrumentSounds: Synthesizer, Laptop, Spatial Audio System, mf: Female",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Halina Rice is a London-based electronic music producer and audiovisual artist r...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "artist": "Halsey",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Pop",
+      "identity.subGenre": "Alternative Pop, Electropop",
+      "identity.instrumentSounds": "Vocals, Synthesizer, Guitar",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Halsey (Ashley Frangipane) is an American singer-songwriter known for her distinctive voice, confessional lyrics, and genre-fluid approach to pop music. Rising from viral fame to become a global superstar."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Pop, subGenre: Alternative Pop, Electropop, instrumentSounds: Vocals, Synthesizer, Guitar, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Halsey (Ashley Frangipane) is an American singer-songwriter known for her distin...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "artist": "Hania Rani",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Classical, Electronic",
+      "identity.subGenre": "Contemporary Classical, Ambient",
+      "identity.instrumentSounds": "Piano, Synthesizer",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Hania Rani is a Polish pianist, composer, and singer known for her emotionally resonant, minimalist compositions that merge classical piano with subtle electronic elements. A key figure in the contemporary classical movement."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Classical, Electronic, subGenre: Contemporary Classical, Ambient, instrumentSounds: Piano, Synthesizer, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Hania Rani is a Polish pianist, composer, and singer known for her emotionally r...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "artist": "Haroon Mirza",
+    "updates": {
+      "identity.programmingStyle": "Sound Art",
+      "identity.genreLabels": "Sound Art, Visual Art",
+      "identity.subGenre": "Installation, Electroacoustic",
+      "identity.instrumentSounds": "Electronics, Found Objects, Solar Panels",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Haroon Mirza is a British-Pakistani artist renowned for sculptural installations and immersive environments that explore the interplay of sound, light, and electricity. Winner of the Silver Lion at the 2011 Venice Biennale."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Sound Art, genreLabels: Sound Art, Visual Art, subGenre: Installation, Electroacoustic, instrumentSounds: Electronics, Found Objects, Solar Panels, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Haroon Mirza is a British-Pakistani artist renowned for sculptural installations...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "artist": "Holly Herndon",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic, Experimental",
+      "identity.subGenre": "AI Music, Avant-Pop",
+      "identity.instrumentSounds": "Laptop, Voice, AI Systems",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Holly Herndon is an American experimental electronic musician and composer whose work explores the intersection of artificial intelligence, technology, and the human voice. Known for integrating machine learning and AI collaborators into her compositions."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, Experimental, subGenre: AI Music, Avant-Pop, instrumentSounds: Laptop, Voice, AI Systems, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Holly Herndon is an American experimental electronic musician and composer whose...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "artist": "Ian Dearden",
+    "updates": {
+      "identity.programmingStyle": "Sound Art",
+      "identity.genreLabels": "Sound Art",
+      "identity.subGenre": "Theatrical Sound Design",
+      "identity.instrumentSounds": "Sound Design, Field Recording, Electronics",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Ian Dearden is a renowned sound designer and co-founder of Sound Intermedia, a duo established in 1996 with David Sheppard. He has created sound designs for major opera productions at the Royal Opera House, English National Opera, and Glyndebourne."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Sound Art, genreLabels: Sound Art, subGenre: Theatrical Sound Design, instrumentSounds: Sound Design, Field Recording, Electronics, mf: Male",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Ian Dearden is a renowned sound designer and co-founder of Sound Intermedia, a d...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "artist": "Igor Levit",
+    "updates": {
+      "identity.programmingStyle": "Classical",
+      "identity.genreLabels": "Classical",
+      "identity.subGenre": "Contemporary Classical",
+      "identity.instrumentSounds": "Piano",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Igor Levit is a Russian-German classical pianist acclaimed for his recordings of Beethoven's complete piano sonatas and Bach's Goldberg Variations. He is known for his rigorous technique combined with bold interpretive personality."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Classical, genreLabels: Classical, subGenre: Contemporary Classical, instrumentSounds: Piano, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Igor Levit is a Russian-German classical pianist acclaimed for his recordings of...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "artist": "James Blake",
+    "updates": {
+      "identity.programmingStyle": "Subheadliner",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Art Pop, Post-Dubstep",
+      "identity.instrumentSounds": "Synthesizer, Vocals, Modular Synth",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "James Blake is an English electronic musician and singer-songwriter known for blending experimental electronic soundscapes with soulful, introspective songwriting. Since his pioneering post-dubstep beginnings, he has evolved into a Grammy-winning producer."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Subheadliner, genreLabels: Electronic, subGenre: Art Pop, Post-Dubstep, instrumentSounds: Synthesizer, Vocals, Modular Synth, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "James Blake is an English electronic musician and singer-songwriter known for bl...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "artist": "Jamie xx",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Indie Electronic, UK Bass",
+      "identity.instrumentSounds": "MPC, Synthesizer, Turntables",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Jamie xx is an English musician, DJ, and producer known as a member of the indie pop band The xx and for his acclaimed solo work. His 2015 album In Colour earned a Mercury Prize nomination and a Grammy nomination."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: Electronic, subGenre: Indie Electronic, UK Bass, instrumentSounds: MPC, Synthesizer, Turntables, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jamie xx is an English musician, DJ, and producer known as a member of the indie...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "artist": "Janelle Monáe",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Pop",
+      "identity.subGenre": "Art Pop, R&B",
+      "identity.instrumentSounds": "Vocals, Synthesizer",
+      "identity.mf": "Non-Binary",
+      "identity.descriptionShort": "Janelle Monáe is an American singer, rapper, actress, and producer known for conceptually ambitious albums like The ArchAndroid and Dirty Computer. A critically acclaimed and culturally influential artist."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Pop, subGenre: Art Pop, R&B, instrumentSounds: Vocals, Synthesizer, mf: Non-Binary",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Janelle Monáe is an American singer, rapper, actress, and producer known for con...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "artist": "Jennifer Walshe",
+    "updates": {
+      "identity.programmingStyle": "Sound Art",
+      "identity.genreLabels": "Experimental",
+      "identity.subGenre": "Contemporary Classical, Extended Vocal",
+      "identity.instrumentSounds": "Vocals, Electronics, Multimedia",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Jennifer Walshe is an Irish composer, vocalist, and improviser known for her experimental works incorporating extended vocal techniques, multimedia, and AI-generated material. Her pieces have been performed at major international festivals."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Sound Art, genreLabels: Experimental, subGenre: Contemporary Classical, Extended Vocal, instrumentSounds: Vocals, Electronics, Multimedia, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jennifer Walshe is an Irish composer, vocalist, and improviser known for her exp...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "artist": "Jon Hopkins",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Ambient, Techno",
+      "identity.instrumentSounds": "Synthesizer, Piano, Laptop",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Jon Hopkins is a British electronic musician and producer whose work merges ambient introspection with club-oriented intensity. Albums like Immunity and Singularity have earned Mercury Prize and Grammy nominations."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: Ambient, Techno, instrumentSounds: Synthesizer, Piano, Laptop, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jon Hopkins is a British electronic musician and producer whose work merges ambi...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "artist": "Jorja Smith",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "R&B",
+      "identity.subGenre": "Neo-Soul, UK R&B",
+      "identity.instrumentSounds": "Vocals",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Jorja Smith is an English singer-songwriter from Walsall whose debut single Blue Lights announced her as a major voice in UK R&B. Blending classical vocal artistry with modern R&B, reggae, and hip-hop influences."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: R&B, subGenre: Neo-Soul, UK R&B, instrumentSounds: Vocals, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jorja Smith is an English singer-songwriter from Walsall whose debut single Blue...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "artist": "Justin Gray",
+    "updates": {
+      "identity.programmingStyle": "Second Stage",
+      "identity.genreLabels": "Jazz",
+      "identity.subGenre": "World Jazz, Contemporary",
+      "identity.instrumentSounds": "Bass, Bass Veena, Double Bass",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Justin Gray is a Juno Award-winning Canadian bassist, composer, producer, and educator based in Toronto. Known for inventing the Bass Veena, an instrument designed for Indian classical music, he leads the ensemble Justin Gray & Synthesis."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Second Stage, genreLabels: Jazz, subGenre: World Jazz, Contemporary, instrumentSounds: Bass, Bass Veena, Double Bass, mf: Male",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Justin Gray is a Juno Award-winning Canadian bassist, composer, producer, and ed...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "artist": "Kaitlyn Aurelia Smith",
+    "updates": {
+      "identity.programmingStyle": "Ambient Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Ambient, Modular Synth",
+      "identity.instrumentSounds": "Buchla Modular Synthesizer, Synthesizer",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Kaitlyn Aurelia Smith is an American composer and electronic musician known for her immersive, meditative works created primarily on Buchla modular synthesizers. Her acclaimed albums explore the intersection of sound, color, body movement, and expression."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Ambient Stage, genreLabels: Electronic, subGenre: Ambient, Modular Synth, instrumentSounds: Buchla Modular Synthesizer, Synthesizer, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Kaitlyn Aurelia Smith is an American composer and electronic musician known for ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "artist": "Karlheinz Stockhausen",
+    "updates": {
+      "identity.programmingStyle": "Classical",
+      "identity.genreLabels": "Classical, Electronic",
+      "identity.subGenre": "Electronic, Serial",
+      "identity.instrumentSounds": "Synthesizer, Electronics, Orchestra",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "German composer and a central figure in the development of electronic and serial music in the 20th century. His groundbreaking works like 'Gesang der Jünglinge' and 'Kontakte' pioneered the use of electronic sounds in composition."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Classical, genreLabels: Classical, Electronic, subGenre: Electronic, Serial, instrumentSounds: Synthesizer, Electronics, Orchestra, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "German composer and a central figure in the development of electronic and serial...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "artist": "Kelela",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "R&B, Electronic",
+      "identity.subGenre": "Alternative R&B, Futuristic",
+      "identity.instrumentSounds": "Vocals, Electronics, Synthesizer",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "American singer-songwriter who merges forward-thinking electronic production with intimate R&B vocals. Her critically acclaimed albums 'Take Me Apart' and 'Raven' showcase a sensuous, experimental approach to contemporary R&B."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: R&B, Electronic, subGenre: Alternative R&B, Futuristic, instrumentSounds: Vocals, Electronics, Synthesizer, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "American singer-songwriter who merges forward-thinking electronic production wit...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "artist": "Kelly Lee Owens",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Ambient Techno, Dream Pop",
+      "identity.instrumentSounds": "Synthesizer, Bass, Vocals",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Welsh electronic producer, songwriter, and bass player who creates intimate dance music blending ambient textures with driving club beats. Her acclaimed albums merge looped vocals, unique rhythms, and a variety of moods."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: Ambient Techno, Dream Pop, instrumentSounds: Synthesizer, Bass, Vocals, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Welsh electronic producer, songwriter, and bass player who creates intimate danc...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "artist": "Kiasmos",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Minimal Techno, Neoclassical",
+      "identity.instrumentSounds": "Piano, Synthesizer, Strings",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Icelandic-Faroese electronic duo formed by composer Ólafur Arnalds and producer Janus Rasmussen. Their music merges minimal techno with neoclassical orchestral flourishes, creating an emotional, danceable sound."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: Minimal Techno, Neoclassical, instrumentSounds: Piano, Synthesizer, Strings, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Icelandic-Faroese electronic duo formed by composer Ólafur Arnalds and producer ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "artist": "Kraftwerk",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Electropop, Synth-Pop",
+      "identity.instrumentSounds": "Synthesizer, Vocoder, Drum Machine",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "German electronic band founded in 1970, widely regarded as the pioneers of electronic popular music. Their groundbreaking albums including 'Autobahn,' 'Trans-Europe Express,' and 'The Man-Machine' defined the 'robot pop' aesthetic."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Electronic, subGenre: Electropop, Synth-Pop, instrumentSounds: Synthesizer, Vocoder, Drum Machine, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "German electronic band founded in 1970, widely regarded as the pioneers of elect...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "artist": "Lana Del Rey",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Pop, Indie",
+      "identity.subGenre": "Baroque Pop, Dream Pop",
+      "identity.instrumentSounds": "Vocals, Guitar, Piano",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "American singer-songwriter known for her cinematic sound that blends vintage Hollywood glamour with melancholic Americana. Her music, described as 'Hollywood sadcore,' features breathy vocals and poetic lyricism."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Pop, Indie, subGenre: Baroque Pop, Dream Pop, instrumentSounds: Vocals, Guitar, Piano, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "American singer-songwriter known for her cinematic sound that blends vintage Hol...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "artist": "Madame Gandhi",
+    "updates": {
+      "identity.programmingStyle": "Club Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Electro-Feminist, Percussive Electronic",
+      "identity.instrumentSounds": "Percussion, Electronics, Vocals",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Electronic music artist and activist known for her uplifting, percussive electronic sound and message of gender liberation and personal power. Former drummer for M.I.A., she produces music that combines electronic beats with activist themes."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Club Stage, genreLabels: Electronic, subGenre: Electro-Feminist, Percussive Electronic, instrumentSounds: Percussion, Electronics, Vocals, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Electronic music artist and activist known for her uplifting, percussive electro...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "artist": "Mat Dryhurst",
+    "updates": {
+      "identity.programmingStyle": "A/V Installation",
+      "identity.genreLabels": "Electronic, Experimental",
+      "identity.subGenre": "AI Music, Avant-Garde Electronic",
+      "identity.instrumentSounds": "Laptop, Electronics, Vocals",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Electronic artist, researcher, and producer based in Berlin who explores the intersection of music, artificial intelligence, and technology. Known for his collaborative work with Holly Herndon on AI-driven music projects including Spawn and Holly+."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: A/V Installation, genreLabels: Electronic, Experimental, subGenre: AI Music, Avant-Garde Electronic, instrumentSounds: Laptop, Electronics, Vocals, mf: Male",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Electronic artist, researcher, and producer based in Berlin who explores the int...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "artist": "Mike Oldfield",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Progressive Rock, Ambient",
+      "identity.subGenre": "Progressive Rock, New Age",
+      "identity.instrumentSounds": "Guitar, Synthesizer, Percussion",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "English composer and musician best known for his groundbreaking 1973 album 'Tubular Bells,' which helped pioneer progressive rock and ambient music. A multi-instrumentalist who performed nearly all parts on his recordings."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Progressive Rock, Ambient, subGenre: Progressive Rock, New Age, instrumentSounds: Guitar, Synthesizer, Percussion, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "English composer and musician best known for his groundbreaking 1973 album 'Tubu...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "artist": "Miley Cyrus",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Pop, Rock",
+      "identity.subGenre": "Pop Rock, Dance-Pop",
+      "identity.instrumentSounds": "Vocals, Guitar",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "American singer-songwriter and actress who has evolved from teen idol to one of the most influential pop artists of her generation. Known for her distinctive raspy voice and genre-fluid approach spanning pop, rock, country, and hip-hop."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Pop, Rock, subGenre: Pop Rock, Dance-Pop, instrumentSounds: Vocals, Guitar, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "American singer-songwriter and actress who has evolved from teen idol to one of ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "artist": "Moby",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Ambient Techno",
+      "identity.instrumentSounds": "Synthesizer, Piano, Laptop",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Moby is an American electronic music pioneer renowned for blending ambient soundscapes with techno and pop sensibilities. Rising to global fame with his landmark 1999 album Play, he has consistently pushed the boundaries of electronic composition."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Electronic, subGenre: Ambient Techno, instrumentSounds: Synthesizer, Piano, Laptop, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Moby is an American electronic music pioneer renowned for blending ambient sound...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "artist": "Moderat",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "IDM, Glitch Techno",
+      "identity.instrumentSounds": "Synthesizer, Drum Machine, Vocals",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Moderat is a Berlin-based electronic supergroup formed by Apparat and Modeselektor, merging intricate melodic songwriting with bass-heavy club production. Their sound fuses IDM, glitch, and emotive vocal-driven electronica."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Electronic, subGenre: IDM, Glitch Techno, instrumentSounds: Synthesizer, Drum Machine, Vocals, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Moderat is a Berlin-based electronic supergroup formed by Apparat and Modeselekt...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "artist": "Monolake / Robert Henke",
+    "updates": {
+      "identity.programmingStyle": "A/V Installation",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Minimal Techno, Ambient",
+      "identity.instrumentSounds": "Modular Synth, Laptop, Surround Sound System",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Monolake is the long-running electronic project of Robert Henke, a pivotal figure in Berlin minimal techno and co-founder of Ableton. His work spans dub-influenced techno, immersive ambient compositions, and groundbreaking audiovisual installations featuring laser systems."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: A/V Installation, genreLabels: Electronic, subGenre: Minimal Techno, Ambient, instrumentSounds: Modular Synth, Laptop, Surround Sound System, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monolake is the long-running electronic project of Robert Henke, a pivotal figur...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "artist": "Naomi Jon",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Pop",
+      "identity.subGenre": "Electropop, Dance-Pop",
+      "identity.instrumentSounds": "Synthesizer, Vocals, Drum Machine",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Naomi Jon is a German pop singer-songwriter and content creator from Berlin known for catchy electropop with danceable beats and electronic production. She gained prominence through social media before releasing charting albums."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Pop, subGenre: Electropop, Dance-Pop, instrumentSounds: Synthesizer, Vocals, Drum Machine, mf: Female",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Naomi Jon is a German pop singer-songwriter and content creator from Berlin know...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "artist": "Nicolas Jaar",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Art House, Experimental Electronic",
+      "identity.instrumentSounds": "Synthesizer, Laptop, Percussion",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Nicolas Jaar is a Chilean-American electronic composer and producer known for his slow, elegiac sound that merges house rhythms with jazz, soul, and cinematic textures. His acclaimed solo work and duo Darkside showcase a deeply artistic, genre-defying approach."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: Art House, Experimental Electronic, instrumentSounds: Synthesizer, Laptop, Percussion, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Nicolas Jaar is a Chilean-American electronic composer and producer known for hi...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "artist": "Nils Frahm",
+    "updates": {
+      "identity.programmingStyle": "Ambient Stage",
+      "identity.genreLabels": "Classical",
+      "identity.subGenre": "Contemporary Classical, Ambient",
+      "identity.instrumentSounds": "Piano, Synthesizer, Electronics",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Nils Frahm is a German composer and multi-instrumentalist based in Berlin who blends modern classical piano with ambient and electronic textures. Known for albums like Felt and All Melody, he creates intimate, atmospheric soundscapes."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Ambient Stage, genreLabels: Classical, subGenre: Contemporary Classical, Ambient, instrumentSounds: Piano, Synthesizer, Electronics, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Nils Frahm is a German composer and multi-instrumentalist based in Berlin who bl...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "artist": "Nine Inch Nails",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Rock",
+      "identity.subGenre": "Industrial Rock",
+      "identity.instrumentSounds": "Guitar, Synthesizer, Drums",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Nine Inch Nails is the influential industrial rock project led by Trent Reznor, known for fusing aggressive electronic production with visceral rock instrumentation. Since the late 1980s, they have produced landmark albums while pushing the boundaries of live performance."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Rock, subGenre: Industrial Rock, instrumentSounds: Guitar, Synthesizer, Drums, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Nine Inch Nails is the influential industrial rock project led by Trent Reznor, ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "artist": "Nitin Sawhney",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "World Fusion, Trip-Hop",
+      "identity.instrumentSounds": "Flamenco Guitar, Piano, Electronics",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Nitin Sawhney is a British Indian musician, composer, and producer celebrated for blending Indian classical traditions with electronic, jazz, hip-hop, and flamenco elements. A pioneer of the Asian Underground movement."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Electronic, subGenre: World Fusion, Trip-Hop, instrumentSounds: Flamenco Guitar, Piano, Electronics, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Nitin Sawhney is a British Indian musician, composer, and producer celebrated fo...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "artist": "Photay",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Experimental Electronic, Ambient",
+      "identity.instrumentSounds": "Synthesizer, Field Recordings, Drums",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Photay is the project of American electronic producer and multi-instrumentalist Evan Shornstein, known for crafting immersive, nature-inspired soundscapes. His music blends ambient textures, intricate percussion, and melodic synth work."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: Experimental Electronic, Ambient, instrumentSounds: Synthesizer, Field Recordings, Drums, mf: Male",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Photay is the project of American electronic producer and multi-instrumentalist ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "artist": "Pink Floyd",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Rock",
+      "identity.subGenre": "Progressive Rock, Psychedelic Rock",
+      "identity.instrumentSounds": "Guitar, Synthesizer, Vocals",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Pink Floyd is one of the most influential rock bands in history, pioneering the progressive and psychedelic rock genres with landmark albums like The Dark Side of the Moon and The Wall. Known for their groundbreaking studio techniques and spectacular live visual productions."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Rock, subGenre: Progressive Rock, Psychedelic Rock, instrumentSounds: Guitar, Synthesizer, Vocals, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Pink Floyd is one of the most influential rock bands in history, pioneering the ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "artist": "Portishead",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Trip-Hop",
+      "identity.instrumentSounds": "Vocals, Guitar, Synthesizer",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Portishead is an English band formed in Bristol, consisting of Beth Gibbons on vocals, Geoff Barrow on production, and Adrian Utley on guitar. They are pioneers of the trip-hop genre, blending electronica, experimental rock, soul, and jazz into a dark, atmospheric sound."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Electronic, subGenre: Trip-Hop, instrumentSounds: Vocals, Guitar, Synthesizer, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Portishead is an English band formed in Bristol, consisting of Beth Gibbons on v...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "artist": "Radiohead",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Rock",
+      "identity.subGenre": "Alternative Rock",
+      "identity.instrumentSounds": "Guitar, Synthesizer, Drums",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Radiohead is an English rock band led by Thom Yorke, regarded as one of the most influential and innovative bands in modern music. Their sound spans alternative rock, electronic, and experimental genres, with landmark albums like OK Computer and Kid A."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Rock, subGenre: Alternative Rock, instrumentSounds: Guitar, Synthesizer, Drums, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Radiohead is an English rock band led by Thom Yorke, regarded as one of the most...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "artist": "RAYE",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Pop",
+      "identity.subGenre": "Electro-Pop, R&B",
+      "identity.instrumentSounds": "Vocals, Piano",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "RAYE is the stage name of Rachel Agatha Keen, a British singer-songwriter and record producer born in 1997. Her music blends pop, R&B, jazz, and soul, and she gained widespread recognition with her 2023 debut album My 21st Century Blues."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Pop, subGenre: Electro-Pop, R&B, instrumentSounds: Vocals, Piano, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "RAYE is the stage name of Rachel Agatha Keen, a British singer-songwriter and re...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "artist": "Rival Consoles",
+    "updates": {
+      "identity.programmingStyle": "Live Electronic",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "IDM, Ambient",
+      "identity.instrumentSounds": "Synthesizer, Modular Synth, Guitar",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Rival Consoles is the stage name of Ryan Lee West, a British electronic musician born in 1985 and based in London. Known for making synthesizers sound human and atmospheric, his work spans IDM, ambient, and experimental dance music."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Live Electronic, genreLabels: Electronic, subGenre: IDM, Ambient, instrumentSounds: Synthesizer, Modular Synth, Guitar, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Rival Consoles is the stage name of Ryan Lee West, a British electronic musician...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "artist": "Robyn",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Pop",
+      "identity.subGenre": "Electropop, Dance-Pop",
+      "identity.instrumentSounds": "Vocals, Synthesizer",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Robyn is a Swedish pop singer and songwriter who has been a defining force in electropop since the 1990s. Known for her emotionally resonant dance anthems like Dancing on My Own, she blends vulnerability with infectious electronic production."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Pop, subGenre: Electropop, Dance-Pop, instrumentSounds: Vocals, Synthesizer, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Robyn is a Swedish pop singer and songwriter who has been a defining force in el...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "artist": "Romy",
+    "updates": {
+      "identity.programmingStyle": "Second Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Electro-Pop, Trance",
+      "identity.instrumentSounds": "Vocals, Synthesizer",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Romy Madley Croft is a British musician best known as a vocalist and guitarist for the acclaimed indie pop band The xx. Her 2023 solo debut Mid Air marked a shift toward euphoric electronic and dance-pop sounds, exploring club culture and queer identity."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Second Stage, genreLabels: Electronic, subGenre: Electro-Pop, Trance, instrumentSounds: Vocals, Synthesizer, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Romy Madley Croft is a British musician best known as a vocalist and guitarist f...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "artist": "Ryoji Ikeda",
+    "updates": {
+      "identity.programmingStyle": "A/V Installation",
+      "identity.genreLabels": "Sound Art",
+      "identity.subGenre": "Audiovisual, Data Art",
+      "identity.instrumentSounds": "Laptop, Projectors, Sound System",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Ryoji Ikeda is a Japanese electronic composer and visual artist born in 1966, regarded as one of the world's leading figures in audiovisual art. His practice explores the intersection of sound, data, mathematics, and light through immersive installations."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: A/V Installation, genreLabels: Sound Art, subGenre: Audiovisual, Data Art, instrumentSounds: Laptop, Projectors, Sound System, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Ryoji Ikeda is a Japanese electronic composer and visual artist born in 1966, re...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "artist": "Sampha",
+    "updates": {
+      "identity.programmingStyle": "Second Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Electronic Soul, R&B",
+      "identity.instrumentSounds": "Vocals, Piano, Synthesizer",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Sampha is a London-based singer, songwriter, and producer known for his emotive voice and genre-blending electronic soul sound. He won the prestigious Mercury Prize in 2017 for his debut album Process, which explored grief and personal loss."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Second Stage, genreLabels: Electronic, subGenre: Electronic Soul, R&B, instrumentSounds: Vocals, Piano, Synthesizer, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Sampha is a London-based singer, songwriter, and producer known for his emotive ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "updates": {
+      "identity.programmingStyle": "Sound Art",
+      "identity.genreLabels": "Sound Art",
+      "identity.subGenre": "Contemporary Classical, Installation",
+      "identity.instrumentSounds": "Various Instruments, Electronics, 3D Objects",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Samson Young is a Hong Kong-born artist and composer born in 1979, whose practice spans sound, performance, video, and installation. Trained in music composition at Princeton University, his work examines the cultural, political, and historical dimensions of sound."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Sound Art, genreLabels: Sound Art, subGenre: Contemporary Classical, Installation, instrumentSounds: Various Instruments, Electronics, 3D Objects, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Samson Young is a Hong Kong-born artist and composer born in 1979, whose practic...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "artist": "Skrillex",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Dubstep, EDM",
+      "identity.instrumentSounds": "Laptop, DJ Equipment, Synthesizer",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Skrillex is the stage name of Sonny Moore, an American DJ, producer, and singer born in 1988 who became one of the most influential figures in electronic dance music. He rose to fame with his 2010 EP Scary Monsters and Nice Sprites, helping to popularize dubstep worldwide."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: Electronic, subGenre: Dubstep, EDM, instrumentSounds: Laptop, DJ Equipment, Synthesizer, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Skrillex is the stage name of Sonny Moore, an American DJ, producer, and singer ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "artist": "Sofia Kourtesis",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "House",
+      "identity.instrumentSounds": "Laptop, Synthesizer, Field Recordings",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Sofia Kourtesis is a Peruvian-born electronic music producer and DJ based in Berlin, known for blending house and techno with Latin American rhythms and emotionally resonant, personal narratives. Her acclaimed debut album 'Madres' (2023) explores themes of family, loss, and resilience."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: Electronic, subGenre: House, instrumentSounds: Laptop, Synthesizer, Field Recordings, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Sofia Kourtesis is a Peruvian-born electronic music producer and DJ based in Ber...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "artist": "Steve Miller Band",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Rock",
+      "identity.subGenre": "Classic Rock",
+      "identity.instrumentSounds": "Guitar, Vocals, Harmonica",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Steve Miller Band is an American rock band formed in San Francisco in 1967, led by guitarist and vocalist Steve Miller. The band dominated the 1970s with a string of hit singles including 'The Joker,' 'Jet Airliner,' and 'Fly Like an Eagle' that remain staples of classic rock radio."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Rock, subGenre: Classic Rock, instrumentSounds: Guitar, Vocals, Harmonica, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Steve Miller Band is an American rock band formed in San Francisco in 1967, led ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "artist": "Steve Reich",
+    "updates": {
+      "identity.programmingStyle": "Classical",
+      "identity.genreLabels": "Classical",
+      "identity.subGenre": "Minimalism",
+      "identity.instrumentSounds": "Percussion, Piano, Marimba",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Steve Reich, born in 1936, is one of the most influential American composers of the 20th century and a leading pioneer of minimalist music. His groundbreaking works such as 'Music for 18 Musicians,' 'Clapping Music,' and 'Different Trains' use repetitive patterns and phasing techniques."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Classical, genreLabels: Classical, subGenre: Minimalism, instrumentSounds: Percussion, Piano, Marimba, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Steve Reich, born in 1936, is one of the most influential American composers of ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "artist": "Steven Wilson",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Rock",
+      "identity.subGenre": "Progressive Rock",
+      "identity.instrumentSounds": "Guitar, Synthesizer, Vocals",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Steven Wilson is a British musician, songwriter, and producer who first gained recognition as the frontman of the progressive rock band Porcupine Tree. Known for his prolific output and genre-defying approach, his solo career spans from ambient electronics to expansive progressive rock."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Rock, subGenre: Progressive Rock, instrumentSounds: Guitar, Synthesizer, Vocals, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Steven Wilson is a British musician, songwriter, and producer who first gained r...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "artist": "Stevie Nicks",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Rock",
+      "identity.subGenre": "Classic Rock",
+      "identity.instrumentSounds": "Vocals, Piano, Tambourine",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Stevie Nicks is an iconic American singer-songwriter best known as a member of Fleetwood Mac and for her prolific solo career. Her distinctive raspy vocals and mystical stage persona produced timeless hits like 'Rhiannon,' 'Dreams,' and 'Edge of Seventeen.'"
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Rock, subGenre: Classic Rock, instrumentSounds: Vocals, Piano, Tambourine, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Stevie Nicks is an iconic American singer-songwriter best known as a member of F...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "artist": "Suzanne Ciani",
+    "updates": {
+      "identity.programmingStyle": "A/V Installation",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Ambient",
+      "identity.instrumentSounds": "Buchla Synthesizer, Modular Synth, Piano",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Suzanne Ciani is a pioneering American electronic music composer and five-time Grammy nominee who has been at the forefront of synthesizer music since the 1960s. She is renowned for her mastery of the Buchla modular synthesizer, creating iconic sound designs and quadraphonic live performances."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: A/V Installation, genreLabels: Electronic, subGenre: Ambient, instrumentSounds: Buchla Synthesizer, Modular Synth, Piano, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Suzanne Ciani is a pioneering American electronic music composer and five-time G...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "artist": "SZA",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "R&B",
+      "identity.subGenre": "Alternative R&B",
+      "identity.instrumentSounds": "Vocals",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "SZA is an American singer-songwriter whose diaristic songwriting and genre-fluid approach have made her one of the most influential voices in contemporary R&B. Her acclaimed albums including 'Ctrl' (2017) and 'SOS' (2022) blend alternative R&B, soul, and hip-hop influences."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: R&B, subGenre: Alternative R&B, instrumentSounds: Vocals, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "SZA is an American singer-songwriter whose diaristic songwriting and genre-fluid...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "artist": "Talking Heads",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Rock",
+      "identity.subGenre": "New Wave",
+      "identity.instrumentSounds": "Guitar, Vocals, Drums",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Talking Heads was an American new wave band formed in 1975 by David Byrne, Chris Frantz, Tina Weymouth, and Jerry Harrison. They became one of the most influential bands of their era by blending punk, art rock, funk, and world music influences."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Rock, subGenre: New Wave, instrumentSounds: Guitar, Vocals, Drums, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Talking Heads was an American new wave band formed in 1975 by David Byrne, Chris...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "artist": "Tarik Barri",
+    "updates": {
+      "identity.programmingStyle": "A/V Installation",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Visual Music",
+      "identity.instrumentSounds": "Laptop, Custom Software, Visuals",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Tarik Barri is a Dutch audiovisual composer and software developer known for creating his own tools for live audiovisual performance and composition. As co-founder of Showsync, he developed Videosync, software that extends Ableton Live into an audiovisual engine."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: A/V Installation, genreLabels: Electronic, subGenre: Visual Music, instrumentSounds: Laptop, Custom Software, Visuals, mf: Male",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Tarik Barri is a Dutch audiovisual composer and software developer known for cre...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "artist": "Tash Sultana",
+    "updates": {
+      "identity.programmingStyle": "Second Stage",
+      "identity.genreLabels": "Rock",
+      "identity.subGenre": "Psychedelic Rock",
+      "identity.instrumentSounds": "Guitar, Loop Pedal, Vocals",
+      "identity.mf": "Non-Binary",
+      "identity.descriptionShort": "Tash Sultana is an Australian singer, songwriter, and multi-instrumentalist who turned solo performance into a full-band experience through masterful live looping. Their genre-blending sound fuses psychedelic rock, reggae, soul, and R&B, built layer by layer on stage using loop pedals and effects."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Second Stage, genreLabels: Rock, subGenre: Psychedelic Rock, instrumentSounds: Guitar, Loop Pedal, Vocals, mf: Non-Binary",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Tash Sultana is an Australian singer, songwriter, and multi-instrumentalist who ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "artist": "Taylor Swift",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Pop",
+      "identity.subGenre": "Synth-Pop, Country-Pop",
+      "identity.instrumentSounds": "Vocals, Guitar, Piano",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Taylor Swift is one of the most commercially successful and critically acclaimed artists of her generation, known for her narrative songwriting that has evolved from country roots to synth-driven pop and indie folk. Her record-breaking tours and albums have made her one of the biggest global live draws."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Pop, subGenre: Synth-Pop, Country-Pop, instrumentSounds: Vocals, Guitar, Piano, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Taylor Swift is one of the most commercially successful and critically acclaimed...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "artist": "Thom Yorke",
+    "updates": {
+      "identity.programmingStyle": "Subheadliner",
+      "identity.genreLabels": "Electronic, Experimental",
+      "identity.subGenre": "IDM, Art Rock",
+      "identity.instrumentSounds": "Synthesizer, Laptop, Vocals",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Thom Yorke is the lead vocalist and principal songwriter of Radiohead, and has built a distinctive solo career exploring electronic and experimental territories. His solo work and side projects like Atoms for Peace lean heavily into IDM, ambient, and left-field electronic production."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Subheadliner, genreLabels: Electronic, Experimental, subGenre: IDM, Art Rock, instrumentSounds: Synthesizer, Laptop, Vocals, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Thom Yorke is the lead vocalist and principal songwriter of Radiohead, and has b...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "artist": "Tipper",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Nu Skool Breaks, IDM",
+      "identity.instrumentSounds": "Laptop, Turntables, Modular Synth",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Dave Tipper is a British composer and producer renowned for his pioneering work in nu skool breakbeat, glitch hop, and psychedelic electronic music. His productions are characterized by intricate polyrhythms, extreme bass frequencies, and meticulous sound design."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Electronic, subGenre: Nu Skool Breaks, IDM, instrumentSounds: Laptop, Turntables, Modular Synth, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dave Tipper is a British composer and producer renowned for his pioneering work ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "artist": "Tourist",
+    "updates": {
+      "identity.programmingStyle": "Second Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "UK Garage, Deep House",
+      "identity.instrumentSounds": "Synthesizer, Laptop, Drum Machine",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "William Phillips, known as Tourist, is an English electronic musician and songwriter who creates yearning, bittersweet dance tracks that blend UK garage, house, and emotional electronica. He won a Grammy for co-writing Sam Smith's 'Stay with Me.'"
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Second Stage, genreLabels: Electronic, subGenre: UK Garage, Deep House, instrumentSounds: Synthesizer, Laptop, Drum Machine, mf: Male",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "William Phillips, known as Tourist, is an English electronic musician and songwr...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "artist": "Tove Lo",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Pop, Electronic",
+      "identity.subGenre": "Synth-Pop, Dance-Pop",
+      "identity.instrumentSounds": "Vocals, Synthesizer",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Tove Lo is a Swedish singer and songwriter known for her raw, emotionally candid approach to pop music that blends electronic production with confessional lyrics. She gained international recognition with hits like 'Habits (Stay High)' and 'Talking Body.'"
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Pop, Electronic, subGenre: Synth-Pop, Dance-Pop, instrumentSounds: Vocals, Synthesizer, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Tove Lo is a Swedish singer and songwriter known for her raw, emotionally candid...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "artist": "Travis Scott",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "Hip-Hop",
+      "identity.subGenre": "Trap, Psychedelic Rap",
+      "identity.instrumentSounds": "Vocals, Synthesizer, Drum Machine",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Travis Scott is an American rapper, singer, and producer whose psychedelic-infused trap sound and explosive live performances have made him one of the biggest stars in contemporary hip-hop. His albums 'Astroworld' and 'Rodeo' are celebrated for their immersive sonic landscapes."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: Hip-Hop, subGenre: Trap, Psychedelic Rap, instrumentSounds: Vocals, Synthesizer, Drum Machine, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Travis Scott is an American rapper, singer, and producer whose psychedelic-infus...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "artist": "UNIIQU3",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Jersey Club, Footwork",
+      "identity.instrumentSounds": "Laptop, Drum Machine, Vocals",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Cherise Gary, known as UNIIQU3, is a Newark-based DJ, producer, and vocalist hailed as the 'Queen of Jersey Club' who has been instrumental in bringing the genre from local New Jersey scenes to global recognition."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: Electronic, subGenre: Jersey Club, Footwork, instrumentSounds: Laptop, Drum Machine, Vocals, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Cherise Gary, known as UNIIQU3, is a Newark-based DJ, producer, and vocalist hai...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "artist": "The Weeknd",
+    "updates": {
+      "identity.programmingStyle": "Headliner",
+      "identity.genreLabels": "R&B, Pop",
+      "identity.subGenre": "Alternative R&B, Synth-Pop",
+      "identity.instrumentSounds": "Vocals, Synthesizer",
+      "identity.mf": "Male",
+      "identity.descriptionShort": "Abel Tesfaye, known as The Weeknd, is a Canadian singer and songwriter who emerged from the Toronto underground scene to become one of the biggest global superstars in contemporary R&B and pop. His distinctive falsetto vocals and dark, atmospheric production blend alternative R&B with new wave and synth-pop influences."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Headliner, genreLabels: R&B, Pop, subGenre: Alternative R&B, Synth-Pop, instrumentSounds: Vocals, Synthesizer, mf: Male",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Abel Tesfaye, known as The Weeknd, is a Canadian singer and songwriter who emerg...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "artist": "Weval",
+    "updates": {
+      "identity.programmingStyle": "Second Stage",
+      "identity.genreLabels": "Electronic",
+      "identity.subGenre": "Indie Electronica, Psychedelic Pop",
+      "identity.instrumentSounds": "Synthesizer, Analog Synths, Drum Machine",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Weval is a Dutch electronic duo comprising Harm Coolen and Merijn Scholte Albers, known for their richly emotive, cinematic productions that fuse analog warmth with forward-thinking sound design. Their music sits at the intersection of introspective electronica, psychedelic pop, and atmospheric dance music."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Second Stage, genreLabels: Electronic, subGenre: Indie Electronica, Psychedelic Pop, instrumentSounds: Synthesizer, Analog Synths, Drum Machine, mf: Group",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Weval is a Dutch electronic duo comprising Harm Coolen and Merijn Scholte Albers...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "artist": "The xx",
+    "updates": {
+      "identity.programmingStyle": "Subheadliner",
+      "identity.genreLabels": "Indie Pop, Electronic",
+      "identity.subGenre": "Dream Pop, Minimal Electronic",
+      "identity.instrumentSounds": "Guitar, Synthesizer, Vocals",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "The xx is a London-based trio known for their sparse, intimate sound that blends minimalist electronic production with dreamy guitar work and hushed vocal exchanges between Romy Madley Croft and Oliver Sim. Their debut album 'xx' became a landmark of late-2000s indie music."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Subheadliner, genreLabels: Indie Pop, Electronic, subGenre: Dream Pop, Minimal Electronic, instrumentSounds: Guitar, Synthesizer, Vocals, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The xx is a London-based trio known for their sparse, intimate sound that blends...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "artist": "Yaeji",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "Electronic, House",
+      "identity.subGenre": "Alternative House, Indie Dance",
+      "identity.instrumentSounds": "Synthesizer, Vocals, Drum Machine",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "Brooklyn-based Korean-American producer, DJ, and vocalist known for bilingual English/Korean lyrics over dreamy house productions. Her intimate, confessional style blends whispery vocals with club-ready beats, exploring identity and self-reflection."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: Electronic, House, subGenre: Alternative House, Indie Dance, instrumentSounds: Synthesizer, Vocals, Drum Machine, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Brooklyn-based Korean-American producer, DJ, and vocalist known for bilingual En...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "artist": "Yīn Yīn",
+    "updates": {
+      "identity.programmingStyle": "Main Stage",
+      "identity.genreLabels": "Psychedelic, Funk",
+      "identity.subGenre": "Thai Psych-Funk, Disco",
+      "identity.instrumentSounds": "Guitar, Synthesizer, Guzheng",
+      "identity.mf": "Group",
+      "identity.descriptionShort": "Dutch psychedelic funk quartet from Maastricht blending Southeast Asian motifs with disco, surf rock, and krautrock influences. Their largely instrumental sound incorporates vintage synthesizers and traditional Chinese guzheng, creating a kaleidoscopic cosmic disco."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: Main Stage, genreLabels: Psychedelic, Funk, subGenre: Thai Psych-Funk, Disco, instrumentSounds: Guitar, Synthesizer, Guzheng, mf: Group",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dutch psychedelic funk quartet from Maastricht blending Southeast Asian motifs w...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "artist": "yunè pinku",
+    "updates": {
+      "identity.programmingStyle": "DJ Set",
+      "identity.genreLabels": "Electronic, UK Garage",
+      "identity.subGenre": "UK Garage, Breakbeat",
+      "identity.instrumentSounds": "Synthesizer, Vocals, Drum Machine",
+      "identity.mf": "Female",
+      "identity.descriptionShort": "London-based Malaysian-Irish producer and songwriter creating music for introverted ravers, blending UK garage, breakbeats, and house with indie-inspired vocals. Her productions pair frenetic electronic rhythms with introspective, honest lyricism."
+    },
+    "fieldEvidence": [
+      {
+        "field": "identity",
+        "value": "programmingStyle: DJ Set, genreLabels: Electronic, UK Garage, subGenre: UK Garage, Breakbeat, instrumentSounds: Synthesizer, Vocals, Drum Machine, mf: Female",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Web research / Wikipedia / Official artist pages",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "London-based Malaysian-Irish producer and songwriter creating music for introver...",
+        "notes": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,384 @@
+[
+  {
+    "id": 21,
+    "artist": "The Chemical Brothers",
+    "instagramHandle": "@thechemicalbrothers",
+    "instagramFollowers": null,
+    "xHandle": "@ChemBros",
+    "xFollowers": 255736,
+    "facebookPage": "The Chemical Brothers",
+    "facebookFollowers": 2348449,
+    "totalSocialReach": 2604185,
+    "verifiedStatus": "Verified on X/Twitter",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@thechemicalbrothers",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "The Chemical Brothers Official Instagram",
+        "sourceUrl": "https://www.instagram.com/thechemicalbrothers/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official Instagram page for The Chemical Brothers - verified artist page",
+        "notes": "Follower count not publicly visible without login"
+      },
+      {
+        "field": "xHandle",
+        "value": "@ChemBros",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X/Twitter",
+        "sourceUrl": "https://x.com/ChemBros",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official X account with 255,736 followers",
+        "notes": "Verified artist account"
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 2348449,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify Artist Page",
+        "sourceUrl": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The Chemical Brothers Spotify page shows 2,348,449 Facebook followers",
+        "notes": "Data sourced from Spotify's cross-platform integration"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "artist": "Christian Marclay",
+    "instagramHandle": null,
+    "instagramFollowers": null,
+    "xHandle": null,
+    "xFollowers": null,
+    "facebookPage": null,
+    "facebookFollowers": null,
+    "totalSocialReach": null,
+    "verifiedStatus": "No public social media presence",
+    "evidence": [
+      {
+        "field": "all_social",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 5,
+        "sourceName": "Multiple sources including Vanguard Culture, Art21",
+        "sourceUrl": "https://vanguardculture.com/the-buzz-christian-marclay-sound-stories/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Christian Marclay does not use social media - confirmed in multiple art publications",
+        "notes": "Swiss-American visual artist represented by galleries (White Cube, Paula Cooper). No Instagram, X, or Facebook accounts found."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "artist": "Christina Kubisch",
+    "instagramHandle": null,
+    "instagramFollowers": null,
+    "xHandle": null,
+    "xFollowers": null,
+    "facebookPage": null,
+    "facebookFollowers": null,
+    "totalSocialReach": null,
+    "verifiedStatus": "No public social media presence",
+    "evidence": [
+      {
+        "field": "all_social",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 5,
+        "sourceName": "Interview with Christina Kubisch",
+        "sourceUrl": "https://www.emergencyindex.com/2016/12/christina-kubisch-talks-about-her-installation-at-the-whitney-biennial",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Artist explicitly states 'I do not use social media' in interview",
+        "notes": "German sound artist/composer. Official website: christinakubisch.de. No public social media accounts found."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "artist": "Christine Sun Kim",
+    "instagramHandle": "@chrisunkim",
+    "instagramFollowers": 14600,
+    "xHandle": "@chrisunkim",
+    "xFollowers": 6296,
+    "facebookPage": null,
+    "facebookFollowers": null,
+    "totalSocialReach": 20896,
+    "verifiedStatus": "Verified on X/Twitter",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@chrisunkim",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "HypeAuditor",
+        "sourceUrl": "https://hypeauditor.com/wiki/christine-sun-kim/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Christine Sun Kim Instagram @chrisunkim with ~14.6K followers",
+        "notes": "Deaf sound/visual artist. Verified account."
+      },
+      {
+        "field": "xHandle",
+        "value": "@chrisunkim",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X/Twitter",
+        "sourceUrl": "https://x.com/chrisunkim",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official X account: 'come meet me on the other side' - 6,296 followers, 4,539 posts",
+        "notes": "Verified account with link to threads.net/@chrisunkim"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "artist": "Cigarettes After Sex",
+    "instagramHandle": "@cigsaftersex",
+    "instagramFollowers": 5507344,
+    "xHandle": "@CigsAfterSexx",
+    "xFollowers": 625221,
+    "facebookPage": "Cigarettes After Sex",
+    "facebookFollowers": 1290000,
+    "totalSocialReach": 7422565,
+    "verifiedStatus": "Verified on X/Twitter",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@cigsaftersex",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "WikiBio",
+        "sourceUrl": "https://wikibio.in/cigarettes-after-sex/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Cigarettes After Sex Instagram: @cigsaftersex with 5,507,344 followers",
+        "notes": "Official Instagram account for ambient pop band"
+      },
+      {
+        "field": "xHandle",
+        "value": "@CigsAfterSexx",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X/Twitter",
+        "sourceUrl": "https://x.com/CigsAfterSexx",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official X account with 625,221 followers",
+        "notes": "Verified band account"
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 1290000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/cigarettesaftersex/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Facebook page shows 129万 (1.29 million) followers",
+        "notes": "Official band page"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "artist": "Colin Benders",
+    "instagramHandle": "@colinbenders",
+    "instagramFollowers": 119000,
+    "xHandle": "@Colin_Benders",
+    "xFollowers": 7887,
+    "facebookPage": null,
+    "facebookFollowers": null,
+    "totalSocialReach": 126887,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@colinbenders",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/colinbenders/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Colin Benders Instagram @colinbenders with ~119K followers",
+        "notes": "Dutch modular synth artist. Bio: 'Modular Synthesizer Producer'"
+      },
+      {
+        "field": "xHandle",
+        "value": "@Colin_Benders",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X/Twitter",
+        "sourceUrl": "https://x.com/Colin_Benders",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official X account: 'Modular Synthesizer Producer' - 7,887 followers, 2,378 posts",
+        "notes": "Verified personal account from Utrecht"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "artist": "DARKSIDE",
+    "instagramHandle": "@darksidetheband",
+    "instagramFollowers": 38000,
+    "xHandle": "@DarksideUSA",
+    "xFollowers": 11000,
+    "facebookPage": "DARKSIDE",
+    "facebookFollowers": 170000,
+    "totalSocialReach": 219000,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@darksidetheband",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/darksidetheband/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "DARKSIDE Instagram: @darksidetheband - 38,000 followers, 50 posts, following 49",
+        "notes": "Official band Instagram (Nicolas Jaar & Dave Harrington)"
+      },
+      {
+        "field": "xHandle",
+        "value": "@DarksideUSA",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X/Twitter",
+        "sourceUrl": "https://x.com/DarksideUSA",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official X account: 'DAVE HARRINGTON, NICOLÁS JAAR, TLACAEL ESPARZA' - 11,000 followers",
+        "notes": "Official band account"
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 170000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/Darksideisaband/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Facebook page shows 17万 (170,000) followers",
+        "notes": "Official band page"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "instagramHandle": "@davestewarteurythmics",
+    "instagramFollowers": 64000,
+    "xHandle": "@DaveStewart",
+    "xFollowers": 57894,
+    "facebookPage": "Dave Stewart",
+    "facebookFollowers": null,
+    "totalSocialReach": 121894,
+    "verifiedStatus": "Verified on X/Twitter",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@davestewarteurythmics",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/davestewarteurythmics/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dave Stewart Instagram: @davestewarteurythmics - 64,000 followers, 3,286 posts",
+        "notes": "Official Instagram of Eurythmics co-founder"
+      },
+      {
+        "field": "xHandle",
+        "value": "@DaveStewart",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X/Twitter",
+        "sourceUrl": "https://x.com/DaveStewart",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official X account: 'Music Ringmaster, Cocktail Shaker, Magic Maker, 1/2 of @Eurythmics' - 57,894 followers",
+        "notes": "Verified account. Website: linktr.ee/davestewartofficial"
+      },
+      {
+        "field": "facebookPage",
+        "value": "Dave Stewart",
+        "status": "data_unavailable",
+        "confidence": 3,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/davestewarteurythmics/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Facebook page exists but requires login to view follower count",
+        "notes": "Eurythmics co-founder. Facebook page confirmed via Linktree but follower count not publicly accessible"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "artist": "David Sheppard",
+    "instagramHandle": null,
+    "instagramFollowers": null,
+    "xHandle": null,
+    "xFollowers": null,
+    "facebookPage": null,
+    "facebookFollowers": null,
+    "totalSocialReach": null,
+    "verifiedStatus": "No public social media presence",
+    "evidence": [
+      {
+        "field": "all_social",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "BIMM Music Institute, ReverbNation",
+        "sourceUrl": "https://www.bimm.ac.uk/lecturers/david-sheppard-2/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "David Sheppard is a music journalist, author (Brian Eno biography), and lecturer. No public social media accounts found for artist persona.",
+        "notes": "Ambient/electronic producer associated with State River Widening, Ellis Island Sound, Snow Palms. Has ReverbNation page but no major social media presence."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "artist": "deadmau5",
+    "instagramHandle": "@deadmau5",
+    "instagramFollowers": 2966636,
+    "xHandle": "@deadmau5",
+    "xFollowers": 2763236,
+    "facebookPage": "deadmau5",
+    "facebookFollowers": 7440000,
+    "totalSocialReach": 13169872,
+    "verifiedStatus": "Verified on X/Twitter",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@deadmau5",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "WikiBio",
+        "sourceUrl": "https://wikibio.in/deadmau5/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "deadmau5 Instagram: @deadmau5 with 2,966,636 followers",
+        "notes": "Official Instagram of Joel Zimmerman"
+      },
+      {
+        "field": "xHandle",
+        "value": "@deadmau5",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "WikiBio",
+        "sourceUrl": "https://wikibio.in/deadmau5/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "deadmau5 X/Twitter: @deadmau5 with 2,763,236 followers",
+        "notes": "Verified account"
+      },
+      {
+        "field": "facebookFollowers",
+        "value": 7440000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/deadmau5/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Facebook page shows 744万 (7.44 million) followers",
+        "notes": "Official page of Canadian electronic/EDM producer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "artist": "Acid Pauli",
+    "totalCatalogStreams": 123346912,
+    "topTrackName": "The End",
+    "topTrackStreams": 32723475,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Kworb - Acid Pauli Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/3LHqODf1hGAgZ5LTw1Gf4C_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 123,346,912. Top track 'The End' with 32,723,475 streams"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "artist": "AfroRack",
+    "totalCatalogStreams": 87500,
+    "topTrackName": "Osc",
+    "topTrackStreams": 49200,
+    "confidence": 3,
+    "sources": [
+      {
+        "name": "Songstats - AfroRack Artist Analytics",
+        "url": "https://songstats.com/artist/kxszpg98/afrorack",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 87.5K. Top track 'Osc' with 49.2K streams"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "artist": "Air",
+    "totalCatalogStreams": 1207379090,
+    "topTrackName": "Playground Love",
+    "topTrackStreams": 154576988,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Kworb - Air Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/1P6U1dCeHxPui5pIrGmndZ_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 1,207,379,090. Top track 'Playground Love' with 154,576,988 streams"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "artist": "Alva Noto",
+    "totalCatalogStreams": 115000000,
+    "topTrackName": "Hawk Punished",
+    "topTrackStreams": 3196960,
+    "confidence": 3,
+    "sources": [
+      {
+        "name": "Songstats - Alva Noto Artist Analytics",
+        "url": "https://songstats.com/artist/iu5v2f7k/alva-noto",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 115M. Top track 'Hawk Punished' with 3,196,960 streams (from Spotify profile data)"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "artist": "Aphex Twin",
+    "totalCatalogStreams": 1454535669,
+    "topTrackName": "Avril 14th",
+    "topTrackStreams": 204726498,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Kworb - Aphex Twin Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/6kBDZFXuLrZgHnvmPu9NsG_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 1,454,535,669. Top track 'Avril 14th' with 204,726,498 streams"
+      },
+      {
+        "name": "TooXclusive - Aphex Twin hits 1B streams",
+        "url": "https://tooxclusive.com/stats/milestones/facts/aphex-twin-1b-streams-spotify",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Aphex Twin currently has 1.5B total streams on Spotify (crossed 1B on May 10, 2026)"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "artist": "Arooj Aftab",
+    "totalCatalogStreams": 52580632,
+    "topTrackName": "Mehram",
+    "topTrackStreams": 10471528,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Kworb - Arooj Aftab Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/00JAfwtx5gNiiqyor88Dr5_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 52,580,632. Top track 'Mehram' with 10,471,528 streams"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "artist": "Bicep",
+    "totalCatalogStreams": 856923730,
+    "topTrackName": "Glue",
+    "topTrackStreams": 363427111,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Kworb - BICEP Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/73A3bLnfnz5BoQjb4gNCga_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 856,923,730. Top track 'Glue' with 363,427,111 streams"
+      },
+      {
+        "name": "TooXclusive - BICEP Stats",
+        "url": "https://tooxclusive.com/stats/artists/bicep",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "BICEP has over 0.9 billion Spotify streams. Most streamed song is 'Glue' with 363M streams"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "artist": "Billie Eilish",
+    "totalCatalogStreams": 56753300291,
+    "topTrackName": "lovely (with Khalid)",
+    "topTrackStreams": 3751100082,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Billie Eilish Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/6qqNVTkY8uBg9cP3Jd7DAH_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 56,753,300,291. Top track 'lovely (with Khalid)' with 3,751,100,082 streams"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "artist": "Björk",
+    "totalCatalogStreams": 1456745823,
+    "topTrackName": "Berghain",
+    "topTrackStreams": 155657331,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Kworb - Björk Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/7w29UYBi0qsHi5RTcv3lmA_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 1,456,745,823. Top track 'Berghain' with 155,657,331 streams"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "artist": "Bob Dylan",
+    "totalCatalogStreams": 5896269583,
+    "topTrackName": "Knockin' On Heaven's Door",
+    "topTrackStreams": 891446594,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Kworb - Bob Dylan Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/74ASZWbe4lXaubB36ztrGX_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 5,896,269,583. Top track 'Knockin' On Heaven's Door' with 891,446,594 streams"
+      },
+      {
+        "name": "TooXclusive - Bob Dylan hits 5B streams",
+        "url": "https://tooxclusive.com/stats/milestones/facts/bob-dylan-5b-streams-spotify",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Bob Dylan currently has 5.9B total streams on Spotify (crossed 5B on May 10, 2026)"
+      }
+    ]
+  }
+]

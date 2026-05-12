@@ -1,0 +1,2539 @@
+{
+  "researchedAt": "2026-05-12",
+  "artists": [
+    {
+      "id": 1,
+      "artist": "Acid Pauli",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No Dolby Atmos album releases found after extensive searching. Acid Pauli (Martin Gretschmann) is a German electronic artist known for albums like 'Mst' (2012) and 'BLD' (2017). No Spatial Audio or Dolby Atmos releases were discovered on Apple Music, Amazon Music, Tidal, or other platforms. The artist has performed at spatial audio events but no album-level Atmos releases exist."
+    },
+    {
+      "id": 2,
+      "artist": "AfroRack",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No Dolby Atmos album releases found. AfroRack (Brian Bamanya) is a Ugandan experimental electronic artist who built Africa's first DIY modular synthesizer. His debut album 'The Afrorack' was released in 2022 on Nyege Nyege Tapes to critical acclaim. Despite his innovative work with spatial audio in live performances, no official Dolby Atmos album releases exist."
+    },
+    {
+      "id": 3,
+      "artist": "Air",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Moon Safari",
+          "releaseYear": 2024,
+          "sourceService": "Blu-ray / Apple Music",
+          "sourceUrls": [
+            "https://www.thesdeshop.com/products/air-moon-safari-2cd-blu-ray",
+            "https://superdeluxeedition.com/reviews/airs-moon-safari-atmos-mix-reviewed/",
+            "https://quadraphonicquad.com/threads/air-moon-safari-blu-ray-audio-dolby-atmos.35720/"
+          ],
+          "confidence": 5,
+          "notes": "25th Anniversary 2CD+Blu-ray edition released March 2024 featuring a new Dolby Atmos mix by Bruce Keen & Gildas Lointier. The Atmos mix is also available for streaming on Apple Music."
+        },
+        {
+          "title": "10,000 Hz Legend",
+          "releaseYear": 2021,
+          "sourceService": "Blu-ray / Apple Music",
+          "sourceUrls": [
+            "https://superdeluxeedition.com/news/air-10-000-hz-legend-deluxe/",
+            "https://immersiveaudioalbum.com/10000-hz-legend-by-air-5-1-surround-sound-dolby-atmos/",
+            "https://numero.com/en/non-classifiee/listen-to-an-air-album-as-if-you-were-in-the-studio-with-the-band/"
+          ],
+          "confidence": 5,
+          "notes": "20th Anniversary 2CD+Blu-ray edition released November 2021 featuring a Dolby Atmos mix by Bruce Keen. Initially exclusive on Apple Music streaming, then released on Blu-ray with Dolby TrueHD/Atmos."
+        },
+        {
+          "title": "The Virgin Suicides Redux",
+          "releaseYear": 2025,
+          "sourceService": "Blu-ray / Apple Music",
+          "sourceUrls": [
+            "https://store.airfrenchband.com/products/air-the-virgin-suicides-redux-2cd-bluray",
+            "https://www.brooklynvegan.com/air-announce-25th-anniversary-the-virgin-suicides-reissue-ft-new-analog-mix/",
+            "https://www.thesdeshop.com/products/air-the-virgin-suicides-2cd-blu-ray"
+          ],
+          "confidence": 5,
+          "notes": "25th Anniversary edition 'The Virgin Suicides Redux' released September 26, 2025. Features a new analog mix plus a Dolby Atmos spatial audio Blu-ray of the album, alongside previously unreleased rarities and demos."
+        }
+      ],
+      "notes": "Air (French electronic duo Nicolas Godin and Jean-Benoit Dunckel) has embraced Dolby Atmos for multiple anniversary reissues of their key albums. The Atmos mixes are created by Bruce Keen and Gildas Lointier and praised for their creative use of immersive audio. All three Atmos albums are available both on physical Blu-ray and for streaming."
+    },
+    {
+      "id": 4,
+      "artist": "Alva Noto",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No Dolby Atmos album releases found. Alva Noto (Carsten Nicolai) is a German minimalist electronic artist. Found only Dolby Digital 5.1 surround sound on the 'Insen Live' DVD (2006) collaboration with Ryuichi Sakamoto. Despite extensive discography including albums like 'Univrs', 'Xerrox' series, and collaborations, no Dolby Atmos releases exist."
+    },
+    {
+      "id": 5,
+      "artist": "Aphex Twin",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No official Dolby Atmos album releases found. The track 'Tha' from 'Selected Ambient Works 85-92' briefly appeared on Apple Music as Spatial Audio but was pulled - likely due to AI-upscaling issues (Apple removed tracks that used AI to upscale to Spatial Audio). No official Atmos mixes from Aphex Twin have been released. No other albums found in Atmos format."
+    },
+    {
+      "id": 6,
+      "artist": "Arooj Aftab",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Vulture Prince",
+          "releaseYear": 2021,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.valvetone.com/news/arooj2021",
+            "https://www.syn.world/blog/towadako-summer",
+            "https://quadraphonicquad.com/threads/listening-to-in-dolby-atmos-streaming-via-tidal-apple-amazon.31491/page-63"
+          ],
+          "confidence": 4,
+          "notes": "Mixed in Dolby Atmos by David Levin in Los Angeles. The ValveTone studio (Damon Whittemore) worked on the album and their website mentions it was 'a joy to mix for Dolby ATMOS.' The album won a Grammy and the Atmos mix is available on Apple Music."
+        }
+      ],
+      "notes": "Arooj Aftab's breakthrough album 'Vulture Prince' (2021) received a Dolby Atmos mix. The Pakistani-American artist's blend of jazz, classical, and experimental music was specifically mixed in Atmos by David Levin. While confirmed by studio sources, independent Apple Music verification was not directly checked."
+    },
+    {
+      "id": 7,
+      "artist": "Bassnectar",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No Dolby Atmos album releases found. Bassnectar (Lorin Ashton) is an American electronic music producer and DJ. Despite being mentioned in articles about Apple Music's Spatial Audio launch, no actual Bassnectar albums in Dolby Atmos format were found. No Atmos releases on Apple Music, Tidal, Amazon Music, or other platforms."
+    },
+    {
+      "id": 8,
+      "artist": "The Beatles",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Sgt. Pepper's Lonely Hearts Club Band",
+          "releaseYear": 2017,
+          "sourceService": "Apple Music / Blu-ray",
+          "sourceUrls": [
+            "https://professional.dolby.com/sgt-peppers/",
+            "https://www.theverge.com/2021/7/30/22601508/the-beatles-dolby-atmos-sgt-peppers-lonely-hearts-club-band-remix-mono-stereo-apple-music",
+            "https://www.soundandvision.com/content/sgt-pepper-meets-dolby-atmos"
+          ],
+          "confidence": 5,
+          "notes": "Originally mixed in Dolby Atmos in 2017 for the 50th anniversary, initially for theatrical presentation. Giles Martin later revised the mix in 2021/2022 for near-field listening on streaming services. Considered the first album ever mixed in Dolby Atmos."
+        },
+        {
+          "title": "The Beatles (White Album)",
+          "releaseYear": 2018,
+          "sourceService": "Apple Music / Blu-ray",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=OxmsgrifA_8",
+            "https://www.hiresedition.com/review/classic-rock/beatles-1962-1970.html"
+          ],
+          "confidence": 5,
+          "notes": "50th Anniversary Super Deluxe Edition includes Dolby Atmos mix by Giles Martin on Blu-ray, also available for streaming on Apple Music and other platforms."
+        },
+        {
+          "title": "Abbey Road",
+          "releaseYear": 2019,
+          "sourceService": "Apple Music / Blu-ray",
+          "sourceUrls": [
+            "https://usastore.thebeatles.com/products/abbey-road-super-deluxe-edition-4-disc",
+            "https://www.hiresedition.com/review/classic-rock/beatles-1962-1970.html"
+          ],
+          "confidence": 5,
+          "notes": "50th Anniversary Super Deluxe Edition with Dolby Atmos mix by Giles Martin and Sam Okell. Available on Blu-ray and streaming platforms."
+        },
+        {
+          "title": "Let It Be",
+          "releaseYear": 2021,
+          "sourceService": "Apple Music / Blu-ray",
+          "sourceUrls": [
+            "https://usastore.thebeatles.com/products/let-it-be-special-edition-super-deluxe-5cd-1blu-ray",
+            "https://en.wikipedia.org/wiki/Let_It_Be:_Special_Edition",
+            "https://immersiveaudioalbum.com/the-beatles-let-it-be-5-1-dolby-atmos-review/"
+          ],
+          "confidence": 5,
+          "notes": "Special Edition Super Deluxe 5CD/1Blu-ray with new stereo, 5.1 surround DTS, and Dolby Atmos mixes by Giles Martin & Sam Okell. Available on streaming platforms."
+        },
+        {
+          "title": "Revolver",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.the-paulmccartney-project.com/album/revolver-dolby-atmos-2022/",
+            "https://www.hiresedition.com/review/classic-rock/beatles-1962-1970.html"
+          ],
+          "confidence": 5,
+          "notes": "2022 Dolby Atmos mix released for streaming. All tracks feature 2022 Dolby Atmos mix by Giles Martin."
+        },
+        {
+          "title": "1 (Compilation)",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://forums.stevehoffman.tv/threads/beatles-1-compilation-available-in-dolby-atmos.1135758/"
+          ],
+          "confidence": 5,
+          "notes": "The Beatles' '1' compilation album and double A-side eSingle of Strawberry Fields Forever/Penny Lane released in Dolby Atmos on streaming platforms."
+        },
+        {
+          "title": "1962-1966 (The Red Album)",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.hiresedition.com/review/classic-rock/beatles-1962-1970.html",
+            "https://recordscdsandmusic.blog/2024/02/17/atmos-atmos-whos-got-the-dolby-atmos-the-beatles-in-surround-1962-1970/"
+          ],
+          "confidence": 5,
+          "notes": "2023 Expanded Edition with all songs mixed in stereo and Dolby Atmos by Giles Martin, Sam Okell, and Paul Hicks. Includes Dolby Atmos mixes of classic tracks from the early period."
+        },
+        {
+          "title": "1967-1970 (The Blue Album)",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.hiresedition.com/review/classic-rock/beatles-1962-1970.html",
+            "https://recordscdsandmusic.blog/2024/02/17/atmos-atmos-whos-got-the-dolby-atmos-the-beatles-in-surround-1962-1970/"
+          ],
+          "confidence": 5,
+          "notes": "2023 Expanded Edition with all songs mixed in stereo and Dolby Atmos. Includes 'Now and Then' and numerous tracks with new Atmos mixes."
+        },
+        {
+          "title": "Now and Then (single)",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.paulmccartney.com/news/now-and-then-the-last-beatles-song-out-21123",
+            "https://www.thebeatles.com/announcement"
+          ],
+          "confidence": 5,
+          "notes": "The last Beatles song, released as a double A-side single with 'Love Me Do.' Mixed in stereo and Dolby Atmos at Abbey Road Studios. Also included on 1967-1970 (2023 Edition)."
+        }
+      ],
+      "notes": "The Beatles have the most extensive Dolby Atmos catalog of any artist on this list. Starting with Sgt. Pepper's in 2017 (considered the first album ever mixed in Dolby Atmos), Giles Martin has created Atmos mixes for most of their major albums. These are available both on physical Blu-ray (for the anniversary box sets) and on streaming platforms. The 2023 Red and Blue Albums expansions added dozens more tracks in Atmos."
+    },
+    {
+      "id": 9,
+      "artist": "Beyoncé",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "RENAISSANCE",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music / Tidal / Amazon Music",
+          "sourceUrls": [
+            "https://x.com/DolbyNews/status/1575834342894764033",
+            "https://x.com/beyoncepress/status/1575834517394567169",
+            "https://www.reddit.com/r/beyonce/comments/xrxgtw/renaissance_is_finally_in_dolby_atmos/"
+          ],
+          "confidence": 5,
+          "notes": "Officially confirmed by Dolby News on Twitter/X (September 30, 2022): 'RENAISSANCE is now in Spatial Audio with Dolby Atmos.' Available on Apple Music, Tidal Hi-Fi Plus, and Amazon Music HD."
+        }
+      ],
+      "notes": "Beyoncé's album RENAISSANCE (2022) is available in Spatial Audio with Dolby Atmos on major streaming platforms. No definitive evidence found for Cowboy Carter (Act II) being in Dolby Atmos, though there is speculation and requests from fans. RENAISSANCE is the confirmed Atmos album."
+    },
+    {
+      "id": 10,
+      "artist": "Bicep",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Isles",
+          "releaseYear": 2021,
+          "sourceService": "Amazon Music / Apple Music",
+          "sourceUrls": [
+            "https://www.billboard.com/pro/amazon-music-hd-unlimited-spatial-audio-default/",
+            "https://www.shortlist.com/news/jabra-elite-10-review-403881",
+            "https://www.reddit.com/r/apple/comments/st95k0/apple_says_spatial_audio_is_a_hit_drawing_more/"
+          ],
+          "confidence": 4,
+          "notes": "Bicep's sophomore album 'Isles' was an Amazon Music exclusive Spatial Audio/Dolby Atmos release, also available on Apple Music. L-Acoustics partnered with labels for album premieres in Dolby Atmos."
+        },
+        {
+          "title": "TAKKUUK (Original Soundtrack)",
+          "releaseYear": 2025,
+          "sourceService": "Apple Music / Dolby",
+          "sourceUrls": [
+            "https://professional.dolby.com/en-gb/music/studios/",
+            "https://bicepmusic.com/music/takkuuuk",
+            "https://music.apple.com/us/album/takkuuk-original-soundtrack/1823679788"
+          ],
+          "confidence": 5,
+          "notes": "Bicep's soundtrack for TAKKUUK, mixed in Dolby Atmos, showcases immersive audio production. Working with mixer Matt Karmil, the duo reimagined their music with field samples from Greenland and Indigenous vocals. Released July 25, 2025 via Ninja Tune/Earthsonic."
+        }
+      ],
+      "notes": "Bicep has two confirmed Dolby Atmos releases: their album 'Isles' (2021) which was featured as a Spatial Audio exclusive on Amazon Music, and the 'TAKKUUK' soundtrack (2025) which was explicitly mixed in Dolby Atmos for an immersive audio-visual installation."
+    },
+    {
+      "id": 11,
+      "artist": "Billie Eilish",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Happier Than Ever",
+          "releaseYear": 2021,
+          "sourceService": "Dolby",
+          "sourceUrls": [
+            "https://news.dolby.com/en-WW/202293-billie-eilish-s-happier-than-ever-a-love-letter-to-los-angeles-available-today-on-disney-in-dolby-vision-and-dolby-atmos/",
+            "https://www.audioadvice.com/blogs/expert-advice/best-dolby-atmos-music-demo-albums"
+          ],
+          "confidence": 5,
+          "notes": "Official Dolby press release confirms entire album streaming in Dolby Atmos on Apple Music. Also available as concert film on Disney+ in Dolby Atmos."
+        },
+        {
+          "title": "Hit Me Hard and Soft",
+          "releaseYear": 2024,
+          "sourceService": "Tidal",
+          "sourceUrls": [
+            "https://magicvinyldigital.net/2024/05/24/billie-eilish-hit-me-hard-and-soft-review-test-eco-mix-vinyl-record-limited-edition-yellow-vinyl-record-tidal-max-tidal-dolby-atmos/",
+            "https://www.reddit.com/r/billieeilish/comments/1ggilbp/hit_me_hard_and_soft_sound_quality/"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed in Dolby Atmos on Tidal with measured DR13 dynamic range. Reddit users confirm Atmos availability on Apple Music."
+        }
+      ],
+      "notes": "Both of Billie Eilish's most recent studio albums are available in Dolby Atmos. Finneas has spoken about mixing in Atmos as part of their creative process."
+    },
+    {
+      "id": 12,
+      "artist": "Björk",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Fossora",
+          "releaseYear": 2022,
+          "sourceService": "Tidal",
+          "sourceUrls": [
+            "https://tidal.com/album/247844429",
+            "https://www.reddit.com/r/bjork/comments/xwqojn/fossora_dolby_atmos/"
+          ],
+          "confidence": 5,
+          "notes": "Explicitly labeled as 'Fossora (Dolby Atmos)' on Tidal. First Björk album with spatial audio on release."
+        },
+        {
+          "title": "Debut",
+          "releaseYear": 1993,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+            "https://x.com/mynameisobelpg/status/1877464199284117871"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed available in Dolby Atmos on Apple Music as of January 2025 along with other catalog albums."
+        },
+        {
+          "title": "Post",
+          "releaseYear": 1995,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+            "https://x.com/mynameisobelpg/status/1877464199284117871"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed available in Dolby Atmos on Apple Music as of January 2025."
+        },
+        {
+          "title": "Homogenic",
+          "releaseYear": 1997,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+            "https://tech.yahoo.com/audio/articles/compare-spotify-lossless-apple-music-170000373.html"
+          ],
+          "confidence": 5,
+          "notes": "Recommended as top Dolby Atmos album pick by Yahoo Tech. Available on Apple Music in Atmos."
+        },
+        {
+          "title": "Selmasongs",
+          "releaseYear": 2000,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+            "https://x.com/mynameisobelpg/status/1877464199284117871"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed available in Dolby Atmos on Apple Music as of January 2025."
+        },
+        {
+          "title": "Vespertine",
+          "releaseYear": 2001,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+            "https://x.com/mynameisobelpg/status/1877464199284117871"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed available in Dolby Atmos on Apple Music as of January 2025."
+        },
+        {
+          "title": "Medúlla",
+          "releaseYear": 2004,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.threads.com/@mynameisobelpage/post/DEnptwlN4vr",
+            "https://www.tiktok.com/@bjork_hq/video/7614885410241531158"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed available in Dolby Atmos on Apple Music as of January 2025."
+        },
+        {
+          "title": "Vulnicura",
+          "releaseYear": 2015,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.threads.com/@stereogum/post/DEvYJK_ydcE"
+          ],
+          "confidence": 4,
+          "notes": "Reported as part of 'every Björk album except Biophilia' available in Dolby Atmos on Apple Music."
+        },
+        {
+          "title": "Utopia",
+          "releaseYear": 2017,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.threads.com/@stereogum/post/DEvYJK_ydcE"
+          ],
+          "confidence": 4,
+          "notes": "Reported as part of 'every Björk album except Biophilia' available in Dolby Atmos on Apple Music."
+        }
+      ],
+      "notes": "As of January 2025, virtually Björk's entire studio album catalog (except Biophilia) became available in Dolby Atmos on Apple Music. This was a major catalog rollout. Fossora had Atmos from its 2022 release."
+    },
+    {
+      "id": 13,
+      "artist": "Bob Dylan",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Time Out of Mind (2022 Remix)",
+          "releaseYear": 2022,
+          "sourceService": "Other",
+          "sourceUrls": [
+            "https://superdeluxeedition.com/news/bob-dylans-time-out-of-mind-is-the-next-release-in-the-sde-surround-series/",
+            "https://www.thesdeshop.com/products/bob-dylan-time-out-of-mind-2022-remix-limited-edition-sde-exclusive-blu-ray-audio",
+            "https://www.hiresedition.com/review/frolk-rock/bob-dylan-time-out-of-mind.html"
+          ],
+          "confidence": 5,
+          "notes": "First ever Dolby Atmos mix for Bob Dylan, created by Michael Brauer and Fernando Reyes. Available on SDE-exclusive Blu-ray Audio (#8 in Surround Series) and on streaming platforms (Apple Music, Tidal). 2022 Remix of original 1997 album."
+        }
+      ],
+      "notes": "Bob Dylan's only confirmed Dolby Atmos album is Time Out of Mind (2022 Remix). This was a landmark release as his first-ever Atmos mix."
+    },
+    {
+      "id": 14,
+      "artist": "Bonobo",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Fragments",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.reddit.com/r/SpatialSongs/comments/r05vhd/bonobo_fragments_album/"
+          ],
+          "confidence": 4,
+          "notes": "Reddit user on r/SpatialSongs reports 'The album sounds amazing in Dolby Atmos.' No official press release found but credible community confirmation exists. Also nominated for Grammy Best Dance/Electronic Album."
+        }
+      ],
+      "notes": "Fragments (2022) appears to be available in Dolby Atmos on Apple Music based on user reports. Bonobo has also had DJ mixes released in Spatial Audio through Warehouse Project collaboration. Other albums (Migration, Black Sands) not confirmed in Atmos."
+    },
+    {
+      "id": 15,
+      "artist": "Brian Eno",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "FOREVERANDEVERNOMORE",
+          "releaseYear": 2022,
+          "sourceService": "Dolby",
+          "sourceUrls": [
+            "https://professional.dolby.com/hear-from-the-creators/brian-eno/",
+            "https://www.brian-eno.net/foreverandevernomore/",
+            "https://www.thesdeshop.com/products/brian-eno-foreverandevernomore-sde-exclusive-blu-ray-audio"
+          ],
+          "confidence": 5,
+          "notes": "Atmos Mix created by Brian Eno himself. Available on Dolby Blu-ray (SDE exclusive), Apple Music, and Tidal. Eno discussed his approach to Atmos mixing in a Dolby feature."
+        },
+        {
+          "title": "Taking Tiger Mountain (By Strategy)",
+          "releaseYear": 1974,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/",
+            "https://forums.stevehoffman.tv/threads/brian-eno-releasing-7-albums-in-dolby-atmos.1178995/"
+          ],
+          "confidence": 5,
+          "notes": "One of seven classic Eno titles released in Dolby Atmos for the first time in July 2023."
+        },
+        {
+          "title": "Another Green World",
+          "releaseYear": 1975,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/",
+            "https://immersiveaudioalbum.com/spatial-audio-highlights-july-august-2023/"
+          ],
+          "confidence": 5,
+          "notes": "One of seven classic Eno titles released in Dolby Atmos for the first time in July 2023. Immersive Audio Album reviewed the Atmos mix of 'Sky Saw' positively."
+        },
+        {
+          "title": "Small Craft On A Milk Sea",
+          "releaseYear": 2011,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/"
+          ],
+          "confidence": 5,
+          "notes": "One of seven classic Eno titles released in Dolby Atmos for the first time in July 2023."
+        },
+        {
+          "title": "The Ship",
+          "releaseYear": 2016,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/"
+          ],
+          "confidence": 5,
+          "notes": "One of seven classic Eno titles released in Dolby Atmos for the first time in July 2023."
+        },
+        {
+          "title": "Forever Voiceless",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/"
+          ],
+          "confidence": 5,
+          "notes": "Instrumental companion album to FOREVERANDEVERNOMORE. Released in Dolby Atmos and Spatial Audio."
+        },
+        {
+          "title": "Aurum",
+          "releaseYear": 2025,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://theneedledrop.com/news/brian-eno-surprise-releases-new-record-aurum/"
+          ],
+          "confidence": 5,
+          "notes": "Surprise-released exclusively on Apple Music, making use of Spatial Audio technology. Partnering with Apple Music and Dolby Atmos."
+        }
+      ],
+      "notes": "Brian Eno has embraced Dolby Atmos extensively. Starting with FOREVERANDEVERNOMORE in 2022, seven catalog titles were released in Atmos in July 2023, and his 2025 album Aurum was an Apple Music Spatial Audio exclusive. Eno has spoken philosophically about 3D music as '3-dimensional sound-sculpting.'"
+    },
+    {
+      "id": 16,
+      "artist": "Cardi B",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No album-level Dolby Atmos releases found for Cardi B after thorough searching. Singles like 'Up' and 'Like What (Freestyle)' appear in Apple Music Spatial Audio playlists, but studio albums 'Invasion of Privacy' (2018) and 'Am I the Drama?' (2025) are not confirmed in Dolby Atmos format."
+    },
+    {
+      "id": 17,
+      "artist": "Caribou",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No album-level Dolby Atmos releases found for Caribou (Dan Snaith) after thorough searching. Recent albums 'Honey' (2024), 'Suddenly' (2020), and 'Swim' (2010) are available on Apple Music but not confirmed in Dolby Atmos. Note: Elton John has an album titled 'Caribou' (1974) which is unrelated."
+    },
+    {
+      "id": 18,
+      "artist": "Carl Craig",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No album-level Dolby Atmos releases found for Carl Craig after thorough searching. DJ mixes (including Hï Ibiza 2024 live mix) are available in Spatial Audio on Apple Music, but studio albums and the 'Desire: The Carl Craig Story' (2025) soundtrack are not confirmed in Dolby Atmos. Apple Music launched DJ mixes in Spatial Audio in 2022 which includes some Carl Craig mixes."
+    },
+    {
+      "id": 19,
+      "artist": "Channel Tres",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No album-level Dolby Atmos releases confirmed for Channel Tres after thorough searching. Debut album 'Head Rush' (2024) is available on Apple Music but no Dolby Atmos badge or confirmation found. Singles like 'Cactus Water' appear in Spatial Audio playlists. Some singles tagged with 'Electronic in Spatial Audio' category on Apple Music, but this does not confirm full album Atmos availability."
+    },
+    {
+      "id": 20,
+      "artist": "Charli XCX",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "CRASH",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.tiktok.com/@charlixcx/video/7079898010347523334",
+            "https://forums.stevehoffman.tv/threads/apple-music-and-dolby-atmos-your-album-reviews.1105275/page-27"
+          ],
+          "confidence": 5,
+          "notes": "Charli XCX herself promoted CRASH in Spatial Audio with Dolby Atmos on TikTok. SteveHoffman forum users praised the Atmos mix of the title track."
+        },
+        {
+          "title": "BRAT",
+          "releaseYear": 2024,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://musicbrainz.org/release/f0bf83e1-adec-4ce5-9e1b-0e08db01e2b5",
+            "https://music.apple.com/us/playlist/hits-in-spatial-audio/pl.ba2404fbc4464b8ba2d60399189cf24e"
+          ],
+          "confidence": 5,
+          "notes": "MusicBrainz release entry explicitly lists 'Dolby Atmos mix' as format. Featured in Apple Music's 'Hits in Spatial Audio' playlist."
+        }
+      ],
+      "notes": "Both of Charli XCX's most recent studio albums are available in Dolby Atmos. BRAT was a massive commercial and cultural success in 2024."
+    },
+    {
+      "id": 21,
+      "artist": "The Chemical Brothers",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "For That Beautiful Feeling",
+          "releaseYear": 2023,
+          "sourceService": "Universal Music",
+          "sourceUrls": [
+            "https://www.universalmusic.it/popular-music/album/for-that-beautiful-feeling_36329919335/",
+            "https://music.apple.com/us/album/for-that-beautiful-feeling/1700963390",
+            "https://www.musicimmersive.com/"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed by Universal Music Italy eAlbum listing with Dolby Atmos format tag. All 11 tracks listed with (Dolby Atmos) or (Dolby Atmos / Crossfaded Version) in their titles. Music Immersive lists Stan Kybert as the Dolby Atmos mixing engineer. Apple Music shows the album in Electronic in Spatial Audio. Also the single No Reason (2023) was mastered in Dolby Atmos by Giles Martin at Abbey Road Studios, predating the album."
+        }
+      ],
+      "notes": "The Chemical Brothers have confirmed Dolby Atmos album availability for For That Beautiful Feeling (2023). The single No Reason was also released in Dolby Atmos ahead of the album. Universal Music's official listing confirms the full album is available in Dolby Atmos."
+    },
+    {
+      "id": 22,
+      "artist": "Christian Marclay",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Christian Marclay is a London-based visual artist and composer whose work explores the intersection of sound and visual art using turntables, vinyl records, sampling, video, and collage. His work is primarily conceptual/experimental art. No commercial music releases in Dolby Atmos format were found after thorough searching. No Apple Music, Tidal, Amazon, or label sources indicate any Atmos availability."
+    },
+    {
+      "id": 23,
+      "artist": "Christina Kubisch",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Christina Kubisch is a German sound art pioneer and composer who creates electronic and acoustic music for installations since the 1970s. Her work focuses on electromagnetic induction, field recordings, and sound installations. She is primarily an installation/performance artist rather than a commercial recording artist. No Dolby Atmos album releases were found after thorough searching."
+    },
+    {
+      "id": 24,
+      "artist": "Christine Sun Kim",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Christine Sun Kim is a Deaf American sound artist, performer, and activist based in Berlin. Her work explores the social and political dimensions of sound through drawings, videos, sculptures, installations, and performances using ASL, musical notation, and visual communication. She is not a commercial recording artist. A small limited-edition vinyl EP (Panning Fanning, 2013) was found but no Dolby Atmos releases exist."
+    },
+    {
+      "id": 25,
+      "artist": "Cigarettes After Sex",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "X's",
+          "releaseYear": 2024,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/xs/1783182368",
+            "https://www.officialcharts.com/chart-news/new-music-friday-songs-12-july-2024/",
+            "https://www.reddit.com/r/CigarettesAfterSex/comments/1e197pw/xs_first_thoughts/"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed by Official Charts article stating the album was 'in Dolby Atmos Spatial Audio for Apple Music' (July 2024). Reddit user also confirmed it sounds 'beautiful in dolby atmos Apple Music surround sound'. Apple Music page confirms the album exists. Released July 12, 2024 on Partisan Records."
+        }
+      ],
+      "notes": "Cigarettes After Sex's third studio album X's (2024) is confirmed to be available in Dolby Atmos Spatial Audio on Apple Music. Official Charts and user reports confirm the immersive audio availability."
+    },
+    {
+      "id": 26,
+      "artist": "Colin Benders",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Colin Benders (also known as Kyteman) is a Dutch electronic musician and modular synthesist. He started as a hip-hop artist with The Kyteman Orchestra and later transitioned to modular techno. Albums include The Hermit Sessions (2009), The Kyteman Orchestra (2012), and Rigmarole (2021). No Dolby Atmos releases were found after searching. He is primarily an independent/Dutch-market artist."
+    },
+    {
+      "id": 27,
+      "artist": "DARKSIDE",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "DARKSIDE is an American electronic/psychedelic rock duo (now trio) of Nicolas Jaar and Dave Harrington, with drummer Tlacael Esparza joining in 2025. Albums include Psychic (2013), Spiral (2021), and Nothing (2025), all on Matador Records. Despite Nicolas Jaar's prominence in electronic music, no Dolby Atmos album releases were found for any DARKSIDE album after thorough searching."
+    },
+    {
+      "id": 28,
+      "artist": "Dave Stewart",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Dave Stewart is a British musician best known as one half of Eurythmics. He has released solo albums (including The Blackbird Diaries, 2011 and Ebony McQueen, 2022) and has produced many artists. The Crypt Studio in London, which Stewart once owned, now features Dolby Atmos capability, but no Dave Stewart solo albums in Dolby Atmos were found. Eurythmics reissues have not been announced in Atmos format. Note: There may be multiple artists named Dave Stewart; this refers to the Eurythmics member."
+    },
+    {
+      "id": 29,
+      "artist": "David Sheppard",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "David John Sheppard is a London-based multi-instrumentalist, composer, and writer (author of Brian Eno biography On Some Faraway Beach). Known for projects State River Widening, Ellis Island Sound, Snow Palms, and Phelan Sheppard. Solo album Vertical Land (2015) on Village Green Recordings. He is primarily an instrumental/ambient artist. No Dolby Atmos releases found after searching. Note: A different David Sheppard works as an immersive audio designer."
+    },
+    {
+      "id": 30,
+      "artist": "deadmau5",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Kx5",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/kx5/1676361995",
+            "https://rumble.com/playlists/VFbKBC_4qsQ",
+            "https://www.edmtunes.com/2017/02/deadmau5-dolby-atmos-sound-production/"
+          ],
+          "confidence": 5,
+          "notes": "Kx5 is the collaborative album by deadmau5 and Kaskade, released March 17, 2023. Apple Music lists it in Dance in Spatial Audio. Individual Dolby Atmos versions of tracks exist (Alive, Escape, Bright Lights, pwdr Blu, When I Talk, Eat Sleep, Take Me High, Avalanche confirmed in Dolby Atmos). Deadmau5 also has a calibrated 11.3 Dolby Atmos system in his studio since 2017."
+        }
+      ],
+      "notes": "deadmau5 has confirmed Dolby Atmos album availability for the Kx5 collaboration with Kaskade (2023). Additionally, the single Pomegranate (2020) with The Neptunes was released in Dolby Atmos on Amazon Music HD and TIDAL. Deadmau5 has had a Dolby Atmos-equipped studio since 2017. Note: While deadmau5's solo albums have not been found in Atmos, the Kx5 collaboration is a full album confirmed in Spatial Audio."
+    },
+    {
+      "id": 31,
+      "artist": "DeLaurentis",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Musicalism",
+          "releaseYear": 2025,
+          "sourceService": "Label/Artist site",
+          "sourceUrls": [
+            "https://delaurentismusic.com/",
+            "https://cslmusicteam.sony.fr/news/musicalism-delaurentis-new-album-is-out/",
+            "https://www.mixonline.com/recording/music-production/new-release-makes-synesthetic-experiences-immersive",
+            "https://www.headlinerhub.com/delaurentis-unveils-musicalism-a-synesthetic-immersive-audio-album-mixed-with-l-acoustics%E2%80%99-l-isa-studio.html"
+          ],
+          "confidence": 5,
+          "notes": "Multiple authoritative sources confirm the album was conceived and produced in Dolby Atmos from inception, mixed by Hervé Déjardin at Radio France. Also available in L-ISA spatial audio. Artist's official website explicitly lists 'Dolby Atmos' as a format."
+        }
+      ],
+      "notes": "DeLaurentis is a pioneer in spatial audio. Her album Musicalism (2025) was explicitly designed as a spatialized auditory experience in Dolby Atmos, with a corresponding 360° live immersive show."
+    },
+    {
+      "id": 32,
+      "artist": "Ellie Goulding",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Higher Than Heaven (Deluxe)",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/tr/playlist/hits-in-spatial-audio/pl.ba2404fbc4464b8ba2d60399189cf24e",
+            "https://music.apple.com/ca/playlist/ellie-goulding-in-spatial-audio/pl.62ed6f062b22429da7f903655909cf68",
+            "https://musicbrainz.org/artist/33ca19f4-18c8-4411-98df-ac23890ce9f5/recordings"
+          ],
+          "confidence": 4,
+          "notes": "Appears in Apple Music 'Hits in Spatial Audio' and 'Ellie Goulding in Spatial Audio' playlists. MusicBrainz database shows 'Better Man (Dolby Atmos mix)' entry. The deluxe edition is listed with Spatial Audio availability."
+        }
+      ],
+      "notes": "Ellie Goulding's 'Higher Than Heaven' (2023) is available in Spatial Audio with Dolby Atmos on Apple Music. Individual tracks have been confirmed with Dolby Atmos mixes."
+    },
+    {
+      "id": 33,
+      "artist": "Eurythmics",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Sweet Dreams (Are Made Of This) [2018 Remaster]",
+          "releaseYear": 1983,
+          "sourceService": "Other",
+          "sourceUrls": [
+            "https://www.isrbx.me/artist/Eurythmics/",
+            "https://superdeluxeedition.com/interview/eurythmics-talk-to-sde-about-their-back-catalogue-and-the-new-vinyl-reissues/"
+          ],
+          "confidence": 3,
+          "notes": "Found on ISRBX with 'E-AC-3 JOC Dolby Atmos' quality listed as 2018 remaster from Sony Music Entertainment Germany. This appears to be an immersive remaster of the classic 1983 album. SuperDeluxeEdition also discussed the potential for Atmos mixes of the Eurythmics catalog."
+        }
+      ],
+      "notes": "Eurythmics' classic 'Sweet Dreams (Are Made Of This)' appears to have a 2018 remaster with Dolby Atmos from Sony Music. Other albums in their catalog have been discussed for surround/immersive treatment but this is the only confirmed Atmos title found."
+    },
+    {
+      "id": 34,
+      "artist": "Excision",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No album-level Dolby Atmos releases found for Excision. Only DJ mixes (e.g., 'Excision Live at Lost Lands 2023') are available in Spatial Audio on Apple Music, but these are live mixes, not studio albums. Studio albums like 'Apex' (2018) and 'Onyx' do not appear to have Atmos mixes."
+    },
+    {
+      "id": 35,
+      "artist": "Fatboy Slim",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No album-level Dolby Atmos releases found for Fatboy Slim. Individual tracks (e.g., 'Right Here, Right Now') appear in DJ mixes available in Spatial Audio via Warehouse Project recordings on Apple Music. Classic albums like 'You've Come a Long Way, Baby' (1998) do not have confirmed Atmos mixes."
+    },
+    {
+      "id": 36,
+      "artist": "FKA twigs",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "EUSEXUA",
+          "releaseYear": 2025,
+          "sourceService": "Dolby",
+          "sourceUrls": [
+            "https://www.dolby.com/en-in/creator-lab/dolby-creator-talks/episode-252/",
+            "https://immersiveaudioalbum.com/2026-immersive-audio-album-listeners-choice-awards/",
+            "https://sona.mx/en/session/eusexua-fka-twigs-823f51"
+          ],
+          "confidence": 5,
+          "notes": "Official Dolby Creator Talks episode features mix engineer Alex Gamble discussing the Dolby Atmos mix of EUSEXUA. Immersive Audio Album lists the Atmos mix by Alex Gamble at Union Sound Company. Sona.mx hosts dedicated EUSEXUA listening sessions in Dolby Atmos."
+        },
+        {
+          "title": "CAPRISONGS",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://immersiveaudioalbum.com/now-available-in-dolby-atmos-fka-twigs-caprisongs/",
+            "https://music.apple.com/us/playlist/spatial-audio-mixed-by-mwa/pl.69c3ee864f6d4043a5e78a37b6b8c19e",
+            "https://quadraphonicquad.com/threads/beggars-group-iaa-atmos-releases-now-available-worldwide.38704/"
+          ],
+          "confidence": 5,
+          "notes": "Immersive Audio Album explicitly confirms CAPRISONGS was released in Dolby Atmos in September 2024, mixed by Mike Dean. Appears in Apple Music 'Spatial Audio: Mixed by MWA' playlist. Confirmed as part of Beggars Group's worldwide IAA Atmos releases."
+        }
+      ],
+      "notes": "FKA twigs has two confirmed album-level Dolby Atmos releases: EUSEXUA (2025) with Atmos mix by Alex Gamble, and CAPRISONGS (2022/2024) with Atmos mix by Mike Dean. Both are widely available on streaming services."
+    },
+    {
+      "id": 37,
+      "artist": "Floating Points",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Falling to Earth",
+          "releaseYear": 2026,
+          "sourceService": "Dolby",
+          "sourceUrls": [
+            "https://www.deutschegrammophon.com/en/projects/dolbyatmos/discography",
+            "https://www.deutschegrammophon.com/en/artists/diverse-kuenstler/news/a-journey-in-sound-floating-points-shares-falling-to-earth-278943"
+          ],
+          "confidence": 4,
+          "notes": "Listed on Deutsche Grammophon's official Dolby Atmos discography with release date May 1, 2026. Described as a standalone single that is an extended excerpt from the forthcoming album 'Mere Mortals' ballet score. DG is a major label with verified Atmos releases."
+        }
+      ],
+      "notes": "Floating Points has 'Falling to Earth' confirmed on Deutsche Grammophon's Dolby Atmos discography (May 2026). This appears to be a single/release ahead of a full album. His 2024 album 'Cascade' has not been confirmed with Atmos."
+    },
+    {
+      "id": 38,
+      "artist": "Flying Lotus",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Flamagra",
+          "releaseYear": 2019,
+          "sourceService": "Other",
+          "sourceUrls": [
+            "https://www.recordshopx.com/company/warp_records/",
+            "https://uhfrecords.com/Store"
+          ],
+          "confidence": 3,
+          "notes": "Recordshopx listing for Flamagra mentions 'Stereo & Dolby Atmos' as formats. UHF Records store also references Flying Lotus in context of Dolby Atmos releases. However, no direct Apple Music or official label press release explicitly confirming the Atmos mix was found."
+        }
+      ],
+      "notes": "Flying Lotus has 'Flamagra' (2019) indicated with Dolby Atmos on at least one retailer's site (Recordshopx). Flying Lotus is known as an artist who uses Atmos as a deliberate compositional tool. However, concrete confirmation from Apple Music, Dolby, or Warp Records was not independently verified."
+    },
+    {
+      "id": 39,
+      "artist": "Four Tet",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No album-level Dolby Atmos releases found for Four Tet. DJ sets (e.g., Warehouse Project 2024) are available in Spatial Audio on Apple Music, but these are live recordings, not studio albums. Studio albums like 'New Energy' (2017), 'Three' (2024), and others do not have confirmed Atmos mixes."
+    },
+    {
+      "id": 40,
+      "artist": "Fred Again",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Ten Days",
+          "releaseYear": 2024,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://sona.mx/en/session/ten-days-fred-again-2f6175",
+            "https://music.apple.com/us/playlist/electronic-in-spatial-audio/pl.9ca5521e31c8408c97377a71030396d1",
+            "https://www.reddit.com/r/fredagain/comments/1f78927/confusion_with_usb_album/"
+          ],
+          "confidence": 5,
+          "notes": "Sona.mx hosts 'Masterpieces in Atmos' listening sessions specifically for Ten Days in Dolby Atmos. Multiple Reddit posts praise the Dolby Atmos mixing on the album. Appears in Apple Music 'Electronic in Spatial Audio' playlist. Tracks including 'Delilah' specifically noted for Atmos quality."
+        }
+      ],
+      "notes": "Fred Again's 'Ten Days' (2024) is confirmed as a Dolby Atmos release on Apple Music, widely praised for its immersive mix quality. The album appears in multiple Spatial Audio playlists and is featured in dedicated Atmos listening events. The ongoing 'USB' project is not confirmed as an Atmos album release."
+    },
+    {
+      "id": 41,
+      "artist": "Future",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "I NEVER LIKED YOU",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/sb/album/i-never-liked-you/1621119097",
+            "https://www.complex.com/music/a/will-schube/apple-music-spatial-audio-one-year"
+          ],
+          "confidence": 4,
+          "notes": "Apple Music's Ebro Darden explicitly mentioned enjoying Future's 'I NEVER LIKED YOU' in Spatial Audio. Apple Music album page shows 'Hip-Hop in Spatial Audio' categorization."
+        }
+      ],
+      "notes": "Found confirmation that 'I NEVER LIKED YOU' (2022) is available in Spatial Audio on Apple Music. Other albums like 'High Off Life' (2020) and 'The Wizrd' (2019) were not confirmed as having Atmos mixes."
+    },
+    {
+      "id": 42,
+      "artist": "Gold Panda",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Searched Apple Music, Dolby.com, and general web sources. No evidence of Dolby Atmos releases found for albums including 'Lucky Shiner' (2010), 'Good Luck and Do Your Best' (2016), or 'The Work' (2024). No Spatial Audio badges found on Apple Music listings."
+    },
+    {
+      "id": 43,
+      "artist": "Gorillaz",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Cracker Island",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/ca/album/cracker-island/1641561652",
+            "https://gorillaz.fandom.com/wiki/Cracker_Island_(album)"
+          ],
+          "confidence": 4,
+          "notes": "Apple Music page lists 'Alternative in Spatial Audio' playlist inclusion. Fandom wiki confirms a 'Dolby Atmos Mix' edition exists with a bonus track."
+        },
+        {
+          "title": "The Mountain",
+          "releaseYear": 2026,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://rockcellarmagazine.com/gorillaz-exhibit-los-angeles-the-mountain-new-album-show-2026/",
+            "https://www.reddit.com/r/gorillaz/comments/1rtqvk9/the_mountain_in_atmos/"
+          ],
+          "confidence": 4,
+          "notes": "Released February 2026. Multiple sources mention Dolby Atmos availability. Rock Cellar Magazine article mentions 'digital and streaming services and Dolby Atmos.' Reddit user confirms Atmos mix sounds fantastic."
+        }
+      ],
+      "notes": "Two confirmed Atmos albums: 'Cracker Island' (2023) and 'The Mountain' (2026). Earlier albums like 'Song Machine' and 'Humanz' were not confirmed as having Atmos mixes."
+    },
+    {
+      "id": 44,
+      "artist": "Grandbrothers",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Searched Apple Music for 'Late Reflections' (2023) and 'Elsewhere' (2025) - no Dolby Atmos badges found. Reviewer equipment lists mention Atmos speakers but no specific confirmation that Grandbrothers albums were released in Atmos."
+    },
+    {
+      "id": 45,
+      "artist": "Grimes",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Grimes was mentioned in a Dolby press release (2024) as a collaborator on Anyma's 'Genesys II' album, but this does not indicate her own albums are in Atmos. Searched for 'Miss Anthropocene' (2020) and 'Art Angels' (2015) on Apple Music - no Spatial Audio badges found. Individual track 'Kill V. Maim' appears in a YouTube Dolby Atmos upload but no album-level Atmos release was confirmed."
+    },
+    {
+      "id": 46,
+      "artist": "Halina Rice",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "EVOLVE",
+          "releaseYear": 2024,
+          "sourceService": "Immersive Audio Album",
+          "sourceUrls": [
+            "https://immersiveaudioalbum.com/product/evolve-halina-rice-atmos-mkv-mp4-3d-binaural-wav/",
+            "https://www.halinarice.com/immersive"
+          ],
+          "confidence": 5,
+          "notes": "Available as Dolby Atmos MKV & MP4 download from Immersive Audio Album. Artist's website confirms: 'Albums EVOLVE (2024) and UNREALITY (2025) are mixed in L-ISA spatial audio by L-Acoustics and released in Dolby Atmos format.'"
+        },
+        {
+          "title": "UNREALITY",
+          "releaseYear": 2025,
+          "sourceService": "Immersive Audio Album",
+          "sourceUrls": [
+            "https://immersiveaudioalbum.com/product/unreality-halina-rice-atmos-mkv-mp4-3d-binaural-wav/",
+            "https://www.halinarice.com/immersive",
+            "https://music.apple.com/us/album/unreality/1842149383"
+          ],
+          "confidence": 5,
+          "notes": "Available as Dolby Atmos MKV & MP4 download from Immersive Audio Album. Artist's website confirms released in Dolby Atmos format. ADE 2025 event featured Dolby Atmos listening session debuting tracks from the album."
+        }
+      ],
+      "notes": "Halina Rice is an 'immersive-first' electronic music producer. Both 'EVOLVE' (2024) and 'UNREALITY' (2025) are confirmed as mixed in L-ISA and released in Dolby Atmos. Also available on Apple Music."
+    },
+    {
+      "id": 47,
+      "artist": "Halsey",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "If I Can't Have Love, I Want Power",
+          "releaseYear": 2021,
+          "sourceService": "Other",
+          "sourceUrls": [
+            "https://www.nin.wiki/If_I_Can%27t_Have_Love,_I_Want_Power"
+          ],
+          "confidence": 4,
+          "notes": "nin.wiki (Nine Inch Nails fan database) explicitly states: 'The album is also available in Dolby Atmos.' Produced by Trent Reznor and Atticus Ross."
+        },
+        {
+          "title": "Manic",
+          "releaseYear": 2020,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.youtube.com/watch?v=VVn9TGZ1_v0"
+          ],
+          "confidence": 3,
+          "notes": "YouTube video titled 'Halsey - Manic - Immersive Album Review - Dolby Atmos - Tidal' suggests an Atmos mix exists, but official Apple Music confirmation not independently verified."
+        },
+        {
+          "title": " hopeless fountain kingdom",
+          "releaseYear": 2017,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.reddit.com/r/halsey/comments/p911az/hfk_dolby_atmos_now_available_on_apple_music/"
+          ],
+          "confidence": 3,
+          "notes": "Reddit post on r/halsey indicates 'HFK (Dolby Atmos) now available on Apple Music' with users describing the updated mix."
+        },
+        {
+          "title": "Room 93",
+          "releaseYear": 2013,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://musicbrainz.org/release-group/d360d12b-896e-4111-b064-d4675f6098ac"
+          ],
+          "confidence": 4,
+          "notes": "MusicBrainz shows a 2022 'Dolby Atmos mix' digital release of Room 93 on Astralwerks label."
+        }
+      ],
+      "notes": "Multiple albums confirmed with Dolby Atmos mixes. 'If I Can't Have Love, I Want Power' is the strongest confirmation (nin.wiki). Reddit users also confirm 'hopeless fountain kingdom' and 'Manic' Atmos mixes on Apple Music. 'Room 93' has a documented 2022 Dolby Atmos mix release."
+    },
+    {
+      "id": 48,
+      "artist": "Hania Rani",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Inner Symphonies",
+          "releaseYear": 2021,
+          "sourceService": "Deutsche Grammophon",
+          "sourceUrls": [
+            "https://www.deutschegrammophon.com/en/catalogue/products/inner-symphonies-hania-dobrawa-12404",
+            "https://surroundmixe.de/hania-rani-dobrawa-czocher-inner-symphonies/"
+          ],
+          "confidence": 5,
+          "notes": "Deutsche Grammophon product page explicitly states 'Also available in Dolby Atmos.' Album with Dobrawa Czocher. Review on surroundmixe.de confirms Dolby Atmos streaming availability on Apple Music, Amazon, and Tidal."
+        }
+      ],
+      "notes": "Hania Rani is a Polish composer/pianist signed to Deutsche Grammophon. 'Inner Symphonies' (2021, with Dobrawa Czocher) is confirmed in Dolby Atmos by the label. Other albums like 'Ghosts' (2023) and 'Non Fiction' (2025) were not confirmed as having Atmos mixes."
+    },
+    {
+      "id": 49,
+      "artist": "Haroon Mirza",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Haroon Mirza is primarily a visual/sound artist, not a traditional music artist. He has released albums including 'The Wave Epoch' (2021, with Jack Jelfs) and 'Sampler1' (2023) on his OUTPUTS label. No evidence of Dolby Atmos album releases found. His work focuses on installations and physical media (e.g., playable card artwork)."
+    },
+    {
+      "id": 50,
+      "artist": "Holly Herndon",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Searched Apple Music for 'PROTO' (2019), 'Platform' (2015), and 'Movement' (2012) - no Spatial Audio or Dolby Atmos badges found. Holly Herndon is known for experimental electronic music and AI collaboration (Spawn). No evidence of Atmos album releases found. Her mixing engineer Marta Salogni confirmed in an interview she had not mixed in Dolby Atmos at that time."
+    },
+    {
+      "id": 51,
+      "artist": "Ian Dearden",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Ian Dearden is an independent folk/ambient artist from Australia with two self-released albums: 'What Took You So Long?' and 'One Day In A Life' (2020). His name appears occasionally in Dolby Atmos contexts only as a mastering credit on other artists' work (e.g., Michael Whalen's 'Imaginary Trains'). No evidence of any official Dolby Atmos or Spatial Audio releases for his own albums. Thorough search of Apple Music, streaming services, and music databases found no Atmos/Spatial Audio listings."
+    },
+    {
+      "id": 52,
+      "artist": "Igor Levit",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Beethoven: Complete Piano Sonatas",
+          "releaseYear": 2019,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/beethoven-complete-piano-sonatas/1472274311",
+            "https://classical.music.apple.com/nz/album/1472274311"
+          ],
+          "confidence": 5,
+          "notes": "Apple Music explicitly lists this album as 'available in immersive Spatial Audio' with 'these epic performances set a towering standard.' Released as part of Beethoven's 250th anniversary commemorations."
+        }
+      ],
+      "notes": "Igor Levit is a Russian-German pianist whose Beethoven: Complete Piano Sonatas recording is available in Spatial Audio on Apple Music. No other Atmos albums found for this artist."
+    },
+    {
+      "id": 53,
+      "artist": "James Blake",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Wind Down",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/wind-down/1624135737",
+            "https://www.reddit.com/r/ambientmusic/comments/xr7a66/dolby_atmos_ambient_albums/",
+            "https://www.forbes.com/sites/cathyolson/2022/03/18/endel-extends-adaptive-sleep-music-to-apple-tv-with-james-blake-soundscape/"
+          ],
+          "confidence": 5,
+          "notes": "Collaborative ambient soundscape album with Endel, released on Apple Music in Dolby Atmos. Specifically designed as a sleep/wind-down experience. Frequently cited in Dolby Atmos ambient music playlists and discussions."
+        }
+      ],
+      "notes": "James Blake has at least one confirmed Dolby Atmos album: 'Wind Down' (2022), an ambient collaboration with Endel available on Apple Music in Spatial Audio. His song 'Trying Times' also appears in Apple's 'Alternative in Spatial Audio' playlist, suggesting possible Atmos availability for additional tracks."
+    },
+    {
+      "id": 54,
+      "artist": "Jamie xx",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "In Waves",
+          "releaseYear": 2024,
+          "sourceService": "Immersive Audio Album",
+          "sourceUrls": [
+            "https://immersiveaudioalbum.com/now-available-in-dolby-atmos-jamie-xxs-in-waves/",
+            "https://immersiveaudioalbum.com/shop/"
+          ],
+          "confidence": 5,
+          "notes": "Jamie xx's second studio LP 'In Waves' is his first LP to receive an immersive mix. Available in Dolby Atmos on streaming services (Apple Music, Tidal, Amazon) and as a hi-res digital download (Dolby TrueHD MKV + MP4) from IAA. Part of Beggars Group's immersive catalog series."
+        }
+      ],
+      "notes": "Jamie xx has one confirmed Dolby Atmos album: 'In Waves' (2024), his sophomore studio album, available on streaming services in Dolby Atmos and as a hi-res download from Immersive Audio Album. This is his first LP to receive an immersive mix."
+    },
+    {
+      "id": 55,
+      "artist": "Janelle Monáe",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "The Age of Pleasure",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/the-age-of-pleasure/1686979040",
+            "https://www.reddit.com/r/AppleMusic/comments/14w1mh8/recommendations_for_music_that_sounds_better_in/"
+          ],
+          "confidence": 5,
+          "notes": "Apple Music page explicitly lists 'Made for Spatial Audio' badge. Full album was mixed in Dolby Atmos and is available on Apple Music in Spatial Audio. YouTube also has an unofficial Dolby Atmos mix playlist of the full album, confirming its Atmos availability."
+        }
+      ],
+      "notes": "Janelle Monáe's 'The Age of Pleasure' (2023) is confirmed available in Spatial Audio/Dolby Atmos on Apple Music, with explicit 'Made for Spatial Audio' labeling."
+    },
+    {
+      "id": 56,
+      "artist": "Jennifer Walshe",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Jennifer Walshe is an Irish experimental composer and vocalist known for works like 'ALL THE MANY PEOPLS' (2019), 'In The Merry Month Of May' (2024), and 'A Late Anthology of Early Music, Vol. 1'. Her work is primarily released on independent labels like Migro Records and Western Vinyl. No evidence of any Dolby Atmos or Spatial Audio album releases. She is an avant-garde composer whose work is not typically associated with immersive audio streaming formats."
+    },
+    {
+      "id": 57,
+      "artist": "Jon Hopkins",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Music For Psychedelic Therapy",
+          "releaseYear": 2021,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/be/album/music-for-psychedelic-therapy/1581582605",
+            "https://www.reddit.com/r/AppleMusic/comments/yvszpj/one_of_the_best_dolby_atmos_albums_jon_hopkins/"
+          ],
+          "confidence": 5,
+          "notes": "Widely cited as one of the best Dolby Atmos albums on Apple Music. The Reddit post title explicitly states 'One Of The Best Dolby Atmos Albums - Jon Hopkins Music For Psychedelic Therapy.'"
+        },
+        {
+          "title": "RITUAL",
+          "releaseYear": 2024,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/ritual/1740733246",
+            "https://music.apple.com/us/playlist/electronic-in-spatial-audio/pl.9ca5521e31c8408c97377a71030396d1",
+            "https://www.reddit.com/r/jonhopkins/comments/1pl7zvv/dolby_atmos_is_a_game_changer/"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed in Dolby Atmos on Apple Music. Reddit users confirm it 'shows as Atmos' and Jon Hopkins stated in interviews that it was mixed in Atmos. Featured in Apple's 'Electronic in Spatial Audio' playlist."
+        }
+      ],
+      "notes": "Jon Hopkins has two confirmed Dolby Atmos albums: 'Music For Psychedelic Therapy' (2021) and 'RITUAL' (2024). Both are available in Spatial Audio on Apple Music and are widely praised for their immersive mixes."
+    },
+    {
+      "id": 58,
+      "artist": "Jorja Smith",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Be Right Back",
+          "releaseYear": 2021,
+          "sourceService": "MusicBrainz / Apple Music",
+          "sourceUrls": [
+            "https://musicbrainz.org/release/fc43a808-9cde-412d-9918-3c678701a426",
+            "https://music.apple.com/us/album/be-right-back/1563007618",
+            "https://forwa3d.com/bio"
+          ],
+          "confidence": 4,
+          "notes": "MusicBrainz lists a 'Dolby Atmos mix' version of this EP. Mixed and mastered by Prash 'Engine-Earz' Mistry, who is Jorja Smith's in-house immersive mix engineer. The EP was specifically ATMOS-mixed at his Tileyard studio. Apple Music availability is strongly implied but not independently verified on the page."
+        }
+      ],
+      "notes": "Jorja Smith's EP 'Be Right Back' (2021) has a confirmed Dolby Atmos mix. Her in-house engineer Prash 'Engine-Earz' Mistry mixed it in Atmos, and it's listed on MusicBrainz as having a Dolby Atmos version. Her debut album 'Lost & Found' was also Atmos-mixed by Engine-Earz per his bio."
+    },
+    {
+      "id": 59,
+      "artist": "Justin Gray",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Immersed",
+          "releaseYear": 2025,
+          "sourceService": "Immersive Audio Album / Apple Music",
+          "sourceUrls": [
+            "https://justingraysound.bandcamp.com/album/immersed",
+            "https://immersiveaudioalbum.com/product/immersed-justin-gray-atmos-auro-3d-mkv-mp4/",
+            "https://justingraysound.com/immersed/",
+            "https://www.mixonline.com/recording/music-production/grammy-winner-justin-gray-immersed-from-the-beginning"
+          ],
+          "confidence": 5,
+          "notes": "Won the 2026 Grammy Award for Best Immersive Audio Album. A cinematic album composed, recorded, and produced from the ground up for immersive audio, featuring 38 artists. Mixed and produced in Dolby Atmos. Available on Apple Music, Tidal, Amazon, and as hi-res download from IAA. The Dolby Atmos mix is the primary mix, not a translation from stereo."
+        }
+      ],
+      "notes": "Justin Gray's 'Immersed' (2025) is a landmark Dolby Atmos album that won the 2026 Grammy for Best Immersive Audio Album. It was the first Grammy in this category created in Dolby Atmos from the ground up as a spatial presentation. Available on all major streaming platforms in Atmos."
+    },
+    {
+      "id": 60,
+      "artist": "Kaitlyn Aurelia Smith",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Kaitlyn Aurelia Smith is an American composer and producer known for her work with modular synthesizers. Notable albums include 'EARS' (2016), 'The Kid' (2017), 'Let's Turn It Into Sound' (2022), 'GUSH' (2025), and 'Thoughts On The Future' (2025). She has collaborated with Suzanne Ciani, Joe Goddard, and Emile Mosseri. While she has composed for companies like Apple and her music appears on various playlists, no evidence of any Dolby Atmos or Spatial Audio album releases was found. Her 'Neptunes' EP with Joe Goddard appears on Apple Music but without any Atmos/Spatial Audio indicators."
+    },
+    {
+      "id": 61,
+      "artist": "Karlheinz Stockhausen",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Karlheinz Stockhausen was a pioneering composer of spatial music (e.g., 'Gesang der Jünglinge' used 5-speaker mixes in 1956, and 'KONTAKTE' features spatialized electronic sounds). However, his works predate the Dolby Atmos format. A 2020 Bandcamp release of 'KONTAKTE' was mastered for 'surround-sound binaural format,' but this is not Dolby Atmos. The 'Sonic Sphere' spatial audio installation at The Shed NYC (2023) was a live performance concept, not an album release. No official Dolby Atmos album releases were found."
+    },
+    {
+      "id": 62,
+      "artist": "Kelela",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Raven",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/raven/1652665077",
+            "https://quadraphonicquad.com/threads/listening-to-in-dolby-atmos-streaming-via-tidal-apple-amazon.31491/page-393"
+          ],
+          "confidence": 4,
+          "notes": "Confirmed by user report on QuadraphonicQuad forum that 'Raven' is available in Dolby Atmos on Apple Music. Apple Music page shows album released Feb 10, 2023."
+        }
+      ],
+      "notes": "Kelela's second studio album 'Raven' is available in Dolby Atmos on Apple Music. No Atmos availability found for her debut 'Take Me Apart' (2017)."
+    },
+    {
+      "id": 63,
+      "artist": "Kelly Lee Owens",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Searched Apple Music and other sources for Dolby Atmos availability on Kelly Lee Owens' albums including her self-titled debut (2017), 'Inner Song' (2020), and 'LP.8' (2022). No Spatial Audio or Dolby Atmos badges or mentions were found on her Apple Music pages or in industry coverage. No evidence of Atmos releases for her catalog."
+    },
+    {
+      "id": 64,
+      "artist": "Kendrick Lamar",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "GNX",
+          "releaseYear": 2024,
+          "sourceService": "Dolby",
+          "sourceUrls": [
+            "https://x.com/Dolby/status/1861907923804267007",
+            "https://www.soundandvision.com/content/kendrick-lamar-luther-and-tv-dolby-atmos"
+          ],
+          "confidence": 5,
+          "notes": "Dolby's official X/Twitter account confirmed GNX is available in Dolby Atmos. Sound & Vision review specifically praised the Atmos mix of tracks 'Luther' and 'TV Off.'"
+        },
+        {
+          "title": "Mr. Morale & The Big Steppers",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.headphonesty.com/2026/04/iconic-dolby-atmos-tracks-trash-stereo-versions/"
+          ],
+          "confidence": 4,
+          "notes": "Track 'Count Me Out' specifically cited as an iconic Dolby Atmos track on Apple Music in a Headphonesty roundup, confirming the album's Atmos availability."
+        }
+      ],
+      "notes": "Kendrick Lamar has at least two confirmed albums in Dolby Atmos: GNX (2024) and Mr. Morale & The Big Steppers (2022). GNX was confirmed by Dolby's official social media account."
+    },
+    {
+      "id": 65,
+      "artist": "Kiasmos",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Kiasmos (Debut Album)",
+          "releaseYear": 2014,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://x.com/kiasmos_/status/1861048297286152286",
+            "https://music.apple.com/us/album/kiasmos/1451077320"
+          ],
+          "confidence": 5,
+          "notes": "Official Kiasmos X/Twitter account (Nov 25, 2024) confirmed: 'Our debut album is now available in Dolby Atmos, exclusively on Apple Music, courtesy our trusted Atmos mixer Richard Whittaker.' Apple Music page shows 'Hear the innovative techno duo's immersive 2014 debut in Spatial Audio.'"
+        },
+        {
+          "title": "Kiasmos II",
+          "releaseYear": 2024,
+          "sourceService": "Other",
+          "sourceUrls": [
+            "https://www.starboard.audio/"
+          ],
+          "confidence": 4,
+          "notes": "Confirmed by Atmos mixer Richard Whittaker on starboard.audio: 'KIASMOS II is the second album from superduo Ólafur Arnalds and Janus Rasmussen... I was asked to mix this future classic in Dolby Atmos.'"
+        }
+      ],
+      "notes": "Both Kiasmos albums are confirmed in Dolby Atmos. The debut was officially announced via the band's X/Twitter account with Apple Music exclusivity. Kiasmos II was confirmed by the Atmos mixer who worked on it."
+    },
+    {
+      "id": 66,
+      "artist": "Kraftwerk",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Autobahn (50th Anniversary)",
+          "releaseYear": 2024,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.soundandvision.com/content/kraftwerk-autobahn-dolby-atmos",
+            "https://magicvinyldigital.net/2025/08/17/kraftwerk-autobahn-review-the-50th-anniversary-edition-becomes-a-reference-in-dolby-atmos/"
+          ],
+          "confidence": 5,
+          "notes": "50th Anniversary edition released March 7, 2025 on Blu-ray and digitally (Apple Music, Amazon, Tidal). Brand-new Dolby Atmos mix created by Ralf Hütter and Fritz Hilpert from original 16-track master tapes. Reviewed as a 'reference in Dolby Atmos.'"
+        },
+        {
+          "title": "Radio-Activity (50th Anniversary)",
+          "releaseYear": 2025,
+          "sourceService": "Other",
+          "sourceUrls": [
+            "https://superdeluxeedition.com/news/kraftwerk-radio-activity-50th-anniversary-blu-ray/"
+          ],
+          "confidence": 5,
+          "notes": "50th Anniversary Blu-ray announced with brand-new Dolby Atmos Mix created by Ralf Hütter and Fritz Hilpert from original 16-track master tapes. Scheduled for release May 15, 2026 via Parlophone."
+        },
+        {
+          "title": "3-D The Catalogue",
+          "releaseYear": 2017,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.whathifi.com/features/kraftwerk-3-d-catalogue-blu-ray-review",
+            "https://music.apple.com/us/album/3-d-the-catalogue-live/1572506374"
+          ],
+          "confidence": 5,
+          "notes": "Live album/concert film from 2017 3D Tour. Blu-ray features Dolby Atmos, Dolby TrueHD 7.1, and PCM stereo. What Hi-Fi reviewed it as a 'concert film as progressive as its subject music deserves.' Apple Music page lists the album."
+        }
+      ],
+      "notes": "Kraftwerk has been actively releasing their catalog in Dolby Atmos format. Autobahn 50th Anniversary (2024/2025) and Radio-Activity 50th Anniversary (2026) feature new Atmos mixes from original master tapes. 3-D The Catalogue (2017) live album also features Dolby Atmos on Blu-ray. These are available on Blu-ray and digital streaming (Apple Music, Tidal, Amazon Music)."
+    },
+    {
+      "id": 67,
+      "artist": "Lady Gaga",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "The Fame",
+          "releaseYear": 2008,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+          ],
+          "confidence": 4,
+          "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+        },
+        {
+          "title": "The Fame Monster",
+          "releaseYear": 2009,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+          ],
+          "confidence": 4,
+          "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+        },
+        {
+          "title": "Born This Way",
+          "releaseYear": 2011,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+          ],
+          "confidence": 4,
+          "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+        },
+        {
+          "title": "ARTPOP",
+          "releaseYear": 2013,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+          ],
+          "confidence": 4,
+          "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+        },
+        {
+          "title": "Love For Sale (with Tony Bennett)",
+          "releaseYear": 2021,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+          ],
+          "confidence": 4,
+          "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+        },
+        {
+          "title": "Chromatica",
+          "releaseYear": 2020,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+          ],
+          "confidence": 4,
+          "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+        },
+        {
+          "title": "MAYHEM",
+          "releaseYear": 2025,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://magicvinyldigital.net/2025/03/07/lady-gaga-presents-her-7th-album-mayhem-review-high-resolution-stereo-vs-dolby-atmos/",
+            "https://music.apple.com/us/album/mayhem/1792666546"
+          ],
+          "confidence": 5,
+          "notes": "Released March 7, 2025. Detailed review comparing Tidal stereo (DR5) vs Tidal Dolby Atmos (DR13) versions confirms Atmos availability with superior dynamics. Also had an Apple Music Live: MAYHEM Requiem Spatial Audio live album released in 2026."
+        }
+      ],
+      "notes": "Lady Gaga has an extensive Dolby Atmos catalog. Six of her earlier albums (The Fame through Chromatica) were released in Dolby Atmos in July 2022 on Apple Music and Tidal per an official announcement. Her 2025 album MAYHEM was released with Dolby Atmos from day one. Additionally, an Apple Music Live: MAYHEM Requiem Spatial Audio live album was released in 2026."
+    },
+    {
+      "id": 68,
+      "artist": "Lana Del Rey",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Did you know that there's a tunnel under Ocean Blvd",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://x.com/AppleMusic/status/1639116207847768064",
+            "https://magicvinyldigital.net/2023/04/08/lana-del-rey-did-you-know-that-theres-a-tunnel-under-ocean-blvd-review-test-vinyl-white-vinyl-qobuz-hi-res-apple-dolby-atmos-what-is-the-best-colour-for-vinyl/"
+          ],
+          "confidence": 5,
+          "notes": "Officially confirmed by Apple Music X/Twitter account: 'Listen to her new album in Spatial Audio with Dolby Atmos.' Detailed review confirmed Apple Music Dolby Atmos version with DR13 dynamic range vs DR7 for stereo Qobuz."
+        }
+      ],
+      "notes": "Only one confirmed Dolby Atmos album for Lana Del Rey: 'Did you know that there's a tunnel under Ocean Blvd' (2023), confirmed by Apple's official Twitter account at release. Magic Vinyl Digital review extensively analyzed the Atmos mix. Reddit discussions from 2022 indicate frustration that her earlier catalog (Born to Die, Ultraviolence, Honeymoon) was not in Atmos at that time. Blue Banisters was mentioned in Audio Science Review forum lists but no direct Atmos confirmation found."
+    },
+    {
+      "id": 69,
+      "artist": "Madame Gandhi",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Vibrations",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.allamericanspeakers.com/speakers/436280/Madame-Gandhi",
+            "https://music.apple.com/us/album/vibrations-ep/1659926199"
+          ],
+          "confidence": 4,
+          "notes": "Multiple sources (speaker bio sites, Tidal video description) confirm: 'Her third studio album, Vibrations, mixed in Dolby Atmos, was released in 2022, on Sony Masterworks.' Apple Music page shows 5-song EP released Dec 23, 2022. Also performed live Spatial Audio shows at Sonic Sphere at The Shed NYC."
+        }
+      ],
+      "notes": "Madame Gandhi's 'Vibrations' EP/album (2022) was specifically mixed in Dolby Atmos and released on Sony Masterworks. She is also known for Spatial Audio live performances at the Sonic Sphere at The Shed NYC (2023). Earlier albums 'Voices' (2016) and 'Visions' (2019) do not appear to have Atmos releases."
+    },
+    {
+      "id": 70,
+      "artist": "Madonna",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "The Immaculate Collection (Dolby Atmos Mix)",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.madonna.com/blogs/news/the-immaculate-collection-now-available-in-dolby-atmos",
+            "https://music.apple.com/us/album/the-immaculate-collection/80812428",
+            "https://en.wikipedia.org/wiki/The_Immaculate_Collection"
+          ],
+          "confidence": 5,
+          "notes": "Officially released May 4, 2023. New Dolby Atmos mix overseen by award-winning producer Mike Dean. Released on Apple Music. Apple Music page shows 'Made for Spatial Audio' badge. The original album was released in 1990; this is a 2023 Atmos remix. Wikipedia also references this release."
+        }
+      ],
+      "notes": "Madonna's 'The Immaculate Collection' received an official Dolby Atmos mix in May 2023, produced by Mike Dean. This appears to be her only confirmed album-level Atmos release to date. There were unconfirmed rumors about a 'Ray of Light' 25th Anniversary Atmos mix in 2023, and a shelved Atmos project by William Orbit was mentioned, but these did not materialize as released albums."
+    },
+    {
+      "id": 71,
+      "artist": "Maribou State",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Hallucinating Love",
+          "releaseYear": 2025,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/hallucinating-love/1716587925",
+            "https://www.israbox-music.com/artist/Maribou+State/"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed Dolby Atmos release. Apple Music page and israbox listing show E-AC-3 JOC Dolby Atmos format. Also appears in Apple Music's Electronic in Spatial Audio playlist."
+        },
+        {
+          "title": "Portraits",
+          "releaseYear": 2015,
+          "sourceService": "Other",
+          "sourceUrls": [
+            "https://www.thisismetropolis.com/atmos/atmos-credits/"
+          ],
+          "confidence": 4,
+          "notes": "Listed in Metropolis Studios' Atmos credits page as having received a Dolby Atmos mix. The original album was released in 2015; the Atmos mix was done later (post-2021 when Metropolis launched their Atmos room). Availability on streaming services not independently confirmed."
+        }
+      ],
+      "notes": "Maribou State has multiple albums with Dolby Atmos treatment. The 2025 album Hallucinating Love is their most recent Atmos release, confirmed on Apple Music and in download formats. Their 2015 debut Portraits was also mixed in Atmos at Metropolis Studios."
+    },
+    {
+      "id": 72,
+      "artist": "Mat Dryhurst",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Mat Dryhurst is primarily known as a collaborator with Holly Herndon (partnering on albums 'Platform' 2015 and 'PROTO' 2019, both released under Holly Herndon's name via 4AD). He does not have commercially released solo albums, and no solo Dolby Atmos album releases were found. His spatial audio work is focused on immersive installations (e.g., 'The Call' at Serpentine Galleries, 'Starmirror' at KW Institute) using custom spatial audio systems, not commercially released Dolby Atmos albums."
+    },
+    {
+      "id": 73,
+      "artist": "Max Cooper",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Emergence (Dolby Atmos Edition)",
+          "releaseYear": 2019,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/mm/album/emergence-dolby-atmos-edition/1756324828",
+            "https://tidal.com/album/374924743",
+            "https://www.dolby.com/en-gb/music/max-cooper/"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed Dolby Atmos Edition on Apple Music, Tidal, and referenced on Dolby's official website. Originally released in 2019; the Atmos edition was made available later. Blu-ray release also available with Atmos remaster."
+        },
+        {
+          "title": "Unspoken Words (Dolby Atmos Edition)",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://pureaudiorecordings.com/en/product/max-cooper-unspoken-words-dolby-atmos-edition/",
+            "https://maxcooper.bandcamp.com/merch/unspoken-words-dolby-atmos-blu-ray-cd",
+            "https://maxcooper.net/a-collection-of-audio-visual-album-projects"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed Dolby Atmos release. Available on Blu-ray with Dolby Atmos, and on streaming platforms. Max Cooper's website explicitly states it's available in Dolby Atmos Surround Sound."
+        },
+        {
+          "title": "On Being (Dolby Atmos Edition)",
+          "releaseYear": 2024,
+          "sourceService": "Label",
+          "sourceUrls": [
+            "https://maxcooper.net/a-collection-of-audio-visual-album-projects"
+          ],
+          "confidence": 4,
+          "notes": "Max Cooper's website states 'Emergence, Unspoken Words and On Being are available in Dolby Atmos Surround Sound.' Specific release year estimated at 2024 based on project timeline."
+        }
+      ],
+      "notes": "Max Cooper is one of the most prominent electronic artists embracing Dolby Atmos. He has at least three audio-visual albums available in Dolby Atmos, with his own website, Dolby's official site, Apple Music, and Tidal all confirming availability. He also hosts spatial audio listening sessions at events like ADE."
+    },
+    {
+      "id": 74,
+      "artist": "Mick Jagger",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Mick Jagger has four solo studio albums (She's the Boss 1985, Primitive Cool 1987, Wandering Spirit 1993, Goddess in the Doorway 2001) plus soundtrack and compilation albums. None of his solo albums are available in Dolby Atmos. While The Rolling Stones (his band) have multiple albums in Dolby Atmos including Hackney Diamonds (2023), Foreign Tongues (2026), and classic titles remixed in Atmos via ABKCO, these are band releases credited to The Rolling Stones, not solo Mick Jagger albums."
+    },
+    {
+      "id": 75,
+      "artist": "Mike Oldfield",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Tubular Bells (50th Anniversary Dolby Atmos Mix)",
+          "releaseYear": 2023,
+          "sourceService": "Tidal",
+          "sourceUrls": [
+            "https://superdeluxeedition.com/news/mike-oldfield-tubular-bells-50th-anniversary-sde-exclusive-blu-ray/",
+            "https://magicvinyldigital.net/2023/07/02/mike-oldfield-tubular-bells-review-test-vinyl-vinyl-quadraphonic-vinyl-abbey-road-amazon-ultrahd-and-tidal-dolby-atmos-hdcd-sacd-sacd-4-0-blu-ray-stereo-quad-mix-5-1-mix-and-dolby-atmo/",
+            "https://www.hiresedition.com/review/progressive-rock/mike-oldfield-tubular-bells.html"
+          ],
+          "confidence": 5,
+          "notes": "50th anniversary edition features a new Dolby Atmos mix by David Kosten (2023). Available on SDE-exclusive Blu-ray Audio with Dolby TrueHD Atmos, and streaming on Tidal in Dolby Atmos and Amazon Music Ultra HD. Also includes 5.1 surround mix (2009), quad mix (1975), and new stereo mix."
+        },
+        {
+          "title": "Hergest Ridge (Dolby Atmos Mix)",
+          "releaseYear": 2025,
+          "sourceService": "Tidal",
+          "sourceUrls": [
+            "https://quadraphonicquad.com/threads/oldfield-mike-hergest-ridge-blu-ray-audio-dolby-atmos.37653/"
+          ],
+          "confidence": 4,
+          "notes": "SDE-exclusive Blu-ray Audio release with Dolby Atmos mix by David Kosten. Also includes quad mix and stereo mix. Confirmed as Dolby Atmos on Blu-ray; streaming availability not independently verified."
+        }
+      ],
+      "notes": "Mike Oldfield's classic albums have received the Dolby Atmos treatment for their anniversary editions. Tubular Bells' 50th anniversary (2023) features a highly acclaimed Atmos mix by David Kosten, available on both physical Blu-ray and streaming (Tidal, Amazon Music). Hergest Ridge also has an Atmos mix on Blu-ray. These are among the best-regarded immersive mixes of classic progressive rock albums."
+    },
+    {
+      "id": 76,
+      "artist": "Miley Cyrus",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Something Beautiful",
+          "releaseYear": 2025,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/something-beautiful/1804974240",
+            "https://magicvinyldigital.net/2025/06/14/miley-cyrus-something-beautifull-crushed-by-the-loudness-war-saved-in-extremis-by-dolby-atmos-review-vinyl-record-tidal-max-24-bits-96-khz-and-dolby-atmos/",
+            "https://tv.apple.com/eg/movie/miley-cyrus-something-beautiful/umc.cmc.663aymaei1jf9k5d806eyzl7y"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed Dolby Atmos release on Apple Music and Tidal (Tidal Dolby Atmos confirmed with DR12 dynamic range). Accompanied by a musical film also in Dolby Atmos on Apple TV+. The Atmos mix has been praised as significantly better than the compressed stereo master."
+        }
+      ],
+      "notes": "Miley Cyrus's 2025 album Something Beautiful is available in Dolby Atmos on Apple Music, Tidal, and Amazon Music. The Atmos mix has been critically praised for its superior dynamic range (DR12) compared to the heavily compressed stereo version (DR4). The album is also accompanied by a Dolby Atmos film on Apple TV+."
+    },
+    {
+      "id": 77,
+      "artist": "Moby",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Reprise",
+          "releaseYear": 2021,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://shop.deccarecordsus.com/products/moby-reprise-blu-ray-cd",
+            "https://www.hiresedition.com/review/classical/moby-reprise.html",
+            "https://www.deutschegrammophon.com/en/catalogue/products/reprise-moby-special-edition-12456",
+            "https://www.blu-ray.com/movies/Moby-Reprise-Blu-ray/305369/"
+          ],
+          "confidence": 5,
+          "notes": "Special edition CD + Blu-ray features the full album in Dolby Atmos (48kHz/24-bit) mixed by Alan Meyerson, plus 5.1 surround. Available on Deutsche Grammophon. Also available on Apple Music in Spatial Audio. The album features orchestral reimaginings of tracks from Moby's 30-year career."
+        }
+      ],
+      "notes": "Moby's 2021 album 'Reprise' on Deutsche Grammophon is available in Dolby Atmos on Blu-ray and streaming platforms (Apple Music). The album features orchestral and acoustic arrangements of his classic tracks including 'Go,' 'Porcelain,' 'Extreme Ways,' and 'Natural Blues.' The Atmos mix was done by Alan Meyerson and has been praised for its subtle but effective use of immersive sound."
+    },
+    {
+      "id": 78,
+      "artist": "Moderat",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "MORE D4TA",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.waterdomemusic.de/moderat-more-d4ta-album-2022/",
+            "https://dancingastronaut.com/2022/06/pitch-black-playback-offers-immersive-first-listen-for-albums-from-flume-tourist-moderat-and-more/",
+            "https://www.keyimagazine.com/2022/11/24/appleaudiospatial/",
+            "https://www.sleek-mag.com/article/eddy-cue-about-curation-in-music/"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed Dolby Atmos on Apple Music. Mixed at Immersive Lab Berlin by Eric Horstmann and team. Apple executive Eddy Cue specifically mentioned Moderat releasing in Spatial Audio. Also featured in Pitch Black Playback immersive listening events in Dolby Atmos."
+        }
+      ],
+      "notes": "Moderat's fourth album MORE D4TA (2022) is available in Dolby Atmos on Apple Music. It was mixed at Immersive Lab Berlin and has been cited by Apple as an example of Spatial Audio adoption by major artists. The album represents Moderat's return after a six-year hiatus."
+    },
+    {
+      "id": 79,
+      "artist": "Monolake / Robert Henke",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Robert Henke (performing as Monolake) has no commercially released Dolby Atmos albums. His immersive audio work focuses on live spatial performances using d&b Soundscape (e.g., 'Dust' album premiere at Palazzo Grassi) and custom multi-channel installations, not Dolby Atmos format album releases. Monolake's 2024 album 'Studio' was released on digital, CD, and vinyl formats with no Atmos version. Henke's work is primarily in stereo or custom spatial configurations for installations, not commercially distributed Dolby Atmos music."
+    },
+    {
+      "id": 80,
+      "artist": "Naomi Jon",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Naomi Jon is an independent pop artist with albums including 'Villain Of Your Dreams' (2024) and 'St. Valentine' (2023). No Dolby Atmos releases were found for any of her albums. She is a smaller independent artist without major label distribution that would typically facilitate Atmos mixing."
+    },
+    {
+      "id": 81,
+      "artist": "Nicolas Jaar",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No Dolby Atmos album releases found for Nicolas Jaar despite thorough searching. Reddit posts show fans requesting Atmos mixes of albums like 'Space Is Only Noise', but no official Atmos releases exist. The collaborative album 'Convergence' (2025) featuring Nicolas Jaar appears on Apple Music but without any Dolby Atmos tag. Nicolas Jaar's primary label Other People has not released any Atmos content."
+    },
+    {
+      "id": 82,
+      "artist": "Nils Frahm",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No confirmed Dolby Atmos album releases found. The track 'Says' from the album 'Spaces' (2015) is frequently mentioned in Dolby Atmos showcase articles as an exemplary Spatial Audio track on Apple Music, suggesting it may be available as an Atmos single track. However, no album-level Dolby Atmos release could be confirmed through Apple Music, Tidal, or official label (Erased Tapes) sources. The album 'All Melody' (2018) has been discussed in immersive audio contexts but not confirmed as an Atmos release."
+    },
+    {
+      "id": 83,
+      "artist": "Nine Inch Nails",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No Dolby Atmos album releases found on Apple Music, Tidal, or Amazon Music. The album 'The Downward Spiral' (1994) was released in 5.1 surround sound on SACD in 2004, but this has not been upgraded to a Dolby Atmos release on streaming services. Netflix's 'Nine Inch Nails Live: Beside You in Time' features spatial audio, but this is a video concert, not an album. The Social Network soundtrack was discussed in Atmos contexts but not confirmed as an official release. Multiple fan requests exist for Atmos releases on Reddit and audiophile forums."
+    },
+    {
+      "id": 84,
+      "artist": "Nitin Sawhney",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No Dolby Atmos studio album releases found. Sawhney has extensive experience with spatial audio technology - he has used Dolby Atmos for film scoring (Harry Potter audiobook soundtrack for Audible in 2025) and live performances at venues like the Royal Albert Hall and Polygon Live festival. However, none of his studio albums (including 'Beyond Skin', 'One Zero', etc.) have been officially released in Dolby Atmos format on any streaming service."
+    },
+    {
+      "id": 85,
+      "artist": "Photay",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No Dolby Atmos album releases found. Photay (Evan Shornstein) is an American electronic producer who has been involved in spatial audio live events, most notably performing at Polygon Live LDN 2025, billed as 'the largest outdoor 360-degree spatial audio event' in the UK. However, none of his studio albums have been officially released in Dolby Atmos format. Photay is signed to International Anthem label."
+    },
+    {
+      "id": 86,
+      "artist": "Pink Floyd",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "The Dark Side of the Moon",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://shop.pinkfloyd.com/products/the-dark-side-of-the-moon-50th-anniversary-bluray",
+            "https://www.pinkfloydz.com/discography/studio-albums/the-dark-side-of-the-moon-in-dolby-atmos/"
+          ],
+          "confidence": 5,
+          "notes": "50th Anniversary edition with Dolby Atmos mix by James Guthrie. Released on Blu-ray and available for streaming on Apple Music and Tidal. The Atmos mix was created in 2023 as part of the 50th anniversary deluxe box set."
+        },
+        {
+          "title": "Animals",
+          "releaseYear": 2024,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://shop.pinkfloyd.com/products/animals-2018-remix-audio-bluray-wdolby-atmos-mix",
+            "https://www.pinkfloydz.com/pink-floyd-animals-2018-dolby-atmos-mix/",
+            "https://www.hiresedition.com/review/progressive-rock/pink-floyd-animals-atmos.html"
+          ],
+          "confidence": 5,
+          "notes": "2018 Remix with Dolby Atmos mix by James Guthrie (2022). Released on standalone Blu-ray on May 17, 2024, and available for streaming on Apple Music and Tidal. Includes 2018 stereo mix, 5.1 surround mix, and original 1977 stereo mix alongside the Atmos version."
+        },
+        {
+          "title": "Wish You Were Here",
+          "releaseYear": 2024,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://trackingangle.com/features/pink-floyd-wish-you-were-here-dolby-atmos-listening-event-review"
+          ],
+          "confidence": 5,
+          "notes": "50th Anniversary Dolby Atmos mix by James Guthrie, unveiled at a listening event on December 3, 2024, and released on December 12, 2024 on standalone Blu-ray and in the multi-format deluxe box set. Available for streaming on Apple Music."
+        }
+      ],
+      "notes": "Pink Floyd has received extensive Dolby Atmos treatment from longtime engineer James Guthrie. Three studio albums are now available in Dolby Atmos: The Dark Side of the Moon (2023), Animals (2024), and Wish You Were Here (2024). These are available both on physical Blu-ray and streaming platforms (Apple Music, Tidal). Additionally, Tidal reportedly has 'Live at Pompeii' in Atmos format. The Atmos mixes are praised as high-quality immersive audio experiences."
+    },
+    {
+      "id": 87,
+      "artist": "Portishead",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No Dolby Atmos album releases found. The album 'Dummy' (1994) has been featured in listening sessions at Dolby Atmos-equipped studios (e.g., Omni Sound Lab in Barcelona), but this appears to be a third-party immersive playback of the stereo recording rather than an official Atmos mix release. Portishead is listed on Delta Music Belgium's website as an artist they would like to work with in Atmos, but no official releases exist on any streaming platform."
+    },
+    {
+      "id": 88,
+      "artist": "Radiohead",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No official Dolby Atmos album releases found. Radiohead producer Nigel Godrich has publicly dismissed Dolby Atmos as 'rubbish,' stating that 'stereo is optimum.' The 'Kid A Mnesia Exhibition' (2021) featured an immersive audio experience, but this was a 5.1 mixdown from a fan-made Atmos mix, not an official release. 'Kid A' has been featured in listening sessions at Dolby Atmos-equipped facilities, but no official Atmos versions are available on streaming services. Radiohead is frequently cited by fans as a band that would benefit from Atmos releases, but none have materialized."
+    },
+    {
+      "id": 89,
+      "artist": "RAYE",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "My 21st Century Blues",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://x.com/AppleMusic/status/1621373224373157894",
+            "https://music.apple.com/us/playlist/hits-in-spatial-audio/pl.ba2404fbc4464b8ba2d60399189cf24e"
+          ],
+          "confidence": 5,
+          "notes": "Debut album by RAYE, available in Spatial Audio with Dolby Atmos on Apple Music. Officially confirmed by Apple Music's Twitter account on February 3, 2023. The album won the Brit Award for British Album of the Year in 2024."
+        }
+      ],
+      "notes": "RAYE's debut album 'My 21st Century Blues' is confirmed to be available in Spatial Audio with Dolby Atmos on Apple Music. The album was officially promoted by Apple Music with a tweet confirming its Atmos availability. It appears in Apple Music's 'Hits in Spatial Audio' playlist and other Spatial Audio curated playlists."
+    },
+    {
+      "id": 90,
+      "artist": "Rival Consoles",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Landscape from Memory",
+          "releaseYear": 2025,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://inbroadcast.com/news/nugens-halo-upmix-plug-in-plays-key-role-in-aneek-thapars-dolby-atmos-mixes",
+            "https://music.apple.com/us/album/landscape-from-memory/1798316163",
+            "https://music.apple.com/us/playlist/electronic-in-spatial-audio/pl.9ca5521e31c8408c97377a71030396d1"
+          ],
+          "confidence": 5,
+          "notes": "Mixed in Dolby Atmos by Aneek Thapar using NUGEN Audio Halo Upmix. The album appears in Apple Music's 'Electronic in Spatial Audio' playlist, confirming its availability in Dolby Atmos on the platform. Released July 4, 2025 on Erased Tapes label."
+        }
+      ],
+      "notes": "Rival Consoles (Ryan Lee West) has at least one confirmed Dolby Atmos album: 'Landscape from Memory' (2025), which was specifically mixed in Atmos by engineer Aneek Thapar. The album appears in Apple Music's 'Electronic in Spatial Audio' curated playlist, confirming its streaming availability. The Atmos mix was created using NUGEN Audio's Halo Upmix plugin after Thapar had already mixed the stereo version. Rival Consoles' earlier albums (including 'Now Is' (2022), 'Persona' (2018), and 'Articulation' (2020)) do not appear to have Atmos versions."
+    },
+    {
+      "id": 91,
+      "artist": "Robyn",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Sexistential",
+          "releaseYear": 2026,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/sexistential/1852752613",
+            "https://music.apple.com/by/grouping/188746"
+          ],
+          "confidence": 5,
+          "notes": "Apple Music page explicitly shows 'Made for Spatial Audio' badge. Album released March 27, 2026. Also appears on Apple's Spatial Audio editorial pages."
+        }
+      ],
+      "notes": "Robyn's 2026 album Sexistential is confirmed in Spatial Audio/Dolby Atmos on Apple Music. Earlier albums (Honey, Body Talk, Robyn) do not appear to have Atmos availability. The Dopamine single also appears in Spatial Audio playlists."
+    },
+    {
+      "id": 92,
+      "artist": "Romy",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Mid Air",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://immersiveaudioalbum.com/now-available-in-dolby-atmos-romys-mid-air/",
+            "https://music.apple.com/is/album/mid-air/1688051982"
+          ],
+          "confidence": 5,
+          "notes": "Confirmed Dolby Atmos release by Immersive Audio Album. Apple Music listing includes Spatial Audio. Romy is a member of The xx; this is her debut solo album released September 2023 on Young Records."
+        }
+      ],
+      "notes": "Romy's solo debut Mid Air is available in Dolby Atmos on Apple Music and other streaming services. The xx albums do not appear to have Atmos availability."
+    },
+    {
+      "id": 93,
+      "artist": "Ryoji Ikeda",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No album-level Dolby Atmos releases found. Ryoji Ikeda is a Japanese sound artist whose work is primarily presented as installations, audiovisual concerts, and gallery exhibitions. His albums (Dataplex, Test Pattern, Ultratronics, etc.) are available on streaming services in standard stereo but not in Dolby Atmos format. While his live installations use immersive multi-channel spatial audio, this is not the same as commercially released album-level Atmos availability on streaming platforms."
+    },
+    {
+      "id": 94,
+      "artist": "Sampha",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Lahai",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://immersiveaudioalbum.com/now-available-in-dolby-atmos-samphas-lahai/",
+            "https://immersiveaudioalbum.com/product/lahai-sampha-atmos-mkv-mp4/"
+          ],
+          "confidence": 5,
+          "notes": "Immersive Audio Album confirmed Lahai is available in Dolby Atmos. Released October 2023, this is Sampha's sophomore album. Atmos mix available on Apple Music and for download via IAA."
+        }
+      ],
+      "notes": "Sampha's 2023 album Lahai is confirmed in Dolby Atmos. His debut album Process (2017) does not appear to have Atmos availability."
+    },
+    {
+      "id": 95,
+      "artist": "Samson Young",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No album-level Dolby Atmos releases found. Samson Young is a Hong Kong-based sound artist, composer, and installation artist. His work (Muted Situations series, Possible Music, Real Music, etc.) is exhibited in galleries, museums, and biennials rather than distributed as commercial albums on streaming services. No commercial album releases in Atmos format were found."
+    },
+    {
+      "id": 96,
+      "artist": "Skrillex",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Quest for Fire",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://rateyourmusic.com/list/robbya01/ranking-dolby-atmos-album-mixes-from-apple-music_tidal/",
+            "https://www.reddit.com/r/skrillex/comments/11699mv/dolby_atmos_on_apple_music_qffdgtc/",
+            "https://music.apple.com/us/album/quest-for-fire/1672154692"
+          ],
+          "confidence": 5,
+          "notes": "Multiple sources confirm Quest for Fire is available in Dolby Atmos on Apple Music. Released February 2023. RateYourMusic lists it with 10/10 immersion rating in Atmos."
+        },
+        {
+          "title": "Don't Get Too Close",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.reddit.com/r/skrillex/comments/11699mv/dolby_atmos_on_apple_music_qffdgtc/",
+            "https://music.apple.com/us/album/dont-get-too-close/1672465067"
+          ],
+          "confidence": 5,
+          "notes": "Reddit users confirm both 2023 Skrillex albums (QFF and DGTC) are in Dolby Atmos on Apple Music. Released February 2023 alongside Quest for Fire."
+        }
+      ],
+      "notes": "Both of Skrillex's 2023 albums (Quest for Fire and Don't Get Too Close) are confirmed in Dolby Atmos on Apple Music. Earlier albums including Recess (2014) do not appear to have Atmos availability. Skrillex tracks also appear in Apple Music Spatial Audio marketing."
+    },
+    {
+      "id": 97,
+      "artist": "Sofia Kourtesis",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Madres",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/madres/1695712922",
+            "https://www.reddit.com/r/SpatialSongs/comments/17m1lgb/sofia_kourtesis_madres/"
+          ],
+          "confidence": 4,
+          "notes": "Apple Music page shows 'Apple Music Spatial Audio' indicator. The track 'Volver' from the album appears on Apple's 'Electronic in Spatial Audio' playlist. DJ sets from Warehouse Project are also in Spatial Audio. Released October 27, 2023 on Ninja Tune."
+        }
+      ],
+      "notes": "Sofia Kourtesis's debut album Madres is available in Spatial Audio/Dolby Atmos on Apple Music. DJ mixes from Warehouse Project are also available in Spatial Audio as part of an Apple Music partnership."
+    },
+    {
+      "id": 98,
+      "artist": "Steve Miller Band",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No album-level Dolby Atmos releases found. Individual tracks (The Joker, Abracadabra, Fly Like an Eagle) appear in Apple Music Spatial Audio playlists (Classic Rock Hits in Spatial Audio, 80s Hits in Spatial Audio), but these are individual track appearances in curated playlists rather than full album-level Atmos releases. Reddit users mention The Joker as utilizing spatial audio well. No confirmation that any full Steve Miller Band album has been remixed and released in Dolby Atmos."
+    },
+    {
+      "id": 99,
+      "artist": "Steve Reich",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Steve Reich: Music for 18 Musicians",
+          "releaseYear": 2023,
+          "sourceService": "Colin Currie Records",
+          "sourceUrls": [
+            "https://www.colincurriegroup.com/2023/03/steve-reichs-music-for-18-musicians-release/",
+            "https://music.sonyselect.net/m/page/album.html?id=18890"
+          ],
+          "confidence": 5,
+          "notes": "Official press release from Colin Currie Group confirms 'Mastered in Dolby Atmos, it will be available on SACD and via all major streaming and download services.' Performed by Colin Currie Group with Synergy Vocals, recorded at Abbey Road Studios. Released April 2023."
+        },
+        {
+          "title": "The String Quartets",
+          "releaseYear": 2023,
+          "sourceService": "Deutsche Grammophon",
+          "sourceUrls": [
+            "https://www.deutschegrammophon.com/en/catalogue/products/reich-the-string-quartets-mivos-quartet-12866"
+          ],
+          "confidence": 5,
+          "notes": "Deutsche Grammophon product page explicitly states 'Also available in Dolby Atmos.' Performed by Mivos Quartet. Released February 2023. Includes WTC 9/11, Triple Quartet, and Different Trains."
+        },
+        {
+          "title": "Steve Reich: The Sextets",
+          "releaseYear": 2026,
+          "sourceService": "Colin Currie Records",
+          "sourceUrls": [
+            "https://www.nativedsd.com/product/ccr0009d-ccr0009d-steve-reich-the-sextets/"
+          ],
+          "confidence": 4,
+          "notes": "Released for Steve Reich's 90th birthday celebration. Performed by Colin Currie Group. Part of the ongoing series of Reich recordings in Atmos. Available in Spatial Audio."
+        }
+      ],
+      "notes": "Steve Reich has multiple albums available in Dolby Atmos, primarily through the Colin Currie Group's series of recordings on Colin Currie Records and the Mivos Quartet on Deutsche Grammophon. Music for 18 Musicians was 'mastered in Dolby Atmos' and is available on streaming services. The Sextets (2026) is also in Atmos. Note that these are recent recordings of Reich's compositions by other ensembles, not necessarily Atmos versions of Reich's original recordings."
+    },
+    {
+      "id": 100,
+      "artist": "Steven Wilson",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "The Overview",
+          "releaseYear": 2025,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.soundandvision.com/content/steven-wilson-overview-dolby-atmos",
+            "https://immersiveaudioalbum.com/steven-wilson-the-overview-5-1-surround-sound-dolby-atmos/"
+          ],
+          "confidence": 5,
+          "notes": "Released March 14, 2025. Dolby Atmos mix available on Apple Music, Tidal, and Amazon Music. Also available on Blu-ray with Atmos. Wilson is known as 'the once and forever Dolby Atmos mixing king.'"
+        },
+        {
+          "title": "The Harmony Codex",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.stereophile.com/content/steven-wilson-master-immersive-music",
+            "https://www.soundandvision.com/content/steven-wilson-overview-dolby-atmos"
+          ],
+          "confidence": 5,
+          "notes": "Released September 2023. Dolby Atmos mix available on Apple Music and other streaming services. Wilson discussed the Atmos mix process extensively in interviews."
+        },
+        {
+          "title": "The Future Bites",
+          "releaseYear": 2021,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.mixonline.com/recording/steven-wilson-knows-surround-part-1",
+            "https://immersiveaudioalbum.com/qa-steven-wilson-on-touring-the-overview-remixing-jeff-buckleys-grace-in-dolby-atmos-and-more/"
+          ],
+          "confidence": 5,
+          "notes": "Wilson's first solo album to get the Atmos treatment. Released January 2021. Grammy-nominated for Best Immersive Audio Album."
+        },
+        {
+          "title": "The Raven That Refused to Sing (and Other Stories)",
+          "releaseYear": 2013,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://superdeluxeedition.com/news/steven-wilson-announces-dolby-atmos-downloads-website/"
+          ],
+          "confidence": 4,
+          "notes": "Originally released 2013. Dolby Atmos remix released February 2026 on Wilson's Headphone Dust website. Available for download in Atmos, 5.1, Stereo, and Binaural formats."
+        },
+        {
+          "title": "Hand.Cannot.Erase.",
+          "releaseYear": 2015,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://superdeluxeedition.com/news/steven-wilson-announces-dolby-atmos-downloads-website/"
+          ],
+          "confidence": 4,
+          "notes": "Originally released 2015. Dolby Atmos remix released February 2026 on Wilson's Headphone Dust website. Available for download in Atmos, 5.1, Stereo, and Binaural formats."
+        }
+      ],
+      "notes": "Steven Wilson is one of the most prolific Dolby Atmos mixers for both his own solo work and other artists' catalogs. His own solo albums in Atmos include The Future Bites (2021), The Harmony Codex (2023), and The Overview (2025). He also remixed his back catalog albums The Raven That Refused to Sing (2013/2026) and Hand.Cannot.Erase. (2015/2026) in Atmos. Wilson is widely regarded as the leading immersive audio mixer in the industry."
+    },
+    {
+      "id": 101,
+      "artist": "Stevie Nicks",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No solo Stevie Nicks albums found in Dolby Atmos. Fleetwood Mac band albums featuring Nicks (Fleetwood Mac 1975, Rumours 1977) are available in Dolby Atmos, but these are band releases, not solo albums. Extensive searching found no Atmos releases for solo albums like Bella Donna (1981), The Wild Heart (1983), etc."
+    },
+    {
+      "id": 102,
+      "artist": "Suzanne Ciani",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "LIVE Quadraphonic",
+          "releaseYear": 2018,
+          "sourceService": "Tidal/Amazon Music",
+          "sourceUrls": [
+            "https://quadraphonicquad.com/threads/atmos-release-of-suzanne-ciani-live-quadraphonic.29874/",
+            "https://shop.cykik.com/products/suzanne-ciani-live-quadraphonic"
+          ],
+          "confidence": 4,
+          "notes": "Atmos version of LIVE Quadraphonic released on Tidal and Amazon Music on Feb 27, 2021. Described as possibly the first truly independent Dolby Atmos release. Also available via Immersive Audio Album. Originally recorded live March 5, 2016 in San Francisco."
+        },
+        {
+          "title": "Golden Apples of the Sun",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://transversales.bandcamp.com/album/golden-apples-of-the-sun-3",
+            "https://music.apple.com/us/album/golden-apples-of-the-sun/1689543586"
+          ],
+          "confidence": 5,
+          "notes": "Collaborative album with Jonathan Fitoussi. Atmos Mix by Thibaut Javoy at Studio Benzene. Released October 6, 2023. Tracks confirmed as dolby-atmos on Apple Music streaming."
+        }
+      ],
+      "notes": "Suzanne Ciani has at least two confirmed releases with Dolby Atmos: LIVE Quadraphonic (2018, Atmos streaming release 2021) and Golden Apples of the Sun (2023). She is an electronic music pioneer who has discussed remixing her catalog in Atmos format in interviews."
+    },
+    {
+      "id": 103,
+      "artist": "SZA",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "SOS",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://x.com/AppleMusic/status/1601079293979037696",
+            "https://music.apple.com/ca/playlist/hits-in-spatial-audio/pl.ba2404fbc4464b8ba2d60399189cf24e"
+          ],
+          "confidence": 5,
+          "notes": "Officially confirmed by Apple Music Twitter account: 'Listen now in Spatial Audio with Dolby Atmos.' Released December 9, 2022."
+        }
+      ],
+      "notes": "SZA's sophomore album SOS confirmed in Spatial Audio with Dolby Atmos on Apple Music. No evidence found for debut album Ctrl (2017) in Atmos."
+    },
+    {
+      "id": 104,
+      "artist": "Talking Heads",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Talking Heads: 77",
+          "releaseYear": 1977,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/",
+            "https://immersiveaudioalbum.com/talking-heads-77-5-1-surround-sound-dolby-atmos/"
+          ],
+          "confidence": 5,
+          "notes": "Dolby Atmos mix by Jerry Harrison and E.T. Thorngren, released to streaming September 2022."
+        },
+        {
+          "title": "More Songs About Buildings and Food",
+          "releaseYear": 1978,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"
+          ],
+          "confidence": 5,
+          "notes": "Dolby Atmos mix released to streaming September 2022."
+        },
+        {
+          "title": "Fear of Music",
+          "releaseYear": 1979,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"
+          ],
+          "confidence": 5,
+          "notes": "Dolby Atmos mix released to streaming September 2022."
+        },
+        {
+          "title": "Remain in Light",
+          "releaseYear": 1980,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"
+          ],
+          "confidence": 5,
+          "notes": "Dolby Atmos mix released to streaming September 2022."
+        },
+        {
+          "title": "Speaking in Tongues",
+          "releaseYear": 1983,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"
+          ],
+          "confidence": 5,
+          "notes": "Dolby Atmos mix released to streaming September 2022."
+        },
+        {
+          "title": "Little Creatures",
+          "releaseYear": 1985,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"
+          ],
+          "confidence": 5,
+          "notes": "Dolby Atmos mix released to streaming September 2022."
+        },
+        {
+          "title": "True Stories",
+          "releaseYear": 1986,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"
+          ],
+          "confidence": 5,
+          "notes": "Dolby Atmos mix released to streaming September 2022."
+        },
+        {
+          "title": "Naked",
+          "releaseYear": 1988,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"
+          ],
+          "confidence": 5,
+          "notes": "Dolby Atmos mix released to streaming September 2022."
+        },
+        {
+          "title": "Stop Making Sense",
+          "releaseYear": 1984,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://immersiveaudioalbum.com/talking-heads-77-5-1-surround-sound-dolby-atmos/",
+            "https://www.brooklynvegan.com/talking-heads-announce-stop-making-sense-deluxe-edition-soundtrack-cd-blu-ray-w-dolby-atmos-mix-vinyl-repress/"
+          ],
+          "confidence": 5,
+          "notes": "Live album. Atmos remix completed by Harrison and Thorngren. Blu-ray with Dolby Atmos mix released 2024."
+        }
+      ],
+      "notes": "All 8 Talking Heads studio albums were released in Dolby Atmos in September 2022, overseen by Jerry Harrison with engineer Eric Thorngren. The live album Stop Making Sense also received an Atmos mix. All mixes approved by band members."
+    },
+    {
+      "id": 105,
+      "artist": "Tarik Barri",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Tarik Barri is a Dutch visual artist and software developer known for real-time audiovisual performances. He collaborates with musicians (Thom Yorke, Nicolas Jaar, Ben Frost) providing visual components, but has no solo music albums in Dolby Atmos. No album releases found under his own name."
+    },
+    {
+      "id": 106,
+      "artist": "Tash Sultana",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "No Dolby Atmos albums found for Tash Sultana. Searched for debut album Flow State (2019) and sophomore album Terra Firma (2021). No Atmos releases confirmed on any streaming platform."
+    },
+    {
+      "id": 107,
+      "artist": "Taylor Swift",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Taylor Swift",
+          "releaseYear": 2006,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/",
+            "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"
+          ],
+          "confidence": 5,
+          "notes": "Added to Apple Music Spatial Audio December 2025. Original Big Machine masters version."
+        },
+        {
+          "title": "Fearless",
+          "releaseYear": 2008,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/",
+            "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"
+          ],
+          "confidence": 5,
+          "notes": "Added to Apple Music Spatial Audio December 2025. Original Big Machine masters version."
+        },
+        {
+          "title": "Speak Now",
+          "releaseYear": 2010,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/",
+            "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"
+          ],
+          "confidence": 5,
+          "notes": "Added to Apple Music Spatial Audio December 2025. Original Big Machine masters version."
+        },
+        {
+          "title": "Red",
+          "releaseYear": 2012,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/",
+            "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"
+          ],
+          "confidence": 5,
+          "notes": "Added to Apple Music Spatial Audio December 2025. Original Big Machine masters version."
+        },
+        {
+          "title": "1989",
+          "releaseYear": 2014,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/",
+            "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"
+          ],
+          "confidence": 5,
+          "notes": "Added to Apple Music Spatial Audio December 2025. Original Big Machine masters version."
+        },
+        {
+          "title": "Reputation",
+          "releaseYear": 2017,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/",
+            "https://stereogum.com/2482875/taylor-swifts-new-dolby-atmos-release-includes-two-reputation-lyric-changes/news"
+          ],
+          "confidence": 5,
+          "notes": "Added to Apple Music Spatial Audio December 2025. Includes revised lyrics for some tracks in the Atmos version."
+        },
+        {
+          "title": "Lover",
+          "releaseYear": 2019,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/",
+            "https://music.apple.com/gb/playlist/taylor-swift-in-spatial-audio/pl.504aa3ce64fb45a8a4bcab2c90bbd181"
+          ],
+          "confidence": 5,
+          "notes": "Available in Spatial Audio with Dolby Atmos. Republic Records release."
+        },
+        {
+          "title": "Folklore",
+          "releaseYear": 2020,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/",
+            "https://music.apple.com/gb/playlist/taylor-swift-in-spatial-audio/pl.504aa3ce64fb45a8a4bcab2c90bbd181"
+          ],
+          "confidence": 5,
+          "notes": "Available in Spatial Audio with Dolby Atmos."
+        },
+        {
+          "title": "Evermore",
+          "releaseYear": 2020,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/",
+            "https://music.apple.com/gb/playlist/taylor-swift-in-spatial-audio/pl.504aa3ce64fb45a8a4bcab2c90bbd181"
+          ],
+          "confidence": 5,
+          "notes": "Available in Spatial Audio with Dolby Atmos."
+        },
+        {
+          "title": "Midnights",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/",
+            "https://www.yahoo.com/tech/taylor-swifts-album-renewed-interest-142706914.html"
+          ],
+          "confidence": 5,
+          "notes": "Available in Spatial Audio with Dolby Atmos at release."
+        },
+        {
+          "title": "The Tortured Poets Department",
+          "releaseYear": 2024,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/",
+            "https://www.yahoo.com/tech/taylor-swifts-album-renewed-interest-142706914.html"
+          ],
+          "confidence": 5,
+          "notes": "Available in Spatial Audio with Dolby Atmos at release."
+        },
+        {
+          "title": "The Life of a Showgirl",
+          "releaseYear": 2025,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"
+          ],
+          "confidence": 5,
+          "notes": "Available in Spatial Audio with Dolby Atmos at release."
+        }
+      ],
+      "notes": "Taylor Swift's entire standard catalog of 12 studio albums is now available in Spatial Audio with Dolby Atmos on Apple Music. The first 6 albums (Taylor Swift, Fearless, Speak Now, Red, 1989, Reputation) were added in December 2025, completing her catalog. These are the original Big Machine master recordings. The re-recorded versions (Taylor's Version) are also available in Atmos."
+    },
+    {
+      "id": 108,
+      "artist": "Thom Yorke",
+      "hasAtmosAlbum": null,
+      "albums": [
+        {
+          "title": "Anima",
+          "releaseYear": 2019,
+          "sourceService": "Other",
+          "sourceUrls": [
+            "https://rockcellarmagazine.com/thom-yorke-new-album-anima-listen-stream/"
+          ],
+          "confidence": 2,
+          "notes": "Rock Cellar Magazine article mentions 'digital and streaming services and Dolby Atmos' but this is ambiguous and may refer to the short film audio, not the album. No independent confirmation of Anima in Atmos on Apple Music or other services. Reddit users have mentioned listening to ANIMA in Atmos context but unclear if referring to Apple's Spatial Audio processing or native Atmos mix."
+        }
+      ],
+      "notes": "Thom Yorke's solo album Atmos status is inconclusive. While one source mentioned 'Dolby Atmos' in relation to Anima (2019), no official Apple Music, Tidal, or Dolby listing confirms a native Atmos mix for his solo albums. The Smile (Yorke's project with Jonny Greenwood) has surround sound mixes but Reddit users confirm these are NOT Dolby Atmos. The single 'Dialing In' (2025) is confirmed in Dolby Atmos format but this is a single, not an album. More research needed for definitive confirmation."
+    },
+    {
+      "id": 109,
+      "artist": "Tipper",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Tipper (David Tipper) is a British electronic music producer known for surround sound compositions. He released 'Surrounded' (2003/2004) specifically for 5.1 surround sound and DualDisc format, and has provided content for DTS. However, no specific Dolby Atmos album releases were found in streaming catalogs or discographies. A Reddit post asking about Tipper in Dolby Atmos received no confirmations of Atmos releases."
+    },
+    {
+      "id": 110,
+      "artist": "Tourist",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Tourist (William Phillips) is an English electronic musician. Searched all 6 studio albums: U (2016), Everyday (2019), Wild (2019), Inside Out (2022), Memory Morning (2024), and Music Is Invisible (2025). No Dolby Atmos releases found on any major streaming platform. Note: 'The Tourist' soundtrack by Dominik Scherrer is available in Atmos but this is unrelated to the artist Tourist."
+    },
+    {
+      "id": 111,
+      "artist": "Tove Lo",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Dirt Femme",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://musicbrainz.org/release-group/97d87cf8-6be0-439b-87a3-9c128bfee2cc",
+            "https://www.soundandvision.com/content/shining-bolt-spatial-audio",
+            "https://music.apple.com/se/playlist/hits-in-spatial-audio/pl.ba2404fbc4464b8ba2d60399189cf24e?l=en-GB"
+          ],
+          "confidence": 5,
+          "notes": "MusicBrainz lists explicit 'Dirt Femme (Dolby Atmos mix)' release. Sound & Vision reviewed 'True Romance' track in Atmos. Album appears in Apple Music 'Hits in Spatial Audio' playlist."
+        }
+      ],
+      "notes": "Tove Lo's album 'Dirt Femme' has a confirmed Dolby Atmos mix available on Apple Music. Individual tracks like 'True Romance,' '2 Die 4,' 'How Long,' 'Suburbia,' 'Kick In The Head,' and 'I'm To Blame' have been noted in Atmos mixes."
+    },
+    {
+      "id": 112,
+      "artist": "Travis Scott",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "UTOPIA",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://x.com/tervisscoot/status/1705606289173205347",
+            "https://www.reddit.com/r/travisscott/comments/16q7r2c/whole_utopia_just_got_updated_with_dolby_atmos_if/",
+            "https://www.last.fm/music/Travis+Scott/UTOPIA+(Dolby+Atmos)",
+            "https://music.apple.com/us/playlist/top-100-2024-spatial-audio/pl.35c3c0a025b04025a895a9365e85ab1b"
+          ],
+          "confidence": 5,
+          "notes": "Twitter post confirmed UTOPIA updated with Dolby Atmos on Apple Music in Sept 2023. Reddit users confirmed the same. Last.fm has dedicated 'UTOPIA (Dolby Atmos)' page. Tracks appear in Apple Music Spatial Audio playlists."
+        }
+      ],
+      "notes": "Travis Scott's 'UTOPIA' album was officially updated with Dolby Atmos on Apple Music shortly after its July 2023 release. Reddit discussions and social media posts confirmed the Atmos availability."
+    },
+    {
+      "id": 113,
+      "artist": "UNIIQU3",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "UNIIQU3 is a Jersey Club artist with EPs including 'Phase 3' (2018), 'Digital Diva' (2020), 'Heartbeats' (2021), and 'Ramen Noodles' (with Black Caviar). No Dolby Atmos album releases were found across multiple searches including Apple Music, Tidal, and Dolby listings."
+    },
+    {
+      "id": 114,
+      "artist": "The Weeknd",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "After Hours",
+          "releaseYear": 2020,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://news.dolby.com/en-WW/202531-dolby-teams-up-with-the-weeknd-to-explore-how-he-creates-worlds-with-music/",
+            "https://www.reddit.com/r/TheWeeknd/comments/nuu6hk/after_hours_mdm_and_starboy_in_lossless_with/"
+          ],
+          "confidence": 5,
+          "notes": "Official Dolby press release (Sept 2021) confirms 'After Hours' streaming in Dolby Atmos on Apple Music. Apple Music Spatial Audio playlist inclusions confirm."
+        },
+        {
+          "title": "My Dear Melancholy",
+          "releaseYear": 2018,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://news.dolby.com/en-WW/202531-dolby-teams-up-with-the-weeknd-to-explore-how-he-creates-worlds-with-music/",
+            "https://www.reddit.com/r/TheWeeknd/comments/qe8ga2/the_weeknd_my_dear_melancholy_dolby_atmos/"
+          ],
+          "confidence": 5,
+          "notes": "Official Dolby press release (Sept 2021) confirms 'My Dear Melancholy' streaming in Dolby Atmos on Apple Music."
+        },
+        {
+          "title": "Starboy",
+          "releaseYear": 2016,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://news.dolby.com/en-WW/202531-dolby-teams-up-with-the-weeknd-to-explore-how-he-creates-worlds-with-music/",
+            "https://www.reddit.com/r/TheWeeknd/comments/nuu6hk/after_hours_mdm_and_starboy_in_lossless_with/"
+          ],
+          "confidence": 5,
+          "notes": "Official Dolby press release (Sept 2021) confirms 'Starboy' streaming in Dolby Atmos on Apple Music."
+        },
+        {
+          "title": "Beauty Behind the Madness",
+          "releaseYear": 2015,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://news.dolby.com/en-WW/202531-dolby-teams-up-with-the-weeknd-to-explore-how-he-creates-worlds-with-music/",
+            "https://musicbrainz.org/release-group/a85b8aff-fcbc-4431-95ba-d8c20bbfb77e"
+          ],
+          "confidence": 5,
+          "notes": "Official Dolby press release (Sept 2021) confirms 'Beauty Behind the Madness' streaming in Dolby Atmos on Apple Music. MusicBrainz also lists explicit 'Beauty Behind the Madness (Dolby Atmos mix)' entries."
+        },
+        {
+          "title": "Dawn FM",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://www.subjectivesounds.com/musicblog/the-weeknd-dawn-fm-album-review",
+            "https://helloatmos.app/ranking/albums/",
+            "https://www.audioadvice.com/blogs/expert-advice/best-dolby-atmos-music-demo-albums"
+          ],
+          "confidence": 5,
+          "notes": "Review confirms Dolby Atmos mix on Apple Music. Listed on helloatmos.app Top 50 Dolby Atmos albums. Audio Advice recommends it as a top Atmos demo album. Apple Music promoted it with Spatial Audio at launch."
+        }
+      ],
+      "notes": "The Weeknd has the most extensive Dolby Atmos catalog among artists in this batch. Five albums are confirmed in Dolby Atmos: After Hours, My Dear Melancholy, Starboy, Beauty Behind the Madness (all confirmed by official Dolby press release in Sept 2021), and Dawn FM (confirmed by multiple reviews and Atmos ranking sites). The Weeknd also has an official Dolby partnership/spotlight video."
+    },
+    {
+      "id": 115,
+      "artist": "Weval",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "CHOROPHOBIA",
+          "releaseYear": 2025,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://music.apple.com/us/album/chorophobia/1811689083",
+            "https://www.reddit.com/r/SpatialSongs/comments/1geea5u/just_found_weval_is_both_24bit_and_atmos_on_tidal/"
+          ],
+          "confidence": 4,
+          "notes": "Album appears in Apple Music 'Electronic in Spatial Audio' playlist. Reddit user confirmed Weval is available in Dolby Atmos on Tidal. Released Sept 2025 on Ninja Tune/Technicolour."
+        }
+      ],
+      "notes": "Weval's 'CHOROPHOBIA' (2025) is confirmed in Dolby Atmos via Apple Music Spatial Audio playlist inclusion and a Reddit post noting Atmos availability on Tidal. Weval is a Dutch electronic music duo."
+    },
+    {
+      "id": 116,
+      "artist": "The xx",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "The xx is an English indie pop band with albums 'xx' (2009), 'Coexist' (2012), and 'I See You' (2017). While Apple Music pages for their albums were found, no explicit Dolby Atmos badging or mentions were discovered. Solo projects by members (Jamie xx's 'In Waves' and Romy's 'Mid Air') have Dolby Atmos, but no Atmos releases were found for The xx as a band."
+    },
+    {
+      "id": 117,
+      "artist": "Yaeji",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "With A Hammer",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music",
+          "sourceUrls": [
+            "https://immersiveaudioalbum.com/now-available-in-dolby-atmos-yaejis-with-a-hammer/",
+            "https://immersiveaudioalbum.com/product/with-a-hammer-yaeji-atmos-mkv-mp4/",
+            "https://music.apple.com/us/album/with-a-hammer/1654198968",
+            "https://www.thisismetropolis.com/atmos/atmos-credits/"
+          ],
+          "confidence": 5,
+          "notes": "Immersive Audio Album (IAA) offers 'With A Hammer' as Dolby Atmos digital download (MKV + MP4), confirming an official Atmos mix by Chris Botta. Metropolis Studios lists Yaeji in their Atmos credits. Available to stream in Dolby Atmos on Apple Music."
+        }
+      ],
+      "notes": "Yaeji's debut studio album 'With A Hammer' (2023) has a confirmed Dolby Atmos mix, mixed by Chris Botta. The album is available as a Dolby Atmos digital download via Immersive Audio Album and streams in Atmos on Apple Music."
+    },
+    {
+      "id": 118,
+      "artist": "Yīn Yīn",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "Yīn Yīn is a Dutch psychedelic/funk/disco band with albums 'The Rabbit That Hunts Tigers' (2019), 'The Age of Aquarius' (2022), 'Mount Matsu' (2024), and 'Yatta!' (2026). Despite searching Apple Music, Tidal, and Dolby sources, no Dolby Atmos album releases were found for this artist."
+    },
+    {
+      "id": 119,
+      "artist": "yunè pinku",
+      "hasAtmosAlbum": false,
+      "albums": [],
+      "notes": "yunè pinku is an Irish electronic musician with EPs 'Bluff' (2022), 'Babylon IX' (2023), and 'Scarlet Lamb' (2024). Despite extensive searching across Apple Music, Tidal, and Dolby sources, no Dolby Atmos album or EP releases were found."
+    }
+  ]
+}

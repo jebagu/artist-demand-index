@@ -1,0 +1,112 @@
+[
+  {
+    "id": 87,
+    "artist": "Portishead",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Electronic",
+    "subGenre": "Trip-Hop",
+    "instrumentSounds": "Vocals, Guitar, Synthesizer",
+    "mf": "Group",
+    "descriptionShort": "Portishead is an English band formed in Bristol, consisting of Beth Gibbons on vocals, Geoff Barrow on production, and Adrian Utley on guitar. They are pioneers of the trip-hop genre, blending electronica, experimental rock, soul, and jazz into a dark, atmospheric sound. Their 1994 debut album Dummy is widely considered a masterpiece and won the Mercury Music Prize.",
+    "confidence": 5
+  },
+  {
+    "id": 88,
+    "artist": "Radiohead",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Rock",
+    "subGenre": "Alternative Rock",
+    "instrumentSounds": "Guitar, Synthesizer, Drums",
+    "mf": "Group",
+    "descriptionShort": "Radiohead is an English rock band led by Thom Yorke, regarded as one of the most influential and innovative bands in modern music. Their sound spans alternative rock, electronic, and experimental genres, with landmark albums like OK Computer and Kid A. They are a premier festival headliner worldwide and were inducted into the Rock & Roll Hall of Fame in 2019.",
+    "confidence": 5
+  },
+  {
+    "id": 89,
+    "artist": "RAYE",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "Pop",
+    "subGenre": "Electro-Pop, R&B",
+    "instrumentSounds": "Vocals, Piano",
+    "mf": "Female",
+    "descriptionShort": "RAYE is the stage name of Rachel Agatha Keen, a British singer-songwriter and record producer born in 1997. Her music blends pop, R&B, jazz, and soul, and she gained widespread recognition with her 2023 debut album My 21st Century Blues and the hit single Escapism. She has won multiple Brit Awards and also writes for major artists including Beyonce and Charli XCX.",
+    "confidence": 5
+  },
+  {
+    "id": 90,
+    "artist": "Rival Consoles",
+    "programmingStyle": "Live Electronic",
+    "genreLabels": "Electronic",
+    "subGenre": "IDM, Ambient",
+    "instrumentSounds": "Synthesizer, Modular Synth, Guitar",
+    "mf": "Male",
+    "descriptionShort": "Rival Consoles is the stage name of Ryan Lee West, a British electronic musician born in 1985 and based in London. Known for making synthesizers sound human and atmospheric, his work spans IDM, ambient, and experimental dance music, often incorporating guitar and piano compositions. He has released multiple acclaimed albums on Erased Tapes Records and performs immersive live A/V shows at festivals like Sonar and Mutek.",
+    "confidence": 5
+  },
+  {
+    "id": 91,
+    "artist": "Robyn",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "Pop",
+    "subGenre": "Electropop, Dance-Pop",
+    "instrumentSounds": "Vocals, Synthesizer",
+    "mf": "Female",
+    "descriptionShort": "Robyn is a Swedish pop singer and songwriter who has been a defining force in electropop since the 1990s. Known for her emotionally resonant dance anthems like Dancing on My Own, she blends vulnerability with infectious electronic production. Her Body Talk trilogy cemented her status as one of the most influential pop artists of her generation.",
+    "confidence": 5
+  },
+  {
+    "id": 92,
+    "artist": "Romy",
+    "programmingStyle": "Second Stage",
+    "genreLabels": "Electronic",
+    "subGenre": "Electro-Pop, Trance",
+    "instrumentSounds": "Vocals, Synthesizer",
+    "mf": "Female",
+    "descriptionShort": "Romy Madley Croft is a British musician best known as a vocalist and guitarist for the acclaimed indie pop band The xx. Her 2023 solo debut Mid Air marked a shift toward euphoric electronic and dance-pop sounds, exploring club culture and queer identity. She has also collaborated extensively with artists like Fred Again.. and Jamie xx.",
+    "confidence": 5
+  },
+  {
+    "id": 93,
+    "artist": "Ryoji Ikeda",
+    "programmingStyle": "A/V Installation",
+    "genreLabels": "Sound Art",
+    "subGenre": "Audiovisual, Data Art",
+    "instrumentSounds": "Laptop, Projectors, Sound System",
+    "mf": "Male",
+    "descriptionShort": "Ryoji Ikeda is a Japanese electronic composer and visual artist born in 1966, regarded as one of the world's leading figures in audiovisual art. His practice explores the intersection of sound, data, mathematics, and light through immersive installations and performances at major institutions worldwide. Known for works like Test Pattern and data-verse, he transforms scientific datasets and mathematical concepts into visceral sensory experiences.",
+    "confidence": 5
+  },
+  {
+    "id": 94,
+    "artist": "Sampha",
+    "programmingStyle": "Second Stage",
+    "genreLabels": "Electronic",
+    "subGenre": "Electronic Soul, R&B",
+    "instrumentSounds": "Vocals, Piano, Synthesizer",
+    "mf": "Male",
+    "descriptionShort": "Sampha is a London-based singer, songwriter, and producer known for his emotive voice and genre-blending electronic soul sound. He won the prestigious Mercury Prize in 2017 for his debut album Process, which explored grief and personal loss. He is also a sought-after collaborator, having worked with Drake, Kendrick Lamar, Kanye West, Frank Ocean, and Beyonce.",
+    "confidence": 5
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "programmingStyle": "Sound Art",
+    "genreLabels": "Sound Art",
+    "subGenre": "Contemporary Classical, Installation",
+    "instrumentSounds": "Various Instruments, Electronics, 3D Objects",
+    "mf": "Male",
+    "descriptionShort": "Samson Young is a Hong Kong-born artist and composer born in 1979, whose practice spans sound, performance, video, and installation. Trained in music composition at Princeton University, his work examines the cultural, political, and historical dimensions of sound, often addressing themes of conflict, migration, and identity. He represented Hong Kong at the 2017 Venice Biennale and has exhibited at major institutions worldwide including Documenta and the Guggenheim.",
+    "confidence": 5
+  },
+  {
+    "id": 96,
+    "artist": "Skrillex",
+    "programmingStyle": "DJ Set",
+    "genreLabels": "Electronic",
+    "subGenre": "Dubstep, EDM",
+    "instrumentSounds": "Laptop, DJ Equipment, Synthesizer",
+    "mf": "Male",
+    "descriptionShort": "Skrillex is the stage name of Sonny Moore, an American DJ, producer, and singer born in 1988 who became one of the most influential figures in electronic dance music. He rose to fame with his 2010 EP Scary Monsters and Nice Sprites, helping to popularize dubstep and EDM worldwide. A multi-Grammy Award winner, he is known for his high-energy DJ sets and collaborations with artists across genres including Diplo, Justin Bieber, and Kendrick Lamar.",
+    "confidence": 5
+  }
+]

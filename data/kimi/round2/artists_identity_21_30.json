@@ -1,0 +1,112 @@
+[
+  {
+    "id": 21,
+    "artist": "The Chemical Brothers",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Electronic",
+    "subGenre": "Big Beat / Electronica",
+    "instrumentSounds": "Synthesizer, Drum Machine, Sampler",
+    "mf": "Group",
+    "descriptionShort": "Tom Rowlands and Ed Simons formed The Chemical Brothers in Manchester in 1989, becoming one of the most successful electronic acts in history. Their explosive blend of big beat, psychedelic electronics, and immersive visuals has made them festival headliners worldwide for over three decades. The duo has won multiple Grammy Awards and consistently sells out arenas and main stages across the globe.",
+    "confidence": 5
+  },
+  {
+    "id": 22,
+    "artist": "Christian Marclay",
+    "programmingStyle": "Sound Art",
+    "genreLabels": "Sound Art",
+    "subGenre": "Turntablism / Plunderphonics",
+    "instrumentSounds": "Turntables, Vinyl Records",
+    "mf": "Male",
+    "descriptionShort": "Christian Marclay is a Swiss-American visual artist and composer whose pioneering work since the late 1970s has explored the intersection of sound and visual culture. He is widely credited as an originator of turntablism, manipulating vinyl records as both sculptural objects and musical instruments to create sound collages. His most celebrated work, the 24-hour film collage 'The Clock,' won the Golden Lion at the Venice Biennale in 2011.",
+    "confidence": 5
+  },
+  {
+    "id": 23,
+    "artist": "Christina Kubisch",
+    "programmingStyle": "Sound Art",
+    "genreLabels": "Sound Art",
+    "subGenre": "Electroacoustic / Installation",
+    "instrumentSounds": "Electromagnetic Induction, Custom Headphones, Flute",
+    "mf": "Female",
+    "descriptionShort": "Christina Kubisch is a German sound artist and composer born in 1948 who belongs to the first generation of sound artists. Since the late 1970s she has created space-related sound installations using electromagnetic induction and light as primary materials. Her ongoing 'Electrical Walks' series, begun in 2003, uses specially designed headphones to reveal the hidden electromagnetic soundscapes of urban environments worldwide.",
+    "confidence": 5
+  },
+  {
+    "id": 24,
+    "artist": "Christine Sun Kim",
+    "programmingStyle": "Sound Art",
+    "genreLabels": "Sound Art",
+    "subGenre": "Conceptual Art / Performance",
+    "instrumentSounds": "American Sign Language, Drawing, Voice",
+    "mf": "Female",
+    "descriptionShort": "Christine Sun Kim is a California-born, Berlin-based artist who was born deaf and works across drawing, performance, video, and sound installation. Her practice investigates how sound operates in society, deconstructing the politics of voice and language while creating visibility for Deaf culture within the sonic arts. In 2020, she made history as the first Deaf Asian American to sign the national anthem at the Super Bowl.",
+    "confidence": 5
+  },
+  {
+    "id": 25,
+    "artist": "Cigarettes After Sex",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "Ambient Pop",
+    "subGenre": "Dream Pop / Slowcore",
+    "instrumentSounds": "Guitar, Synthesizer, Vocals",
+    "mf": "Group",
+    "descriptionShort": "Cigarettes After Sex is an ambient pop project led by Greg Gonzalez, known for its ethereal, minimalist sound and hushed, intimate vocals. Formed in 2008, the band gained a cult following through viral hits before achieving widespread acclaim with their self-titled debut album in 2017. Their music is characterized by slow tempos, reverb-drenched guitars, and romantic lyricism that has resonated with audiences globally.",
+    "confidence": 5
+  },
+  {
+    "id": 26,
+    "artist": "Colin Benders",
+    "programmingStyle": "Live Electronic",
+    "genreLabels": "Electronic",
+    "subGenre": "Modular Techno / IDM",
+    "instrumentSounds": "Modular Synthesizer, Eurorack",
+    "mf": "Male",
+    "descriptionShort": "Colin Benders is a Dutch musician and composer based in Utrecht who first gained recognition as founder of the Kyteman Orchestra before pivoting to modular synthesizer performance. His live sets are built entirely on hardware manipulation in real time, creating one-of-a-kind compositions on stage. He has performed at major festivals including Dekmantel and Awakenings, merging influences from techno, IDM, and avant-garde electronic music.",
+    "confidence": 5
+  },
+  {
+    "id": 27,
+    "artist": "DARKSIDE",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "Electronic",
+    "subGenre": "Psychedelic Electronic / Art Rock",
+    "instrumentSounds": "Synthesizer, Guitar, Laptop",
+    "mf": "Group",
+    "descriptionShort": "DARKSIDE is the electronic duo of Nicolas Jaar and Dave Harrington, formed in 2011, known for their hypnotic fusion of electronic production and psychedelic guitar improvisation. Their debut album 'Psychic' received widespread critical acclaim for its immersive, slow-building soundscapes. After a hiatus, they returned in 2022 with 'Spiral,' continuing to expand the boundaries of live electronic performance.",
+    "confidence": 5
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Pop / Rock",
+    "subGenre": "Synth-Pop / New Wave",
+    "instrumentSounds": "Guitar, Synthesizer, Vocals",
+    "mf": "Male",
+    "descriptionShort": "Dave Stewart is a Grammy and Golden Globe award-winning British musician, songwriter, and producer best known as co-founder of Eurythmics alongside Annie Lennox. With a career spanning four decades and over 100 million album sales, he has also produced and written for a remarkable roster of artists including Bob Dylan, Mick Jagger, Tom Petty, and Stevie Nicks. He was inducted into the Rock & Roll Hall of Fame with Eurythmics in 2022.",
+    "confidence": 5
+  },
+  {
+    "id": 29,
+    "artist": "David Sheppard",
+    "programmingStyle": "Ambient Stage",
+    "genreLabels": "Ambient / Electronic",
+    "subGenre": "Post-Rock / Minimalist",
+    "instrumentSounds": "Guitar, Vibraphone, Electronics",
+    "mf": "Male",
+    "descriptionShort": "David John Sheppard is a London-based multi-instrumentalist, composer, and music writer known for his work with acclaimed instrumental projects State River Widening, Ellis Island Sound, and Snow Palms. He is also the author of the Brian Eno biography 'On Some Faraway Beach' and a regular contributor to MOJO magazine. His solo work fuses ambient, post-classical, and textural electronic elements into filmic, meditative compositions.",
+    "confidence": 4
+  },
+  {
+    "id": 30,
+    "artist": "deadmau5",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Electronic",
+    "subGenre": "Progressive House / EDM",
+    "instrumentSounds": "Synthesizer, Laptop, Drum Machine",
+    "mf": "Male",
+    "descriptionShort": "deadmau5 is the stage name of Canadian electronic music producer Joel Zimmerman, one of the most recognizable figures in electronic dance music since the late 2000s. Known for his distinctive mau5head helmet and anthemic progressive house productions, he has earned multiple Grammy nominations and helped define the sound of mainstream EDM. His live performances feature elaborate cube-shaped stage productions and have headlined the world's largest festivals.",
+    "confidence": 5
+  }
+]

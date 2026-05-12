@@ -1,0 +1,679 @@
+artistId,artist,field,value,sourceName,sourceUrl,dateAccessed,confidence,status
+1,Acid Pauli,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+1,Acid Pauli,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+1,Acid Pauli,subGenre,Psychedelic House,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+1,Acid Pauli,instrumentSounds,"Synthesizer, Laptop, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+1,Acid Pauli,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+1,Acid Pauli,descriptionShort,"Acid Pauli is the alias of German musician and producer Martin Gretschmann, known for eclectic DJ sets that blend techno, house, and global psychedelic influences with live improvisation. Over two decades, he has developed a distinctive sound that traverses downtempo grooves, ambient textures, and adventurous electronic explorations.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+2,AfroRack,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+2,AfroRack,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+2,AfroRack,subGenre,Experimental Techno,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+2,AfroRack,instrumentSounds,"Modular Synthesizer, DIY Electronics, Percussion",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+2,AfroRack,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+2,AfroRack,descriptionShort,"AfroRack is the performance alias of Ugandan multidisciplinary artist Brian Bamanya, who built Africa's first large-scale DIY modular synthesizer from locally sourced components. His live sets merge polyrhythmic structures drawn from East African musical traditions with acid, techno, and ambient sounds.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+3,Air,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+3,Air,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+3,Air,subGenre,Downtempo,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+3,Air,instrumentSounds,"Synthesizer, Guitar, Vocoder",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+3,Air,mf,Mixed,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+3,Air,descriptionShort,"Air is a French electronic duo comprising Nicolas Godin and Jean-Benoît Dunckel, best known for their seminal 1998 debut album Moon Safari that helped define the downtempo and chill-out genres. Their cinematic sound blends analog synthesizers, gentle vocals, and live instrumentation into dreamlike sonic landscapes.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+4,Alva Noto,programmingStyle,A/V Installation,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+4,Alva Noto,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+4,Alva Noto,subGenre,Minimal Glitch,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+4,Alva Noto,instrumentSounds,"Laptop, Modular Synthesizer, Tone Generators",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+4,Alva Noto,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+4,Alva Noto,descriptionShort,"Alva Noto is the electronic music alias of German sound and visual artist Carsten Nicolai, whose minimalist work explores the intersection of sound, frequency, and visual art. His compositions transform electrical signals and data sounds into precisely edited rhythmic structures and immersive ambient textures.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+5,Aphex Twin,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+5,Aphex Twin,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+5,Aphex Twin,subGenre,IDM,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+5,Aphex Twin,instrumentSounds,"Synthesizer, Sampler, Laptop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+5,Aphex Twin,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+5,Aphex Twin,descriptionShort,"Aphex Twin is the iconic alias of Richard D. James, a pioneering British electronic musician widely credited with defining the IDM genre. His work spans complex ambient compositions, frenetic breakbeats, and intricate sound design crafted with samplers, synthesizers, and computers.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+6,Arooj Aftab,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+6,Arooj Aftab,genreLabels,Jazz,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+6,Arooj Aftab,subGenre,Neo-Sufi,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+6,Arooj Aftab,instrumentSounds,"Vocals, Guitar, Electronics",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+6,Arooj Aftab,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+6,Arooj Aftab,descriptionShort,"Arooj Aftab is a Grammy-winning Pakistani-American composer and vocalist known for her genre-defying music that blends jazz, Pakistani semi-classical forms, and minimalist ambient textures. Her neo-Sufi sound, featured on acclaimed albums like Vulture Prince, relocates qawwali and ghazal traditions into a diasporic context.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+7,Bassnectar,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+7,Bassnectar,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+7,Bassnectar,subGenre,Dubstep,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+7,Bassnectar,instrumentSounds,"Laptop, MIDI Controller, Turntables",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+7,Bassnectar,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+7,Bassnectar,descriptionShort,"Bassnectar is the project of American producer and DJ Lorin Ashton, a central figure in the development and popularization of bass-heavy electronic music in the United States. His immersive live performances fuse dubstep, drum and bass, glitch-hop, and metal influences through massive custom sound systems.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+8,The Beatles,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+8,The Beatles,genreLabels,Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+8,The Beatles,subGenre,Pop Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+8,The Beatles,instrumentSounds,"Guitar, Drums, Bass",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+8,The Beatles,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+8,The Beatles,descriptionShort,"The Beatles are the legendary British rock band comprising John Lennon, Paul McCartney, George Harrison, and Ringo Starr, widely regarded as the most influential musical act of all time. Their revolutionary songwriting and studio innovations transformed popular music across the 1960s.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+9,Beyoncé,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+9,Beyoncé,genreLabels,Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+9,Beyoncé,subGenre,Contemporary R&B,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+9,Beyoncé,instrumentSounds,"Vocals, Backing Band, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+9,Beyoncé,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+9,Beyoncé,descriptionShort,"Beyoncé Knowles-Carter is one of the most significant artists in contemporary music, a pop and R&B superstar whose work as a singer, songwriter, and performer has earned her the title of Queen Bey. From her Destiny's Child beginnings to landmark solo albums like Lemonade and Renaissance, she consistently pushes creative boundaries.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+10,Bicep,programmingStyle,Second Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+10,Bicep,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+10,Bicep,subGenre,Techno,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+10,Bicep,instrumentSounds,"Synthesizer, Drum Machine, Sampler",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+10,Bicep,mf,Mixed,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+10,Bicep,descriptionShort,"Bicep is a Belfast-raised, London-based electronic duo consisting of Matt McBriar and Andy Ferguson, known for their euphoric and emotionally charged blend of techno, house, and breakbeat. Their thrilling live shows and productions on Ninja Tune have earned them a devoted following.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+11,Billie Eilish,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+11,Billie Eilish,genreLabels,Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+11,Billie Eilish,subGenre,Alt-Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+11,Billie Eilish,instrumentSounds,"Vocals, Production, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+11,Billie Eilish,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+11,Billie Eilish,descriptionShort,"Billie Eilish is an American singer-songwriter who rose to international prominence as a Gen Z icon, known for her whispery vocal delivery and dark, introspective pop songs produced alongside her brother Finneas. She is one of the defining pop artists of her generation.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+12,Björk,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+12,Björk,genreLabels,Experimental,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+12,Björk,subGenre,Art Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+12,Björk,instrumentSounds,"Vocals, Electronics, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+12,Björk,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+12,Björk,descriptionShort,"Björk is an Icelandic artist renowned for her singular vision spanning avant-garde pop, electronic experimentation, and innovative multimedia art. Over three decades she has consistently pushed boundaries in music, technology, and performance.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+13,Bob Dylan,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+13,Bob Dylan,genreLabels,Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+13,Bob Dylan,subGenre,Singer-Songwriter,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+13,Bob Dylan,instrumentSounds,"Guitar, Vocals, Harmonica",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+13,Bob Dylan,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+13,Bob Dylan,descriptionShort,"Bob Dylan is a legendary American singer-songwriter whose poetic lyrics and genre-defying catalog have made him one of the most important cultural figures of the 20th century. As a Nobel laureate and decades-spanning artist, he remains a revered festival headliner.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+14,Bonobo,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+14,Bonobo,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+14,Bonobo,subGenre,Downtempo,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+14,Bonobo,instrumentSounds,"Synthesizer, Drums, Samples",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+14,Bonobo,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+14,Bonobo,descriptionShort,"Bonobo is the stage name of Simon Green, a British producer and DJ celebrated for his lush, organic electronic compositions that blend downtempo, world music textures, and live instrumentation. His immersive live shows and DJ sets have made him a staple of major electronic music festivals.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+15,Brian Eno,programmingStyle,Ambient Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+15,Brian Eno,genreLabels,Ambient,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+15,Brian Eno,subGenre,Generative Ambient,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+15,Brian Eno,instrumentSounds,"Synthesizer, Tape Machines, Laptop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+15,Brian Eno,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+15,Brian Eno,descriptionShort,"Brian Eno is a British musician, producer, and artist credited with pioneering ambient music and shaping modern sound through his innovative use of studio technology and generative composition. His vast body of work spans solo ambient albums and landmark productions.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+16,Cardi B,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+16,Cardi B,genreLabels,Hip-Hop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+16,Cardi B,subGenre,Pop Rap,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+16,Cardi B,instrumentSounds,"Vocals, Beats, Samples",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+16,Cardi B,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+16,Cardi B,descriptionShort,"Cardi B is an American rapper and cultural icon known for her bold personality, chart-topping hits, and rapid-fire lyrical delivery that blends trap and pop sensibilities. Rising from social media stardom to Grammy-winning artist, she is one of the most commercially successful female rappers in history.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+17,Caribou,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+17,Caribou,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+17,Caribou,subGenre,Psychedelic Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+17,Caribou,instrumentSounds,"Synthesizer, Drums, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+17,Caribou,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+17,Caribou,descriptionShort,"Caribou is the stage name of Canadian composer and producer Dan Snaith, known for his emotionally rich electronic music that fuses psychedelic textures with dancefloor rhythms and live instrumentation. His performances blend electronic production with a full band setup.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+18,Carl Craig,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+18,Carl Craig,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+18,Carl Craig,subGenre,Detroit Techno,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+18,Carl Craig,instrumentSounds,"Turntables, Synthesizer, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+18,Carl Craig,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+18,Carl Craig,descriptionShort,Carl Craig is a pioneering Detroit techno producer and DJ who has been instrumental in shaping the second wave of the genre since the early 1990s. Known for his boundary-pushing productions under aliases like Innerzone Orchestra and Paperclip People.,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+19,Channel Tres,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+19,Channel Tres,genreLabels,House,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+19,Channel Tres,subGenre,G-Funk House,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+19,Channel Tres,instrumentSounds,"Drum Machine, Synthesizer, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+19,Channel Tres,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+19,Channel Tres,descriptionShort,"Channel Tres is a producer, DJ, and vocalist from Compton, California, who merges the deep grooves of Chicago house with the swagger of West Coast hip-hop. Known for his distinctive baritone vocals over infectious house beats.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+20,Charli XCX,programmingStyle,Subheadliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+20,Charli XCX,genreLabels,Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+20,Charli XCX,subGenre,Hyperpop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+20,Charli XCX,instrumentSounds,"Synthesizer, Vocals, Production",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+20,Charli XCX,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+20,Charli XCX,descriptionShort,Charli XCX is a British singer-songwriter and pop innovator who has evolved from catchy mainstream hits to become the driving force behind the hyperpop movement. Known for her forward-thinking collaborations with PC Music artists and avant-garde approach to pop songwriting.,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+21,The Chemical Brothers,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+21,The Chemical Brothers,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+21,The Chemical Brothers,subGenre,Big Beat / Electronica,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+21,The Chemical Brothers,instrumentSounds,"Synthesizer, Drum Machine, Sampler",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+21,The Chemical Brothers,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+21,The Chemical Brothers,descriptionShort,"Tom Rowlands and Ed Simons formed The Chemical Brothers in Manchester in 1989, becoming one of the most successful electronic acts in history. Their explosive blend of big beat, psychedelic electronics, and immersive visuals has made them festival headliners worldwide for over three decades.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+22,Christian Marclay,programmingStyle,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+22,Christian Marclay,genreLabels,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+22,Christian Marclay,subGenre,Turntablism / Plunderphonics,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+22,Christian Marclay,instrumentSounds,"Turntables, Vinyl Records",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+22,Christian Marclay,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+22,Christian Marclay,descriptionShort,"Christian Marclay is a Swiss-American visual artist and composer whose pioneering work since the late 1970s has explored the intersection of sound and visual culture. He is widely credited as an originator of turntablism, manipulating vinyl records as both sculptural objects and musical instruments.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+23,Christina Kubisch,programmingStyle,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+23,Christina Kubisch,genreLabels,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+23,Christina Kubisch,subGenre,Electroacoustic / Installation,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+23,Christina Kubisch,instrumentSounds,"Electromagnetic Induction, Custom Headphones, Flute",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+23,Christina Kubisch,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+23,Christina Kubisch,descriptionShort,Christina Kubisch is a German sound artist and composer born in 1948 who belongs to the first generation of sound artists. Since the late 1970s she has created space-related sound installations using electromagnetic induction and light as primary materials.,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+24,Christine Sun Kim,programmingStyle,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+24,Christine Sun Kim,genreLabels,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+24,Christine Sun Kim,subGenre,Conceptual Art / Performance,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+24,Christine Sun Kim,instrumentSounds,"American Sign Language, Drawing, Voice",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+24,Christine Sun Kim,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+24,Christine Sun Kim,descriptionShort,"Christine Sun Kim is a California-born, Berlin-based artist who was born deaf and works across drawing, performance, video, and sound installation. Her practice investigates how sound operates in society, deconstructing the politics of voice and language while creating visibility for Deaf culture.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+25,Cigarettes After Sex,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+25,Cigarettes After Sex,genreLabels,Ambient Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+25,Cigarettes After Sex,subGenre,Dream Pop / Slowcore,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+25,Cigarettes After Sex,instrumentSounds,"Guitar, Synthesizer, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+25,Cigarettes After Sex,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+25,Cigarettes After Sex,descriptionShort,"Cigarettes After Sex is an ambient pop project led by Greg Gonzalez, known for its ethereal, minimalist sound and hushed, intimate vocals. Their music is characterized by slow tempos, reverb-drenched guitars, and romantic lyricism.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+26,Colin Benders,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+26,Colin Benders,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+26,Colin Benders,subGenre,Modular Techno / IDM,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+26,Colin Benders,instrumentSounds,"Modular Synthesizer, Eurorack",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+26,Colin Benders,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+26,Colin Benders,descriptionShort,Colin Benders is a Dutch musician and composer based in Utrecht who first gained recognition as founder of the Kyteman Orchestra before pivoting to modular synthesizer performance. His live sets are built entirely on hardware manipulation in real time.,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+27,DARKSIDE,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+27,DARKSIDE,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+27,DARKSIDE,subGenre,Psychedelic Electronic / Art Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+27,DARKSIDE,instrumentSounds,"Synthesizer, Guitar, Laptop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+27,DARKSIDE,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+27,DARKSIDE,descriptionShort,"DARKSIDE is the electronic duo of Nicolas Jaar and Dave Harrington, formed in 2011, known for their hypnotic fusion of electronic production and psychedelic guitar improvisation. Their debut album Psychic received widespread critical acclaim.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+28,Dave Stewart,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+28,Dave Stewart,genreLabels,Pop / Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+28,Dave Stewart,subGenre,Synth-Pop / New Wave,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+28,Dave Stewart,instrumentSounds,"Guitar, Synthesizer, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+28,Dave Stewart,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+28,Dave Stewart,descriptionShort,"Dave Stewart is a Grammy and Golden Globe award-winning British musician, songwriter, and producer best known as co-founder of Eurythmics alongside Annie Lennox. With a career spanning four decades and over 100 million album sales.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+29,David Sheppard,programmingStyle,Ambient Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+29,David Sheppard,genreLabels,Ambient / Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+29,David Sheppard,subGenre,Post-Rock / Minimalist,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+29,David Sheppard,instrumentSounds,"Guitar, Vibraphone, Electronics",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+29,David Sheppard,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+29,David Sheppard,descriptionShort,"David John Sheppard is a London-based multi-instrumentalist, composer, and music writer known for his work with acclaimed instrumental projects State River Widening, Ellis Island Sound, and Snow Palms. He is also the author of the Brian Eno biography.",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+30,deadmau5,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+30,deadmau5,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+30,deadmau5,subGenre,Progressive House / EDM,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+30,deadmau5,instrumentSounds,"Synthesizer, Laptop, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+30,deadmau5,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+30,deadmau5,descriptionShort,"deadmau5 is the stage name of Canadian electronic music producer Joel Zimmerman, one of the most recognizable figures in electronic dance music. Known for his distinctive mau5head helmet and anthemic progressive house productions.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+31,DeLaurentis,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+31,DeLaurentis,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+31,DeLaurentis,subGenre,Electro-Cinematic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+31,DeLaurentis,instrumentSounds,"Synthesizer, Ableton Push, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+31,DeLaurentis,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+31,DeLaurentis,descriptionShort,"DeLaurentis is the solo project of French musician Cécile Léogé, often described as the 'Woman Machine.' She creates electro-cinematic music blending synthesizers, vocals, and AI-assisted composition, crafting immersive sonic experiences rooted in synesthesia and color.",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+32,Ellie Goulding,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+32,Ellie Goulding,genreLabels,Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+32,Ellie Goulding,subGenre,Electropop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+32,Ellie Goulding,instrumentSounds,"Vocals, Synthesizer, Guitar",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+32,Ellie Goulding,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+32,Ellie Goulding,descriptionShort,Ellie Goulding is an English singer-songwriter who rose to prominence in 2010 with her distinctive blend of ethereal vocals and electronic-tinged pop production. Known for global hits like 'Love Me Like You Do' and 'Lights.',Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+33,Eurythmics,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+33,Eurythmics,genreLabels,"Electronic, Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+33,Eurythmics,subGenre,Synth-Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+33,Eurythmics,instrumentSounds,"Synthesizer, Vocals, Guitar",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+33,Eurythmics,mf,Mixed,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+33,Eurythmics,descriptionShort,"Eurythmics is the iconic synth-pop duo of Annie Lennox and Dave Stewart, formed in 1980. They pioneered the commercialization of electronic pop with era-defining hits like 'Sweet Dreams (Are Made of This).",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+34,Excision,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+34,Excision,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+34,Excision,subGenre,"Dubstep, Bass Music",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+34,Excision,instrumentSounds,"Laptop, Synthesizer, DJ Controller",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+34,Excision,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+34,Excision,descriptionShort,"Excision (Jeff Abel) is a Canadian DJ, producer, and festival creator who stands as a pioneer of the North American dubstep scene. Known for his bone-rattling bass sound and massive audiovisual stage productions.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+35,Fatboy Slim,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+35,Fatboy Slim,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+35,Fatboy Slim,subGenre,Big Beat,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+35,Fatboy Slim,instrumentSounds,"Turntables, Sampler, Laptop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+35,Fatboy Slim,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+35,Fatboy Slim,descriptionShort,"Fatboy Slim (Norman Cook) is a British DJ and producer who became one of the most recognizable figures of the big beat movement in the 1990s. Famous for iconic tracks like 'Praise You' and 'Right Here, Right Now.'",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+36,FKA twigs,programmingStyle,Second Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+36,FKA twigs,genreLabels,"Electronic, Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+36,FKA twigs,subGenre,"Art Pop, Experimental R&B",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+36,FKA twigs,instrumentSounds,"Vocals, Synthesizer, Laptop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+36,FKA twigs,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+36,FKA twigs,descriptionShort,"FKA twigs (Tahliah Barnett) is an English singer, songwriter, and dancer known for her genre-defying art pop and avant-garde approach to music. Her work seamlessly blends electronic, trip-hop, R&B, and industrial elements.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+37,Floating Points,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+37,Floating Points,genreLabels,"Electronic, Jazz",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+37,Floating Points,subGenre,"Nu Jazz, IDM",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+37,Floating Points,instrumentSounds,"Buchla Synthesizer, Keyboards, Laptop",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+37,Floating Points,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+37,Floating Points,descriptionShort,"Floating Points (Sam Shepherd) is a British electronic music producer, DJ, and musician known for his refusal to be confined to a single genre. His work fluidly moves between jazz, classical, electronic, and ambient territories.",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+38,Flying Lotus,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+38,Flying Lotus,genreLabels,"Electronic, Hip-Hop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+38,Flying Lotus,subGenre,"Experimental Hip-Hop, IDM",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+38,Flying Lotus,instrumentSounds,"Laptop, Synthesizer, Drums",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+38,Flying Lotus,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+38,Flying Lotus,descriptionShort,"Flying Lotus (Steven Ellison) is a Los Angeles-based producer, DJ, and filmmaker who fuses hip-hop beats with experimental electronic music and avant-garde jazz. As the founder of the influential Brainfeeder label.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+39,Four Tet,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+39,Four Tet,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+39,Four Tet,subGenre,"Folktronica, Ambient",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+39,Four Tet,instrumentSounds,"Laptop, Sampler, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+39,Four Tet,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+39,Four Tet,descriptionShort,"Four Tet (Kieran Hebden) is a British musician and producer credited with pioneering the 'folktronica' genre. Over two decades, he has built a legacy of emotionally rich, genre-fluid electronic music.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+40,Fred Again..,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+40,Fred Again..,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+40,Fred Again..,subGenre,"House, UK Garage",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+40,Fred Again..,instrumentSounds,"Laptop, Sampler, Keyboards",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+40,Fred Again..,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+40,Fred Again..,descriptionShort,"Fred Again.. (Fred Gibson) is a British record producer, songwriter, and DJ who has become one of electronic music's biggest breakthrough stars. His 'Actual Life' series transforms voice memos and samples into emotionally resonant dance tracks.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+41,Future,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+41,Future,genreLabels,Hip-Hop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+41,Future,subGenre,Trap,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+41,Future,instrumentSounds,"Vocals, 808 Drum Machine, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+41,Future,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+41,Future,descriptionShort,"Future (Nayvadius Wilburn) is an American rapper, singer, and songwriter widely credited as a pioneer of trap music. Known for his melodic flow, introspective lyrics, and prolific output, he has shaped the sound of modern Southern hip-hop.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+42,Gold Panda,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+42,Gold Panda,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+42,Gold Panda,subGenre,"IDM, Ambient",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+42,Gold Panda,instrumentSounds,"Laptop, Sampler, Field Recordings",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+42,Gold Panda,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+42,Gold Panda,descriptionShort,"Gold Panda (Derwin Schlecker) is a British electronic music producer and DJ known for his intricate, sample-based compositions. Drawing from influences ranging from Japanese culture to ambient textures.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+43,Gorillaz,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+43,Gorillaz,genreLabels,"Alternative Rock, Electronic",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+43,Gorillaz,subGenre,"Art Pop, Trip-Hop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+43,Gorillaz,instrumentSounds,"Synthesizer, Vocals, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+43,Gorillaz,mf,Mixed,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+43,Gorillaz,descriptionShort,"Gorillaz is a British virtual band created by musician Damon Albarn and artist Jamie Hewlett, featuring a rotating ensemble of collaborators. Blurring the lines between alternative rock, hip-hop, and electronic music.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+44,Grandbrothers,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+44,Grandbrothers,genreLabels,"Electronic, Classical",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+44,Grandbrothers,subGenre,"Neo-Classical, Ambient",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+44,Grandbrothers,instrumentSounds,"Grand Piano, Modular Electronics, Electromechanical Hammers",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+44,Grandbrothers,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+44,Grandbrothers,descriptionShort,"Grandbrothers is a German-Swiss duo comprising pianist Erol Sarp and engineer Lukas Vogel, known for their innovative fusion of acoustic piano and electronic manipulation. Using custom-built electromechanical hammers and self-designed software.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+45,Grimes,programmingStyle,Subheadliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+45,Grimes,genreLabels,"Electronic, Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+45,Grimes,subGenre,"Art Pop, Synth-Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+45,Grimes,instrumentSounds,"Synthesizer, Vocals, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+45,Grimes,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+45,Grimes,descriptionShort,"Grimes (Claire Boucher) is a Canadian musician, singer, songwriter, and visual artist known for her eclectic, experimental approach to pop music. Her work blends ethereal vocals with dense electronic production.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+46,Halina Rice,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+46,Halina Rice,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+46,Halina Rice,subGenre,"IDM, Ambient",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+46,Halina Rice,instrumentSounds,"Synthesizer, Laptop, Spatial Audio System",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+46,Halina Rice,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+46,Halina Rice,descriptionShort,"Halina Rice is a London-based electronic music producer and audiovisual artist renowned for her immersive, technology-driven live performances. Working at the intersection of music, art, and spatial audio.",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+47,Halsey,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+47,Halsey,genreLabels,Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+47,Halsey,subGenre,"Alternative Pop, Electropop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+47,Halsey,instrumentSounds,"Vocals, Synthesizer, Guitar",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+47,Halsey,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+47,Halsey,descriptionShort,"Halsey (Ashley Frangipane) is an American singer-songwriter known for her distinctive voice, confessional lyrics, and genre-fluid approach to pop music. Rising from viral fame to become a global superstar.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+48,Hania Rani,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+48,Hania Rani,genreLabels,"Classical, Electronic",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+48,Hania Rani,subGenre,"Contemporary Classical, Ambient",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+48,Hania Rani,instrumentSounds,"Piano, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+48,Hania Rani,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+48,Hania Rani,descriptionShort,"Hania Rani is a Polish pianist, composer, and singer known for her emotionally resonant, minimalist compositions that merge classical piano with subtle electronic elements. A key figure in the contemporary classical movement.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+49,Haroon Mirza,programmingStyle,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+49,Haroon Mirza,genreLabels,"Sound Art, Visual Art",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+49,Haroon Mirza,subGenre,"Installation, Electroacoustic",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+49,Haroon Mirza,instrumentSounds,"Electronics, Found Objects, Solar Panels",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+49,Haroon Mirza,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+49,Haroon Mirza,descriptionShort,"Haroon Mirza is a British-Pakistani artist renowned for sculptural installations and immersive environments that explore the interplay of sound, light, and electricity. Winner of the Silver Lion at the 2011 Venice Biennale.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+50,Holly Herndon,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+50,Holly Herndon,genreLabels,"Electronic, Experimental",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+50,Holly Herndon,subGenre,"AI Music, Avant-Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+50,Holly Herndon,instrumentSounds,"Laptop, Voice, AI Systems",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+50,Holly Herndon,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+50,Holly Herndon,descriptionShort,"Holly Herndon is an American experimental electronic musician and composer whose work explores the intersection of artificial intelligence, technology, and the human voice. Known for integrating machine learning and AI collaborators into her compositions.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+51,Ian Dearden,programmingStyle,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+51,Ian Dearden,genreLabels,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+51,Ian Dearden,subGenre,Theatrical Sound Design,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+51,Ian Dearden,instrumentSounds,"Sound Design, Field Recording, Electronics",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+51,Ian Dearden,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+51,Ian Dearden,descriptionShort,"Ian Dearden is a renowned sound designer and co-founder of Sound Intermedia, a duo established in 1996 with David Sheppard. He has created sound designs for major opera productions at the Royal Opera House, English National Opera, and Glyndebourne.",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+52,Igor Levit,programmingStyle,Classical,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+52,Igor Levit,genreLabels,Classical,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+52,Igor Levit,subGenre,Contemporary Classical,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+52,Igor Levit,instrumentSounds,Piano,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+52,Igor Levit,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+52,Igor Levit,descriptionShort,Igor Levit is a Russian-German classical pianist acclaimed for his recordings of Beethoven's complete piano sonatas and Bach's Goldberg Variations. He is known for his rigorous technique combined with bold interpretive personality.,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+53,James Blake,programmingStyle,Subheadliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+53,James Blake,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+53,James Blake,subGenre,"Art Pop, Post-Dubstep",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+53,James Blake,instrumentSounds,"Synthesizer, Vocals, Modular Synth",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+53,James Blake,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+53,James Blake,descriptionShort,"James Blake is an English electronic musician and singer-songwriter known for blending experimental electronic soundscapes with soulful, introspective songwriting. Since his pioneering post-dubstep beginnings, he has evolved into a Grammy-winning producer.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+54,Jamie xx,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+54,Jamie xx,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+54,Jamie xx,subGenre,"Indie Electronic, UK Bass",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+54,Jamie xx,instrumentSounds,"MPC, Synthesizer, Turntables",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+54,Jamie xx,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+54,Jamie xx,descriptionShort,"Jamie xx is an English musician, DJ, and producer known as a member of the indie pop band The xx and for his acclaimed solo work. His 2015 album In Colour earned a Mercury Prize nomination and a Grammy nomination.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+55,Janelle Monáe,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+55,Janelle Monáe,genreLabels,Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+55,Janelle Monáe,subGenre,"Art Pop, R&B",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+55,Janelle Monáe,instrumentSounds,"Vocals, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+55,Janelle Monáe,mf,Non-Binary,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+55,Janelle Monáe,descriptionShort,"Janelle Monáe is an American singer, rapper, actress, and producer known for conceptually ambitious albums like The ArchAndroid and Dirty Computer. A critically acclaimed and culturally influential artist.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+56,Jennifer Walshe,programmingStyle,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+56,Jennifer Walshe,genreLabels,Experimental,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+56,Jennifer Walshe,subGenre,"Contemporary Classical, Extended Vocal",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+56,Jennifer Walshe,instrumentSounds,"Vocals, Electronics, Multimedia",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+56,Jennifer Walshe,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+56,Jennifer Walshe,descriptionShort,"Jennifer Walshe is an Irish composer, vocalist, and improviser known for her experimental works incorporating extended vocal techniques, multimedia, and AI-generated material. Her pieces have been performed at major international festivals.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+57,Jon Hopkins,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+57,Jon Hopkins,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+57,Jon Hopkins,subGenre,"Ambient, Techno",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+57,Jon Hopkins,instrumentSounds,"Synthesizer, Piano, Laptop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+57,Jon Hopkins,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+57,Jon Hopkins,descriptionShort,Jon Hopkins is a British electronic musician and producer whose work merges ambient introspection with club-oriented intensity. Albums like Immunity and Singularity have earned Mercury Prize and Grammy nominations.,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+58,Jorja Smith,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+58,Jorja Smith,genreLabels,R&B,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+58,Jorja Smith,subGenre,"Neo-Soul, UK R&B",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+58,Jorja Smith,instrumentSounds,Vocals,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+58,Jorja Smith,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+58,Jorja Smith,descriptionShort,"Jorja Smith is an English singer-songwriter from Walsall whose debut single Blue Lights announced her as a major voice in UK R&B. Blending classical vocal artistry with modern R&B, reggae, and hip-hop influences.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+59,Justin Gray,programmingStyle,Second Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+59,Justin Gray,genreLabels,Jazz,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+59,Justin Gray,subGenre,"World Jazz, Contemporary",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+59,Justin Gray,instrumentSounds,"Bass, Bass Veena, Double Bass",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+59,Justin Gray,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+59,Justin Gray,descriptionShort,"Justin Gray is a Juno Award-winning Canadian bassist, composer, producer, and educator based in Toronto. Known for inventing the Bass Veena, an instrument designed for Indian classical music, he leads the ensemble Justin Gray & Synthesis.",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+60,Kaitlyn Aurelia Smith,programmingStyle,Ambient Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+60,Kaitlyn Aurelia Smith,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+60,Kaitlyn Aurelia Smith,subGenre,"Ambient, Modular Synth",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+60,Kaitlyn Aurelia Smith,instrumentSounds,"Buchla Modular Synthesizer, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+60,Kaitlyn Aurelia Smith,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+60,Kaitlyn Aurelia Smith,descriptionShort,"Kaitlyn Aurelia Smith is an American composer and electronic musician known for her immersive, meditative works created primarily on Buchla modular synthesizers. Her acclaimed albums explore the intersection of sound, color, body movement, and expression.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+61,Karlheinz Stockhausen,programmingStyle,Classical,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+61,Karlheinz Stockhausen,genreLabels,"Classical, Electronic",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+61,Karlheinz Stockhausen,subGenre,"Electronic, Serial",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+61,Karlheinz Stockhausen,instrumentSounds,"Synthesizer, Electronics, Orchestra",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+61,Karlheinz Stockhausen,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+61,Karlheinz Stockhausen,descriptionShort,German composer and a central figure in the development of electronic and serial music in the 20th century. His groundbreaking works like 'Gesang der Jünglinge' and 'Kontakte' pioneered the use of electronic sounds in composition.,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+62,Kelela,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+62,Kelela,genreLabels,"R&B, Electronic",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+62,Kelela,subGenre,"Alternative R&B, Futuristic",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+62,Kelela,instrumentSounds,"Vocals, Electronics, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+62,Kelela,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+62,Kelela,descriptionShort,"American singer-songwriter who merges forward-thinking electronic production with intimate R&B vocals. Her critically acclaimed albums 'Take Me Apart' and 'Raven' showcase a sensuous, experimental approach to contemporary R&B.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+63,Kelly Lee Owens,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+63,Kelly Lee Owens,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+63,Kelly Lee Owens,subGenre,"Ambient Techno, Dream Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+63,Kelly Lee Owens,instrumentSounds,"Synthesizer, Bass, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+63,Kelly Lee Owens,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+63,Kelly Lee Owens,descriptionShort,"Welsh electronic producer, songwriter, and bass player who creates intimate dance music blending ambient textures with driving club beats. Her acclaimed albums merge looped vocals, unique rhythms, and a variety of moods.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+65,Kiasmos,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+65,Kiasmos,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+65,Kiasmos,subGenre,"Minimal Techno, Neoclassical",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+65,Kiasmos,instrumentSounds,"Piano, Synthesizer, Strings",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+65,Kiasmos,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+65,Kiasmos,descriptionShort,"Icelandic-Faroese electronic duo formed by composer Ólafur Arnalds and producer Janus Rasmussen. Their music merges minimal techno with neoclassical orchestral flourishes, creating an emotional, danceable sound.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+66,Kraftwerk,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+66,Kraftwerk,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+66,Kraftwerk,subGenre,"Electropop, Synth-Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+66,Kraftwerk,instrumentSounds,"Synthesizer, Vocoder, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+66,Kraftwerk,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+66,Kraftwerk,descriptionShort,"German electronic band founded in 1970, widely regarded as the pioneers of electronic popular music. Their groundbreaking albums including 'Autobahn,' 'Trans-Europe Express,' and 'The Man-Machine' defined the 'robot pop' aesthetic.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+68,Lana Del Rey,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+68,Lana Del Rey,genreLabels,"Pop, Indie",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+68,Lana Del Rey,subGenre,"Baroque Pop, Dream Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+68,Lana Del Rey,instrumentSounds,"Vocals, Guitar, Piano",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+68,Lana Del Rey,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+68,Lana Del Rey,descriptionShort,"American singer-songwriter known for her cinematic sound that blends vintage Hollywood glamour with melancholic Americana. Her music, described as 'Hollywood sadcore,' features breathy vocals and poetic lyricism.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+69,Madame Gandhi,programmingStyle,Club Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+69,Madame Gandhi,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+69,Madame Gandhi,subGenre,"Electro-Feminist, Percussive Electronic",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+69,Madame Gandhi,instrumentSounds,"Percussion, Electronics, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+69,Madame Gandhi,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+69,Madame Gandhi,descriptionShort,"Electronic music artist and activist known for her uplifting, percussive electronic sound and message of gender liberation and personal power. Former drummer for M.I.A., she produces music that combines electronic beats with activist themes.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+72,Mat Dryhurst,programmingStyle,A/V Installation,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+72,Mat Dryhurst,genreLabels,"Electronic, Experimental",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+72,Mat Dryhurst,subGenre,"AI Music, Avant-Garde Electronic",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+72,Mat Dryhurst,instrumentSounds,"Laptop, Electronics, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+72,Mat Dryhurst,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+72,Mat Dryhurst,descriptionShort,"Electronic artist, researcher, and producer based in Berlin who explores the intersection of music, artificial intelligence, and technology. Known for his collaborative work with Holly Herndon on AI-driven music projects including Spawn and Holly+.",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+75,Mike Oldfield,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+75,Mike Oldfield,genreLabels,"Progressive Rock, Ambient",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+75,Mike Oldfield,subGenre,"Progressive Rock, New Age",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+75,Mike Oldfield,instrumentSounds,"Guitar, Synthesizer, Percussion",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+75,Mike Oldfield,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+75,Mike Oldfield,descriptionShort,"English composer and musician best known for his groundbreaking 1973 album 'Tubular Bells,' which helped pioneer progressive rock and ambient music. A multi-instrumentalist who performed nearly all parts on his recordings.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+76,Miley Cyrus,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+76,Miley Cyrus,genreLabels,"Pop, Rock",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+76,Miley Cyrus,subGenre,"Pop Rock, Dance-Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+76,Miley Cyrus,instrumentSounds,"Vocals, Guitar",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+76,Miley Cyrus,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+76,Miley Cyrus,descriptionShort,"American singer-songwriter and actress who has evolved from teen idol to one of the most influential pop artists of her generation. Known for her distinctive raspy voice and genre-fluid approach spanning pop, rock, country, and hip-hop.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+77,Moby,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+77,Moby,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+77,Moby,subGenre,Ambient Techno,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+77,Moby,instrumentSounds,"Synthesizer, Piano, Laptop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+77,Moby,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+77,Moby,descriptionShort,"Moby is an American electronic music pioneer renowned for blending ambient soundscapes with techno and pop sensibilities. Rising to global fame with his landmark 1999 album Play, he has consistently pushed the boundaries of electronic composition.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+78,Moderat,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+78,Moderat,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+78,Moderat,subGenre,"IDM, Glitch Techno",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+78,Moderat,instrumentSounds,"Synthesizer, Drum Machine, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+78,Moderat,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+78,Moderat,descriptionShort,"Moderat is a Berlin-based electronic supergroup formed by Apparat and Modeselektor, merging intricate melodic songwriting with bass-heavy club production. Their sound fuses IDM, glitch, and emotive vocal-driven electronica.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+79,Monolake / Robert Henke,programmingStyle,A/V Installation,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+79,Monolake / Robert Henke,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+79,Monolake / Robert Henke,subGenre,"Minimal Techno, Ambient",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+79,Monolake / Robert Henke,instrumentSounds,"Modular Synth, Laptop, Surround Sound System",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+79,Monolake / Robert Henke,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+79,Monolake / Robert Henke,descriptionShort,"Monolake is the long-running electronic project of Robert Henke, a pivotal figure in Berlin minimal techno and co-founder of Ableton. His work spans dub-influenced techno, immersive ambient compositions, and groundbreaking audiovisual installations featuring laser systems.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+80,Naomi Jon,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+80,Naomi Jon,genreLabels,Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+80,Naomi Jon,subGenre,"Electropop, Dance-Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+80,Naomi Jon,instrumentSounds,"Synthesizer, Vocals, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+80,Naomi Jon,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+80,Naomi Jon,descriptionShort,Naomi Jon is a German pop singer-songwriter and content creator from Berlin known for catchy electropop with danceable beats and electronic production. She gained prominence through social media before releasing charting albums.,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+81,Nicolas Jaar,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+81,Nicolas Jaar,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+81,Nicolas Jaar,subGenre,"Art House, Experimental Electronic",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+81,Nicolas Jaar,instrumentSounds,"Synthesizer, Laptop, Percussion",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+81,Nicolas Jaar,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+81,Nicolas Jaar,descriptionShort,"Nicolas Jaar is a Chilean-American electronic composer and producer known for his slow, elegiac sound that merges house rhythms with jazz, soul, and cinematic textures. His acclaimed solo work and duo Darkside showcase a deeply artistic, genre-defying approach.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+82,Nils Frahm,programmingStyle,Ambient Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+82,Nils Frahm,genreLabels,Classical,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+82,Nils Frahm,subGenre,"Contemporary Classical, Ambient",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+82,Nils Frahm,instrumentSounds,"Piano, Synthesizer, Electronics",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+82,Nils Frahm,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+82,Nils Frahm,descriptionShort,"Nils Frahm is a German composer and multi-instrumentalist based in Berlin who blends modern classical piano with ambient and electronic textures. Known for albums like Felt and All Melody, he creates intimate, atmospheric soundscapes.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+83,Nine Inch Nails,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+83,Nine Inch Nails,genreLabels,Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+83,Nine Inch Nails,subGenre,Industrial Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+83,Nine Inch Nails,instrumentSounds,"Guitar, Synthesizer, Drums",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+83,Nine Inch Nails,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+83,Nine Inch Nails,descriptionShort,"Nine Inch Nails is the influential industrial rock project led by Trent Reznor, known for fusing aggressive electronic production with visceral rock instrumentation. Since the late 1980s, they have produced landmark albums while pushing the boundaries of live performance.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+84,Nitin Sawhney,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+84,Nitin Sawhney,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+84,Nitin Sawhney,subGenre,"World Fusion, Trip-Hop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+84,Nitin Sawhney,instrumentSounds,"Flamenco Guitar, Piano, Electronics",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+84,Nitin Sawhney,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+84,Nitin Sawhney,descriptionShort,"Nitin Sawhney is a British Indian musician, composer, and producer celebrated for blending Indian classical traditions with electronic, jazz, hip-hop, and flamenco elements. A pioneer of the Asian Underground movement.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+85,Photay,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+85,Photay,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+85,Photay,subGenre,"Experimental Electronic, Ambient",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+85,Photay,instrumentSounds,"Synthesizer, Field Recordings, Drums",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+85,Photay,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+85,Photay,descriptionShort,"Photay is the project of American electronic producer and multi-instrumentalist Evan Shornstein, known for crafting immersive, nature-inspired soundscapes. His music blends ambient textures, intricate percussion, and melodic synth work.",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+86,Pink Floyd,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+86,Pink Floyd,genreLabels,Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+86,Pink Floyd,subGenre,"Progressive Rock, Psychedelic Rock",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+86,Pink Floyd,instrumentSounds,"Guitar, Synthesizer, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+86,Pink Floyd,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+86,Pink Floyd,descriptionShort,"Pink Floyd is one of the most influential rock bands in history, pioneering the progressive and psychedelic rock genres with landmark albums like The Dark Side of the Moon and The Wall. Known for their groundbreaking studio techniques and spectacular live visual productions.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+87,Portishead,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+87,Portishead,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+87,Portishead,subGenre,Trip-Hop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+87,Portishead,instrumentSounds,"Vocals, Guitar, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+87,Portishead,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+87,Portishead,descriptionShort,"Portishead is an English band formed in Bristol, consisting of Beth Gibbons on vocals, Geoff Barrow on production, and Adrian Utley on guitar. They are pioneers of the trip-hop genre, blending electronica, experimental rock, soul, and jazz into a dark, atmospheric sound.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+88,Radiohead,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+88,Radiohead,genreLabels,Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+88,Radiohead,subGenre,Alternative Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+88,Radiohead,instrumentSounds,"Guitar, Synthesizer, Drums",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+88,Radiohead,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+88,Radiohead,descriptionShort,"Radiohead is an English rock band led by Thom Yorke, regarded as one of the most influential and innovative bands in modern music. Their sound spans alternative rock, electronic, and experimental genres, with landmark albums like OK Computer and Kid A.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+89,RAYE,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+89,RAYE,genreLabels,Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+89,RAYE,subGenre,"Electro-Pop, R&B",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+89,RAYE,instrumentSounds,"Vocals, Piano",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+89,RAYE,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+89,RAYE,descriptionShort,"RAYE is the stage name of Rachel Agatha Keen, a British singer-songwriter and record producer born in 1997. Her music blends pop, R&B, jazz, and soul, and she gained widespread recognition with her 2023 debut album My 21st Century Blues.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+90,Rival Consoles,programmingStyle,Live Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+90,Rival Consoles,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+90,Rival Consoles,subGenre,"IDM, Ambient",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+90,Rival Consoles,instrumentSounds,"Synthesizer, Modular Synth, Guitar",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+90,Rival Consoles,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+90,Rival Consoles,descriptionShort,"Rival Consoles is the stage name of Ryan Lee West, a British electronic musician born in 1985 and based in London. Known for making synthesizers sound human and atmospheric, his work spans IDM, ambient, and experimental dance music.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+91,Robyn,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+91,Robyn,genreLabels,Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+91,Robyn,subGenre,"Electropop, Dance-Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+91,Robyn,instrumentSounds,"Vocals, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+91,Robyn,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+91,Robyn,descriptionShort,"Robyn is a Swedish pop singer and songwriter who has been a defining force in electropop since the 1990s. Known for her emotionally resonant dance anthems like Dancing on My Own, she blends vulnerability with infectious electronic production.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+92,Romy,programmingStyle,Second Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+92,Romy,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+92,Romy,subGenre,"Electro-Pop, Trance",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+92,Romy,instrumentSounds,"Vocals, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+92,Romy,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+92,Romy,descriptionShort,"Romy Madley Croft is a British musician best known as a vocalist and guitarist for the acclaimed indie pop band The xx. Her 2023 solo debut Mid Air marked a shift toward euphoric electronic and dance-pop sounds, exploring club culture and queer identity.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+93,Ryoji Ikeda,programmingStyle,A/V Installation,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+93,Ryoji Ikeda,genreLabels,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+93,Ryoji Ikeda,subGenre,"Audiovisual, Data Art",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+93,Ryoji Ikeda,instrumentSounds,"Laptop, Projectors, Sound System",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+93,Ryoji Ikeda,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+93,Ryoji Ikeda,descriptionShort,"Ryoji Ikeda is a Japanese electronic composer and visual artist born in 1966, regarded as one of the world's leading figures in audiovisual art. His practice explores the intersection of sound, data, mathematics, and light through immersive installations.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+94,Sampha,programmingStyle,Second Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+94,Sampha,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+94,Sampha,subGenre,"Electronic Soul, R&B",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+94,Sampha,instrumentSounds,"Vocals, Piano, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+94,Sampha,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+94,Sampha,descriptionShort,"Sampha is a London-based singer, songwriter, and producer known for his emotive voice and genre-blending electronic soul sound. He won the prestigious Mercury Prize in 2017 for his debut album Process, which explored grief and personal loss.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+95,Samson Young,programmingStyle,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+95,Samson Young,genreLabels,Sound Art,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+95,Samson Young,subGenre,"Contemporary Classical, Installation",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+95,Samson Young,instrumentSounds,"Various Instruments, Electronics, 3D Objects",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+95,Samson Young,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+95,Samson Young,descriptionShort,"Samson Young is a Hong Kong-born artist and composer born in 1979, whose practice spans sound, performance, video, and installation. Trained in music composition at Princeton University, his work examines the cultural, political, and historical dimensions of sound.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+96,Skrillex,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+96,Skrillex,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+96,Skrillex,subGenre,"Dubstep, EDM",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+96,Skrillex,instrumentSounds,"Laptop, DJ Equipment, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+96,Skrillex,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+96,Skrillex,descriptionShort,"Skrillex is the stage name of Sonny Moore, an American DJ, producer, and singer born in 1988 who became one of the most influential figures in electronic dance music. He rose to fame with his 2010 EP Scary Monsters and Nice Sprites, helping to popularize dubstep worldwide.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+97,Sofia Kourtesis,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+97,Sofia Kourtesis,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+97,Sofia Kourtesis,subGenre,House,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+97,Sofia Kourtesis,instrumentSounds,"Laptop, Synthesizer, Field Recordings",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+97,Sofia Kourtesis,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+97,Sofia Kourtesis,descriptionShort,"Sofia Kourtesis is a Peruvian-born electronic music producer and DJ based in Berlin, known for blending house and techno with Latin American rhythms and emotionally resonant, personal narratives. Her acclaimed debut album 'Madres' (2023) explores themes of family, loss, and resilience.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+98,Steve Miller Band,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+98,Steve Miller Band,genreLabels,Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+98,Steve Miller Band,subGenre,Classic Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+98,Steve Miller Band,instrumentSounds,"Guitar, Vocals, Harmonica",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+98,Steve Miller Band,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+98,Steve Miller Band,descriptionShort,"Steve Miller Band is an American rock band formed in San Francisco in 1967, led by guitarist and vocalist Steve Miller. The band dominated the 1970s with a string of hit singles including 'The Joker,' 'Jet Airliner,' and 'Fly Like an Eagle' that remain staples of classic rock radio.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+99,Steve Reich,programmingStyle,Classical,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+99,Steve Reich,genreLabels,Classical,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+99,Steve Reich,subGenre,Minimalism,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+99,Steve Reich,instrumentSounds,"Percussion, Piano, Marimba",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+99,Steve Reich,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+99,Steve Reich,descriptionShort,"Steve Reich, born in 1936, is one of the most influential American composers of the 20th century and a leading pioneer of minimalist music. His groundbreaking works such as 'Music for 18 Musicians,' 'Clapping Music,' and 'Different Trains' use repetitive patterns and phasing techniques.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+100,Steven Wilson,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+100,Steven Wilson,genreLabels,Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+100,Steven Wilson,subGenre,Progressive Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+100,Steven Wilson,instrumentSounds,"Guitar, Synthesizer, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+100,Steven Wilson,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+100,Steven Wilson,descriptionShort,"Steven Wilson is a British musician, songwriter, and producer who first gained recognition as the frontman of the progressive rock band Porcupine Tree. Known for his prolific output and genre-defying approach, his solo career spans from ambient electronics to expansive progressive rock.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+101,Stevie Nicks,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+101,Stevie Nicks,genreLabels,Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+101,Stevie Nicks,subGenre,Classic Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+101,Stevie Nicks,instrumentSounds,"Vocals, Piano, Tambourine",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+101,Stevie Nicks,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+101,Stevie Nicks,descriptionShort,"Stevie Nicks is an iconic American singer-songwriter best known as a member of Fleetwood Mac and for her prolific solo career. Her distinctive raspy vocals and mystical stage persona produced timeless hits like 'Rhiannon,' 'Dreams,' and 'Edge of Seventeen.'",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+102,Suzanne Ciani,programmingStyle,A/V Installation,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+102,Suzanne Ciani,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+102,Suzanne Ciani,subGenre,Ambient,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+102,Suzanne Ciani,instrumentSounds,"Buchla Synthesizer, Modular Synth, Piano",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+102,Suzanne Ciani,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+102,Suzanne Ciani,descriptionShort,"Suzanne Ciani is a pioneering American electronic music composer and five-time Grammy nominee who has been at the forefront of synthesizer music since the 1960s. She is renowned for her mastery of the Buchla modular synthesizer, creating iconic sound designs and quadraphonic live performances.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+103,SZA,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+103,SZA,genreLabels,R&B,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+103,SZA,subGenre,Alternative R&B,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+103,SZA,instrumentSounds,Vocals,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+103,SZA,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+103,SZA,descriptionShort,"SZA is an American singer-songwriter whose diaristic songwriting and genre-fluid approach have made her one of the most influential voices in contemporary R&B. Her acclaimed albums including 'Ctrl' (2017) and 'SOS' (2022) blend alternative R&B, soul, and hip-hop influences.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+104,Talking Heads,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+104,Talking Heads,genreLabels,Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+104,Talking Heads,subGenre,New Wave,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+104,Talking Heads,instrumentSounds,"Guitar, Vocals, Drums",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+104,Talking Heads,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+104,Talking Heads,descriptionShort,"Talking Heads was an American new wave band formed in 1975 by David Byrne, Chris Frantz, Tina Weymouth, and Jerry Harrison. They became one of the most influential bands of their era by blending punk, art rock, funk, and world music influences.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+105,Tarik Barri,programmingStyle,A/V Installation,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+105,Tarik Barri,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+105,Tarik Barri,subGenre,Visual Music,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+105,Tarik Barri,instrumentSounds,"Laptop, Custom Software, Visuals",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+105,Tarik Barri,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+105,Tarik Barri,descriptionShort,"Tarik Barri is a Dutch audiovisual composer and software developer known for creating his own tools for live audiovisual performance and composition. As co-founder of Showsync, he developed Videosync, software that extends Ableton Live into an audiovisual engine.",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+106,Tash Sultana,programmingStyle,Second Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+106,Tash Sultana,genreLabels,Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+106,Tash Sultana,subGenre,Psychedelic Rock,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+106,Tash Sultana,instrumentSounds,"Guitar, Loop Pedal, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+106,Tash Sultana,mf,Non-Binary,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+106,Tash Sultana,descriptionShort,"Tash Sultana is an Australian singer, songwriter, and multi-instrumentalist who turned solo performance into a full-band experience through masterful live looping. Their genre-blending sound fuses psychedelic rock, reggae, soul, and R&B, built layer by layer on stage using loop pedals and effects.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+107,Taylor Swift,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+107,Taylor Swift,genreLabels,Pop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+107,Taylor Swift,subGenre,"Synth-Pop, Country-Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+107,Taylor Swift,instrumentSounds,"Vocals, Guitar, Piano",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+107,Taylor Swift,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+107,Taylor Swift,descriptionShort,"Taylor Swift is one of the most commercially successful and critically acclaimed artists of her generation, known for her narrative songwriting that has evolved from country roots to synth-driven pop and indie folk. Her record-breaking tours and albums have made her one of the biggest global live draws.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+108,Thom Yorke,programmingStyle,Subheadliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+108,Thom Yorke,genreLabels,"Electronic, Experimental",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+108,Thom Yorke,subGenre,"IDM, Art Rock",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+108,Thom Yorke,instrumentSounds,"Synthesizer, Laptop, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+108,Thom Yorke,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+108,Thom Yorke,descriptionShort,"Thom Yorke is the lead vocalist and principal songwriter of Radiohead, and has built a distinctive solo career exploring electronic and experimental territories. His solo work and side projects like Atoms for Peace lean heavily into IDM, ambient, and left-field electronic production.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+109,Tipper,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+109,Tipper,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+109,Tipper,subGenre,"Nu Skool Breaks, IDM",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+109,Tipper,instrumentSounds,"Laptop, Turntables, Modular Synth",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+109,Tipper,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+109,Tipper,descriptionShort,"Dave Tipper is a British composer and producer renowned for his pioneering work in nu skool breakbeat, glitch hop, and psychedelic electronic music. His productions are characterized by intricate polyrhythms, extreme bass frequencies, and meticulous sound design.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+110,Tourist,programmingStyle,Second Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+110,Tourist,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+110,Tourist,subGenre,"UK Garage, Deep House",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+110,Tourist,instrumentSounds,"Synthesizer, Laptop, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+110,Tourist,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+110,Tourist,descriptionShort,"William Phillips, known as Tourist, is an English electronic musician and songwriter who creates yearning, bittersweet dance tracks that blend UK garage, house, and emotional electronica. He won a Grammy for co-writing Sam Smith's 'Stay with Me.'",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+111,Tove Lo,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+111,Tove Lo,genreLabels,"Pop, Electronic",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+111,Tove Lo,subGenre,"Synth-Pop, Dance-Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+111,Tove Lo,instrumentSounds,"Vocals, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+111,Tove Lo,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+111,Tove Lo,descriptionShort,"Tove Lo is a Swedish singer and songwriter known for her raw, emotionally candid approach to pop music that blends electronic production with confessional lyrics. She gained international recognition with hits like 'Habits (Stay High)' and 'Talking Body.'",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+112,Travis Scott,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+112,Travis Scott,genreLabels,Hip-Hop,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+112,Travis Scott,subGenre,"Trap, Psychedelic Rap",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+112,Travis Scott,instrumentSounds,"Vocals, Synthesizer, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+112,Travis Scott,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+112,Travis Scott,descriptionShort,"Travis Scott is an American rapper, singer, and producer whose psychedelic-infused trap sound and explosive live performances have made him one of the biggest stars in contemporary hip-hop. His albums 'Astroworld' and 'Rodeo' are celebrated for their immersive sonic landscapes.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+113,UNIIQU3,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+113,UNIIQU3,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+113,UNIIQU3,subGenre,"Jersey Club, Footwork",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+113,UNIIQU3,instrumentSounds,"Laptop, Drum Machine, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+113,UNIIQU3,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+113,UNIIQU3,descriptionShort,"Cherise Gary, known as UNIIQU3, is a Newark-based DJ, producer, and vocalist hailed as the 'Queen of Jersey Club' who has been instrumental in bringing the genre from local New Jersey scenes to global recognition.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+114,The Weeknd,programmingStyle,Headliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+114,The Weeknd,genreLabels,"R&B, Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+114,The Weeknd,subGenre,"Alternative R&B, Synth-Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+114,The Weeknd,instrumentSounds,"Vocals, Synthesizer",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+114,The Weeknd,mf,Male,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+114,The Weeknd,descriptionShort,"Abel Tesfaye, known as The Weeknd, is a Canadian singer and songwriter who emerged from the Toronto underground scene to become one of the biggest global superstars in contemporary R&B and pop. His distinctive falsetto vocals and dark, atmospheric production blend alternative R&B with new wave and synth-pop influences.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+115,Weval,programmingStyle,Second Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+115,Weval,genreLabels,Electronic,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+115,Weval,subGenre,"Indie Electronica, Psychedelic Pop",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+115,Weval,instrumentSounds,"Synthesizer, Analog Synths, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+115,Weval,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+115,Weval,descriptionShort,"Weval is a Dutch electronic duo comprising Harm Coolen and Merijn Scholte Albers, known for their richly emotive, cinematic productions that fuse analog warmth with forward-thinking sound design. Their music sits at the intersection of introspective electronica, psychedelic pop, and atmospheric dance music.",Web research / Wikipedia / Official artist pages,,2026-05-12,4,verified
+116,The xx,programmingStyle,Subheadliner,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+116,The xx,genreLabels,"Indie Pop, Electronic",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+116,The xx,subGenre,"Dream Pop, Minimal Electronic",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+116,The xx,instrumentSounds,"Guitar, Synthesizer, Vocals",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+116,The xx,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+116,The xx,descriptionShort,"The xx is a London-based trio known for their sparse, intimate sound that blends minimalist electronic production with dreamy guitar work and hushed vocal exchanges between Romy Madley Croft and Oliver Sim. Their debut album 'xx' became a landmark of late-2000s indie music.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+117,Yaeji,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+117,Yaeji,genreLabels,"Electronic, House",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+117,Yaeji,subGenre,"Alternative House, Indie Dance",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+117,Yaeji,instrumentSounds,"Synthesizer, Vocals, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+117,Yaeji,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+117,Yaeji,descriptionShort,"Brooklyn-based Korean-American producer, DJ, and vocalist known for bilingual English/Korean lyrics over dreamy house productions. Her intimate, confessional style blends whispery vocals with club-ready beats, exploring identity and self-reflection.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+118,Yīn Yīn,programmingStyle,Main Stage,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+118,Yīn Yīn,genreLabels,"Psychedelic, Funk",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+118,Yīn Yīn,subGenre,"Thai Psych-Funk, Disco",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+118,Yīn Yīn,instrumentSounds,"Guitar, Synthesizer, Guzheng",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+118,Yīn Yīn,mf,Group,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+118,Yīn Yīn,descriptionShort,"Dutch psychedelic funk quartet from Maastricht blending Southeast Asian motifs with disco, surf rock, and krautrock influences. Their largely instrumental sound incorporates vintage synthesizers and traditional Chinese guzheng, creating a kaleidoscopic cosmic disco.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+119,yunè pinku,programmingStyle,DJ Set,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+119,yunè pinku,genreLabels,"Electronic, UK Garage",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+119,yunè pinku,subGenre,"UK Garage, Breakbeat",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+119,yunè pinku,instrumentSounds,"Synthesizer, Vocals, Drum Machine",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+119,yunè pinku,mf,Female,Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified
+119,yunè pinku,descriptionShort,"London-based Malaysian-Irish producer and songwriter creating music for introverted ravers, blending UK garage, breakbeats, and house with indie-inspired vocals. Her productions pair frenetic electronic rhythms with introspective, honest lyricism.",Web research / Wikipedia / Official artist pages,,2026-05-12,5,verified

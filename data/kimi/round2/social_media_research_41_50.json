@@ -1,0 +1,472 @@
+[
+  {
+    "id": 41,
+    "artist": "Future (rapper Nayvadius Wilburn)",
+    "instagramHandle": "@future",
+    "instagramFollowers": 25370000,
+    "xHandle": "@1future",
+    "xFollowers": 7816000,
+    "facebookPage": "FutureFreebandz",
+    "facebookFollowers": null,
+    "totalSocialReach": 33186000,
+    "verifiedStatus": "verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@future",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/future/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "25.37M followers, official verified account for Future",
+        "notes": "Official Instagram with 25.37M followers"
+      },
+      {
+        "field": "xHandle",
+        "value": "@1future",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/1future",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "7,816,000 followers, verified account with blue checkmark",
+        "notes": "Official X account verified"
+      },
+      {
+        "field": "facebookPage",
+        "value": "FutureFreebandz",
+        "status": "data_unavailable",
+        "confidence": 3,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/FutureFreebandz",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Page confirmed but requires login to view follower count",
+        "notes": "Facebook page exists but follower count not publicly visible"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "artist": "Gold Panda (Derwin Schlecker - electronic)",
+    "instagramHandle": null,
+    "instagramFollowers": null,
+    "xHandle": "@goldpanda",
+    "xFollowers": 51,
+    "facebookPage": "goldpandamusic",
+    "facebookFollowers": null,
+    "totalSocialReach": 51,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 3,
+        "sourceName": "Multiple searches",
+        "sourceUrl": "https://www.instagram.com/goldpanda/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No official active Instagram account found for Gold Panda",
+        "notes": "Searched extensively; no verified official Instagram handle located"
+      },
+      {
+        "field": "xHandle",
+        "value": "@goldpanda",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/goldpanda",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "51 followers, bio says 'not on twitter' - inactive account",
+        "notes": "Account exists but explicitly states not active on Twitter/X"
+      },
+      {
+        "field": "facebookPage",
+        "value": "goldpandamusic",
+        "status": "data_unavailable",
+        "confidence": 3,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/goldpandamusic",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Page requires login to view details",
+        "notes": "Facebook page URL found via Wikipedia reference"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "artist": "Gorillaz (Damon Albarn's virtual band)",
+    "instagramHandle": "@gorillaz",
+    "instagramFollowers": 7530000,
+    "xHandle": "@gorillaz",
+    "xFollowers": 972127,
+    "facebookPage": "Gorillaz",
+    "facebookFollowers": 10240000,
+    "totalSocialReach": 18742127,
+    "verifiedStatus": "verified on all platforms",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@gorillaz",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/gorillaz/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "7.53M followers, official Gorillaz account",
+        "notes": "Official verified Instagram for Gorillaz"
+      },
+      {
+        "field": "xHandle",
+        "value": "@gorillaz",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/gorillaz",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "972,127 followers, official Gorillaz account",
+        "notes": "Official X account for Gorillaz"
+      },
+      {
+        "field": "facebookPage",
+        "value": "Gorillaz",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/Gorillaz",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1024万 fans (10.24 million)",
+        "notes": "Official Facebook page with 10.24M fans"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "artist": "Grandbrothers (German piano/electronic duo)",
+    "instagramHandle": "@grandbrothersmusic",
+    "instagramFollowers": null,
+    "xHandle": "@grandbrothers_",
+    "xFollowers": 1046,
+    "facebookPage": "grandbrothersmusic",
+    "facebookFollowers": null,
+    "totalSocialReach": 1046,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@grandbrothersmusic",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/grandbrothersmusic/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Account confirmed but follower count requires login",
+        "notes": "Official Instagram handle found via SoundCloud links"
+      },
+      {
+        "field": "xHandle",
+        "value": "@grandbrothers_",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/grandbrothers_",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1,046 followers, bio: 'Messing around with grand pianos since 2012'",
+        "notes": "Official X account for Grandbrothers"
+      },
+      {
+        "field": "facebookPage",
+        "value": "grandbrothersmusic",
+        "status": "data_unavailable",
+        "confidence": 3,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/grandbrothersmusic",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Page confirmed but requires login to view follower count",
+        "notes": "Official Facebook page URL found via SoundCloud"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "artist": "Grimes (Claire Boucher - experimental pop/electronic)",
+    "instagramHandle": "@grimes",
+    "instagramFollowers": null,
+    "xHandle": "@Grimezsz",
+    "xFollowers": 1363000,
+    "facebookPage": "grimes",
+    "facebookFollowers": null,
+    "totalSocialReach": 1363000,
+    "verifiedStatus": "verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@grimes",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/grimes/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Account confirmed but follower count requires login",
+        "notes": "Official Instagram for Grimes; follower count not publicly visible without login"
+      },
+      {
+        "field": "xHandle",
+        "value": "@Grimezsz",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/grimezsz",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1,363,000 followers, verified with blue checkmark",
+        "notes": "Official verified X account for Grimes"
+      },
+      {
+        "field": "facebookPage",
+        "value": "grimes",
+        "status": "data_unavailable",
+        "confidence": 3,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/grimes",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Page confirmed but requires login to view follower count",
+        "notes": "Facebook page exists but follower count not publicly visible"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "artist": "Halina Rice (electronic artist/producer)",
+    "instagramHandle": null,
+    "instagramFollowers": null,
+    "xHandle": "@Halinar",
+    "xFollowers": 992,
+    "facebookPage": "halina.rice",
+    "facebookFollowers": 4060,
+    "totalSocialReach": 5052,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 3,
+        "sourceName": "Instagram/Threads",
+        "sourceUrl": "https://www.instagram.com/halinarice_music/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Found @halinarice_music on Threads with 3.1K followers; Instagram account status unclear",
+        "notes": "Has Threads presence but official Instagram not clearly established"
+      },
+      {
+        "field": "xHandle",
+        "value": "@Halinar",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/Halinar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "992 followers, electronic music producer account",
+        "notes": "Official X account for Halina Rice"
+      },
+      {
+        "field": "facebookPage",
+        "value": "halina.rice",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/halina.rice/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "4,060 fans, profile shows 'Digital content creator'",
+        "notes": "Official Facebook page for Halina Rice"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "artist": "Halsey (Ashley Frangipane - pop artist)",
+    "instagramHandle": "@iamhalsey",
+    "instagramFollowers": null,
+    "xHandle": "@halsey",
+    "xFollowers": 12998012,
+    "facebookPage": "halsey",
+    "facebookFollowers": 7960000,
+    "totalSocialReach": 20958012,
+    "verifiedStatus": "verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@iamhalsey",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/iamhalsey/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Account confirmed; web search shows 28.3M X followers referenced (different platform)",
+        "notes": "Official Instagram for Halsey; exact follower count requires login"
+      },
+      {
+        "field": "xHandle",
+        "value": "@halsey",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/halsey",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "12,998,012 followers, verified with blue checkmark",
+        "notes": "Official verified X account for Halsey"
+      },
+      {
+        "field": "facebookPage",
+        "value": "halsey",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/halsey",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "796万 fans (7.96 million)",
+        "notes": "Official Facebook page with 7.96M fans"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "artist": "Hania Rani (Polish pianist/composer)",
+    "instagramHandle": "@haniarani",
+    "instagramFollowers": null,
+    "xHandle": "@haniaranimusic",
+    "xFollowers": 7509,
+    "facebookPage": "haniaranimusic",
+    "facebookFollowers": 88000,
+    "totalSocialReach": 95509,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@haniarani",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram (via official website)",
+        "sourceUrl": "https://www.instagram.com/haniarani/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official handle confirmed via haniarani.com; follower count requires login",
+        "notes": "Official Instagram linked from artist's official website"
+      },
+      {
+        "field": "xHandle",
+        "value": "@haniaranimusic",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/haniaranimusic",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "7,509 followers; artist announced leaving X in 2023",
+        "notes": "Official X account though artist stated they are no longer on X as of 2023"
+      },
+      {
+        "field": "facebookPage",
+        "value": "haniaranimusic",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/haniaranimusic",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "8.8万 fans (88,000)",
+        "notes": "Official Facebook page with 88K fans"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "artist": "Haroon Mirza (British-Pakistani sound/visual artist)",
+    "instagramHandle": null,
+    "instagramFollowers": null,
+    "xHandle": null,
+    "xFollowers": null,
+    "facebookPage": null,
+    "facebookFollowers": null,
+    "totalSocialReach": null,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 3,
+        "sourceName": "Multiple searches",
+        "sourceUrl": "https://www.lissongallery.com/artists/haroon-mirza",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No official Instagram account found for Haroon Mirza",
+        "notes": "Contemporary visual/sound artist represented by Lisson Gallery; no personal social media presence found"
+      },
+      {
+        "field": "xHandle",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/HaroonMirza20",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "@HaroonMirza20 has only 5 followers - not official",
+        "notes": "No official X account found for the artist"
+      },
+      {
+        "field": "facebookPage",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "Multiple searches",
+        "sourceUrl": "https://www.lissongallery.com/artists/haroon-mirza",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No official Facebook page found for Haroon Mirza",
+        "notes": "Gallery representation exists but no personal artist Facebook page located"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "artist": "Holly Herndon (experimental electronic/AI music)",
+    "instagramHandle": "@holly_herndon",
+    "instagramFollowers": 51000,
+    "xHandle": "@hollyherndon",
+    "xFollowers": 40311,
+    "facebookPage": "hollyherndonmusic",
+    "facebookFollowers": null,
+    "totalSocialReach": 91311,
+    "verifiedStatus": "verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@holly_herndon",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/holly_herndon/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "51,000 followers (5.1万), bio: mgmt<matt@igetrvng.com>",
+        "notes": "Official Instagram confirmed via RVNG Intl and YouTube video descriptions"
+      },
+      {
+        "field": "xHandle",
+        "value": "@hollyherndon",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X (Twitter)",
+        "sourceUrl": "https://x.com/hollyherndon",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "40,311 followers, verified with blue checkmark",
+        "notes": "Official verified X account for Holly Herndon"
+      },
+      {
+        "field": "facebookPage",
+        "value": "hollyherndonmusic",
+        "status": "data_unavailable",
+        "confidence": 3,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/hollyherndonmusic",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Page confirmed but requires login to view follower count",
+        "notes": "Official Facebook page URL found via YouTube video descriptions"
+      }
+    ]
+  }
+]

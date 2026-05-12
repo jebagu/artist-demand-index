@@ -1,0 +1,184 @@
+[
+  {
+    "id": 41,
+    "artist": "Future",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "I NEVER LIKED YOU",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/sb/album/i-never-liked-you/1621119097",
+          "https://www.complex.com/music/a/will-schube/apple-music-spatial-audio-one-year"
+        ],
+        "confidence": 4,
+        "notes": "Apple Music's Ebro Darden explicitly mentioned enjoying Future's 'I NEVER LIKED YOU' in Spatial Audio. Apple Music album page shows 'Hip-Hop in Spatial Audio' categorization."
+      }
+    ],
+    "notes": "Found confirmation that 'I NEVER LIKED YOU' (2022) is available in Spatial Audio on Apple Music. Other albums like 'High Off Life' (2020) and 'The Wizrd' (2019) were not confirmed as having Atmos mixes."
+  },
+  {
+    "id": 42,
+    "artist": "Gold Panda",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Searched Apple Music, Dolby.com, and general web sources. No evidence of Dolby Atmos releases found for albums including 'Lucky Shiner' (2010), 'Good Luck and Do Your Best' (2016), or 'The Work' (2024). No Spatial Audio badges found on Apple Music listings."
+  },
+  {
+    "id": 43,
+    "artist": "Gorillaz",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Cracker Island",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/ca/album/cracker-island/1641561652",
+          "https://gorillaz.fandom.com/wiki/Cracker_Island_(album)"
+        ],
+        "confidence": 4,
+        "notes": "Apple Music page lists 'Alternative in Spatial Audio' playlist inclusion. Fandom wiki confirms a 'Dolby Atmos Mix' edition exists with a bonus track."
+      },
+      {
+        "title": "The Mountain",
+        "releaseYear": 2026,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://rockcellarmagazine.com/gorillaz-exhibit-los-angeles-the-mountain-new-album-show-2026/",
+          "https://www.reddit.com/r/gorillaz/comments/1rtqvk9/the_mountain_in_atmos/"
+        ],
+        "confidence": 4,
+        "notes": "Released February 2026. Multiple sources mention Dolby Atmos availability. Rock Cellar Magazine article mentions 'digital and streaming services and Dolby Atmos.' Reddit user confirms Atmos mix sounds fantastic."
+      }
+    ],
+    "notes": "Two confirmed Atmos albums: 'Cracker Island' (2023) and 'The Mountain' (2026). Earlier albums like 'Song Machine' and 'Humanz' were not confirmed as having Atmos mixes."
+  },
+  {
+    "id": 44,
+    "artist": "Grandbrothers",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Searched Apple Music for 'Late Reflections' (2023) and 'Elsewhere' (2025) - no Dolby Atmos badges found. Reviewer equipment lists mention Atmos speakers but no specific confirmation that Grandbrothers albums were released in Atmos."
+  },
+  {
+    "id": 45,
+    "artist": "Grimes",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Grimes was mentioned in a Dolby press release (2024) as a collaborator on Anyma's 'Genesys II' album, but this does not indicate her own albums are in Atmos. Searched for 'Miss Anthropocene' (2020) and 'Art Angels' (2015) on Apple Music - no Spatial Audio badges found. Individual track 'Kill V. Maim' appears in a YouTube Dolby Atmos upload but no album-level Atmos release was confirmed."
+  },
+  {
+    "id": 46,
+    "artist": "Halina Rice",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "EVOLVE",
+        "releaseYear": 2024,
+        "sourceService": "Immersive Audio Album",
+        "sourceUrls": [
+          "https://immersiveaudioalbum.com/product/evolve-halina-rice-atmos-mkv-mp4-3d-binaural-wav/",
+          "https://www.halinarice.com/immersive"
+        ],
+        "confidence": 5,
+        "notes": "Available as Dolby Atmos MKV & MP4 download from Immersive Audio Album. Artist's website confirms: 'Albums EVOLVE (2024) and UNREALITY (2025) are mixed in L-ISA spatial audio by L-Acoustics and released in Dolby Atmos format.'"
+      },
+      {
+        "title": "UNREALITY",
+        "releaseYear": 2025,
+        "sourceService": "Immersive Audio Album",
+        "sourceUrls": [
+          "https://immersiveaudioalbum.com/product/unreality-halina-rice-atmos-mkv-mp4-3d-binaural-wav/",
+          "https://www.halinarice.com/immersive",
+          "https://music.apple.com/us/album/unreality/1842149383"
+        ],
+        "confidence": 5,
+        "notes": "Available as Dolby Atmos MKV & MP4 download from Immersive Audio Album. Artist's website confirms released in Dolby Atmos format. ADE 2025 event featured Dolby Atmos listening session debuting tracks from the album."
+      }
+    ],
+    "notes": "Halina Rice is an 'immersive-first' electronic music producer. Both 'EVOLVE' (2024) and 'UNREALITY' (2025) are confirmed as mixed in L-ISA and released in Dolby Atmos. Also available on Apple Music."
+  },
+  {
+    "id": 47,
+    "artist": "Halsey",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "If I Can't Have Love, I Want Power",
+        "releaseYear": 2021,
+        "sourceService": "Other",
+        "sourceUrls": [
+          "https://www.nin.wiki/If_I_Can%27t_Have_Love,_I_Want_Power"
+        ],
+        "confidence": 4,
+        "notes": "nin.wiki (Nine Inch Nails fan database) explicitly states: 'The album is also available in Dolby Atmos.' Produced by Trent Reznor and Atticus Ross."
+      },
+      {
+        "title": "Manic",
+        "releaseYear": 2020,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=VVn9TGZ1_v0"
+        ],
+        "confidence": 3,
+        "notes": "YouTube video titled 'Halsey - Manic - Immersive Album Review - Dolby Atmos - Tidal' suggests an Atmos mix exists, but official Apple Music confirmation not independently verified."
+      },
+      {
+        "title": " hopeless fountain kingdom",
+        "releaseYear": 2017,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.reddit.com/r/halsey/comments/p911az/hfk_dolby_atmos_now_available_on_apple_music/"
+        ],
+        "confidence": 3,
+        "notes": "Reddit post on r/halsey indicates 'HFK (Dolby Atmos) now available on Apple Music' with users describing the updated mix."
+      },
+      {
+        "title": "Room 93",
+        "releaseYear": 2013,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://musicbrainz.org/release-group/d360d12b-896e-4111-b064-d4675f6098ac"
+        ],
+        "confidence": 4,
+        "notes": "MusicBrainz shows a 2022 'Dolby Atmos mix' digital release of Room 93 on Astralwerks label."
+      }
+    ],
+    "notes": "Multiple albums confirmed with Dolby Atmos mixes. 'If I Can't Have Love, I Want Power' is the strongest confirmation (nin.wiki). Reddit users also confirm 'hopeless fountain kingdom' and 'Manic' Atmos mixes on Apple Music. 'Room 93' has a documented 2022 Dolby Atmos mix release."
+  },
+  {
+    "id": 48,
+    "artist": "Hania Rani",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Inner Symphonies",
+        "releaseYear": 2021,
+        "sourceService": "Deutsche Grammophon",
+        "sourceUrls": [
+          "https://www.deutschegrammophon.com/en/catalogue/products/inner-symphonies-hania-dobrawa-12404",
+          "https://surroundmixe.de/hania-rani-dobrawa-czocher-inner-symphonies/"
+        ],
+        "confidence": 5,
+        "notes": "Deutsche Grammophon product page explicitly states 'Also available in Dolby Atmos.' Album with Dobrawa Czocher. Review on surroundmixe.de confirms Dolby Atmos streaming availability on Apple Music, Amazon, and Tidal."
+      }
+    ],
+    "notes": "Hania Rani is a Polish composer/pianist signed to Deutsche Grammophon. 'Inner Symphonies' (2021, with Dobrawa Czocher) is confirmed in Dolby Atmos by the label. Other albums like 'Ghosts' (2023) and 'Non Fiction' (2025) were not confirmed as having Atmos mixes."
+  },
+  {
+    "id": 49,
+    "artist": "Haroon Mirza",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Haroon Mirza is primarily a visual/sound artist, not a traditional music artist. He has released albums including 'The Wave Epoch' (2021, with Jack Jelfs) and 'Sampler1' (2023) on his OUTPUTS label. No evidence of Dolby Atmos album releases found. His work focuses on installations and physical media (e.g., playable card artwork)."
+  },
+  {
+    "id": 50,
+    "artist": "Holly Herndon",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Searched Apple Music for 'PROTO' (2019), 'Platform' (2015), and 'Movement' (2012) - no Spatial Audio or Dolby Atmos badges found. Holly Herndon is known for experimental electronic music and AI collaboration (Spawn). No evidence of Atmos album releases found. Her mixing engineer Marta Salogni confirmed in an interview she had not mixed in Dolby Atmos at that time."
+  }
+]

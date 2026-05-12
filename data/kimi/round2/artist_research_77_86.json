@@ -1,0 +1,112 @@
+[
+  {
+    "id": 77,
+    "artist": "Moby",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Electronic",
+    "subGenre": "Ambient Techno",
+    "instrumentSounds": "Synthesizer, Piano, Laptop",
+    "mf": "Male",
+    "descriptionShort": "Moby is an American electronic music pioneer renowned for blending ambient soundscapes with techno and pop sensibilities. Rising to global fame with his landmark 1999 album Play, he has consistently pushed the boundaries of electronic composition across a multi-decade career. His live performances range from intimate ambient sets to full-scale festival headlining shows featuring immersive visuals.",
+    "confidence": 5
+  },
+  {
+    "id": 78,
+    "artist": "Moderat",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "Electronic",
+    "subGenre": "IDM, Glitch Techno",
+    "instrumentSounds": "Synthesizer, Drum Machine, Vocals",
+    "mf": "Group",
+    "descriptionShort": "Moderat is a Berlin-based electronic supergroup formed by Apparat and Modeselektor, merging intricate melodic songwriting with bass-heavy club production. Their sound fuses IDM, glitch, and emotive vocal-driven electronica into a singular, immersive experience. Known for their visually stunning live shows, they are a major draw at electronic music festivals worldwide.",
+    "confidence": 5
+  },
+  {
+    "id": 79,
+    "artist": "Monolake / Robert Henke",
+    "programmingStyle": "A/V Installation",
+    "genreLabels": "Electronic",
+    "subGenre": "Minimal Techno, Ambient",
+    "instrumentSounds": "Modular Synth, Laptop, Surround Sound System",
+    "mf": "Male",
+    "descriptionShort": "Monolake is the long-running electronic project of Robert Henke, a pivotal figure in Berlin minimal techno and co-founder of Ableton. His work spans dub-influenced techno, immersive ambient compositions, and groundbreaking audiovisual installations featuring laser systems. Henke's performances often blur the lines between concert and gallery experience.",
+    "confidence": 5
+  },
+  {
+    "id": 80,
+    "artist": "Naomi Jon",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "Pop",
+    "subGenre": "Electropop, Dance-Pop",
+    "instrumentSounds": "Synthesizer, Vocals, Drum Machine",
+    "mf": "Female",
+    "descriptionShort": "Naomi Jon is a German pop singer-songwriter and content creator from Berlin known for catchy electropop with danceable beats and electronic production. She gained prominence through social media before releasing charting albums like Villain Of Your Dreams and Strawberry. Her energetic pop sound and strong visual identity make her suited for main stage festival slots.",
+    "confidence": 4
+  },
+  {
+    "id": 81,
+    "artist": "Nicolas Jaar",
+    "programmingStyle": "Live Electronic",
+    "genreLabels": "Electronic",
+    "subGenre": "Art House, Experimental Electronic",
+    "instrumentSounds": "Synthesizer, Laptop, Percussion",
+    "mf": "Male",
+    "descriptionShort": "Nicolas Jaar is a Chilean-American electronic composer and producer known for his slow, elegiac sound that merges house rhythms with jazz, soul, and cinematic textures. His acclaimed solo work and duo Darkside showcase a deeply artistic, genre-defying approach to electronic music. His live performances are celebrated for their emotional depth and innovative, non-dancefloor-oriented presentation.",
+    "confidence": 5
+  },
+  {
+    "id": 82,
+    "artist": "Nils Frahm",
+    "programmingStyle": "Ambient Stage",
+    "genreLabels": "Classical",
+    "subGenre": "Contemporary Classical, Ambient",
+    "instrumentSounds": "Piano, Synthesizer, Electronics",
+    "mf": "Male",
+    "descriptionShort": "Nils Frahm is a German composer and multi-instrumentalist based in Berlin who blends modern classical piano with ambient and electronic textures. Known for albums like Felt and All Melody, he creates intimate, atmospheric soundscapes that have defined the contemporary neo-classical genre. His virtuosic live shows feature a rare combination of acoustic piano, synthesizers, and effects processing.",
+    "confidence": 5
+  },
+  {
+    "id": 83,
+    "artist": "Nine Inch Nails",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Rock",
+    "subGenre": "Industrial Rock",
+    "instrumentSounds": "Guitar, Synthesizer, Drums",
+    "mf": "Group",
+    "descriptionShort": "Nine Inch Nails is the influential industrial rock project led by Trent Reznor, known for fusing aggressive electronic production with visceral rock instrumentation. Since the late 1980s, they have produced landmark albums like The Downward Spiral and The Fragile while pushing the boundaries of live performance. Their blistering festival sets and groundbreaking visual productions make them one of rock's most compelling headlining acts.",
+    "confidence": 5
+  },
+  {
+    "id": 84,
+    "artist": "Nitin Sawhney",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "Electronic",
+    "subGenre": "World Fusion, Trip-Hop",
+    "instrumentSounds": "Flamenco Guitar, Piano, Electronics",
+    "mf": "Male",
+    "descriptionShort": "Nitin Sawhney is a British Indian musician, composer, and producer celebrated for blending Indian classical traditions with electronic, jazz, hip-hop, and flamenco elements. A pioneer of the Asian Underground movement, he has released over a dozen albums and scored films, ballets, and orchestral works. His versatile live shows range from intimate solo performances to full-band main stage sets.",
+    "confidence": 5
+  },
+  {
+    "id": 85,
+    "artist": "Photay",
+    "programmingStyle": "Live Electronic",
+    "genreLabels": "Electronic",
+    "subGenre": "Experimental Electronic, Ambient",
+    "instrumentSounds": "Synthesizer, Field Recordings, Drums",
+    "mf": "Male",
+    "descriptionShort": "Photay is the project of American electronic producer and multi-instrumentalist Evan Shornstein, known for crafting immersive, nature-inspired soundscapes. His music blends ambient textures, intricate percussion, and melodic synth work, drawing from IDM, jazz, and global influences. Having released on respected labels like Mexican Summer and Ninja Tune, his live sets translate his detailed studio work into captivating electronic performances.",
+    "confidence": 4
+  },
+  {
+    "id": 86,
+    "artist": "Pink Floyd",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Rock",
+    "subGenre": "Progressive Rock, Psychedelic Rock",
+    "instrumentSounds": "Guitar, Synthesizer, Vocals",
+    "mf": "Group",
+    "descriptionShort": "Pink Floyd is one of the most influential rock bands in history, pioneering the progressive and psychedelic rock genres with landmark albums like The Dark Side of the Moon and The Wall. Known for their groundbreaking studio techniques, conceptual depth, and spectacular live visual productions, they set new standards for what rock music could achieve. Their legacy endures through immersive reissue experiences and tribute performances that honor their iconic festival-sized sound.",
+    "confidence": 5
+  }
+]

@@ -1,0 +1,706 @@
+artistId,artist,field,value,sourceName,sourceUrl,dateAccessed,confidence,status
+1,Acid Pauli,instagramHandle,@therealacidpauli,Web search + social platforms,,2026-05-12,4,verified
+1,Acid Pauli,instagramFollowers,76500,Web search + social platforms,,2026-05-12,4,verified
+1,Acid Pauli,xHandle,@acidpauli,Web search + social platforms,,2026-05-12,4,verified
+1,Acid Pauli,xFollowers,1654,Web search + social platforms,,2026-05-12,4,verified
+1,Acid Pauli,facebookPage,Acid Pauli,Web search + social platforms,,2026-05-12,4,verified
+1,Acid Pauli,facebookFollowers,102000,Web search + social platforms,,2026-05-12,4,verified
+1,Acid Pauli,totalSocialReach,180154,Web search + social platforms,,2026-05-12,4,verified
+1,Acid Pauli,verifiedStatus,verified_on_all_platforms,Web search + social platforms,,2026-05-12,4,verified
+3,Air,instagramHandle,@airfrenchband,Web search + social platforms,,2026-05-12,3,partial
+3,Air,xHandle,@airofficial,Web search + social platforms,,2026-05-12,3,partial
+3,Air,xFollowers,13000,Web search + social platforms,,2026-05-12,3,partial
+3,Air,facebookPage,AIR,Web search + social platforms,,2026-05-12,3,partial
+3,Air,totalSocialReach,13000,Web search + social platforms,,2026-05-12,3,partial
+3,Air,verifiedStatus,verified_on_x,Web search + social platforms,,2026-05-12,3,partial
+4,Alva Noto,instagramHandle,@alvanoto,Web search + social platforms,,2026-05-12,4,verified
+4,Alva Noto,instagramFollowers,52600,Web search + social platforms,,2026-05-12,4,verified
+4,Alva Noto,xHandle,@alvanoto,Web search + social platforms,,2026-05-12,4,verified
+4,Alva Noto,xFollowers,13166,Web search + social platforms,,2026-05-12,4,verified
+4,Alva Noto,facebookPage,alva noto,Web search + social platforms,,2026-05-12,4,verified
+4,Alva Noto,facebookFollowers,52000,Web search + social platforms,,2026-05-12,4,verified
+4,Alva Noto,totalSocialReach,117766,Web search + social platforms,,2026-05-12,4,verified
+4,Alva Noto,verifiedStatus,verified_on_x,Web search + social platforms,,2026-05-12,4,verified
+5,Aphex Twin,instagramHandle,@instaphex,Web search + social platforms,,2026-05-12,5,verified
+5,Aphex Twin,instagramFollowers,260100,Web search + social platforms,,2026-05-12,5,verified
+5,Aphex Twin,xHandle,@AphexTwin,Web search + social platforms,,2026-05-12,5,verified
+5,Aphex Twin,xFollowers,164000,Web search + social platforms,,2026-05-12,5,verified
+5,Aphex Twin,facebookPage,Aphex Twin,Web search + social platforms,,2026-05-12,5,verified
+5,Aphex Twin,facebookFollowers,922000,Web search + social platforms,,2026-05-12,5,verified
+5,Aphex Twin,totalSocialReach,1346100,Web search + social platforms,,2026-05-12,5,verified
+5,Aphex Twin,verifiedStatus,verified_on_x,Web search + social platforms,,2026-05-12,5,verified
+6,Arooj Aftab,instagramHandle,@aroojaftab,Web search + social platforms,,2026-05-12,5,verified
+6,Arooj Aftab,instagramFollowers,174600,Web search + social platforms,,2026-05-12,5,verified
+6,Arooj Aftab,xHandle,@arooj_aftab,Web search + social platforms,,2026-05-12,5,verified
+6,Arooj Aftab,xFollowers,20900,Web search + social platforms,,2026-05-12,5,verified
+6,Arooj Aftab,facebookPage,Arooj Aftab,Web search + social platforms,,2026-05-12,5,verified
+6,Arooj Aftab,facebookFollowers,50000,Web search + social platforms,,2026-05-12,5,verified
+6,Arooj Aftab,totalSocialReach,245500,Web search + social platforms,,2026-05-12,5,verified
+6,Arooj Aftab,verifiedStatus,verified_on_x,Web search + social platforms,,2026-05-12,5,verified
+7,Bassnectar,xHandle,@bassnectar,Web search + social platforms,,2026-05-12,5,verified
+7,Bassnectar,xFollowers,232000,Web search + social platforms,,2026-05-12,5,verified
+7,Bassnectar,facebookPage,Bassnectar,Web search + social platforms,,2026-05-12,5,verified
+7,Bassnectar,facebookFollowers,1190000,Web search + social platforms,,2026-05-12,5,verified
+7,Bassnectar,totalSocialReach,1422000,Web search + social platforms,,2026-05-12,5,verified
+7,Bassnectar,verifiedStatus,verified_on_x,Web search + social platforms,,2026-05-12,5,verified
+8,The Beatles,instagramHandle,@thebeatles,Web search + social platforms,,2026-05-12,5,verified
+8,The Beatles,xHandle,@thebeatles,Web search + social platforms,,2026-05-12,5,verified
+8,The Beatles,xFollowers,3527000,Web search + social platforms,,2026-05-12,5,verified
+8,The Beatles,facebookPage,The Beatles,Web search + social platforms,,2026-05-12,5,verified
+8,The Beatles,facebookFollowers,36960000,Web search + social platforms,,2026-05-12,5,verified
+8,The Beatles,totalSocialReach,40487000,Web search + social platforms,,2026-05-12,5,verified
+8,The Beatles,verifiedStatus,verified_on_all_platforms,Web search + social platforms,,2026-05-12,5,verified
+9,Beyoncé,instagramHandle,@beyonce,Web search + social platforms,,2026-05-12,5,verified
+9,Beyoncé,instagramFollowers,300924921,Web search + social platforms,,2026-05-12,5,verified
+9,Beyoncé,xHandle,@Beyonce,Web search + social platforms,,2026-05-12,5,verified
+9,Beyoncé,xFollowers,13222000,Web search + social platforms,,2026-05-12,5,verified
+9,Beyoncé,facebookPage,Beyoncé,Web search + social platforms,,2026-05-12,5,verified
+9,Beyoncé,facebookFollowers,55910000,Web search + social platforms,,2026-05-12,5,verified
+9,Beyoncé,totalSocialReach,370056921,Web search + social platforms,,2026-05-12,5,verified
+9,Beyoncé,verifiedStatus,verified_on_all_platforms,Web search + social platforms,,2026-05-12,5,verified
+10,Bicep,instagramHandle,@feelmybicep,Web search + social platforms,,2026-05-12,4,verified
+10,Bicep,instagramFollowers,423400,Web search + social platforms,,2026-05-12,4,verified
+10,Bicep,xHandle,@feelmybicep,Web search + social platforms,,2026-05-12,4,verified
+10,Bicep,xFollowers,61000,Web search + social platforms,,2026-05-12,4,verified
+10,Bicep,facebookPage,Bicep,Web search + social platforms,,2026-05-12,4,verified
+10,Bicep,totalSocialReach,484400,Web search + social platforms,,2026-05-12,4,verified
+10,Bicep,verifiedStatus,verified_on_x,Web search + social platforms,,2026-05-12,4,verified
+11,Billie Eilish,instagramHandle,billieeilish,Web search + social platforms,,2026-05-12,5,verified
+11,Billie Eilish,instagramFollowers,120000000,Web search + social platforms,,2026-05-12,5,verified
+11,Billie Eilish,xHandle,billieeilish,Web search + social platforms,,2026-05-12,5,verified
+11,Billie Eilish,xFollowers,8405000,Web search + social platforms,,2026-05-12,5,verified
+11,Billie Eilish,facebookPage,billieeilish,Web search + social platforms,,2026-05-12,5,verified
+11,Billie Eilish,facebookFollowers,30850000,Web search + social platforms,,2026-05-12,5,verified
+11,Billie Eilish,totalSocialReach,159255000,Web search + social platforms,,2026-05-12,5,verified
+11,Billie Eilish,verifiedStatus,Verified on Instagram and X,Web search + social platforms,,2026-05-12,5,verified
+12,Björk,instagramHandle,bjork,Web search + social platforms,,2026-05-12,5,verified
+12,Björk,instagramFollowers,2614000,Web search + social platforms,,2026-05-12,5,verified
+12,Björk,xHandle,bjork,Web search + social platforms,,2026-05-12,5,verified
+12,Björk,xFollowers,829000,Web search + social platforms,,2026-05-12,5,verified
+12,Björk,facebookPage,bjork,Web search + social platforms,,2026-05-12,5,verified
+12,Björk,facebookFollowers,3230000,Web search + social platforms,,2026-05-12,5,verified
+12,Björk,totalSocialReach,6673000,Web search + social platforms,,2026-05-12,5,verified
+12,Björk,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+13,Bob Dylan,instagramHandle,bobdylan,Web search + social platforms,,2026-05-12,5,verified
+13,Bob Dylan,instagramFollowers,1278000,Web search + social platforms,,2026-05-12,5,verified
+13,Bob Dylan,xHandle,bobdylan,Web search + social platforms,,2026-05-12,5,verified
+13,Bob Dylan,xFollowers,494000,Web search + social platforms,,2026-05-12,5,verified
+13,Bob Dylan,facebookPage,bobdylan,Web search + social platforms,,2026-05-12,5,verified
+13,Bob Dylan,facebookFollowers,6900000,Web search + social platforms,,2026-05-12,5,verified
+13,Bob Dylan,totalSocialReach,8672000,Web search + social platforms,,2026-05-12,5,verified
+13,Bob Dylan,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+14,Bonobo,instagramHandle,si_bonobo,Web search + social platforms,,2026-05-12,4,verified
+14,Bonobo,instagramFollowers,407000,Web search + social platforms,,2026-05-12,4,verified
+14,Bonobo,xHandle,si_bonobo,Web search + social platforms,,2026-05-12,4,verified
+14,Bonobo,xFollowers,115000,Web search + social platforms,,2026-05-12,4,verified
+14,Bonobo,totalSocialReach,522000,Web search + social platforms,,2026-05-12,4,verified
+14,Bonobo,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+15,Brian Eno,instagramHandle,brianeno,Web search + social platforms,,2026-05-12,5,verified
+15,Brian Eno,instagramFollowers,365000,Web search + social platforms,,2026-05-12,5,verified
+15,Brian Eno,xHandle,brianeno,Web search + social platforms,,2026-05-12,5,verified
+15,Brian Eno,xFollowers,56000,Web search + social platforms,,2026-05-12,5,verified
+15,Brian Eno,facebookPage,BrianEno,Web search + social platforms,,2026-05-12,5,verified
+15,Brian Eno,facebookFollowers,540000,Web search + social platforms,,2026-05-12,5,verified
+15,Brian Eno,totalSocialReach,961000,Web search + social platforms,,2026-05-12,5,verified
+15,Brian Eno,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+16,Cardi B,instagramHandle,iamcardib,Web search + social platforms,,2026-05-12,5,verified
+16,Cardi B,instagramFollowers,164090000,Web search + social platforms,,2026-05-12,5,verified
+16,Cardi B,xHandle,iamcardib,Web search + social platforms,,2026-05-12,5,verified
+16,Cardi B,xFollowers,37260000,Web search + social platforms,,2026-05-12,5,verified
+16,Cardi B,facebookPage,CardiB,Web search + social platforms,,2026-05-12,5,verified
+16,Cardi B,facebookFollowers,31000000,Web search + social platforms,,2026-05-12,5,verified
+16,Cardi B,totalSocialReach,232350000,Web search + social platforms,,2026-05-12,5,verified
+16,Cardi B,verifiedStatus,Verified on Instagram and X,Web search + social platforms,,2026-05-12,5,verified
+17,Caribou,instagramHandle,cariboumusic,Web search + social platforms,,2026-05-12,5,verified
+17,Caribou,instagramFollowers,204000,Web search + social platforms,,2026-05-12,5,verified
+17,Caribou,xHandle,caribouband,Web search + social platforms,,2026-05-12,5,verified
+17,Caribou,xFollowers,129000,Web search + social platforms,,2026-05-12,5,verified
+17,Caribou,facebookPage,caribouband,Web search + social platforms,,2026-05-12,5,verified
+17,Caribou,facebookFollowers,490000,Web search + social platforms,,2026-05-12,5,verified
+17,Caribou,totalSocialReach,823000,Web search + social platforms,,2026-05-12,5,verified
+17,Caribou,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+19,Channel Tres,instagramHandle,channeltres,Web search + social platforms,,2026-05-12,4,verified
+19,Channel Tres,xHandle,channel_tres,Web search + social platforms,,2026-05-12,4,verified
+19,Channel Tres,xFollowers,15000,Web search + social platforms,,2026-05-12,4,verified
+19,Channel Tres,facebookPage,Channeltres,Web search + social platforms,,2026-05-12,4,verified
+19,Channel Tres,facebookFollowers,28000,Web search + social platforms,,2026-05-12,4,verified
+19,Channel Tres,totalSocialReach,43000,Web search + social platforms,,2026-05-12,4,verified
+20,Charli XCX,instagramHandle,charli_xcx,Web search + social platforms,,2026-05-12,5,verified
+20,Charli XCX,instagramFollowers,9066000,Web search + social platforms,,2026-05-12,5,verified
+20,Charli XCX,xHandle,charli_xcx,Web search + social platforms,,2026-05-12,5,verified
+20,Charli XCX,xFollowers,4183000,Web search + social platforms,,2026-05-12,5,verified
+20,Charli XCX,facebookPage,CharliXCX,Web search + social platforms,,2026-05-12,5,verified
+20,Charli XCX,facebookFollowers,6650000,Web search + social platforms,,2026-05-12,5,verified
+20,Charli XCX,totalSocialReach,19899000,Web search + social platforms,,2026-05-12,5,verified
+20,Charli XCX,verifiedStatus,Verified on Instagram and X,Web search + social platforms,,2026-05-12,5,verified
+21,The Chemical Brothers,instagramHandle,@thechemicalbrothers,Web search + social platforms,,2026-05-12,4,verified
+21,The Chemical Brothers,xHandle,@ChemBros,Web search + social platforms,,2026-05-12,4,verified
+21,The Chemical Brothers,xFollowers,255736,Web search + social platforms,,2026-05-12,4,verified
+21,The Chemical Brothers,facebookPage,The Chemical Brothers,Web search + social platforms,,2026-05-12,4,verified
+21,The Chemical Brothers,facebookFollowers,2348449,Web search + social platforms,,2026-05-12,4,verified
+21,The Chemical Brothers,totalSocialReach,2604185,Web search + social platforms,,2026-05-12,4,verified
+21,The Chemical Brothers,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+24,Christine Sun Kim,instagramHandle,@chrisunkim,Web search + social platforms,,2026-05-12,4,verified
+24,Christine Sun Kim,instagramFollowers,14600,Web search + social platforms,,2026-05-12,4,verified
+24,Christine Sun Kim,xHandle,@chrisunkim,Web search + social platforms,,2026-05-12,4,verified
+24,Christine Sun Kim,xFollowers,6296,Web search + social platforms,,2026-05-12,4,verified
+24,Christine Sun Kim,totalSocialReach,20896,Web search + social platforms,,2026-05-12,4,verified
+25,Cigarettes After Sex,instagramHandle,@cigsaftersex,Web search + social platforms,,2026-05-12,5,verified
+25,Cigarettes After Sex,instagramFollowers,5507344,Web search + social platforms,,2026-05-12,5,verified
+25,Cigarettes After Sex,xHandle,@CigsAfterSexx,Web search + social platforms,,2026-05-12,5,verified
+25,Cigarettes After Sex,xFollowers,625221,Web search + social platforms,,2026-05-12,5,verified
+25,Cigarettes After Sex,facebookPage,Cigarettes After Sex,Web search + social platforms,,2026-05-12,5,verified
+25,Cigarettes After Sex,facebookFollowers,1290000,Web search + social platforms,,2026-05-12,5,verified
+25,Cigarettes After Sex,totalSocialReach,7422565,Web search + social platforms,,2026-05-12,5,verified
+25,Cigarettes After Sex,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+26,Colin Benders,instagramHandle,@colinbenders,Web search + social platforms,,2026-05-12,4,verified
+26,Colin Benders,instagramFollowers,119000,Web search + social platforms,,2026-05-12,4,verified
+26,Colin Benders,xHandle,@Colin_Benders,Web search + social platforms,,2026-05-12,4,verified
+26,Colin Benders,xFollowers,7887,Web search + social platforms,,2026-05-12,4,verified
+26,Colin Benders,totalSocialReach,126887,Web search + social platforms,,2026-05-12,4,verified
+26,Colin Benders,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+27,DARKSIDE,instagramHandle,@darksidetheband,Web search + social platforms,,2026-05-12,4,verified
+27,DARKSIDE,instagramFollowers,38000,Web search + social platforms,,2026-05-12,4,verified
+27,DARKSIDE,xHandle,@DarksideUSA,Web search + social platforms,,2026-05-12,4,verified
+27,DARKSIDE,xFollowers,11000,Web search + social platforms,,2026-05-12,4,verified
+27,DARKSIDE,facebookPage,DARKSIDE,Web search + social platforms,,2026-05-12,4,verified
+27,DARKSIDE,facebookFollowers,170000,Web search + social platforms,,2026-05-12,4,verified
+27,DARKSIDE,totalSocialReach,219000,Web search + social platforms,,2026-05-12,4,verified
+27,DARKSIDE,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+28,Dave Stewart,instagramHandle,@davestewarteurythmics,Web search + social platforms,,2026-05-12,4,verified
+28,Dave Stewart,instagramFollowers,64000,Web search + social platforms,,2026-05-12,4,verified
+28,Dave Stewart,xHandle,@DaveStewart,Web search + social platforms,,2026-05-12,4,verified
+28,Dave Stewart,xFollowers,57894,Web search + social platforms,,2026-05-12,4,verified
+28,Dave Stewart,facebookPage,Dave Stewart,Web search + social platforms,,2026-05-12,4,verified
+28,Dave Stewart,totalSocialReach,121894,Web search + social platforms,,2026-05-12,4,verified
+28,Dave Stewart,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+30,deadmau5,instagramHandle,@deadmau5,Web search + social platforms,,2026-05-12,5,verified
+30,deadmau5,instagramFollowers,2966636,Web search + social platforms,,2026-05-12,5,verified
+30,deadmau5,xHandle,@deadmau5,Web search + social platforms,,2026-05-12,5,verified
+30,deadmau5,xFollowers,2763236,Web search + social platforms,,2026-05-12,5,verified
+30,deadmau5,facebookPage,deadmau5,Web search + social platforms,,2026-05-12,5,verified
+30,deadmau5,facebookFollowers,7440000,Web search + social platforms,,2026-05-12,5,verified
+30,deadmau5,totalSocialReach,13169872,Web search + social platforms,,2026-05-12,5,verified
+30,deadmau5,verifiedStatus,Verified on all platforms,Web search + social platforms,,2026-05-12,5,verified
+31,DeLaurentis,instagramHandle,delaurentis.music,Web search + social platforms,,2026-05-12,4,verified
+31,DeLaurentis,instagramFollowers,14000,Web search + social platforms,,2026-05-12,4,verified
+31,DeLaurentis,xHandle,delaurentis000,Web search + social platforms,,2026-05-12,4,verified
+31,DeLaurentis,xFollowers,627,Web search + social platforms,,2026-05-12,4,verified
+31,DeLaurentis,facebookPage,delaurentis.music,Web search + social platforms,,2026-05-12,4,verified
+31,DeLaurentis,facebookFollowers,11000,Web search + social platforms,,2026-05-12,4,verified
+31,DeLaurentis,totalSocialReach,25627,Web search + social platforms,,2026-05-12,4,verified
+31,DeLaurentis,verifiedStatus,Not verified,Web search + social platforms,,2026-05-12,4,verified
+32,Ellie Goulding,instagramHandle,elliegoulding,Web search + social platforms,,2026-05-12,5,verified
+32,Ellie Goulding,instagramFollowers,13200000,Web search + social platforms,,2026-05-12,5,verified
+32,Ellie Goulding,xHandle,elliegoulding,Web search + social platforms,,2026-05-12,5,verified
+32,Ellie Goulding,xFollowers,5364000,Web search + social platforms,,2026-05-12,5,verified
+32,Ellie Goulding,facebookPage,elliegoulding,Web search + social platforms,,2026-05-12,5,verified
+32,Ellie Goulding,facebookFollowers,13530000,Web search + social platforms,,2026-05-12,5,verified
+32,Ellie Goulding,totalSocialReach,32094000,Web search + social platforms,,2026-05-12,5,verified
+32,Ellie Goulding,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+33,Eurythmics,xHandle,Eurythmics,Web search + social platforms,,2026-05-12,4,verified
+33,Eurythmics,xFollowers,5277,Web search + social platforms,,2026-05-12,4,verified
+33,Eurythmics,facebookPage,eurythmics,Web search + social platforms,,2026-05-12,4,verified
+33,Eurythmics,facebookFollowers,1780000,Web search + social platforms,,2026-05-12,4,verified
+33,Eurythmics,totalSocialReach,1785277,Web search + social platforms,,2026-05-12,4,verified
+33,Eurythmics,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+34,Excision,instagramHandle,excision,Web search + social platforms,,2026-05-12,5,verified
+34,Excision,instagramFollowers,1025000,Web search + social platforms,,2026-05-12,5,verified
+34,Excision,xHandle,Excision,Web search + social platforms,,2026-05-12,5,verified
+34,Excision,xFollowers,426000,Web search + social platforms,,2026-05-12,5,verified
+34,Excision,facebookPage,excision,Web search + social platforms,,2026-05-12,5,verified
+34,Excision,facebookFollowers,1750000,Web search + social platforms,,2026-05-12,5,verified
+34,Excision,totalSocialReach,3201000,Web search + social platforms,,2026-05-12,5,verified
+34,Excision,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+35,Fatboy Slim,instagramHandle,fatboyslim,Web search + social platforms,,2026-05-12,4,verified
+35,Fatboy Slim,instagramFollowers,1886240,Web search + social platforms,,2026-05-12,4,verified
+35,Fatboy Slim,xHandle,FatboySlim,Web search + social platforms,,2026-05-12,4,verified
+35,Fatboy Slim,xFollowers,175000,Web search + social platforms,,2026-05-12,4,verified
+35,Fatboy Slim,facebookPage,fatboyslim,Web search + social platforms,,2026-05-12,4,verified
+35,Fatboy Slim,facebookFollowers,1550000,Web search + social platforms,,2026-05-12,4,verified
+35,Fatboy Slim,totalSocialReach,3611240,Web search + social platforms,,2026-05-12,4,verified
+35,Fatboy Slim,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+36,FKA twigs,instagramHandle,fkatwigs,Web search + social platforms,,2026-05-12,5,verified
+36,FKA twigs,instagramFollowers,2683041,Web search + social platforms,,2026-05-12,5,verified
+36,FKA twigs,xHandle,FKAtwigs,Web search + social platforms,,2026-05-12,5,verified
+36,FKA twigs,xFollowers,459000,Web search + social platforms,,2026-05-12,5,verified
+36,FKA twigs,facebookPage,FKAtwigs,Web search + social platforms,,2026-05-12,5,verified
+36,FKA twigs,facebookFollowers,460000,Web search + social platforms,,2026-05-12,5,verified
+36,FKA twigs,totalSocialReach,3602041,Web search + social platforms,,2026-05-12,5,verified
+36,FKA twigs,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+37,Floating Points,instagramHandle,floatingpoints,Web search + social platforms,,2026-05-12,5,verified
+37,Floating Points,instagramFollowers,258000,Web search + social platforms,,2026-05-12,5,verified
+37,Floating Points,xHandle,floatingpoints,Web search + social platforms,,2026-05-12,5,verified
+37,Floating Points,xFollowers,64000,Web search + social platforms,,2026-05-12,5,verified
+37,Floating Points,facebookPage,floatingpoints,Web search + social platforms,,2026-05-12,5,verified
+37,Floating Points,facebookFollowers,150000,Web search + social platforms,,2026-05-12,5,verified
+37,Floating Points,totalSocialReach,472000,Web search + social platforms,,2026-05-12,5,verified
+37,Floating Points,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+38,Flying Lotus,instagramHandle,flyinglotus,Web search + social platforms,,2026-05-12,5,verified
+38,Flying Lotus,instagramFollowers,462000,Web search + social platforms,,2026-05-12,5,verified
+38,Flying Lotus,xHandle,flyinglotus,Web search + social platforms,,2026-05-12,5,verified
+38,Flying Lotus,xFollowers,458000,Web search + social platforms,,2026-05-12,5,verified
+38,Flying Lotus,facebookPage,flyinglotus,Web search + social platforms,,2026-05-12,5,verified
+38,Flying Lotus,facebookFollowers,650000,Web search + social platforms,,2026-05-12,5,verified
+38,Flying Lotus,totalSocialReach,1570000,Web search + social platforms,,2026-05-12,5,verified
+38,Flying Lotus,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+39,Four Tet,instagramHandle,fourtetkieran,Web search + social platforms,,2026-05-12,4,verified
+39,Four Tet,instagramFollowers,607700,Web search + social platforms,,2026-05-12,4,verified
+39,Four Tet,xHandle,FourTet,Web search + social platforms,,2026-05-12,4,verified
+39,Four Tet,xFollowers,261000,Web search + social platforms,,2026-05-12,4,verified
+39,Four Tet,totalSocialReach,868700,Web search + social platforms,,2026-05-12,4,verified
+39,Four Tet,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+40,Fred Again..,instagramHandle,fredagainagainagainagainagain,Web search + social platforms,,2026-05-12,5,verified
+40,Fred Again..,instagramFollowers,4444393,Web search + social platforms,,2026-05-12,5,verified
+40,Fred Again..,xHandle,fredagainagain1,Web search + social platforms,,2026-05-12,5,verified
+40,Fred Again..,xFollowers,133000,Web search + social platforms,,2026-05-12,5,verified
+40,Fred Again..,facebookPage,fredagainagain,Web search + social platforms,,2026-05-12,5,verified
+40,Fred Again..,facebookFollowers,190000,Web search + social platforms,,2026-05-12,5,verified
+40,Fred Again..,totalSocialReach,4767393,Web search + social platforms,,2026-05-12,5,verified
+40,Fred Again..,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+41,Future,instagramHandle,@future,Web search + social platforms,,2026-05-12,5,verified
+41,Future,instagramFollowers,25370000,Web search + social platforms,,2026-05-12,5,verified
+41,Future,xHandle,@1future,Web search + social platforms,,2026-05-12,5,verified
+41,Future,xFollowers,7816000,Web search + social platforms,,2026-05-12,5,verified
+41,Future,facebookPage,FutureFreebandz,Web search + social platforms,,2026-05-12,5,verified
+41,Future,totalSocialReach,33186000,Web search + social platforms,,2026-05-12,5,verified
+41,Future,verifiedStatus,verified on X,Web search + social platforms,,2026-05-12,5,verified
+42,Gold Panda,xHandle,@goldpanda,Web search + social platforms,,2026-05-12,3,partial
+42,Gold Panda,xFollowers,51,Web search + social platforms,,2026-05-12,3,partial
+42,Gold Panda,facebookPage,goldpandamusic,Web search + social platforms,,2026-05-12,3,partial
+42,Gold Panda,totalSocialReach,51,Web search + social platforms,,2026-05-12,3,partial
+43,Gorillaz,instagramHandle,@gorillaz,Web search + social platforms,,2026-05-12,5,verified
+43,Gorillaz,instagramFollowers,7530000,Web search + social platforms,,2026-05-12,5,verified
+43,Gorillaz,xHandle,@gorillaz,Web search + social platforms,,2026-05-12,5,verified
+43,Gorillaz,xFollowers,972127,Web search + social platforms,,2026-05-12,5,verified
+43,Gorillaz,facebookPage,Gorillaz,Web search + social platforms,,2026-05-12,5,verified
+43,Gorillaz,facebookFollowers,10240000,Web search + social platforms,,2026-05-12,5,verified
+43,Gorillaz,totalSocialReach,18742127,Web search + social platforms,,2026-05-12,5,verified
+43,Gorillaz,verifiedStatus,verified on all platforms,Web search + social platforms,,2026-05-12,5,verified
+44,Grandbrothers,instagramHandle,@grandbrothersmusic,Web search + social platforms,,2026-05-12,3,partial
+44,Grandbrothers,xHandle,@grandbrothers_,Web search + social platforms,,2026-05-12,3,partial
+44,Grandbrothers,xFollowers,1046,Web search + social platforms,,2026-05-12,3,partial
+44,Grandbrothers,facebookPage,grandbrothersmusic,Web search + social platforms,,2026-05-12,3,partial
+44,Grandbrothers,totalSocialReach,1046,Web search + social platforms,,2026-05-12,3,partial
+45,Grimes,instagramHandle,@grimes,Web search + social platforms,,2026-05-12,4,verified
+45,Grimes,xHandle,@Grimezsz,Web search + social platforms,,2026-05-12,4,verified
+45,Grimes,xFollowers,1363000,Web search + social platforms,,2026-05-12,4,verified
+45,Grimes,facebookPage,grimes,Web search + social platforms,,2026-05-12,4,verified
+45,Grimes,totalSocialReach,1363000,Web search + social platforms,,2026-05-12,4,verified
+45,Grimes,verifiedStatus,verified on X,Web search + social platforms,,2026-05-12,4,verified
+46,Halina Rice,xHandle,@Halinar,Web search + social platforms,,2026-05-12,3,partial
+46,Halina Rice,xFollowers,992,Web search + social platforms,,2026-05-12,3,partial
+46,Halina Rice,facebookPage,halina.rice,Web search + social platforms,,2026-05-12,3,partial
+46,Halina Rice,facebookFollowers,4060,Web search + social platforms,,2026-05-12,3,partial
+46,Halina Rice,totalSocialReach,5052,Web search + social platforms,,2026-05-12,3,partial
+47,Halsey,instagramHandle,@iamhalsey,Web search + social platforms,,2026-05-12,5,verified
+47,Halsey,xHandle,@halsey,Web search + social platforms,,2026-05-12,5,verified
+47,Halsey,xFollowers,12998012,Web search + social platforms,,2026-05-12,5,verified
+47,Halsey,facebookPage,halsey,Web search + social platforms,,2026-05-12,5,verified
+47,Halsey,facebookFollowers,7960000,Web search + social platforms,,2026-05-12,5,verified
+47,Halsey,totalSocialReach,20958012,Web search + social platforms,,2026-05-12,5,verified
+47,Halsey,verifiedStatus,verified on X,Web search + social platforms,,2026-05-12,5,verified
+48,Hania Rani,instagramHandle,@haniarani,Web search + social platforms,,2026-05-12,4,verified
+48,Hania Rani,xHandle,@haniaranimusic,Web search + social platforms,,2026-05-12,4,verified
+48,Hania Rani,xFollowers,7509,Web search + social platforms,,2026-05-12,4,verified
+48,Hania Rani,facebookPage,haniaranimusic,Web search + social platforms,,2026-05-12,4,verified
+48,Hania Rani,facebookFollowers,88000,Web search + social platforms,,2026-05-12,4,verified
+48,Hania Rani,totalSocialReach,95509,Web search + social platforms,,2026-05-12,4,verified
+50,Holly Herndon,instagramHandle,@holly_herndon,Web search + social platforms,,2026-05-12,5,verified
+50,Holly Herndon,instagramFollowers,51000,Web search + social platforms,,2026-05-12,5,verified
+50,Holly Herndon,xHandle,@hollyherndon,Web search + social platforms,,2026-05-12,5,verified
+50,Holly Herndon,xFollowers,40311,Web search + social platforms,,2026-05-12,5,verified
+50,Holly Herndon,facebookPage,hollyherndonmusic,Web search + social platforms,,2026-05-12,5,verified
+50,Holly Herndon,totalSocialReach,91311,Web search + social platforms,,2026-05-12,5,verified
+50,Holly Herndon,verifiedStatus,verified on X,Web search + social platforms,,2026-05-12,5,verified
+52,Igor Levit,instagramHandle,@igorpianist,Web search + social platforms,,2026-05-12,4,verified
+52,Igor Levit,instagramFollowers,116000,Web search + social platforms,,2026-05-12,4,verified
+52,Igor Levit,xHandle,@igorpianist,Web search + social platforms,,2026-05-12,4,verified
+52,Igor Levit,xFollowers,15000,Web search + social platforms,,2026-05-12,4,verified
+52,Igor Levit,totalSocialReach,131000,Web search + social platforms,,2026-05-12,4,verified
+52,Igor Levit,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+53,James Blake,instagramHandle,@jamesblake,Web search + social platforms,,2026-05-12,5,verified
+53,James Blake,instagramFollowers,827000,Web search + social platforms,,2026-05-12,5,verified
+53,James Blake,xHandle,@jamesblake,Web search + social platforms,,2026-05-12,5,verified
+53,James Blake,xFollowers,305000,Web search + social platforms,,2026-05-12,5,verified
+53,James Blake,facebookPage,jamesblakemusic,Web search + social platforms,,2026-05-12,5,verified
+53,James Blake,facebookFollowers,750000,Web search + social platforms,,2026-05-12,5,verified
+53,James Blake,totalSocialReach,1882000,Web search + social platforms,,2026-05-12,5,verified
+53,James Blake,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+54,Jamie xx,instagramHandle,@jamie___xx,Web search + social platforms,,2026-05-12,5,verified
+54,Jamie xx,instagramFollowers,525000,Web search + social platforms,,2026-05-12,5,verified
+54,Jamie xx,xHandle,@jamie___xx,Web search + social platforms,,2026-05-12,5,verified
+54,Jamie xx,xFollowers,12000,Web search + social platforms,,2026-05-12,5,verified
+54,Jamie xx,facebookPage,jamiexxofficial,Web search + social platforms,,2026-05-12,5,verified
+54,Jamie xx,facebookFollowers,370000,Web search + social platforms,,2026-05-12,5,verified
+54,Jamie xx,totalSocialReach,907000,Web search + social platforms,,2026-05-12,5,verified
+54,Jamie xx,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+55,Janelle Monáe,instagramHandle,@janellemonae,Web search + social platforms,,2026-05-12,5,verified
+55,Janelle Monáe,instagramFollowers,5300000,Web search + social platforms,,2026-05-12,5,verified
+55,Janelle Monáe,xHandle,@JanelleMonae,Web search + social platforms,,2026-05-12,5,verified
+55,Janelle Monáe,xFollowers,1250000,Web search + social platforms,,2026-05-12,5,verified
+55,Janelle Monáe,facebookPage,janellemonae,Web search + social platforms,,2026-05-12,5,verified
+55,Janelle Monáe,facebookFollowers,1580000,Web search + social platforms,,2026-05-12,5,verified
+55,Janelle Monáe,totalSocialReach,8130000,Web search + social platforms,,2026-05-12,5,verified
+55,Janelle Monáe,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+56,Jennifer Walshe,xHandle,@JenniferWalshe,Web search + social platforms,,2026-05-12,3,partial
+56,Jennifer Walshe,xFollowers,3700,Web search + social platforms,,2026-05-12,3,partial
+56,Jennifer Walshe,totalSocialReach,3700,Web search + social platforms,,2026-05-12,3,partial
+57,Jon Hopkins,instagramHandle,@mrjonhopkins,Web search + social platforms,,2026-05-12,4,verified
+57,Jon Hopkins,instagramFollowers,154000,Web search + social platforms,,2026-05-12,4,verified
+57,Jon Hopkins,xHandle,@jonhopkins,Web search + social platforms,,2026-05-12,4,verified
+57,Jon Hopkins,xFollowers,29,Web search + social platforms,,2026-05-12,4,verified
+57,Jon Hopkins,facebookPage,jonhopkinsmusic,Web search + social platforms,,2026-05-12,4,verified
+57,Jon Hopkins,facebookFollowers,220000,Web search + social platforms,,2026-05-12,4,verified
+57,Jon Hopkins,totalSocialReach,374000,Web search + social platforms,,2026-05-12,4,verified
+57,Jon Hopkins,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+58,Jorja Smith,instagramHandle,@jorjasmith,Web search + social platforms,,2026-05-12,5,verified
+58,Jorja Smith,instagramFollowers,23100000,Web search + social platforms,,2026-05-12,5,verified
+58,Jorja Smith,xHandle,@JorjaSmith,Web search + social platforms,,2026-05-12,5,verified
+58,Jorja Smith,xFollowers,406000,Web search + social platforms,,2026-05-12,5,verified
+58,Jorja Smith,facebookPage,jorjasmithmusic,Web search + social platforms,,2026-05-12,5,verified
+58,Jorja Smith,facebookFollowers,640000,Web search + social platforms,,2026-05-12,5,verified
+58,Jorja Smith,totalSocialReach,24146000,Web search + social platforms,,2026-05-12,5,verified
+58,Jorja Smith,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+59,Justin Gray,instagramHandle,@iamjustingray,Web search + social platforms,,2026-05-12,3,partial
+59,Justin Gray,instagramFollowers,5300,Web search + social platforms,,2026-05-12,3,partial
+59,Justin Gray,totalSocialReach,5300,Web search + social platforms,,2026-05-12,3,partial
+60,Kaitlyn Aurelia Smith,instagramHandle,@kaitlynaurelia,Web search + social platforms,,2026-05-12,4,verified
+60,Kaitlyn Aurelia Smith,instagramFollowers,32000,Web search + social platforms,,2026-05-12,4,verified
+60,Kaitlyn Aurelia Smith,xHandle,@kaitlynaurelia,Web search + social platforms,,2026-05-12,4,verified
+60,Kaitlyn Aurelia Smith,xFollowers,7000,Web search + social platforms,,2026-05-12,4,verified
+60,Kaitlyn Aurelia Smith,facebookPage,kaitlynaurelia,Web search + social platforms,,2026-05-12,4,verified
+60,Kaitlyn Aurelia Smith,facebookFollowers,21000,Web search + social platforms,,2026-05-12,4,verified
+60,Kaitlyn Aurelia Smith,totalSocialReach,60000,Web search + social platforms,,2026-05-12,4,verified
+62,Kelela,instagramHandle,@kelela,Web search + social platforms,,2026-05-12,5,verified
+62,Kelela,instagramFollowers,311000,Web search + social platforms,,2026-05-12,5,verified
+62,Kelela,xHandle,@kelelam,Web search + social platforms,,2026-05-12,5,verified
+62,Kelela,xFollowers,185700,Web search + social platforms,,2026-05-12,5,verified
+62,Kelela,totalSocialReach,496700,Web search + social platforms,,2026-05-12,5,verified
+62,Kelela,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+63,Kelly Lee Owens,instagramHandle,@kellyleeowens,Web search + social platforms,,2026-05-12,5,verified
+63,Kelly Lee Owens,instagramFollowers,126000,Web search + social platforms,,2026-05-12,5,verified
+63,Kelly Lee Owens,xHandle,@kellyleeowens,Web search + social platforms,,2026-05-12,5,verified
+63,Kelly Lee Owens,xFollowers,14700,Web search + social platforms,,2026-05-12,5,verified
+63,Kelly Lee Owens,totalSocialReach,140700,Web search + social platforms,,2026-05-12,5,verified
+63,Kelly Lee Owens,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+65,Kiasmos,instagramHandle,@kiasmos_,Web search + social platforms,,2026-05-12,4,verified
+65,Kiasmos,instagramFollowers,50000,Web search + social platforms,,2026-05-12,4,verified
+65,Kiasmos,xHandle,@kiasmos_,Web search + social platforms,,2026-05-12,4,verified
+65,Kiasmos,xFollowers,6800,Web search + social platforms,,2026-05-12,4,verified
+65,Kiasmos,facebookPage,kiasmos,Web search + social platforms,,2026-05-12,4,verified
+65,Kiasmos,facebookFollowers,91000,Web search + social platforms,,2026-05-12,4,verified
+65,Kiasmos,totalSocialReach,147800,Web search + social platforms,,2026-05-12,4,verified
+66,Kraftwerk,instagramHandle,@kraftwerkofficial,Web search + social platforms,,2026-05-12,5,verified
+66,Kraftwerk,instagramFollowers,388000,Web search + social platforms,,2026-05-12,5,verified
+66,Kraftwerk,xHandle,@kraftwerk,Web search + social platforms,,2026-05-12,5,verified
+66,Kraftwerk,xFollowers,70900,Web search + social platforms,,2026-05-12,5,verified
+66,Kraftwerk,facebookPage,kraftwerk,Web search + social platforms,,2026-05-12,5,verified
+66,Kraftwerk,facebookFollowers,950000,Web search + social platforms,,2026-05-12,5,verified
+66,Kraftwerk,totalSocialReach,1408900,Web search + social platforms,,2026-05-12,5,verified
+66,Kraftwerk,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+68,Lana Del Rey,instagramHandle,@honeymoon,Web search + social platforms,,2026-05-12,5,verified
+68,Lana Del Rey,instagramFollowers,24000000,Web search + social platforms,,2026-05-12,5,verified
+68,Lana Del Rey,facebookPage,LanaDelRey,Web search + social platforms,,2026-05-12,5,verified
+68,Lana Del Rey,facebookFollowers,14900000,Web search + social platforms,,2026-05-12,5,verified
+68,Lana Del Rey,totalSocialReach,38900000,Web search + social platforms,,2026-05-12,5,verified
+68,Lana Del Rey,verifiedStatus,Verified on Instagram,Web search + social platforms,,2026-05-12,5,verified
+69,Madame Gandhi,instagramHandle,@madamegandhi,Web search + social platforms,,2026-05-12,4,verified
+69,Madame Gandhi,instagramFollowers,102000,Web search + social platforms,,2026-05-12,4,verified
+69,Madame Gandhi,xHandle,@MadameGandhi,Web search + social platforms,,2026-05-12,4,verified
+69,Madame Gandhi,xFollowers,7300,Web search + social platforms,,2026-05-12,4,verified
+69,Madame Gandhi,facebookPage,MadameGandhi,Web search + social platforms,,2026-05-12,4,verified
+69,Madame Gandhi,totalSocialReach,109300,Web search + social platforms,,2026-05-12,4,verified
+69,Madame Gandhi,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+72,Mat Dryhurst,instagramHandle,@matdryhurst,Web search + social platforms,,2026-05-12,5,verified
+72,Mat Dryhurst,instagramFollowers,14000,Web search + social platforms,,2026-05-12,5,verified
+72,Mat Dryhurst,xHandle,@matdryhurst,Web search + social platforms,,2026-05-12,5,verified
+72,Mat Dryhurst,xFollowers,23700,Web search + social platforms,,2026-05-12,5,verified
+72,Mat Dryhurst,totalSocialReach,37700,Web search + social platforms,,2026-05-12,5,verified
+72,Mat Dryhurst,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+75,Mike Oldfield,xHandle,@TheMikeOldfield,Web search + social platforms,,2026-05-12,3,partial
+75,Mike Oldfield,xFollowers,4200,Web search + social platforms,,2026-05-12,3,partial
+75,Mike Oldfield,facebookPage,MikeOldfield,Web search + social platforms,,2026-05-12,3,partial
+75,Mike Oldfield,facebookFollowers,110000,Web search + social platforms,,2026-05-12,3,partial
+75,Mike Oldfield,totalSocialReach,114200,Web search + social platforms,,2026-05-12,3,partial
+76,Miley Cyrus,instagramHandle,@mileycyrus,Web search + social platforms,,2026-05-12,5,verified
+76,Miley Cyrus,instagramFollowers,210900000,Web search + social platforms,,2026-05-12,5,verified
+76,Miley Cyrus,xHandle,@MileyCyrus,Web search + social platforms,,2026-05-12,5,verified
+76,Miley Cyrus,xFollowers,41400000,Web search + social platforms,,2026-05-12,5,verified
+76,Miley Cyrus,facebookPage,MileyCyrus,Web search + social platforms,,2026-05-12,5,verified
+76,Miley Cyrus,facebookFollowers,47600000,Web search + social platforms,,2026-05-12,5,verified
+76,Miley Cyrus,totalSocialReach,299900000,Web search + social platforms,,2026-05-12,5,verified
+76,Miley Cyrus,verifiedStatus,Verified on all platforms,Web search + social platforms,,2026-05-12,5,verified
+77,Moby,instagramHandle,@moby,Web search + social platforms,,2026-05-12,5,verified
+77,Moby,instagramFollowers,1468000,Web search + social platforms,,2026-05-12,5,verified
+77,Moby,xHandle,@thelittleidiot,Web search + social platforms,,2026-05-12,5,verified
+77,Moby,xFollowers,1039000,Web search + social platforms,,2026-05-12,5,verified
+77,Moby,facebookPage,mobymusic,Web search + social platforms,,2026-05-12,5,verified
+77,Moby,facebookFollowers,2780000,Web search + social platforms,,2026-05-12,5,verified
+77,Moby,totalSocialReach,5287000,Web search + social platforms,,2026-05-12,5,verified
+77,Moby,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+78,Moderat,instagramHandle,@moderatmusic,Web search + social platforms,,2026-05-12,4,verified
+78,Moderat,instagramFollowers,152000,Web search + social platforms,,2026-05-12,4,verified
+78,Moderat,xHandle,@ModeratOfficial,Web search + social platforms,,2026-05-12,4,verified
+78,Moderat,xFollowers,34000,Web search + social platforms,,2026-05-12,4,verified
+78,Moderat,totalSocialReach,186000,Web search + social platforms,,2026-05-12,4,verified
+80,Naomi Jon,instagramHandle,@naomijon,Web search + social platforms,,2026-05-12,4,verified
+80,Naomi Jon,instagramFollowers,1099000,Web search + social platforms,,2026-05-12,4,verified
+80,Naomi Jon,xHandle,@TheNaomiJon,Web search + social platforms,,2026-05-12,4,verified
+80,Naomi Jon,xFollowers,63000,Web search + social platforms,,2026-05-12,4,verified
+80,Naomi Jon,totalSocialReach,1162000,Web search + social platforms,,2026-05-12,4,verified
+81,Nicolas Jaar,instagramHandle,@nicolasjaar,Web search + social platforms,,2026-05-12,4,verified
+81,Nicolas Jaar,instagramFollowers,65700,Web search + social platforms,,2026-05-12,4,verified
+81,Nicolas Jaar,xHandle,@nicolas___jaar,Web search + social platforms,,2026-05-12,4,verified
+81,Nicolas Jaar,xFollowers,47000,Web search + social platforms,,2026-05-12,4,verified
+81,Nicolas Jaar,totalSocialReach,112700,Web search + social platforms,,2026-05-12,4,verified
+82,Nils Frahm,instagramHandle,@nils_frahm,Web search + social platforms,,2026-05-12,3,partial
+82,Nils Frahm,xHandle,@NilsFrahm,Web search + social platforms,,2026-05-12,3,partial
+82,Nils Frahm,xFollowers,80,Web search + social platforms,,2026-05-12,3,partial
+82,Nils Frahm,totalSocialReach,80,Web search + social platforms,,2026-05-12,3,partial
+83,Nine Inch Nails,instagramHandle,@nineinchnails,Web search + social platforms,,2026-05-12,4,verified
+83,Nine Inch Nails,xHandle,@nineinchnails,Web search + social platforms,,2026-05-12,4,verified
+83,Nine Inch Nails,xFollowers,407000,Web search + social platforms,,2026-05-12,4,verified
+83,Nine Inch Nails,facebookPage,nineinchnails,Web search + social platforms,,2026-05-12,4,verified
+83,Nine Inch Nails,totalSocialReach,407000,Web search + social platforms,,2026-05-12,4,verified
+83,Nine Inch Nails,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+84,Nitin Sawhney,instagramHandle,@nitinsawhney,Web search + social platforms,,2026-05-12,4,verified
+84,Nitin Sawhney,instagramFollowers,5600,Web search + social platforms,,2026-05-12,4,verified
+84,Nitin Sawhney,xHandle,@thenitinsawhney,Web search + social platforms,,2026-05-12,4,verified
+84,Nitin Sawhney,xFollowers,50000,Web search + social platforms,,2026-05-12,4,verified
+84,Nitin Sawhney,facebookPage,NitinSawhney,Web search + social platforms,,2026-05-12,4,verified
+84,Nitin Sawhney,facebookFollowers,45000,Web search + social platforms,,2026-05-12,4,verified
+84,Nitin Sawhney,totalSocialReach,100600,Web search + social platforms,,2026-05-12,4,verified
+85,Photay,instagramHandle,@photay,Web search + social platforms,,2026-05-12,4,verified
+85,Photay,instagramFollowers,7000,Web search + social platforms,,2026-05-12,4,verified
+85,Photay,xHandle,@photayy,Web search + social platforms,,2026-05-12,4,verified
+85,Photay,xFollowers,2834,Web search + social platforms,,2026-05-12,4,verified
+85,Photay,totalSocialReach,9834,Web search + social platforms,,2026-05-12,4,verified
+86,Pink Floyd,instagramHandle,@pinkfloyd,Web search + social platforms,,2026-05-12,5,verified
+86,Pink Floyd,instagramFollowers,5076552,Web search + social platforms,,2026-05-12,5,verified
+86,Pink Floyd,xHandle,@pinkfloyd,Web search + social platforms,,2026-05-12,5,verified
+86,Pink Floyd,xFollowers,3220000,Web search + social platforms,,2026-05-12,5,verified
+86,Pink Floyd,facebookPage,pinkfloyd,Web search + social platforms,,2026-05-12,5,verified
+86,Pink Floyd,facebookFollowers,26500000,Web search + social platforms,,2026-05-12,5,verified
+86,Pink Floyd,totalSocialReach,34796552,Web search + social platforms,,2026-05-12,5,verified
+86,Pink Floyd,verifiedStatus,Verified on all platforms,Web search + social platforms,,2026-05-12,5,verified
+87,Portishead,instagramHandle,@portisheadofficial,Web search + social platforms,,2026-05-12,5,verified
+87,Portishead,instagramFollowers,242000,Web search + social platforms,,2026-05-12,5,verified
+87,Portishead,xHandle,@Portisheadinfo,Web search + social platforms,,2026-05-12,5,verified
+87,Portishead,xFollowers,63000,Web search + social platforms,,2026-05-12,5,verified
+87,Portishead,facebookPage,portishead,Web search + social platforms,,2026-05-12,5,verified
+87,Portishead,facebookFollowers,930000,Web search + social platforms,,2026-05-12,5,verified
+87,Portishead,totalSocialReach,1235000,Web search + social platforms,,2026-05-12,5,verified
+87,Portishead,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+88,Radiohead,instagramHandle,@radiohead,Web search + social platforms,,2026-05-12,5,verified
+88,Radiohead,instagramFollowers,4661000,Web search + social platforms,,2026-05-12,5,verified
+88,Radiohead,xHandle,@radiohead,Web search + social platforms,,2026-05-12,5,verified
+88,Radiohead,xFollowers,1803437,Web search + social platforms,,2026-05-12,5,verified
+88,Radiohead,facebookPage,radiohead,Web search + social platforms,,2026-05-12,5,verified
+88,Radiohead,facebookFollowers,11050000,Web search + social platforms,,2026-05-12,5,verified
+88,Radiohead,totalSocialReach,17514437,Web search + social platforms,,2026-05-12,5,verified
+88,Radiohead,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+89,RAYE,instagramHandle,@raye,Web search + social platforms,,2026-05-12,5,verified
+89,RAYE,instagramFollowers,4914021,Web search + social platforms,,2026-05-12,5,verified
+89,RAYE,xHandle,@raye,Web search + social platforms,,2026-05-12,5,verified
+89,RAYE,xFollowers,208000,Web search + social platforms,,2026-05-12,5,verified
+89,RAYE,facebookPage,raye,Web search + social platforms,,2026-05-12,5,verified
+89,RAYE,facebookFollowers,450000,Web search + social platforms,,2026-05-12,5,verified
+89,RAYE,totalSocialReach,5572021,Web search + social platforms,,2026-05-12,5,verified
+89,RAYE,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+90,Rival Consoles,instagramHandle,@rivalconsoles,Web search + social platforms,,2026-05-12,4,verified
+90,Rival Consoles,instagramFollowers,43000,Web search + social platforms,,2026-05-12,4,verified
+90,Rival Consoles,xHandle,@rivalconsoles,Web search + social platforms,,2026-05-12,4,verified
+90,Rival Consoles,xFollowers,8517,Web search + social platforms,,2026-05-12,4,verified
+90,Rival Consoles,totalSocialReach,51517,Web search + social platforms,,2026-05-12,4,verified
+91,Robyn,instagramHandle,@robynkonichiwa,Web search + social platforms,,2026-05-12,4,verified
+91,Robyn,instagramFollowers,522000,Web search + social platforms,,2026-05-12,4,verified
+91,Robyn,xHandle,@robynkonichiwa,Web search + social platforms,,2026-05-12,4,verified
+91,Robyn,xFollowers,296000,Web search + social platforms,,2026-05-12,4,verified
+91,Robyn,facebookPage,robynkonichiwa,Web search + social platforms,,2026-05-12,4,verified
+91,Robyn,totalSocialReach,818000,Web search + social platforms,,2026-05-12,4,verified
+92,Romy,instagramHandle,@romyromyromy,Web search + social platforms,,2026-05-12,4,verified
+92,Romy,instagramFollowers,301000,Web search + social platforms,,2026-05-12,4,verified
+92,Romy,xHandle,@romyromyromy,Web search + social platforms,,2026-05-12,4,verified
+92,Romy,xFollowers,5519,Web search + social platforms,,2026-05-12,4,verified
+92,Romy,facebookPage,romyromyromyofficial,Web search + social platforms,,2026-05-12,4,verified
+92,Romy,facebookFollowers,4783,Web search + social platforms,,2026-05-12,4,verified
+92,Romy,totalSocialReach,311302,Web search + social platforms,,2026-05-12,4,verified
+93,Ryoji Ikeda,instagramHandle,@ryojiikeda,Web search + social platforms,,2026-05-12,4,verified
+93,Ryoji Ikeda,instagramFollowers,40,Web search + social platforms,,2026-05-12,4,verified
+93,Ryoji Ikeda,xHandle,@ryojiikeda,Web search + social platforms,,2026-05-12,4,verified
+93,Ryoji Ikeda,xFollowers,23000,Web search + social platforms,,2026-05-12,4,verified
+93,Ryoji Ikeda,totalSocialReach,23040,Web search + social platforms,,2026-05-12,4,verified
+93,Ryoji Ikeda,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+94,Sampha,instagramHandle,@sampha,Web search + social platforms,,2026-05-12,4,verified
+94,Sampha,instagramFollowers,459000,Web search + social platforms,,2026-05-12,4,verified
+94,Sampha,xHandle,@sampha,Web search + social platforms,,2026-05-12,4,verified
+94,Sampha,xFollowers,83000,Web search + social platforms,,2026-05-12,4,verified
+94,Sampha,totalSocialReach,542000,Web search + social platforms,,2026-05-12,4,verified
+94,Sampha,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+96,Skrillex,instagramHandle,@skrillex,Web search + social platforms,,2026-05-12,5,verified
+96,Skrillex,instagramFollowers,12090000,Web search + social platforms,,2026-05-12,5,verified
+96,Skrillex,xHandle,@Skrillex,Web search + social platforms,,2026-05-12,5,verified
+96,Skrillex,xFollowers,4913312,Web search + social platforms,,2026-05-12,5,verified
+96,Skrillex,facebookPage,skrillex,Web search + social platforms,,2026-05-12,5,verified
+96,Skrillex,facebookFollowers,17800000,Web search + social platforms,,2026-05-12,5,verified
+96,Skrillex,totalSocialReach,34803312,Web search + social platforms,,2026-05-12,5,verified
+96,Skrillex,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+97,Sofia Kourtesis,instagramHandle,@sofiakourtesis,Web search + social platforms,,2026-05-12,4,verified
+97,Sofia Kourtesis,instagramFollowers,63000,Web search + social platforms,,2026-05-12,4,verified
+97,Sofia Kourtesis,xHandle,@SofiaKourtesis,Web search + social platforms,,2026-05-12,4,verified
+97,Sofia Kourtesis,xFollowers,3161,Web search + social platforms,,2026-05-12,4,verified
+97,Sofia Kourtesis,facebookPage,sofia.kourtesis,Web search + social platforms,,2026-05-12,4,verified
+97,Sofia Kourtesis,facebookFollowers,2400,Web search + social platforms,,2026-05-12,4,verified
+97,Sofia Kourtesis,totalSocialReach,68561,Web search + social platforms,,2026-05-12,4,verified
+98,Steve Miller Band,instagramHandle,@stevemillerband,Web search + social platforms,,2026-05-12,5,verified
+98,Steve Miller Band,instagramFollowers,92000,Web search + social platforms,,2026-05-12,5,verified
+98,Steve Miller Band,xHandle,@SMBofficial,Web search + social platforms,,2026-05-12,5,verified
+98,Steve Miller Band,xFollowers,78324,Web search + social platforms,,2026-05-12,5,verified
+98,Steve Miller Band,facebookPage,stevemillerband,Web search + social platforms,,2026-05-12,5,verified
+98,Steve Miller Band,facebookFollowers,1520000,Web search + social platforms,,2026-05-12,5,verified
+98,Steve Miller Band,totalSocialReach,1690324,Web search + social platforms,,2026-05-12,5,verified
+98,Steve Miller Band,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+99,Steve Reich,instagramHandle,@stevereichmusic,Web search + social platforms,,2026-05-12,4,verified
+99,Steve Reich,instagramFollowers,5315,Web search + social platforms,,2026-05-12,4,verified
+99,Steve Reich,xHandle,@SteveReich,Web search + social platforms,,2026-05-12,4,verified
+99,Steve Reich,xFollowers,38132,Web search + social platforms,,2026-05-12,4,verified
+99,Steve Reich,facebookPage,SteveReichComposer,Web search + social platforms,,2026-05-12,4,verified
+99,Steve Reich,facebookFollowers,43300,Web search + social platforms,,2026-05-12,4,verified
+99,Steve Reich,totalSocialReach,86747,Web search + social platforms,,2026-05-12,4,verified
+99,Steve Reich,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+100,Steven Wilson,instagramHandle,@stevenwilsonhq,Web search + social platforms,,2026-05-12,5,verified
+100,Steven Wilson,instagramFollowers,285000,Web search + social platforms,,2026-05-12,5,verified
+100,Steven Wilson,xHandle,@StevenWilsonHQ,Web search + social platforms,,2026-05-12,5,verified
+100,Steven Wilson,xFollowers,97959,Web search + social platforms,,2026-05-12,5,verified
+100,Steven Wilson,facebookPage,stevenwilsonhq,Web search + social platforms,,2026-05-12,5,verified
+100,Steven Wilson,facebookFollowers,430000,Web search + social platforms,,2026-05-12,5,verified
+100,Steven Wilson,totalSocialReach,812959,Web search + social platforms,,2026-05-12,5,verified
+100,Steven Wilson,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+101,Stevie Nicks,instagramHandle,@stevienicks,Web search + social platforms,,2026-05-12,5,verified
+101,Stevie Nicks,instagramFollowers,2657000,Web search + social platforms,,2026-05-12,5,verified
+101,Stevie Nicks,xHandle,@StevieNicks,Web search + social platforms,,2026-05-12,5,verified
+101,Stevie Nicks,xFollowers,427000,Web search + social platforms,,2026-05-12,5,verified
+101,Stevie Nicks,facebookPage,stevienicks,Web search + social platforms,,2026-05-12,5,verified
+101,Stevie Nicks,facebookFollowers,3580000,Web search + social platforms,,2026-05-12,5,verified
+101,Stevie Nicks,totalSocialReach,6664000,Web search + social platforms,,2026-05-12,5,verified
+101,Stevie Nicks,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+102,Suzanne Ciani,instagramHandle,@sevwave,Web search + social platforms,,2026-05-12,4,verified
+102,Suzanne Ciani,instagramFollowers,59000,Web search + social platforms,,2026-05-12,4,verified
+102,Suzanne Ciani,xHandle,@sevwave,Web search + social platforms,,2026-05-12,4,verified
+102,Suzanne Ciani,xFollowers,7858,Web search + social platforms,,2026-05-12,4,verified
+102,Suzanne Ciani,facebookPage,SuzanneCiani,Web search + social platforms,,2026-05-12,4,verified
+102,Suzanne Ciani,facebookFollowers,3300,Web search + social platforms,,2026-05-12,4,verified
+102,Suzanne Ciani,totalSocialReach,70158,Web search + social platforms,,2026-05-12,4,verified
+103,SZA,instagramHandle,@sza,Web search + social platforms,,2026-05-12,5,verified
+103,SZA,instagramFollowers,23200000,Web search + social platforms,,2026-05-12,5,verified
+103,SZA,xHandle,@sza,Web search + social platforms,,2026-05-12,5,verified
+103,SZA,xFollowers,9075000,Web search + social platforms,,2026-05-12,5,verified
+103,SZA,facebookPage,sza,Web search + social platforms,,2026-05-12,5,verified
+103,SZA,facebookFollowers,3230000,Web search + social platforms,,2026-05-12,5,verified
+103,SZA,totalSocialReach,35505000,Web search + social platforms,,2026-05-12,5,verified
+103,SZA,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+104,Talking Heads,instagramHandle,@talkingheadsofficial,Web search + social platforms,,2026-05-12,4,verified
+104,Talking Heads,instagramFollowers,259000,Web search + social platforms,,2026-05-12,4,verified
+104,Talking Heads,facebookPage,TalkingHeadsofficial,Web search + social platforms,,2026-05-12,4,verified
+104,Talking Heads,facebookFollowers,840000,Web search + social platforms,,2026-05-12,4,verified
+104,Talking Heads,totalSocialReach,1099000,Web search + social platforms,,2026-05-12,4,verified
+105,Tarik Barri,instagramHandle,@tarik_barri,Web search + social platforms,,2026-05-12,3,partial
+105,Tarik Barri,instagramFollowers,9557,Web search + social platforms,,2026-05-12,3,partial
+105,Tarik Barri,xHandle,@tarikbarri,Web search + social platforms,,2026-05-12,3,partial
+105,Tarik Barri,totalSocialReach,9557,Web search + social platforms,,2026-05-12,3,partial
+106,Tash Sultana,instagramHandle,@tashsultanaofficial,Web search + social platforms,,2026-05-12,5,verified
+106,Tash Sultana,instagramFollowers,1272000,Web search + social platforms,,2026-05-12,5,verified
+106,Tash Sultana,xHandle,@TASHSULTANAA,Web search + social platforms,,2026-05-12,5,verified
+106,Tash Sultana,xFollowers,53000,Web search + social platforms,,2026-05-12,5,verified
+106,Tash Sultana,facebookPage,tashsultanamusic,Web search + social platforms,,2026-05-12,5,verified
+106,Tash Sultana,facebookFollowers,1350000,Web search + social platforms,,2026-05-12,5,verified
+106,Tash Sultana,totalSocialReach,2675000,Web search + social platforms,,2026-05-12,5,verified
+106,Tash Sultana,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+107,Taylor Swift,instagramHandle,@taylorswift,Web search + social platforms,,2026-05-12,5,verified
+107,Taylor Swift,instagramFollowers,274100000,Web search + social platforms,,2026-05-12,5,verified
+107,Taylor Swift,xHandle,@taylorswift13,Web search + social platforms,,2026-05-12,5,verified
+107,Taylor Swift,xFollowers,79800000,Web search + social platforms,,2026-05-12,5,verified
+107,Taylor Swift,facebookPage,TaylorSwift,Web search + social platforms,,2026-05-12,5,verified
+107,Taylor Swift,facebookFollowers,79000000,Web search + social platforms,,2026-05-12,5,verified
+107,Taylor Swift,totalSocialReach,432900000,Web search + social platforms,,2026-05-12,5,verified
+107,Taylor Swift,verifiedStatus,Verified on all platforms,Web search + social platforms,,2026-05-12,5,verified
+108,Thom Yorke,instagramHandle,@thomyorke,Web search + social platforms,,2026-05-12,4,verified
+108,Thom Yorke,instagramFollowers,543800,Web search + social platforms,,2026-05-12,4,verified
+108,Thom Yorke,xHandle,@thomyorke,Web search + social platforms,,2026-05-12,4,verified
+108,Thom Yorke,xFollowers,1000000,Web search + social platforms,,2026-05-12,4,verified
+108,Thom Yorke,facebookPage,ThomYorke,Web search + social platforms,,2026-05-12,4,verified
+108,Thom Yorke,totalSocialReach,1543800,Web search + social platforms,,2026-05-12,4,verified
+108,Thom Yorke,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,4,verified
+109,Tipper,facebookPage,tippermusic,Web search + social platforms,,2026-05-12,2,partial
+110,Tourist,instagramHandle,@tourist,Web search + social platforms,,2026-05-12,3,partial
+110,Tourist,instagramFollowers,44000,Web search + social platforms,,2026-05-12,3,partial
+110,Tourist,facebookPage,musicbytourist,Web search + social platforms,,2026-05-12,3,partial
+110,Tourist,facebookFollowers,56000,Web search + social platforms,,2026-05-12,3,partial
+110,Tourist,totalSocialReach,100000,Web search + social platforms,,2026-05-12,3,partial
+111,Tove Lo,instagramHandle,@tovelo,Web search + social platforms,,2026-05-12,5,verified
+111,Tove Lo,instagramFollowers,2500000,Web search + social platforms,,2026-05-12,5,verified
+111,Tove Lo,xHandle,@ToveLo,Web search + social platforms,,2026-05-12,5,verified
+111,Tove Lo,xFollowers,375500,Web search + social platforms,,2026-05-12,5,verified
+111,Tove Lo,facebookPage,tovelo,Web search + social platforms,,2026-05-12,5,verified
+111,Tove Lo,facebookFollowers,2100000,Web search + social platforms,,2026-05-12,5,verified
+111,Tove Lo,totalSocialReach,4975500,Web search + social platforms,,2026-05-12,5,verified
+111,Tove Lo,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+112,Travis Scott,instagramHandle,@travisscott,Web search + social platforms,,2026-05-12,5,verified
+112,Travis Scott,instagramFollowers,59300000,Web search + social platforms,,2026-05-12,5,verified
+112,Travis Scott,xHandle,@trvisXX,Web search + social platforms,,2026-05-12,5,verified
+112,Travis Scott,xFollowers,12200000,Web search + social platforms,,2026-05-12,5,verified
+112,Travis Scott,facebookPage,travisscott,Web search + social platforms,,2026-05-12,5,verified
+112,Travis Scott,facebookFollowers,12200000,Web search + social platforms,,2026-05-12,5,verified
+112,Travis Scott,totalSocialReach,83700000,Web search + social platforms,,2026-05-12,5,verified
+112,Travis Scott,verifiedStatus,Verified on all platforms,Web search + social platforms,,2026-05-12,5,verified
+113,UNIIQU3,instagramHandle,@uniiqu3music,Web search + social platforms,,2026-05-12,4,verified
+113,UNIIQU3,instagramFollowers,51000,Web search + social platforms,,2026-05-12,4,verified
+113,UNIIQU3,xHandle,@UNIIQU3,Web search + social platforms,,2026-05-12,4,verified
+113,UNIIQU3,xFollowers,17200,Web search + social platforms,,2026-05-12,4,verified
+113,UNIIQU3,facebookPage,UNIIQU3MUSIC,Web search + social platforms,,2026-05-12,4,verified
+113,UNIIQU3,facebookFollowers,8600,Web search + social platforms,,2026-05-12,4,verified
+113,UNIIQU3,totalSocialReach,76800,Web search + social platforms,,2026-05-12,4,verified
+114,The Weeknd,instagramHandle,@theweeknd,Web search + social platforms,,2026-05-12,5,verified
+114,The Weeknd,instagramFollowers,76600000,Web search + social platforms,,2026-05-12,5,verified
+114,The Weeknd,xHandle,@theweeknd,Web search + social platforms,,2026-05-12,5,verified
+114,The Weeknd,xFollowers,16700000,Web search + social platforms,,2026-05-12,5,verified
+114,The Weeknd,facebookPage,theweeknd,Web search + social platforms,,2026-05-12,5,verified
+114,The Weeknd,facebookFollowers,16900000,Web search + social platforms,,2026-05-12,5,verified
+114,The Weeknd,totalSocialReach,110200000,Web search + social platforms,,2026-05-12,5,verified
+114,The Weeknd,verifiedStatus,Verified on all platforms,Web search + social platforms,,2026-05-12,5,verified
+115,Weval,instagramHandle,weval,Web search + social platforms,,2026-05-12,4,verified
+115,Weval,instagramFollowers,45000,Web search + social platforms,,2026-05-12,4,verified
+115,Weval,xHandle,weval,Web search + social platforms,,2026-05-12,4,verified
+115,Weval,xFollowers,2600,Web search + social platforms,,2026-05-12,4,verified
+115,Weval,facebookPage,weval,Web search + social platforms,,2026-05-12,4,verified
+115,Weval,facebookFollowers,63600,Web search + social platforms,,2026-05-12,4,verified
+115,Weval,totalSocialReach,111200,Web search + social platforms,,2026-05-12,4,verified
+116,The xx,instagramHandle,@thexx,Web search + social platforms,,2026-05-12,5,verified
+116,The xx,instagramFollowers,830000,Web search + social platforms,,2026-05-12,5,verified
+116,The xx,xHandle,@The_xx,Web search + social platforms,,2026-05-12,5,verified
+116,The xx,xFollowers,61000,Web search + social platforms,,2026-05-12,5,verified
+116,The xx,facebookPage,thexx,Web search + social platforms,,2026-05-12,5,verified
+116,The xx,facebookFollowers,3480000,Web search + social platforms,,2026-05-12,5,verified
+116,The xx,totalSocialReach,4371000,Web search + social platforms,,2026-05-12,5,verified
+116,The xx,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+117,Yaeji,instagramHandle,@kraejiyaeji,Web search + social platforms,,2026-05-12,5,verified
+117,Yaeji,instagramFollowers,408000,Web search + social platforms,,2026-05-12,5,verified
+117,Yaeji,xHandle,@kraeji,Web search + social platforms,,2026-05-12,5,verified
+117,Yaeji,xFollowers,42976,Web search + social platforms,,2026-05-12,5,verified
+117,Yaeji,facebookPage,kraejiyaeji,Web search + social platforms,,2026-05-12,5,verified
+117,Yaeji,facebookFollowers,93000,Web search + social platforms,,2026-05-12,5,verified
+117,Yaeji,totalSocialReach,543976,Web search + social platforms,,2026-05-12,5,verified
+117,Yaeji,verifiedStatus,Verified on X,Web search + social platforms,,2026-05-12,5,verified
+118,Yīn Yīn,instagramHandle,@yinyinband,Web search + social platforms,,2026-05-12,4,verified
+118,Yīn Yīn,instagramFollowers,36000,Web search + social platforms,,2026-05-12,4,verified
+118,Yīn Yīn,facebookPage,yinyinband,Web search + social platforms,,2026-05-12,4,verified
+118,Yīn Yīn,facebookFollowers,10000,Web search + social platforms,,2026-05-12,4,verified
+118,Yīn Yīn,totalSocialReach,46000,Web search + social platforms,,2026-05-12,4,verified
+119,yunè pinku,instagramHandle,@yune.pinku,Web search + social platforms,,2026-05-12,4,verified
+119,yunè pinku,instagramFollowers,18389,Web search + social platforms,,2026-05-12,4,verified
+119,yunè pinku,xHandle,@yune_pinku,Web search + social platforms,,2026-05-12,4,verified
+119,yunè pinku,xFollowers,735,Web search + social platforms,,2026-05-12,4,verified
+119,yunè pinku,facebookPage,yunepinku,Web search + social platforms,,2026-05-12,4,verified
+119,yunè pinku,facebookFollowers,461,Web search + social platforms,,2026-05-12,4,verified
+119,yunè pinku,totalSocialReach,19585,Web search + social platforms,,2026-05-12,4,verified

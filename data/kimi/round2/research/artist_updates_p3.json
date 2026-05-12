@@ -1,0 +1,290 @@
+[
+  {
+    "id": 5,
+    "artist": "Aphex Twin",
+    "updates": {
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG",
+      "streaming.spotifyMonthlyListeners": 3499548
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyUrl",
+        "value": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ChartMasters / Spotify",
+        "sourceUrl": "https://chartmasters.org/artist/?id=6kBDZFXuLrZgHnvmPu9NsG",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify profile found for Aphex Twin",
+        "notes": "Main verified profile for Richard D. James. Multiple alias profiles may exist."
+      },
+      {
+        "field": "spotifyMonthlyListeners",
+        "value": 3499548,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ChartMasters / Spotify",
+        "sourceUrl": "https://chartmasters.org/artist/?id=6kBDZFXuLrZgHnvmPu9NsG",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monthly listeners: 3499548",
+        "notes": "Main verified profile for Richard D. James. Multiple alias profiles may exist."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "artist": "Christina Kubisch",
+    "updates": {
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O",
+      "streaming.spotifyMonthlyListeners": 537
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyUrl",
+        "value": "https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify profile found for Christina Kubisch",
+        "notes": "German sound artist/composer (b. 1948). Profile exists with 537 monthly listeners."
+      },
+      {
+        "field": "spotifyMonthlyListeners",
+        "value": 537,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monthly listeners: 537",
+        "notes": "German sound artist/composer (b. 1948). Profile exists with 537 monthly listeners."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "artist": "Christine Sun Kim",
+    "updates": {
+      "streaming.spotifyUrl": null,
+      "streaming.spotifyMonthlyListeners": null
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyUrl",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "Multiple searches / Discogs / Gallery sites",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify profile not found for Christine Sun Kim",
+        "notes": "Deaf sound/visual artist. No Spotify artist profile exists."
+      },
+      {
+        "field": "spotifyMonthlyListeners",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "Multiple searches / Discogs / Gallery sites",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monthly listeners: N/A",
+        "notes": "Deaf sound/visual artist. No Spotify artist profile exists."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "artist": "Haroon Mirza",
+    "updates": {
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC",
+      "streaming.spotifyMonthlyListeners": 59
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyUrl",
+        "value": "https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify profile found for Haroon Mirza",
+        "notes": "British-Pakistani visual/sound artist. 59 monthly listeners."
+      },
+      {
+        "field": "spotifyMonthlyListeners",
+        "value": 59,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monthly listeners: 59",
+        "notes": "British-Pakistani visual/sound artist. 59 monthly listeners."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "artist": "Ian Dearden",
+    "updates": {
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/5xqKm3vDsiBTFchNTQaSXE",
+      "streaming.spotifyMonthlyListeners": 3
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyUrl",
+        "value": "https://open.spotify.com/artist/5xqKm3vDsiBTFchNTQaSXE",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify / NMC Recordings",
+        "sourceUrl": "https://open.spotify.com/artist/5xqKm3vDsiBTFchNTQaSXE",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify profile found for Ian Dearden",
+        "notes": "Sound designer with Sound Intermedia. NEWLY FOUND profile. Album 'What Took You so Long?' (2014). 39 followers."
+      },
+      {
+        "field": "spotifyMonthlyListeners",
+        "value": 3,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify / NMC Recordings",
+        "sourceUrl": "https://open.spotify.com/artist/5xqKm3vDsiBTFchNTQaSXE",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monthly listeners: 3",
+        "notes": "Sound designer with Sound Intermedia. NEWLY FOUND profile. Album 'What Took You so Long?' (2014). 39 followers."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "artist": "Jennifer Walshe",
+    "updates": {
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J",
+      "streaming.spotifyMonthlyListeners": 300
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyUrl",
+        "value": "https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify profile found for Jennifer Walshe",
+        "notes": "Irish contemporary classical composer/vocalist."
+      },
+      {
+        "field": "spotifyMonthlyListeners",
+        "value": 300,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monthly listeners: 300",
+        "notes": "Irish contemporary classical composer/vocalist."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "artist": "Justin Gray",
+    "updates": {
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR",
+      "streaming.spotifyMonthlyListeners": 2328
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyUrl",
+        "value": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify / Wikipedia",
+        "sourceUrl": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify profile found for Justin Gray",
+        "notes": "Canadian musician, composer, bassist. Grammy winner 2026."
+      },
+      {
+        "field": "spotifyMonthlyListeners",
+        "value": 2328,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Spotify / Wikipedia",
+        "sourceUrl": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monthly listeners: 2328",
+        "notes": "Canadian musician, composer, bassist. Grammy winner 2026."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "updates": {
+      "streaming.spotifyUrl": "https://open.spotify.com/artist/3AiEBEtUkD6TKUJKBnAjeh",
+      "streaming.spotifyMonthlyListeners": 14
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyUrl",
+        "value": "https://open.spotify.com/artist/3AiEBEtUkD6TKUJKBnAjeh",
+        "status": "ambiguous",
+        "confidence": 4,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/intl-it/artist/3AiEBEtUkD6TKUJKBnAjeh",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify profile found for Samson Young",
+        "notes": "Hong Kong sound artist/composer. 14 monthly listeners. Follower count not displayed."
+      },
+      {
+        "field": "spotifyMonthlyListeners",
+        "value": 14,
+        "status": "ambiguous",
+        "confidence": 4,
+        "sourceName": "Spotify",
+        "sourceUrl": "https://open.spotify.com/intl-it/artist/3AiEBEtUkD6TKUJKBnAjeh",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monthly listeners: 14",
+        "notes": "Hong Kong sound artist/composer. 14 monthly listeners. Follower count not displayed."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "artist": "Tarik Barri",
+    "updates": {
+      "streaming.spotifyUrl": null,
+      "streaming.spotifyMonthlyListeners": null
+    },
+    "fieldEvidence": [
+      {
+        "field": "spotifyUrl",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "Multiple searches / Discogs / Last.fm",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spotify profile not found for Tarik Barri",
+        "notes": "Dutch audiovisual artist and Versum software developer. No Spotify profile."
+      },
+      {
+        "field": "spotifyMonthlyListeners",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "Multiple searches / Discogs / Last.fm",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monthly listeners: N/A",
+        "notes": "Dutch audiovisual artist and Versum software developer. No Spotify profile."
+      }
+    ]
+  }
+]

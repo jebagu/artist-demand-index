@@ -1,0 +1,2070 @@
+[
+  {
+    "id": 1,
+    "artist": "Acid Pauli",
+    "updates": {
+      "catalog.totalCatalogStreams": 123346912,
+      "catalog.topTrackName": "The End",
+      "catalog.topTrackStreams": 32723475
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 123346912,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/1",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 123,346,912 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "The End",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/1",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: The End",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 32723475,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/1",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 32,723,475",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "artist": "AfroRack",
+    "updates": {
+      "catalog.totalCatalogStreams": 87500,
+      "catalog.topTrackName": "Osc",
+      "catalog.topTrackStreams": 49200
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 87500,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/2",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 87,500 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Osc",
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/2",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Osc",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 49200,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/2",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 49,200",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "artist": "Air",
+    "updates": {
+      "catalog.totalCatalogStreams": 1207379090,
+      "catalog.topTrackName": "Playground Love",
+      "catalog.topTrackStreams": 154576988
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 1207379090,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/3",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 1,207,379,090 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Playground Love",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/3",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Playground Love",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 154576988,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/3",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 154,576,988",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "artist": "Alva Noto",
+    "updates": {
+      "catalog.totalCatalogStreams": 115000000,
+      "catalog.topTrackName": "Hawk Punished",
+      "catalog.topTrackStreams": 3196960
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 115000000,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/4",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 115,000,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Hawk Punished",
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/4",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Hawk Punished",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 3196960,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/4",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 3,196,960",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "artist": "Aphex Twin",
+    "updates": {
+      "catalog.totalCatalogStreams": 1454535669,
+      "catalog.topTrackName": "Avril 14th",
+      "catalog.topTrackStreams": 204726498
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 1454535669,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/5",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 1,454,535,669 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Avril 14th",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/5",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Avril 14th",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 204726498,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/5",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 204,726,498",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "artist": "Arooj Aftab",
+    "updates": {
+      "catalog.totalCatalogStreams": 52580632,
+      "catalog.topTrackName": "Mehram",
+      "catalog.topTrackStreams": 10471528
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 52580632,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/6",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 52,580,632 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Mehram",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/6",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Mehram",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 10471528,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/6",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 10,471,528",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "artist": "Bicep",
+    "updates": {
+      "catalog.totalCatalogStreams": 856923730,
+      "catalog.topTrackName": "Glue",
+      "catalog.topTrackStreams": 363427111
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 856923730,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/10",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 856,923,730 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Glue",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/10",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Glue",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 363427111,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/10",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 363,427,111",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "artist": "Billie Eilish",
+    "updates": {
+      "catalog.totalCatalogStreams": 56753300291,
+      "catalog.topTrackName": "lovely (with Khalid)",
+      "catalog.topTrackStreams": 3751100082
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 56753300291,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/11",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 56,753,300,291 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "lovely (with Khalid)",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/11",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: lovely (with Khalid)",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 3751100082,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/11",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 3,751,100,082",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "artist": "Björk",
+    "updates": {
+      "catalog.totalCatalogStreams": 1456745823,
+      "catalog.topTrackName": "Berghain",
+      "catalog.topTrackStreams": 155657331
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 1456745823,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/12",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 1,456,745,823 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Berghain",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/12",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Berghain",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 155657331,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/12",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 155,657,331",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "artist": "Bob Dylan",
+    "updates": {
+      "catalog.totalCatalogStreams": 5896269583,
+      "catalog.topTrackName": "Knockin' On Heaven's Door",
+      "catalog.topTrackStreams": 891446594
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 5896269583,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/13",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 5,896,269,583 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Knockin' On Heaven's Door",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/13",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Knockin' On Heaven's Door",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 891446594,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/13",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 891,446,594",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "artist": "Bonobo",
+    "updates": {
+      "catalog.totalCatalogStreams": 1848743605,
+      "catalog.topTrackName": "Cirrus",
+      "catalog.topTrackStreams": 105623111
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 1848743605,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/14",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 1,848,743,605 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Cirrus",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/14",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Cirrus",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 105623111,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/14",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 105,623,111",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "artist": "Brian Eno",
+    "updates": {
+      "catalog.totalCatalogStreams": 1157576071,
+      "catalog.topTrackName": "An Ending (Ascent) - Remastered 2019",
+      "catalog.topTrackStreams": 121036094
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 1157576071,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/15",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 1,157,576,071 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "An Ending (Ascent) - Remastered 2019",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/15",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: An Ending (Ascent) - Remastered 2019",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 121036094,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/15",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 121,036,094",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "artist": "Cardi B",
+    "updates": {
+      "catalog.totalCatalogStreams": 22180300810,
+      "catalog.topTrackName": "I Like It",
+      "catalog.topTrackStreams": 1905793499
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 22180300810,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/16",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 22,180,300,810 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "I Like It",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/16",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: I Like It",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 1905793499,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/16",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 1,905,793,499",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "artist": "Caribou",
+    "updates": {
+      "catalog.totalCatalogStreams": 728058859,
+      "catalog.topTrackName": "Can't Do Without You",
+      "catalog.topTrackStreams": 121475609
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 728058859,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/17",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 728,058,859 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Can't Do Without You",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/17",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Can't Do Without You",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 121475609,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/17",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 121,475,609",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "artist": "Carl Craig",
+    "updates": {
+      "catalog.totalCatalogStreams": 112000000,
+      "catalog.topTrackName": "At Les",
+      "catalog.topTrackStreams": 1349411
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 112000000,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/18",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 112,000,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "At Les",
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/18",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: At Les",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 1349411,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/18",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 1,349,411",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "artist": "Channel Tres",
+    "updates": {
+      "catalog.totalCatalogStreams": 645000000,
+      "catalog.topTrackName": "Topdown",
+      "catalog.topTrackStreams": 70267143
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 645000000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/19",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 645,000,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Topdown",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/19",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Topdown",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 70267143,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/19",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 70,267,143",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "artist": "Charli XCX",
+    "updates": {
+      "catalog.totalCatalogStreams": 14000000000,
+      "catalog.topTrackName": "I Love It (feat. Charli XCX)",
+      "catalog.topTrackStreams": 1333478311
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 14000000000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/20",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 14,000,000,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "I Love It (feat. Charli XCX)",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/20",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: I Love It (feat. Charli XCX)",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 1333478311,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/20",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 1,333,478,311",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "artist": "The Chemical Brothers",
+    "updates": {
+      "catalog.totalCatalogStreams": 1354300000,
+      "catalog.topTrackName": "Hey Boy Hey Girl",
+      "catalog.topTrackStreams": 177669088
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 1354300000,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/21",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 1,354,300,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Hey Boy Hey Girl",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/21",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Hey Boy Hey Girl",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 177669088,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/21",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 177,669,088",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "artist": "Cigarettes After Sex",
+    "updates": {
+      "catalog.totalCatalogStreams": 12766228474,
+      "catalog.topTrackName": "Apocalypse",
+      "catalog.topTrackStreams": 2405264876
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 12766228474,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/25",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 12,766,228,474 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Apocalypse",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/25",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Apocalypse",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 2405264876,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/25",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 2,405,264,876",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "artist": "Colin Benders",
+    "updates": {
+      "catalog.totalCatalogStreams": 3000000,
+      "catalog.topTrackName": "Siren",
+      "catalog.topTrackStreams": 330531
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 3000000,
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/26",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 3,000,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Siren",
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/26",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Siren",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 330531,
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/26",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 330,531",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "artist": "DARKSIDE",
+    "updates": {
+      "catalog.totalCatalogStreams": 138884018,
+      "catalog.topTrackName": "Paper Trails",
+      "catalog.topTrackStreams": 44584665
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 138884018,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/27",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 138,884,018 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Paper Trails",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/27",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Paper Trails",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 44584665,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/27",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 44,584,665",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "updates": {
+      "catalog.totalCatalogStreams": 71109505,
+      "catalog.topTrackName": "Lily Was Here (feat. Candy Dulfer)",
+      "catalog.topTrackStreams": 46500436
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 71109505,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/28",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 71,109,505 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Lily Was Here (feat. Candy Dulfer)",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/28",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Lily Was Here (feat. Candy Dulfer)",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 46500436,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/28",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 46,500,436",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "artist": "DeLaurentis",
+    "updates": {
+      "catalog.totalCatalogStreams": 3500000,
+      "catalog.topTrackName": "Gone Colors",
+      "catalog.topTrackStreams": 552970
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 3500000,
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/31",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 3,500,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Gone Colors",
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/31",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Gone Colors",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 552970,
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/31",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 552,970",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "artist": "Ellie Goulding",
+    "updates": {
+      "catalog.totalCatalogStreams": 16138496720,
+      "catalog.topTrackName": "Outside",
+      "catalog.topTrackStreams": 1838640581
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 16138496720,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/32",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 16,138,496,720 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Outside",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/32",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Outside",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 1838640581,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/32",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 1,838,640,581",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "artist": "Excision",
+    "updates": {
+      "catalog.totalCatalogStreams": 875347048,
+      "catalog.topTrackName": "Feel Something (With I Prevail)",
+      "catalog.topTrackStreams": 81974145
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 875347048,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/34",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 875,347,048 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Feel Something (With I Prevail)",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/34",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Feel Something (With I Prevail)",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 81974145,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/34",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 81,974,145",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "artist": "Fatboy Slim",
+    "updates": {
+      "catalog.totalCatalogStreams": 1420809399,
+      "catalog.topTrackName": "Praise You",
+      "catalog.topTrackStreams": 213646146
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 1420809399,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/35",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 1,420,809,399 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Praise You",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/35",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Praise You",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 213646146,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/35",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 213,646,146",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "artist": "FKA twigs",
+    "updates": {
+      "catalog.totalCatalogStreams": 1640620815,
+      "catalog.topTrackName": "Two Weeks",
+      "catalog.topTrackStreams": 111912681
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 1640620815,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/36",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 1,640,620,815 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Two Weeks",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/36",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Two Weeks",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 111912681,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/36",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 111,912,681",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "artist": "Floating Points",
+    "updates": {
+      "catalog.totalCatalogStreams": 197963794,
+      "catalog.topTrackName": "King Bromeliad",
+      "catalog.topTrackStreams": 15305835
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 197963794,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/37",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 197,963,794 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "King Bromeliad",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/37",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: King Bromeliad",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 15305835,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/37",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 15,305,835",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "artist": "Flying Lotus",
+    "updates": {
+      "catalog.totalCatalogStreams": 538789601,
+      "catalog.topTrackName": "Never Catch Me",
+      "catalog.topTrackStreams": 83222416
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 538789601,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/38",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 538,789,601 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Never Catch Me",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/38",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Never Catch Me",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 83222416,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/38",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 83,222,416",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "artist": "Four Tet",
+    "updates": {
+      "catalog.totalCatalogStreams": 1006877796,
+      "catalog.topTrackName": "VOLVER",
+      "catalog.topTrackStreams": 138948006
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 1006877796,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/39",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 1,006,877,796 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "VOLVER",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/39",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: VOLVER",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 138948006,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/39",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 138,948,006",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "artist": "Fred Again..",
+    "updates": {
+      "catalog.totalCatalogStreams": 5000000000,
+      "catalog.topTrackName": "Marea (we've lost dancing)",
+      "catalog.topTrackStreams": 513866496
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 5000000000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/40",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 5,000,000,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Marea (we've lost dancing)",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/40",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Marea (we've lost dancing)",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 513866496,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/40",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 513,866,496",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "artist": "Future",
+    "updates": {
+      "catalog.totalCatalogStreams": 29900000000,
+      "catalog.topTrackName": "Mask Off",
+      "catalog.topTrackStreams": 2064563104
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 29900000000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/41",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 29,900,000,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Mask Off",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/41",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Mask Off",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 2064563104,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/41",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 2,064,563,104",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "artist": "Gold Panda",
+    "updates": {
+      "catalog.totalCatalogStreams": 155000000,
+      "catalog.topTrackName": "You",
+      "catalog.topTrackStreams": 27454659
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 155000000,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/42",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 155,000,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "You",
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/42",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: You",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 27454659,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/42",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 27,454,659",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "artist": "Gorillaz",
+    "updates": {
+      "catalog.totalCatalogStreams": 13601399094,
+      "catalog.topTrackName": "Feel Good Inc.",
+      "catalog.topTrackStreams": 2372357350
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 13601399094,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/43",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 13,601,399,094 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Feel Good Inc.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/43",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Feel Good Inc.",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 2372357350,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/43",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 2,372,357,350",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "artist": "Grandbrothers",
+    "updates": {
+      "catalog.totalCatalogStreams": 116668831,
+      "catalog.topTrackName": "Bloodflow",
+      "catalog.topTrackStreams": 32629454
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 116668831,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/44",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 116,668,831 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Bloodflow",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/44",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Bloodflow",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 32629454,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/44",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 32,629,454",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "artist": "Grimes",
+    "updates": {
+      "catalog.totalCatalogStreams": 2683243528,
+      "catalog.topTrackName": "Genesis",
+      "catalog.topTrackStreams": 510684493
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 2683243528,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/45",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 2,683,243,528 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Genesis",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/45",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Genesis",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 510684493,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/45",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 510,684,493",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "artist": "Halina Rice",
+    "updates": {
+      "catalog.totalCatalogStreams": 3160000,
+      "catalog.topTrackName": "TERRAIN",
+      "catalog.topTrackStreams": null
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 3160000,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/46",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 3,160,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "TERRAIN",
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/46",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: TERRAIN",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": null,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/46",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams not available",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "artist": "Hania Rani",
+    "updates": {
+      "catalog.totalCatalogStreams": 227713119,
+      "catalog.topTrackName": "Dreamy",
+      "catalog.topTrackStreams": 22990591
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 227713119,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/48",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 227,713,119 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Dreamy",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/48",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Dreamy",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 22990591,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/48",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 22,990,591",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "artist": "Holly Herndon",
+    "updates": {
+      "catalog.totalCatalogStreams": 8000000,
+      "catalog.topTrackName": "Frontier",
+      "catalog.topTrackStreams": 1748610
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 8000000,
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/50",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 8,000,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Frontier",
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/50",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Frontier",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 1748610,
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/50",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 1,748,610",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "artist": "James Blake",
+    "updates": {
+      "catalog.totalCatalogStreams": 3266300000,
+      "catalog.topTrackName": "Retrograde",
+      "catalog.topTrackStreams": 222345647
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 3266300000,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/53",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 3,266,300,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Retrograde",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/53",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Retrograde",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 222345647,
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/53",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 222,345,647",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "artist": "Jamie xx",
+    "updates": {
+      "catalog.totalCatalogStreams": 1155086491,
+      "catalog.topTrackName": "Loud Places",
+      "catalog.topTrackStreams": 200876785
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 1155086491,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/54",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 1,155,086,491 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Loud Places",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/54",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Loud Places",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 200876785,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/54",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 200,876,785",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "artist": "Jennifer Walshe",
+    "updates": {
+      "catalog.totalCatalogStreams": 500000,
+      "catalog.topTrackName": "Manhattan",
+      "catalog.topTrackStreams": 125217
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 500000,
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/56",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 500,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Manhattan",
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/56",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Manhattan",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 125217,
+        "status": "partial",
+        "confidence": 2,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/56",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 125,217",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "artist": "Jon Hopkins",
+    "updates": {
+      "catalog.totalCatalogStreams": 747847240,
+      "catalog.topTrackName": "Emerald and Stone",
+      "catalog.topTrackStreams": 84590545
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 747847240,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/57",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 747,847,240 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Emerald and Stone",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/57",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Emerald and Stone",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 84590545,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/57",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 84,590,545",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "artist": "Jorja Smith",
+    "updates": {
+      "catalog.totalCatalogStreams": 4674754893,
+      "catalog.topTrackName": "Get It Together",
+      "catalog.topTrackStreams": 415131426
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 4674754893,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/58",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 4,674,754,893 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Get It Together",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/58",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Get It Together",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 415131426,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/58",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 415,131,426",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "artist": "Justin Gray",
+    "updates": {
+      "catalog.totalCatalogStreams": 500000,
+      "catalog.topTrackName": "Love Like This - Remix",
+      "catalog.topTrackStreams": 300928
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 500000,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/59",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 500,000 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Love Like This - Remix",
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/59",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Love Like This - Remix",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 300928,
+        "status": "partial",
+        "confidence": 3,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/59",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 300,928",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "artist": "Kelly Lee Owens",
+    "updates": {
+      "catalog.totalCatalogStreams": 68957053,
+      "catalog.topTrackName": "Bird",
+      "catalog.topTrackStreams": 5545556
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 68957053,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/63",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 68,957,053 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Bird",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/63",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Bird",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 5545556,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/63",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 5,545,556",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "artist": "Kelela",
+    "updates": {
+      "catalog.totalCatalogStreams": 337097178,
+      "catalog.topTrackName": "Rewind",
+      "catalog.topTrackStreams": 19238073
+    },
+    "fieldEvidence": [
+      {
+        "field": "totalCatalogStreams",
+        "value": 337097178,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/62",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total catalog: 337,097,178 streams",
+        "notes": null
+      },
+      {
+        "field": "topTrackName",
+        "value": "Rewind",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/62",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track: Rewind",
+        "notes": null
+      },
+      {
+        "field": "topTrackStreams",
+        "value": 19238073,
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kworb / ChartMasters / Songstats",
+        "sourceUrl": "https://kworb.net/spotify/artist/62",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top track streams: 19,238,073",
+        "notes": null
+      }
+    ]
+  }
+]

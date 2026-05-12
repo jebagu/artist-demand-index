@@ -1,0 +1,192 @@
+{
+  "research_date": "2026-05-12",
+  "artists": [
+    {
+      "id": 47,
+      "artist": "Halsey",
+      "data": {
+        "riaaCertifications": [
+          {"album": "Badlands", "level": "2x Platinum", "date": "2020"},
+          {"album": "Hopeless Fountain Kingdom", "level": "Platinum", "date": "2017"},
+          {"album": "Manic", "level": "Platinum", "date": "2020"},
+          {"album": "If I Can't Have Love, I Want Power", "level": "Gold", "date": "2021"}
+        ],
+        "riaaDiamond": [
+          {"track": "Without Me", "level": "Diamond (100th Diamond single in RIAA history)"},
+          {"track": "Closer (with The Chainsmokers)", "level": "Diamond"}
+        ],
+        "riaaGold": [
+          {"track": "Gasoline"},
+          {"track": "Hold Me Down"},
+          {"track": "Control"},
+          {"track": "Young God"},
+          {"track": "Drive"}
+        ],
+        "riaa100m": 75000000,
+        "topAlbumSales": {"album": "Manic", "sales": 330000},
+        "ifpiBestAlbums": [],
+        "totalCertifications": 75
+      },
+      "confidence": 5,
+      "sources": [
+        {"name": "RIAA Gold & Platinum Database", "url": "https://www.riaa.com/gold-platinum/", "snippet": "Halsey has 75M RIAA-certified singles, Diamond-certified 'Without Me' as 100th Diamond single"},
+        {"name": "RIAA Press Release - 100th Diamond", "url": "https://www.riaa.com/riaa-celebrates-100th-diamond-single-certification/", "snippet": "Halsey has 75x combined Platinum and 15x Gold certifications across 42 titles"},
+        {"name": "Wikipedia - Halsey Discography", "url": "https://en.wikipedia.org/wiki/Halsey_discography", "snippet": "Badlands 2x Platinum, Hopeless Fountain Kingdom Platinum, Manic Platinum"},
+        {"name": "IFPI Global Digital Singles 2019", "url": "https://www.ifpi.org/bad-guy-by-billie-eilish-named-biggest-global-single-of-2019/", "snippet": "Without Me ranked #10 on IFPI Global Digital Singles Chart 2019 with 9.1 million track equivalents"},
+        {"name": "ChartMasters", "url": "https://chartmasters.org/artist/?id=26VFTg2z8YR0cCuwLzESi2", "snippet": "Manic US sales 330,000; total CSPC units 30.0m"}
+      ]
+    },
+    {
+      "id": 53,
+      "artist": "James Blake",
+      "data": {
+        "riaaCertifications": [],
+        "topAlbumSales": {"album": "Overgrown", "sales": 70000},
+        "ifpiBestArtists": [],
+        "totalCertifications": 0
+      },
+      "confidence": 3,
+      "sources": [
+        {"name": "RIAA Database (via search)", "url": "https://www.riaa.com/gold-platinum/", "snippet": "No solo RIAA certifications found; James Blake appears as featured on King's Dead (2x Platinum) and Til Further Notice"},
+        {"name": "Wikipedia - James Blake Discography", "url": "https://en.wikipedia.org/wiki/James_Blake_discography", "snippet": "UK Silver certifications for self-titled and Overgrown; Mercury Prize winner"},
+        {"name": "BestSellingAlbums.org", "url": "https://bestsellingalbums.org/artist/5912", "snippet": "James Blake sold over 140,000 albums total; Overgone best-selling at 70,000 copies"},
+        {"name": "Billboard - Assume Form debut", "url": "https://www.billboard.com/pro/james-blake-number-1-top-dance-electronic-albums-chart/", "snippet": "Assume Form debuted with 22,000 equivalent album units, 9,000 traditional sales"}
+      ]
+    },
+    {
+      "id": 54,
+      "artist": "Jamie xx",
+      "data": {
+        "riaaCertifications": [],
+        "topAlbumSales": {"album": "In Colour", "sales": 19000},
+        "totalCertifications": 0
+      },
+      "confidence": 3,
+      "sources": [
+        {"name": "RIAA Database (via search)", "url": "https://www.riaa.com/gold-platinum/", "snippet": "No solo RIAA certifications for Jamie xx; 'I Know There's Gonna Be (Good Times)' certified Gold via Popcaan's feature"},
+        {"name": "Wikipedia - In Colour", "url": "https://en.wikipedia.org/wiki/In_Colour_(Jamie_xx_album)", "snippet": "BPI Gold certification (100,000 units); debuted at #3 UK with 19,255 first-week sales; 19,000 US first-week sales"},
+        {"name": "Billboard - In Colour debut", "url": "https://www.billboard.com/pro/jamie-xx-tops-dance-electronic-albums-chart/", "snippet": "In Colour sold 19,000 copies in debut week, topped US Dance/Electronic Albums"},
+        {"name": "Grokipedia", "url": "https://grokipedia.com/page/In_Colour_(Jamie_xx_album)", "snippet": "UK Gold certification in 2016; over 673 million Spotify streams as of 2025"}
+      ]
+    },
+    {
+      "id": 58,
+      "artist": "Jorja Smith",
+      "data": {
+        "riaaCertifications": [
+          {"track": "On My Mind (with Preditah)", "level": "Gold", "date": "2021"}
+        ],
+        "topAlbumSales": {"album": "Lost & Found", "sales": 210000},
+        "totalCertifications": 1
+      },
+      "confidence": 4,
+      "sources": [
+        {"name": "RIAA Database (via Reddit compilation)", "url": "https://www.reddit.com/r/hiphopheads/comments/q1eust/riaa_certifications_may_to_september_2021_were/", "snippet": "Jorja Smith & Preditah, On My Mind, Gold (2021)"},
+        {"name": "Wikipedia - Lost & Found", "url": "https://en.wikipedia.org/wiki/Lost_%26_Found_(Jorja_Smith_album)", "snippet": "UK Gold (BPI), France Platinum (SNEP), Denmark Gold (IFPI); 210,000 total album sales"},
+        {"name": "Wikipedia - Be Honest", "url": "https://en.wikipedia.org/wiki/Be_Honest", "snippet": "France Diamond (333,333), Australia Platinum, UK Platinum, Canada Gold, Denmark Gold, New Zealand Platinum"},
+        {"name": "BestSellingAlbums.org", "url": "https://bestsellingalbums.org/artist/6469", "snippet": "Lost & Found 210,000 total sales; best-selling album"},
+        {"name": "RIAJ - No data found", "url": "", "snippet": "No Japanese certifications found for Jorja Smith"}
+      ]
+    },
+    {
+      "id": 60,
+      "artist": "Kaitlyn Aurelia Smith",
+      "data": {},
+      "confidence": 1,
+      "sources": [
+        {"name": "Wikipedia - Ears (album)", "url": "https://en.wikipedia.org/wiki/Ears_(album)", "snippet": "Independent release on Western Vinyl; critically acclaimed but no certification data available"},
+        {"name": "Discogs - Ears", "url": "https://www.discogs.com/master/982512-Kaitlyn-Aurelia-Smith-Ears", "snippet": "1463 copies owned on Discogs; 758 wanted; no sales figures available"},
+        {"name": "Bandcamp", "url": "https://kaitlynaureliasmith.bandcamp.com/album/ears", "snippet": "Digital album $10 USD; sold out vinyl - no sales volume data"}
+      ]
+    },
+    {
+      "id": 62,
+      "artist": "Kelela",
+      "data": {},
+      "confidence": 1,
+      "sources": [
+        {"name": "Wikipedia - Take Me Apart", "url": "https://en.wikipedia.org/wiki/Take_Me_Apart", "snippet": "Peaked at #128 Billboard 200, #18 Top R&B/Hip-Hop; UK #3 R&B Albums; no RIAA/BPI certifications found"},
+        {"name": "RIAA Database search", "url": "https://www.riaa.com/gold-platinum/", "snippet": "No RIAA certifications found for Kelela"},
+        {"name": "Official Charts", "url": "https://www.officialcharts.com/artist/48359/kelela/", "snippet": "No UK Top 100 album entries; one week in Top 75 albums"},
+        {"name": "Spotify data via Kworb", "url": "https://kworb.net/spotify/artist/1U0sIzpRtDkvu1hXXzxh60_albums.html", "snippet": "Take Me Apart: 76.6M streams; Raven: 57.3M streams - streaming-only artist"}
+      ]
+    },
+    {
+      "id": 63,
+      "artist": "Kelly Lee Owens",
+      "data": {},
+      "confidence": 1,
+      "sources": [
+        {"name": "Wikipedia - Kelly Lee Owens", "url": "https://en.wikipedia.org/wiki/Kelly_Lee_Owens", "snippet": "Inner Song peaked at #80 UK Albums; LP.8 did not enter UK Albums Chart"},
+        {"name": "RIAA Database search", "url": "https://www.riaa.com/gold-platinum/", "snippet": "No RIAA certifications found for Kelly Lee Owens"},
+        {"name": "Official Charts", "url": "https://www.officialcharts.com/artist/50452/kelly-lee-owens/", "snippet": "No UK Top 100 entries; first chart appearance Sept 2020"},
+        {"name": "Spotify data via Kworb", "url": "https://kworb.net/spotify/artist/5eitAUlYmlha3LLWg7aBn5_albums.html", "snippet": "Inner Song: 23.7M streams; Kelly Lee Owens: 22.3M streams - niche electronic artist"}
+      ]
+    },
+    {
+      "id": 77,
+      "artist": "Moby",
+      "data": {
+        "riaaCertifications": [
+          {"album": "Play", "level": "2x Platinum", "date": "1999"},
+          {"album": "18", "level": "Gold", "date": "2002"}
+        ],
+        "topAlbumSales": {"album": "Play", "sales": 12000000},
+        "ifpiBestAlbums": [],
+        "totalCertifications": 2
+      },
+      "confidence": 5,
+      "sources": [
+        {"name": "RIAA Database", "url": "https://www.riaa.com/gold-platinum/", "snippet": "Play certified 2x Platinum (2.7M units); 18 certified Gold (513,000 units)"},
+        {"name": "Wikipedia - Play (Moby album)", "url": "https://en.wikipedia.org/wiki/Play_(Moby_album)", "snippet": "12 million copies sold worldwide; certified Platinum in 20+ countries; Diamond in France; 2x Platinum US"},
+        {"name": "BestSellingAlbums.org", "url": "https://bestsellingalbums.org/artist/9079", "snippet": "Play US sales 2.7M; 18 US sales 500,000; Hotel certified in multiple countries"},
+        {"name": "MusicTech", "url": "https://musictech.com/news/music/moby-play-slow-start/", "snippet": "Over 12 million copies sold to date; best-selling electronic music album of all time"},
+        {"name": "BBC", "url": "https://www.bbc.co.uk/programmes/articles/4wV7rZHhNdxxjrtcrHj28cJ/behind-moby-s-play-one-of-music-s-most-unlikely-success-stories", "snippet": "First album to have all 18 tracks licensed for commercial use"}
+      ]
+    },
+    {
+      "id": 83,
+      "artist": "Nine Inch Nails",
+      "data": {
+        "riaaCertifications": [
+          {"album": "Pretty Hate Machine", "level": "3x Platinum", "date": "1995"},
+          {"album": "The Downward Spiral", "level": "4x Platinum", "date": "1998"},
+          {"album": "Broken", "level": "Platinum", "date": "1992"},
+          {"album": "The Fragile", "level": "2x Platinum", "date": "2000"},
+          {"album": "Further Down the Spiral", "level": "Gold", "date": "1996"}
+        ],
+        "topAlbumSales": {"album": "The Downward Spiral", "sales": 4435000},
+        "ifpiBestAlbums": [],
+        "totalCertifications": 5
+      },
+      "confidence": 5,
+      "sources": [
+        {"name": "RIAA Database", "url": "https://www.riaa.com/gold-platinum/", "snippet": "The Downward Spiral 4x Platinum; Pretty Hate Machine 3x Platinum; The Fragile 2x Platinum; Broken Platinum"},
+        {"name": "Wikipedia - The Downward Spiral", "url": "https://en.wikipedia.org/wiki/The_Downward_Spiral", "snippet": "RIAA 4x Platinum (4M US sales); worldwide over 4 million; Canada 3x Platinum; UK Gold"},
+        {"name": "Wikipedia - The Fragile", "url": "https://en.wikipedia.org/wiki/The_Fragile", "snippet": "RIAA 2x Platinum; debuted at #1 Billboard 200 with 229,000 first-week sales"},
+        {"name": "BestSellingAlbums.org", "url": "https://bestsellingalbums.org/artist/9586", "snippet": "Total US album sales 11,045,000; The Downward Spiral best-selling at 4,435,000"},
+        {"name": "Wikipedia - Nine Inch Nails Discography", "url": "https://en.wikipedia.org/wiki/Nine_Inch_Nails_discography", "snippet": "Pretty Hate Machine 3x Platinum; With Teeth 1.1M US sales; total worldwide ~20M"}
+      ]
+    },
+    {
+      "id": 89,
+      "artist": "RAYE",
+      "data": {
+        "riaaCertifications": [
+          {"track": "Escapism (feat. 070 Shake)", "level": "2x Platinum", "date": "2024"}
+        ],
+        "topAlbumSales": {"album": "My 21st Century Blues", "sales": 262939},
+        "ifpiBestAlbums": [],
+        "totalCertifications": 1
+      },
+      "confidence": 4,
+      "sources": [
+        {"name": "RIAA Database", "url": "https://www.riaa.com/gold-platinum/", "snippet": "Escapism certified 2x Platinum (2M units) by RIAA May 2024"},
+        {"name": "Wikipedia - Escapism (song)", "url": "https://en.wikipedia.org/wiki/Escapism_(song)", "snippet": "RIAA 2x Platinum; BPI 4x Platinum; ARIA 6x Platinum; SNEP Diamond; certified in 15+ countries"},
+        {"name": "Music Week", "url": "https://www.musicweek.com/labels/read/high-hopes-for-raye-s-new-album-across-dsps-and-physical-retail-following-global-hits/093849", "snippet": "My 21st Century Blues: 262,939 UK units; Escapism: 2,375,335 UK units"},
+        {"name": "Wikipedia - My 21st Century Blues", "url": "https://en.wikipedia.org/wiki/My_21st_Century_Blues", "snippet": "BPI Gold; IFPI Danmark Platinum; Recorded Music NZ Platinum; Music Canada Gold"},
+        {"name": "ChartMasters", "url": "https://chartmasters.org/artist/?id=5KKpBU5eC2tJDzf0wmlRp2", "snippet": "My 21st Century Blues: 1.7B+ streams; Escapism: 1.27B streams"}
+      ]
+    }
+  ]
+}

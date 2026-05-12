@@ -1,0 +1,3618 @@
+[
+  {
+    "id": 1,
+    "artist": "Acid Pauli",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "German DJ/producer Martin Gretschmann performs eclectic DJ sets blending psychedelic techno, house, and world music polyrhythms. Known for dynamic, genre-hopping performances with mesmerizing visuals at clubs and festivals globally."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Resident Advisor",
+        "sourceUrl": "https://ra.co/dj/acidpauli/tour-dates",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "4 upcoming concerts in 2026 including Eletrico Festival Porto",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "German DJ/producer Martin Gretschmann performs eclectic DJ sets blending psychedelic techno, house, and world music polyrhythms. Known for dynamic, genre-hopping performances with mesmerizing visuals at clubs and festivals globally.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Resident Advisor",
+        "sourceUrl": "https://ra.co/dj/acidpauli/tour-dates",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "German DJ/producer Martin Gretschmann performs eclectic DJ sets blending psychedelic techno, house, ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "artist": "AfroRack",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Ugandan artist Brian Bamanya performs improvised live sets on The Afrorack, Africa's first DIY modular synthesizer. Shows blend African polyrhythms, techno, and acid house with workshops on DIY electronics."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 3,
+        "sourceName": "ZKM",
+        "sourceUrl": "https://zkm.de/en/persons/afrorack",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Regularly travels to showcase music, give workshops & talks",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Ugandan artist Brian Bamanya performs improvised live sets on The Afrorack, Africa's first DIY modular synthesizer. Shows blend African polyrhythms, techno, and acid house with workshops on DIY electronics.",
+        "status": "verified",
+        "confidence": 3,
+        "sourceName": "ZKM",
+        "sourceUrl": "https://zkm.de/en/persons/afrorack",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Ugandan artist Brian Bamanya performs improvised live sets on The Afrorack, Africa's first DIY modul...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "artist": "Air",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "French electronic duo performs in a minimalist 'White Box' stage with mirrored walls and projection surfaces, playing their Moon Safari album plus career highlights. Synthesizer stacks, guitars, and drums with cinematic visuals."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Pitchfork",
+        "sourceUrl": "https://pitchfork.com/news/air-add-north-american-dates-to-2025-moon-safari-tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2025 Moon Safari tour with full orchestra at Hollywood Bowl",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "French electronic duo performs in a minimalist 'White Box' stage with mirrored walls and projection surfaces, playing their Moon Safari album plus career highlights. Synthesizer stacks, guitars, and drums with cinematic visuals.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Pitchfork",
+        "sourceUrl": "https://pitchfork.com/news/air-add-north-american-dates-to-2025-moon-safari-tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "French electronic duo performs in a minimalist 'White Box' stage with mirrored walls and projection ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "artist": "Alva Noto",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "German electronic artist delivers minimalist audiovisual performances with glitch electronics, white noise, and sub-bass synchronized with scientific visualizations and LED installations. Also performs with Ensemble Modern."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Berliner Philharmoniker",
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/56481/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Live AV at Strom Festival, Feb 2026",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "German electronic artist delivers minimalist audiovisual performances with glitch electronics, white noise, and sub-bass synchronized with scientific visualizations and LED installations. Also performs with Ensemble Modern.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Berliner Philharmoniker",
+        "sourceUrl": "https://www.berliner-philharmoniker.de/en/concert/calendar/56481/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "German electronic artist delivers minimalist audiovisual performances with glitch electronics, white...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "artist": "Aphex Twin",
+    "updates": {
+      "livePerformance.frequency": "rarely",
+      "livePerformance.touringPackageDescription": "Richard D. James performs intense DJ/live sets blending ambient electronics, heavy techno, drum'n'bass with spectacular visual design including lasers and hypnotic visuals. Sets run 90-120 minutes. Very selective about appearances."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "rarely",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/251546-aphex-twin/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No concert dates scheduled in 2025 or 2026. Last concert Sep 2, 2023",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Richard D. James performs intense DJ/live sets blending ambient electronics, heavy techno, drum'n'bass with spectacular visual design including lasers and hypnotic visuals. Sets run 90-120 minutes. Very selective about appearances.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/251546-aphex-twin/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Richard D. James performs intense DJ/live sets blending ambient electronics, heavy techno, drum'n'ba...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "artist": "Arooj Aftab",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Pakistani-American composer performs intimate live shows blending Urdu-language vocals with jazz, ambient, and classical. 2026 tour features London Contemporary Orchestra at prestigious venues. Ensemble with guitar, flute, bass and drums."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Arooj Aftab Official",
+        "sourceUrl": "https://www.aroojaftab.com/tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "11 upcoming concerts in 2026 across 3 countries",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Pakistani-American composer performs intimate live shows blending Urdu-language vocals with jazz, ambient, and classical. 2026 tour features London Contemporary Orchestra at prestigious venues. Ensemble with guitar, flute, bass and drums.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Arooj Aftab Official",
+        "sourceUrl": "https://www.aroojaftab.com/tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Pakistani-American composer performs intimate live shows blending Urdu-language vocals with jazz, am...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "artist": "Bassnectar",
+    "updates": {
+      "livePerformance.frequency": "rarely",
+      "livePerformance.touringPackageDescription": "Announced end of hiatus in March 2026 but no official tour dates confirmed as of May 2026. Previously known for immersive shows with massive sound systems and elaborate visual production. Status uncertain."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "rarely",
+        "status": "verified",
+        "confidence": 3,
+        "sourceName": "EDM Tunes",
+        "sourceUrl": "https://www.edmtunes.com/2026/03/bassnectar-announces-the-end-of-his-hiatus/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "'2026 is a year of new beginnings' - no dates confirmed",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Announced end of hiatus in March 2026 but no official tour dates confirmed as of May 2026. Previously known for immersive shows with massive sound systems and elaborate visual production. Status uncertain.",
+        "status": "verified",
+        "confidence": 3,
+        "sourceName": "EDM Tunes",
+        "sourceUrl": "https://www.edmtunes.com/2026/03/bassnectar-announces-the-end-of-his-hiatus/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Announced end of hiatus in March 2026 but no official tour dates confirmed as of May 2026. Previousl...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "artist": "The Beatles",
+    "updates": {
+      "livePerformance.frequency": "retired",
+      "livePerformance.touringPackageDescription": "Disbanded in 1970. John Lennon (d. 1980) and George Harrison (d. 2001) deceased. The Beatles LOVE by Cirque du Soleil closed permanently July 2024. McCartney and Starr perform solo but not as The Beatles."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "retired",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Broke up in 1970. Two members deceased.",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Disbanded in 1970. John Lennon (d. 1980) and George Harrison (d. 2001) deceased. The Beatles LOVE by Cirque du Soleil closed permanently July 2024. McCartney and Starr perform solo but not as The Beatles.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Disbanded in 1970. John Lennon (d. 1980) and George Harrison (d. 2001) deceased. The Beatles LOVE by...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "artist": "Beyoncé",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Spectacular stadium productions with star-shaped stages, levitating platforms, mechanical bulls, pyrotechnics. Cowboy Carter Tour (2025) grossed $407.6M from 32 shows, breaking venue records. Three-hour shows with nine acts."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cowboy_Carter_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "32 concerts, grossed $407.6M from 1.6M tickets",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Spectacular stadium productions with star-shaped stages, levitating platforms, mechanical bulls, pyrotechnics. Cowboy Carter Tour (2025) grossed $407.6M from 32 shows, breaking venue records. Three-hour shows with nine acts.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cowboy_Carter_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spectacular stadium productions with star-shaped stages, levitating platforms, mechanical bulls, pyr...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "artist": "Bicep",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Full analogue synthesizer live AV show with bespoke visuals by Black Box Echo. Roland SH-101 synths, drum machines, hardware effects through guitar pedals. Blend album tracks with heavier club versions. First live show in 3 years scheduled Nov 2026."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Secret London",
+        "sourceUrl": "https://secretldn.com/bicep-live-london-royal-albert-hall-2026/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Royal Albert Hall show Nov 26, 2026 - first live show in 3 years",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Full analogue synthesizer live AV show with bespoke visuals by Black Box Echo. Roland SH-101 synths, drum machines, hardware effects through guitar pedals. Blend album tracks with heavier club versions. First live show in 3 years scheduled Nov 2026.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Secret London",
+        "sourceUrl": "https://secretldn.com/bicep-live-london-royal-albert-hall-2026/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Full analogue synthesizer live AV show with bespoke visuals by Black Box Echo. Roland SH-101 synths,...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "artist": "Billie Eilish",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Arena-scale in-the-round production with rectangular stage, cage-like metal cube, sunken live band pits, LED video floor, eight multimedia towers, pyrotechnics. Brother Finneas on instruments. Tours for each album cycle."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/billie-eilish-tickets/artist/2257710",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Hit Me Hard and Soft: The Tour - 20+ US arena dates",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Arena-scale in-the-round production with rectangular stage, cage-like metal cube, sunken live band pits, LED video floor, eight multimedia towers, pyrotechnics. Brother Finneas on instruments. Tours for each album cycle.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/billie-eilish-tickets/artist/2257710",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Arena-scale in-the-round production with rectangular stage, cage-like metal cube, sunken live band p...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "artist": "Björk",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Large-scale theatrical productions like Cornucopia featuring 50-person choir, 7-piece flute ensemble, bespoke instruments, custom acoustic reverb chamber. Digital visuals by Tobias Gremmler. Occasional DJ sets at cultural events."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cornucopia_(concert_tour)",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2019-2023 tour dates. No 2026 dates scheduled.",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Large-scale theatrical productions like Cornucopia featuring 50-person choir, 7-piece flute ensemble, bespoke instruments, custom acoustic reverb chamber. Digital visuals by Tobias Gremmler. Occasional DJ sets at cultural events.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cornucopia_(concert_tour)",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Large-scale theatrical productions like Cornucopia featuring 50-person choir, 7-piece flute ensemble...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "artist": "Bob Dylan",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Intimate phone-free seated theater shows on Rough and Rowdy Ways Tour. Dylan on piano with sparse stage and tight band. Setlists feature 2020 album plus reworked classics. Extensive schedule with dozens of dates."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Pollstar",
+        "sourceUrl": "https://news.pollstar.com/2025/12/08/bob-dylan-unveils-2026-rough-and-rowdy-ways-tour-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "28 shows across US kicking off March 2026",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Intimate phone-free seated theater shows on Rough and Rowdy Ways Tour. Dylan on piano with sparse stage and tight band. Setlists feature 2020 album plus reworked classics. Extensive schedule with dozens of dates.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Pollstar",
+        "sourceUrl": "https://news.pollstar.com/2025/12/08/bob-dylan-unveils-2026-rough-and-rowdy-ways-tour-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Intimate phone-free seated theater shows on Rough and Rowdy Ways Tour. Dylan on piano with sparse st...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "artist": "Bonobo",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Performs as live band with electronics, drums, guitar, bass, vocals and as solo DJ set. Live shows feature immersive visuals, LED screens, layered organic instrumentation. Regular festival appearances worldwide."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/258948-bonobo/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 dates: YARD Festival, 528 Ibiza, Marenostrum",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Performs as live band with electronics, drums, guitar, bass, vocals and as solo DJ set. Live shows feature immersive visuals, LED screens, layered organic instrumentation. Regular festival appearances worldwide.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/258948-bonobo/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Performs as live band with electronics, drums, guitar, bass, vocals and as solo DJ set. Live shows f...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "artist": "Brian Eno",
+    "updates": {
+      "livePerformance.frequency": "rarely",
+      "livePerformance.touringPackageDescription": "Extremely rare live performer. First solo tour in 2023 after 50+ year career. 'Ships' performances with 30-person Baltic Sea Philharmonic orchestra. Theatrical, immersive ambient-orchestral experience. No regular touring."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "rarely",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Consequence of Sound",
+        "sourceUrl": "https://consequence.net/2023/06/brian-eno-2023-solo-tour-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "First-ever solo live trek in 50+ year career. Seven European shows Oct 2023.",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Extremely rare live performer. First solo tour in 2023 after 50+ year career. 'Ships' performances with 30-person Baltic Sea Philharmonic orchestra. Theatrical, immersive ambient-orchestral experience. No regular touring.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Consequence of Sound",
+        "sourceUrl": "https://consequence.net/2023/06/brian-eno-2023-solo-tour-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Extremely rare live performer. First solo tour in 2023 after 50+ year career. 'Ships' performances w...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "artist": "Cardi B",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Arena-scale 'Little Miss Drama Tour' with dancers, moving carousel platforms, floating platform, crystal-encrusted wardrobe, twerk contests. High-energy rap with comedy and crowd interaction. 35-date arena run."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Miss_Drama_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "35 concerts Feb-Apr 2026, sold 453K tickets, grossed $70M",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Arena-scale 'Little Miss Drama Tour' with dancers, moving carousel platforms, floating platform, crystal-encrusted wardrobe, twerk contests. High-energy rap with comedy and crowd interaction. 35-date arena run.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Little_Miss_Drama_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Arena-scale 'Little Miss Drama Tour' with dancers, moving carousel platforms, floating platform, cry...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "artist": "Caribou",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Live four-piece electronic band with dual drummers, guitarist, bassist, synths, and immersive video projections with strobe lighting. Blends house, electronica, psychedelic elements. Festival and club appearances."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/130447-caribou/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 festival dates: Beyond the Pale, Piknik i Parken, SWG3",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Live four-piece electronic band with dual drummers, guitarist, bassist, synths, and immersive video projections with strobe lighting. Blends house, electronica, psychedelic elements. Festival and club appearances.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/130447-caribou/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Live four-piece electronic band with dual drummers, guitarist, bassist, synths, and immersive video ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "artist": "Carl Craig",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Detroit techno pioneer performing as DJ with deep eclectic sets spanning techno, ambient, jazz. Also performs live as '69' (live AV). Regular headliner at Movement Detroit, Ibiza, Nuits Sonores."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Resident Advisor",
+        "sourceUrl": "https://ra.co/dj/carlcraig/tour-dates",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 dates: Nuits Sonores, Movement Detroit",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Detroit techno pioneer performing as DJ with deep eclectic sets spanning techno, ambient, jazz. Also performs live as '69' (live AV). Regular headliner at Movement Detroit, Ibiza, Nuits Sonores.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Resident Advisor",
+        "sourceUrl": "https://ra.co/dj/carlcraig/tour-dates",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Detroit techno pioneer performing as DJ with deep eclectic sets spanning techno, ambient, jazz. Also...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "artist": "Channel Tres",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Club and theater shows with deep silky vocals, bass-heavy house beats, choreographed dancers. The Enigma Tour hits 25+ cities in 2026 with theatrical production including costume changes."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Live Nation",
+        "sourceUrl": "https://www.livenation.com/artist/K8vZ9179rl7/channel-tres-events",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The Enigma Tour - 25+ dates Aug-Sept 2026 across US and Canada",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Club and theater shows with deep silky vocals, bass-heavy house beats, choreographed dancers. The Enigma Tour hits 25+ cities in 2026 with theatrical production including costume changes.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Live Nation",
+        "sourceUrl": "https://www.livenation.com/artist/K8vZ9179rl7/channel-tres-events",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Club and theater shows with deep silky vocals, bass-heavy house beats, choreographed dancers. The En...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "artist": "Charli XCX",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Arena and festival performances with stark stage, cage structure, B-stage runway, video screens, voguers/dancers. No live band - backing tracks with choreographed dance. BRAT Tour 2024-2025: 36 shows across 12 countries."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brat_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "36 shows Nov 2024-Aug 2025 across Asia, Europe, North America, Oceania",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Arena and festival performances with stark stage, cage structure, B-stage runway, video screens, voguers/dancers. No live band - backing tracks with choreographed dance. BRAT Tour 2024-2025: 36 shows across 12 countries.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brat_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Arena and festival performances with stark stage, cage structure, B-stage runway, video screens, vog...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "artist": "The Chemical Brothers",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Large-scale arena and festival electronic live show with spectacular visual production by Adam Smith and Marcus Lyall. Massive LED screen with surreal CGI animations, dancers, giant robots, laser rig. 90-120 minute sets. Team of 18 tours the production."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ABC News Australia",
+        "sourceUrl": "https://www.abc.net.au/listen/doublej/music-reads/features/chemical-brothers-brisbane-australia-live-review-2024/103523624",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Team of 18 people to bring the show to Australia",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Large-scale arena and festival electronic live show with spectacular visual production by Adam Smith and Marcus Lyall. Massive LED screen with surreal CGI animations, dancers, giant robots, laser rig. 90-120 minute sets. Team of 18 tours the production.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "ABC News Australia",
+        "sourceUrl": "https://www.abc.net.au/listen/doublej/music-reads/features/chemical-brothers-brisbane-australia-live-review-2024/103523624",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Large-scale arena and festival electronic live show with spectacular visual production by Adam Smith...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "artist": "Christian Marclay",
+    "updates": {
+      "livePerformance.frequency": "none",
+      "livePerformance.touringPackageDescription": "Visual and sound artist whose practice centers on installations and video works like 'The Clock' (24-hour video installation). Live appearances are one-off collaborative performances at museums and galleries, not commercial touring. No regular live schedule."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "none",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "White Cube",
+        "sourceUrl": "https://white-cube.files.svdcdn.com/production/uploads/CVs/Christian-Marclay/Christian-Marclay-CV-May-2025.pdf",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Selected performances: occasional one-off events, not tours",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Visual and sound artist whose practice centers on installations and video works like 'The Clock' (24-hour video installation). Live appearances are one-off collaborative performances at museums and galleries, not commercial touring. No regular live schedule.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "White Cube",
+        "sourceUrl": "https://white-cube.files.svdcdn.com/production/uploads/CVs/Christian-Marclay/Christian-Marclay-CV-May-2025.pdf",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Visual and sound artist whose practice centers on installations and video works like 'The Clock' (24...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "artist": "Christina Kubisch",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Sound artist whose live appearances consist of sound installations, electro-acoustic compositions, and occasional performances. Known for 'Electrical Walks' where participants explore electromagnetic fields. Primarily installation artist exhibited in galleries and festivals."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Christina Kubisch Official",
+        "sourceUrl": "https://christinakubisch.de/news",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Echonance festival Amsterdam Feb 2026, Urban Sound Art Bonn",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Sound artist whose live appearances consist of sound installations, electro-acoustic compositions, and occasional performances. Known for 'Electrical Walks' where participants explore electromagnetic fields. Primarily installation artist exhibited in galleries and festivals.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Christina Kubisch Official",
+        "sourceUrl": "https://christinakubisch.de/news",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Sound artist whose live appearances consist of sound installations, electro-acoustic compositions, a...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "artist": "Christine Sun Kim",
+    "updates": {
+      "livePerformance.frequency": "none",
+      "livePerformance.touringPackageDescription": "Deaf sound and visual artist whose practice centers on drawings, video installations, sculptures, and murals. Explores sound as social/political phenomenon through ASL. Exhibited at Whitney Museum 2025, Walker Art Center 2026. Does not tour as performing musician."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "none",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Whitney Museum",
+        "sourceUrl": "https://whitney.org/exhibitions/christine-sun-kim-all-day-all-night",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Surveys Kim's entire artistic output from 2011 to 2026",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Deaf sound and visual artist whose practice centers on drawings, video installations, sculptures, and murals. Explores sound as social/political phenomenon through ASL. Exhibited at Whitney Museum 2025, Walker Art Center 2026. Does not tour as performing musician.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Whitney Museum",
+        "sourceUrl": "https://whitney.org/exhibitions/christine-sun-kim-all-day-all-night",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Deaf sound and visual artist whose practice centers on drawings, video installations, sculptures, an...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "artist": "Cigarettes After Sex",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Three-piece ambient pop band with reverb-heavy guitar, slow tempos, distinctive vocals. Minimalist shows with subtle black-and-white visuals, moody lighting, disco ball. 2024-2025 X's World Tour across Europe, North America, Asia, Australia."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/4114466-cigarettes-after-sex/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2025 tour dates in Asia confirming active touring",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Three-piece ambient pop band with reverb-heavy guitar, slow tempos, distinctive vocals. Minimalist shows with subtle black-and-white visuals, moody lighting, disco ball. 2024-2025 X's World Tour across Europe, North America, Asia, Australia.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/4114466-cigarettes-after-sex/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Three-piece ambient pop band with reverb-heavy guitar, slow tempos, distinctive vocals. Minimalist s...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "artist": "Colin Benders",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Dutch modular synthesizer artist performing live hardware electronic sets. Builds polyphenic, harmony-based pieces from scratch using modular system. Performed at Awakenings, Dekmantel, Le Guess Who?, ADE, Berghain. Unique improvised experiences."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Colin Benders Official",
+        "sourceUrl": "https://colinbenders.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Next show: May 8 2026, CLUB CIELOTERRA, Rome",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Dutch modular synthesizer artist performing live hardware electronic sets. Builds polyphenic, harmony-based pieces from scratch using modular system. Performed at Awakenings, Dekmantel, Le Guess Who?, ADE, Berghain. Unique improvised experiences.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Colin Benders Official",
+        "sourceUrl": "https://colinbenders.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dutch modular synthesizer artist performing live hardware electronic sets. Builds polyphenic, harmon...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "artist": "DARKSIDE",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Trio featuring Nicolas Jaar, Dave Harrington, Tlacael Esparza. Immersive 90-min to 2-hour experimental electronic rock show in darkness with minimal lighting. Dark dubby instrumentals, psychedelic elements, improvisational jams. 2026 residencies in LA, Paris, London, NYC."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Matador Records",
+        "sourceUrl": "https://matadorrecords.com/blogs/news/darkside-2026-residencies",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 residencies at Lodge Room LA, Paris, London, NYC",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Trio featuring Nicolas Jaar, Dave Harrington, Tlacael Esparza. Immersive 90-min to 2-hour experimental electronic rock show in darkness with minimal lighting. Dark dubby instrumentals, psychedelic elements, improvisational jams. 2026 residencies in LA, Paris, London, NYC.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Matador Records",
+        "sourceUrl": "https://matadorrecords.com/blogs/news/darkside-2026-residencies",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Trio featuring Nicolas Jaar, Dave Harrington, Tlacael Esparza. Immersive 90-min to 2-hour experiment...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Performs Eurythmics Songbook with all-female band of eight musicians featuring Vanessa Amorosi on vocals. 60-90 min set of hits: Sweet Dreams, Here Comes the Rain Again, Would I Lie to You? 60+ shows across US and Europe 2023-2025."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Surfdog Records",
+        "sourceUrl": "https://surfdog.com/dave-stewart-announces-summer-2025-european-tour-dave-stewart-eurythmics-featuring-vanessa-amorosi/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "60+ shows across US and Europe with all-female band",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Performs Eurythmics Songbook with all-female band of eight musicians featuring Vanessa Amorosi on vocals. 60-90 min set of hits: Sweet Dreams, Here Comes the Rain Again, Would I Lie to You? 60+ shows across US and Europe 2023-2025.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Surfdog Records",
+        "sourceUrl": "https://surfdog.com/dave-stewart-announces-summer-2025-european-tour-dave-stewart-eurythmics-featuring-vanessa-amorosi/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Performs Eurythmics Songbook with all-female band of eight musicians featuring Vanessa Amorosi on vo...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "artist": "David Sheppard",
+    "updates": {
+      "livePerformance.frequency": "rarely",
+      "livePerformance.touringPackageDescription": "Studio-based musician, music journalist, and author (Brian Eno biography). Projects include State River Widening, Ellis Island Sound, Snow Palms. Occasional live performances including Purcell Room debut. Focus on recording, writing, journalism."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "rarely",
+        "status": "verified",
+        "confidence": 3,
+        "sourceName": "Village Green Recordings",
+        "sourceUrl": "https://villagegreenrecordings.co.uk/artists/snow-palms",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "First live gig at Purcell Room; lockdown scuppered more shows",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Studio-based musician, music journalist, and author (Brian Eno biography). Projects include State River Widening, Ellis Island Sound, Snow Palms. Occasional live performances including Purcell Room debut. Focus on recording, writing, journalism.",
+        "status": "verified",
+        "confidence": 3,
+        "sourceName": "Village Green Recordings",
+        "sourceUrl": "https://villagegreenrecordings.co.uk/artists/snow-palms",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Studio-based musician, music journalist, and author (Brian Eno biography). Projects include State Ri...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "artist": "deadmau5",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "DJ/live electronic producer with signature Cube V3 production, custom LED visuals, iconic mau5head. Progressive house, electro, techno. Regular Las Vegas residencies at XS Nightclub, festival headline slots. 2026: Red Rocks, festival dates, club shows."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "deadmau5 Official",
+        "sourceUrl": "https://deadmau5.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 dates: Kx5, XS Nightclub, Red Rocks Amphitheatre",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "DJ/live electronic producer with signature Cube V3 production, custom LED visuals, iconic mau5head. Progressive house, electro, techno. Regular Las Vegas residencies at XS Nightclub, festival headline slots. 2026: Red Rocks, festival dates, club shows.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "deadmau5 Official",
+        "sourceUrl": "https://deadmau5.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "DJ/live electronic producer with signature Cube V3 production, custom LED visuals, iconic mau5head. ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "artist": "DeLaurentis",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Avant-garde immersive audiovisual performance merging electronic music with 360° spatial audio, ERAE controllers, Sony AI tools, IRCAM Virtual Choir. Sensorial experience at crossroads of concert and art installation. Touring France and Great Britain."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Bandsintown",
+        "sourceUrl": "https://www.bandsintown.com/a/7267030-delaurentis",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "360° spatial audio, IRCAM Virtual Choir, French Tech",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Avant-garde immersive audiovisual performance merging electronic music with 360° spatial audio, ERAE controllers, Sony AI tools, IRCAM Virtual Choir. Sensorial experience at crossroads of concert and art installation. Touring France and Great Britain.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Bandsintown",
+        "sourceUrl": "https://www.bandsintown.com/a/7267030-delaurentis",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Avant-garde immersive audiovisual performance merging electronic music with 360° spatial audio, ERAE...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "artist": "Ellie Goulding",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Versatile pop singer performing intimate acoustic sets to full arena shows. Recent acoustic sets with pianist, guitarist, violinists. Selectively performs at special events and festivals rather than extensive tours. One 2026 show at BBC Radio 1 Big Weekend."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/2332047-ellie-goulding",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Only one 2026 show scheduled: BBC Radio 1 Big Weekend May 23",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Versatile pop singer performing intimate acoustic sets to full arena shows. Recent acoustic sets with pianist, guitarist, violinists. Selectively performs at special events and festivals rather than extensive tours. One 2026 show at BBC Radio 1 Big Weekend.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/2332047-ellie-goulding",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Versatile pop singer performing intimate acoustic sets to full arena shows. Recent acoustic sets wit...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "artist": "Eurythmics",
+    "updates": {
+      "livePerformance.frequency": "rarely",
+      "livePerformance.touringPackageDescription": "Original duo no longer tours together. Annie Lennox retired from live performance. Dave Stewart performs 'Eurythmics Songbook' with Vanessa Amorosi and all-female band. 60+ shows across US and Europe since 2023. Not the original duo live."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "rarely",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Noise11",
+        "sourceUrl": "https://www.noise11.com/news/dave-stewart-to-tour-eurythmics-with-vanessa-amorosi-on-vocals-again-20250526",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Annie Lennox no longer tours; Dave Stewart tours with Vanessa Amorosi",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Original duo no longer tours together. Annie Lennox retired from live performance. Dave Stewart performs 'Eurythmics Songbook' with Vanessa Amorosi and all-female band. 60+ shows across US and Europe since 2023. Not the original duo live.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Noise11",
+        "sourceUrl": "https://www.noise11.com/news/dave-stewart-to-tour-eurythmics-with-vanessa-amorosi-on-vocals-again-20250526",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Original duo no longer tours together. Annie Lennox retired from live performance. Dave Stewart perf...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "artist": "Excision",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "One of the most active bass music producers. Massive-scale dubstep/riddim with extraordinary production: lasers, LED screens, cryo tanks, shapeshifting flames. Headlines own festivals (Lost Lands, Bass Canyon). 2026: dozens of dates across North America."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Excision Official",
+        "sourceUrl": "https://excision.ca/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 dates: ILLfest, Bass Canyon, Lost Lands, Shambhala",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "One of the most active bass music producers. Massive-scale dubstep/riddim with extraordinary production: lasers, LED screens, cryo tanks, shapeshifting flames. Headlines own festivals (Lost Lands, Bass Canyon). 2026: dozens of dates across North America.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Excision Official",
+        "sourceUrl": "https://excision.ca/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "One of the most active bass music producers. Massive-scale dubstep/riddim with extraordinary product...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "artist": "Fatboy Slim",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Iconic UK DJ celebrating 40 years in music. 'Acid Ballroom' UK tour Feb 2026: 8 dates with residencies at Alexandra Palace and Barrowland. Prolific festival draw, played 100th Glastonbury set June 2025. High-energy DJ sets."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Gigs and Tours",
+        "sourceUrl": "https://www.gigsandtours.com/news/fatboy-slim-announces-acid-ballroom-uk-headline-tour-february-2026/5904",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "8-date UK tour Feb 2026, 40 years in music",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Iconic UK DJ celebrating 40 years in music. 'Acid Ballroom' UK tour Feb 2026: 8 dates with residencies at Alexandra Palace and Barrowland. Prolific festival draw, played 100th Glastonbury set June 2025. High-energy DJ sets.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Gigs and Tours",
+        "sourceUrl": "https://www.gigsandtours.com/news/fatboy-slim-announces-acid-ballroom-uk-headline-tour-february-2026/5904",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Iconic UK DJ celebrating 40 years in music. 'Acid Ballroom' UK tour Feb 2026: 8 dates with residenci...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "artist": "FKA twigs",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Currently on 'Body High Tour 2026' - biggest headlining tour to date: 21 arena/theater shows across North America and Europe. Theatrical, immersive experience combining live vocals with dance choreography, pole artistry, martial arts, vogueing, opera."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Body_High_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "21 shows across North America and Europe",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Currently on 'Body High Tour 2026' - biggest headlining tour to date: 21 arena/theater shows across North America and Europe. Theatrical, immersive experience combining live vocals with dance choreography, pole artistry, martial arts, vogueing, opera.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Body_High_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Currently on 'Body High Tour 2026' - biggest headlining tour to date: 21 arena/theater shows across ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "artist": "Floating Points",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Performs occasionally as live electronic act and DJ at select festivals and clubs. Blends jazz, electronic, classical. Long genre-spanning DJ sets and live band performances. 2026: Brockwell Park Brixton, Rainbow Disco Club Japan."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 3,
+        "sourceName": "Dork",
+        "sourceUrl": "https://readdork.com/artists/floating-points/tickets",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Brockwell Park Brixton May 23, 2026",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Performs occasionally as live electronic act and DJ at select festivals and clubs. Blends jazz, electronic, classical. Long genre-spanning DJ sets and live band performances. 2026: Brockwell Park Brixton, Rainbow Disco Club Japan.",
+        "status": "verified",
+        "confidence": 3,
+        "sourceName": "Dork",
+        "sourceUrl": "https://readdork.com/artists/floating-points/tickets",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Performs occasionally as live electronic act and DJ at select festivals and clubs. Blends jazz, elec...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "artist": "Flying Lotus",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Groundbreaking immersive A/V shows with experimental hip-hop, jazz, electronic. Stereoscopic 3D LED technology (audiences wear 3D glasses), custom DJ booths, real-time visuals by Timeboy/Strangeloop. Shows at Carnegie Hall, Sydney Opera House."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Timeboy Studio",
+        "sourceUrl": "https://www.timeboystudio.com/flying-lotus",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "3D LED technology, shows at Sydney Opera House and Carnegie Hall",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Groundbreaking immersive A/V shows with experimental hip-hop, jazz, electronic. Stereoscopic 3D LED technology (audiences wear 3D glasses), custom DJ booths, real-time visuals by Timeboy/Strangeloop. Shows at Carnegie Hall, Sydney Opera House.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Timeboy Studio",
+        "sourceUrl": "https://www.timeboystudio.com/flying-lotus",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Groundbreaking immersive A/V shows with experimental hip-hop, jazz, electronic. Stereoscopic 3D LED ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "artist": "Four Tet",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Prolific live performer with extended DJ sets blending own productions with eclectic selections. Ranges from intimate clubs to large-scale events. Multi-night residencies. 2026: Mission Ballroom, Way Out West, Bonnaroo, Piknic Electronik."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Resident Advisor",
+        "sourceUrl": "https://ra.co/dj/fourtet/tour-dates",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026: Piknic Electronik, KappaFuturFestival",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Prolific live performer with extended DJ sets blending own productions with eclectic selections. Ranges from intimate clubs to large-scale events. Multi-night residencies. 2026: Mission Ballroom, Way Out West, Bonnaroo, Piknic Electronik.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Resident Advisor",
+        "sourceUrl": "https://ra.co/dj/fourtet/tour-dates",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Prolific live performer with extended DJ sets blending own productions with eclectic selections. Ran...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "artist": "Fred Again..",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Innovative 'USB' residency-style tours releasing new tracks weekly. USB002 tour (Oct 2025-Feb 2026): 15+ shows across 7 countries with residencies at East End Studios NYC and Alexandra Palace London. Collaborative DJ-style with surprise guests."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "DJ Mag",
+        "sourceUrl": "https://djmag.com/news/fred-again-extends-usb002-tour-10-shows-new-york-and-london",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "USB002: 6 shows at East End Studios, 4 nights at Alexandra Palace",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Innovative 'USB' residency-style tours releasing new tracks weekly. USB002 tour (Oct 2025-Feb 2026): 15+ shows across 7 countries with residencies at East End Studios NYC and Alexandra Palace London. Collaborative DJ-style with surprise guests.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "DJ Mag",
+        "sourceUrl": "https://djmag.com/news/fred-again-extends-usb002-tour-10-shows-new-york-and-london",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Innovative 'USB' residency-style tours releasing new tracks weekly. USB002 tour (Oct 2025-Feb 2026):...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "artist": "Future",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Arena-scale rap performances with high-energy shows featuring hits from extensive catalog. Major 2024 arena tour across North America. Regular festival appearances. Elaborate stage production with pyrotechnics and visual effects."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/future-tickets/artist/1488424",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Regular touring with arena shows and festival slots",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Arena-scale rap performances with high-energy shows featuring hits from extensive catalog. Major 2024 arena tour across North America. Regular festival appearances. Elaborate stage production with pyrotechnics and visual effects.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/future-tickets/artist/1488424",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Arena-scale rap performances with high-energy shows featuring hits from extensive catalog. Major 202...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "artist": "Gold Panda",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Electronic producer performing live hardware sets and DJ performances. Intimate club shows blending ambient, electronic, and sample-based music. Infrequent touring schedule with select festival and club appearances."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/2271719-gold-panda",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Occasional live dates, select festival appearances",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Electronic producer performing live hardware sets and DJ performances. Intimate club shows blending ambient, electronic, and sample-based music. Infrequent touring schedule with select festival and club appearances.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/2271719-gold-panda",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Electronic producer performing live hardware sets and DJ performances. Intimate club shows blending ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "artist": "Gorillaz",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Major 22-date North American arena tour announced for fall 2026 plus European dates. Damon Albarn's virtual band features animated members on massive screens with live musicians. Theatrical production blending cartoon narrative with live performance."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/460481-gorillaz",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "22-date North American arena tour fall 2026",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Major 22-date North American arena tour announced for fall 2026 plus European dates. Damon Albarn's virtual band features animated members on massive screens with live musicians. Theatrical production blending cartoon narrative with live performance.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/460481-gorillaz",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Major 22-date North American arena tour announced for fall 2026 plus European dates. Damon Albarn's ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "artist": "Grandbrothers",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "German piano/electronic duo performing with prepared piano and live electronics. Intimate shows blending classical piano with electronic processing. Select European festival and club dates. Occasional touring schedule."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/8555914-grandbrothers",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Select European festival dates",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "German piano/electronic duo performing with prepared piano and live electronics. Intimate shows blending classical piano with electronic processing. Select European festival and club dates. Occasional touring schedule.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/8555914-grandbrothers",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "German piano/electronic duo performing with prepared piano and live electronics. Intimate shows blen...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "artist": "Grimes",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Theatrical live performances blending electronic pop with visual art and elaborate stage production. Occasional festival appearances and one-off shows. Shows feature live vocals over electronic production with dancers and visual effects."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/3572846-grimes",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Occasional live dates and festival appearances",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Theatrical live performances blending electronic pop with visual art and elaborate stage production. Occasional festival appearances and one-off shows. Shows feature live vocals over electronic production with dancers and visual effects.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/3572846-grimes",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Theatrical live performances blending electronic pop with visual art and elaborate stage production....",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "artist": "Halina Rice",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Electronic artist/producer performing immersive A/V shows across the UK. Live electronic sets with original productions and visual elements. Multiple 2026 tour dates confirmed. Blend of ambient, techno, and melodic electronics."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Halina Rice Official",
+        "sourceUrl": "https://www.halinamusic.com/tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Multiple 2026 UK tour dates confirmed",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Electronic artist/producer performing immersive A/V shows across the UK. Live electronic sets with original productions and visual elements. Multiple 2026 tour dates confirmed. Blend of ambient, techno, and melodic electronics.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Halina Rice Official",
+        "sourceUrl": "https://www.halinamusic.com/tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Electronic artist/producer performing immersive A/V shows across the UK. Live electronic sets with o...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "artist": "Halsey",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Theatrical arena and amphitheater shows with full live band, elaborate costumes, and visual storytelling. 'Back to Badlands' international tour Oct 2025-Feb 2026: 36 shows. High-energy pop with dramatic stage production."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/7943443-halsey",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Back to Badlands Tour: 36 shows Oct 2025-Feb 2026",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Theatrical arena and amphitheater shows with full live band, elaborate costumes, and visual storytelling. 'Back to Badlands' international tour Oct 2025-Feb 2026: 36 shows. High-energy pop with dramatic stage production.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/7943443-halsey",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Theatrical arena and amphitheater shows with full live band, elaborate costumes, and visual storytel...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "artist": "Hania Rani",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Polish pianist/composer performing solo and with orchestras at prestigious venues. 2025/2026 season includes Sydney Opera House, major European concert halls. Blend of classical piano, ambient electronics, and orchestral arrangements."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9120414-hania-rani",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Regular 2025/2026 dates including Sydney Opera House",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Polish pianist/composer performing solo and with orchestras at prestigious venues. 2025/2026 season includes Sydney Opera House, major European concert halls. Blend of classical piano, ambient electronics, and orchestral arrangements.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9120414-hania-rani",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Polish pianist/composer performing solo and with orchestras at prestigious venues. 2025/2026 season ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "artist": "Haroon Mirza",
+    "updates": {
+      "livePerformance.frequency": "none",
+      "livePerformance.touringPackageDescription": "British-Pakistani sound/visual artist creating installations, not performing music live. Gallery-based practice at Lisson Gallery and major museums. Works with sound, light, and electronics in exhibition contexts."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "none",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Lisson Gallery",
+        "sourceUrl": "https://www.lissongallery.com/artists/haroon-mirza",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Gallery-based sound/visual artist, not a live performer",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "British-Pakistani sound/visual artist creating installations, not performing music live. Gallery-based practice at Lisson Gallery and major museums. Works with sound, light, and electronics in exhibition contexts.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Lisson Gallery",
+        "sourceUrl": "https://www.lissongallery.com/artists/haroon-mirza",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "British-Pakistani sound/visual artist creating installations, not performing music live. Gallery-bas...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "artist": "Holly Herndon",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Experimental electronic/AI music artist performing audiovisual installations with AI-powered participatory elements. Gallery exhibitions like 'The Call' at Serpentine and 'Starmirror' at KW Berlin. Live AI choir training, immersive sound/light installations."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2024/10/04/all-together-now-artists-holly-herndon-and-mat-dryhurst-ai-choir-serpentine",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "AI installation with organ-like Hearth instrument at Serpentine",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Experimental electronic/AI music artist performing audiovisual installations with AI-powered participatory elements. Gallery exhibitions like 'The Call' at Serpentine and 'Starmirror' at KW Berlin. Live AI choir training, immersive sound/light installations.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2024/10/04/all-together-now-artists-holly-herndon-and-mat-dryhurst-ai-choir-serpentine",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Experimental electronic/AI music artist performing audiovisual installations with AI-powered partici...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "artist": "Ian Dearden",
+    "updates": {
+      "livePerformance.frequency": "none",
+      "livePerformance.touringPackageDescription": "Sound designer and co-founder of Sound Intermedia. Creates sound designs for opera and theatre including Royal Opera House, English National Opera. Not a live performing artist."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "none",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Irish National Opera",
+        "sourceUrl": "https://www.irishnationalopera.ie/about/artistic-partners/artists/ian-dearden",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Sound designer for opera, not a live performer",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Sound designer and co-founder of Sound Intermedia. Creates sound designs for opera and theatre including Royal Opera House, English National Opera. Not a live performing artist.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Irish National Opera",
+        "sourceUrl": "https://www.irishnationalopera.ie/about/artistic-partners/artists/ian-dearden",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Sound designer and co-founder of Sound Intermedia. Creates sound designs for opera and theatre inclu...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "artist": "Igor Levit",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Russian-German classical pianist performing solo recitals at major concert halls worldwide. 2025/26 season: Elbphilharmonie Hamburg, Carnegie Hall, Theatre des Champs-Elysees Paris. Marathon recitals of substantial works."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Shriver Concerts",
+        "sourceUrl": "https://www.shriverconcerts.org/levit",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2025/26 season across major world venues",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Russian-German classical pianist performing solo recitals at major concert halls worldwide. 2025/26 season: Elbphilharmonie Hamburg, Carnegie Hall, Theatre des Champs-Elysees Paris. Marathon recitals of substantial works.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Shriver Concerts",
+        "sourceUrl": "https://www.shriverconcerts.org/levit",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Russian-German classical pianist performing solo recitals at major concert halls worldwide. 2025/26 ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "artist": "James Blake",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Live electronic artist blending solo production with live instrumentation. 2026 'Trying Times' tour: 10 dates across North America plus October European dates. Mixing and remixing tracks on stage with keyboards, piano, electronic equipment."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "James Blake Official",
+        "sourceUrl": "https://jamesblakemusic.com/tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "May-June 2026 North American tour, October European dates",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Live electronic artist blending solo production with live instrumentation. 2026 'Trying Times' tour: 10 dates across North America plus October European dates. Mixing and remixing tracks on stage with keyboards, piano, electronic equipment.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "James Blake Official",
+        "sourceUrl": "https://jamesblakemusic.com/tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Live electronic artist blending solo production with live instrumentation. 2026 'Trying Times' tour:...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "artist": "Jamie xx",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Solo electronic artist performing DJ and live electronic sets spanning UK garage, jungle, house. 2026: unprecedented 30+ show residency at Madison Square Garden with Harry Styles. Extensive 2024-2025 'In Waves' international tour."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Jamie xx Official",
+        "sourceUrl": "https://www.jamiexx.com/tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "30+ show MSG residency with Harry Styles through Oct 2026",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Solo electronic artist performing DJ and live electronic sets spanning UK garage, jungle, house. 2026: unprecedented 30+ show residency at Madison Square Garden with Harry Styles. Extensive 2024-2025 'In Waves' international tour.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Jamie xx Official",
+        "sourceUrl": "https://www.jamiexx.com/tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Solo electronic artist performing DJ and live electronic sets spanning UK garage, jungle, house. 202...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "artist": "Janelle Monáe",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Theatrical, high-energy shows blending funk, soul, R&B, pop with elaborate choreography, costume changes, visual storytelling. Full live band and backup dancers. 2026 dates: San Francisco, Newark. 2025: major festivals."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Janelle Monáe Official",
+        "sourceUrl": "https://www.jmonae.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 dates: Jun 4 San Francisco, Jun 17 Newark",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Theatrical, high-energy shows blending funk, soul, R&B, pop with elaborate choreography, costume changes, visual storytelling. Full live band and backup dancers. 2026 dates: San Francisco, Newark. 2025: major festivals.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Janelle Monáe Official",
+        "sourceUrl": "https://www.jmonae.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Theatrical, high-energy shows blending funk, soul, R&B, pop with elaborate choreography, costume cha...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "artist": "Jennifer Walshe",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Contemporary classical composer and experimental vocalist. Interdisciplinary theatrical events combining extended vocal techniques, electronic music, AI-generated content, video. 2026: 'The Alonetimes' at Fondation Cartier Paris, Musica Festival Strasbourg."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Philip Venables",
+        "sourceUrl": "https://philipvenables.com/2025/10/30/the-alonetimes-with-jennifer-walshe-and-fondation-cartier/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Premiering at Fondation Cartier Paris April 2026",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Contemporary classical composer and experimental vocalist. Interdisciplinary theatrical events combining extended vocal techniques, electronic music, AI-generated content, video. 2026: 'The Alonetimes' at Fondation Cartier Paris, Musica Festival Strasbourg.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Philip Venables",
+        "sourceUrl": "https://philipvenables.com/2025/10/30/the-alonetimes-with-jennifer-walshe-and-fondation-cartier/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Contemporary classical composer and experimental vocalist. Interdisciplinary theatrical events combi...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "artist": "Jon Hopkins",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Live electronic music alternating between ambient piano and dancefloor techno. Blends live keyboard and piano with electronic production and immersive visuals. 2026: Southbank Centre London, Dublin. Limited dates."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Jon Hopkins Official",
+        "sourceUrl": "https://jonhopkins.co.uk/shows",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "June 2026 London, November 2026 Dublin",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Live electronic music alternating between ambient piano and dancefloor techno. Blends live keyboard and piano with electronic production and immersive visuals. 2026: Southbank Centre London, Dublin. Limited dates.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Jon Hopkins Official",
+        "sourceUrl": "https://jonhopkins.co.uk/shows",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Live electronic music alternating between ambient piano and dancefloor techno. Blends live keyboard ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "artist": "Jorja Smith",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Soulful R&B/neo-soul with full band of 6-8 musicians including backup singers and percussionists. 2026: 20 upcoming concerts across 12 countries including BBC Radio 1 Big Weekend, All Points East. Powerful vocals, emotive songwriting."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/8715239-jorja-smith/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "20 upcoming concerts across 12 countries in 2026",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Soulful R&B/neo-soul with full band of 6-8 musicians including backup singers and percussionists. 2026: 20 upcoming concerts across 12 countries including BBC Radio 1 Big Weekend, All Points East. Powerful vocals, emotive songwriting.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/8715239-jorja-smith/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Soulful R&B/neo-soul with full band of 6-8 musicians including backup singers and percussionists. 20...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "artist": "Justin Gray",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Bassist and bandleader with Justin Gray & Synthesis ensemble blending Indian classical, jazz, R&B, electronic. Plays custom bass veena. Intimate chamber concerts in small venues. Primarily recording artist, producer, engineer."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Caledon Chamber Concerts",
+        "sourceUrl": "https://caledonchamberconcerts.com/event/justin-gray-synthesis/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Chamber concert March 2026 at St. James Church",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Bassist and bandleader with Justin Gray & Synthesis ensemble blending Indian classical, jazz, R&B, electronic. Plays custom bass veena. Intimate chamber concerts in small venues. Primarily recording artist, producer, engineer.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Caledon Chamber Concerts",
+        "sourceUrl": "https://caledonchamberconcerts.com/event/justin-gray-synthesis/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Bassist and bandleader with Justin Gray & Synthesis ensemble blending Indian classical, jazz, R&B, e...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "artist": "Kaitlyn Aurelia Smith",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Immersive electronic music on Buchla modular synthesizer blending synthesized textures with orchestral elements. 2026: Barbican with London Contemporary Orchestra, Brooklyn at Elsewhere. Intimate, contemplative experiences."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kaitlyn Aurelia Smith Official",
+        "sourceUrl": "https://kaitlynaureliasmith.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "May 2026 Barbican with LCO, April 2026 Brooklyn",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Immersive electronic music on Buchla modular synthesizer blending synthesized textures with orchestral elements. 2026: Barbican with London Contemporary Orchestra, Brooklyn at Elsewhere. Intimate, contemplative experiences.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kaitlyn Aurelia Smith Official",
+        "sourceUrl": "https://kaitlynaureliasmith.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Immersive electronic music on Buchla modular synthesizer blending synthesized textures with orchestr...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "artist": "Karlheinz Stockhausen",
+    "updates": {
+      "livePerformance.frequency": "retired",
+      "livePerformance.touringPackageDescription": "German composer died in 2007. Estate-managed Stockhausen Foundation organizes regular performances of his works worldwide including LICHT opera cycle, HELIKOPTER-STREICHQUARTETT. Performed by classical ensembles and orchestras in concert halls."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "retired",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Stockhausen Official",
+        "sourceUrl": "https://www.karlheinzstockhausen.org/Auffuhrungen_Performances_english.htm",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 performances: KONTAKTE, TIERKREIS, GRUPPEN, HELIKOPTER-STREICHQUARTETT",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "German composer died in 2007. Estate-managed Stockhausen Foundation organizes regular performances of his works worldwide including LICHT opera cycle, HELIKOPTER-STREICHQUARTETT. Performed by classical ensembles and orchestras in concert halls.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Stockhausen Official",
+        "sourceUrl": "https://www.karlheinzstockhausen.org/Auffuhrungen_Performances_english.htm",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "German composer died in 2007. Estate-managed Stockhausen Foundation organizes regular performances o...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "artist": "Kelela",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Intimate to mid-size venue shows with crystalline vocals over club-ready electronic productions. Live band with keyboards, harp, backing vocalists. Stripped-back sets at Blue Note Jazz Club. No current 2026 dates but has toured actively."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kelela Official",
+        "sourceUrl": "https://www.kelela.co/tour-dates",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No upcoming shows currently listed",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Intimate to mid-size venue shows with crystalline vocals over club-ready electronic productions. Live band with keyboards, harp, backing vocalists. Stripped-back sets at Blue Note Jazz Club. No current 2026 dates but has toured actively.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Kelela Official",
+        "sourceUrl": "https://www.kelela.co/tour-dates",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Intimate to mid-size venue shows with crystalline vocals over club-ready electronic productions. Liv...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "artist": "Kelly Lee Owens",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Solo electronic live show from center stage with two synth decks and central microphone. Dreamstate tour with immersive lighting, projected words, bold silhouettes. Blends melodic techno, ambient electronica, angelic vocals. Multiple 2026 dates."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kelly Lee Owens Official",
+        "sourceUrl": "https://www.kellyleeowens.com/tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026: Brighton, Manchester, Derry and more dates",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Solo electronic live show from center stage with two synth decks and central microphone. Dreamstate tour with immersive lighting, projected words, bold silhouettes. Blends melodic techno, ambient electronica, angelic vocals. Multiple 2026 dates.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Kelly Lee Owens Official",
+        "sourceUrl": "https://www.kellyleeowens.com/tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Solo electronic live show from center stage with two synth decks and central microphone. Dreamstate ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "artist": "Kiasmos",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Duo at facing L-shaped decks with keyboards, Ableton Live, MIDI controllers. Visual projections and light programming. Arnalds' minimal piano/strings with Rasmussen's techno beats. 2025 world tour across Europe, Australia, NZ, Japan."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Grains",
+        "sourceUrl": "https://www.grainsmusic.com/articles/kiasmos-embark-on-world-tour-275808",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "International shows summer 2025, spatial audio at Polygon Live",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Duo at facing L-shaped decks with keyboards, Ableton Live, MIDI controllers. Visual projections and light programming. Arnalds' minimal piano/strings with Rasmussen's techno beats. 2025 world tour across Europe, Australia, NZ, Japan.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Grains",
+        "sourceUrl": "https://www.grainsmusic.com/articles/kiasmos-embark-on-world-tour-275808",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Duo at facing L-shaped decks with keyboards, Ableton Live, MIDI controllers. Visual projections and ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "artist": "Kraftwerk",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Multimedia Tour with four members at individual synthesizer podiums before massive cinema screen with synchronized 3D visuals. Ralf Hutter leads on synths and vocals through headset mic. Two-hour show of electronic classics with stunning A/V spectacle."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "LiveNation",
+        "sourceUrl": "https://www.livenation.com/artist/K8vZ9171CNV/kraftwerk-events",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026: Seoul, Hong Kong, Singapore, Manchester, Glasgow, Edinburgh",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Multimedia Tour with four members at individual synthesizer podiums before massive cinema screen with synchronized 3D visuals. Ralf Hutter leads on synths and vocals through headset mic. Two-hour show of electronic classics with stunning A/V spectacle.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "LiveNation",
+        "sourceUrl": "https://www.livenation.com/artist/K8vZ9171CNV/kraftwerk-events",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Multimedia Tour with four members at individual synthesizer podiums before massive cinema screen wit...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "artist": "Lana Del Rey",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Arena and stadium shows with full band, string section, hologram interludes. 2025 UK/Ireland tour including Wembley Stadium. Extended intros, costume changes, surprise guests. Occasional performer rather than extensive touring."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Lana Del Rey Wiki",
+        "sourceUrl": "https://lanadelrey.fandom.com/wiki/2025_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2025 tour: Stagecoach, Wembley Stadium, Harvest Moon Gathering",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Arena and stadium shows with full band, string section, hologram interludes. 2025 UK/Ireland tour including Wembley Stadium. Extended intros, costume changes, surprise guests. Occasional performer rather than extensive touring.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Lana Del Rey Wiki",
+        "sourceUrl": "https://lanadelrey.fandom.com/wiki/2025_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Arena and stadium shows with full band, string section, hologram interludes. 2025 UK/Ireland tour in...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "artist": "Madame Gandhi",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Multidisciplinary performances combining live drumming, electronic production, rapping, spoken word activism. Hand drums, Ableton looping, synchronized beats with feminist discourse. Festivals, activist events, UN General Assembly."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Madame Gandhi Blog",
+        "sourceUrl": "https://madamegandhi.blog/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2025: Felabration, ADE, Echoes of Earth, UN General Assembly, MUTEK",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Multidisciplinary performances combining live drumming, electronic production, rapping, spoken word activism. Hand drums, Ableton looping, synchronized beats with feminist discourse. Festivals, activist events, UN General Assembly.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Madame Gandhi Blog",
+        "sourceUrl": "https://madamegandhi.blog/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Multidisciplinary performances combining live drumming, electronic production, rapping, spoken word ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "artist": "Mat Dryhurst",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Performs as part of Holly Herndon & Mat Dryhurst duo presenting A/V installations and AI-powered participatory performances. Gallery exhibitions at Serpentine, KW Berlin. Live AI choir training, GPU-powered instruments. Not traditional concerts."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "KW Berlin",
+        "sourceUrl": "https://www.kw-berlin.de/en/exhibitions/holly-herndon-and-mat-dryhurst-starmirror",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Immersive sound and light installation with Hearth instrument",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Performs as part of Holly Herndon & Mat Dryhurst duo presenting A/V installations and AI-powered participatory performances. Gallery exhibitions at Serpentine, KW Berlin. Live AI choir training, GPU-powered instruments. Not traditional concerts.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "KW Berlin",
+        "sourceUrl": "https://www.kw-berlin.de/en/exhibitions/holly-herndon-and-mat-dryhurst-starmirror",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Performs as part of Holly Herndon & Mat Dryhurst duo presenting A/V installations and AI-powered par...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "artist": "Mike Oldfield",
+    "updates": {
+      "livePerformance.frequency": "retired",
+      "livePerformance.touringPackageDescription": "Retired from recording and live performance in 2023. Last live appearance: 2012 London Olympics. Tubular Bells works now performed by Robin Smith ensemble touring 'The Best of Tubular Bells I, II & III' with Oldfield's blessing."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "retired",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Louder Sound",
+        "sourceUrl": "https://www.loudersound.com/bands-artists/live-performances/the-best-of-mike-oldfields-tubular-bells-i-ii-and-iii-tour-announced-for-february-and-march-2026",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Oldfield retired from live performance in 2023",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Retired from recording and live performance in 2023. Last live appearance: 2012 London Olympics. Tubular Bells works now performed by Robin Smith ensemble touring 'The Best of Tubular Bells I, II & III' with Oldfield's blessing.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Louder Sound",
+        "sourceUrl": "https://www.loudersound.com/bands-artists/live-performances/the-best-of-mike-oldfields-tubular-bells-i-ii-and-iii-tour-announced-for-february-and-march-2026",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Retired from recording and live performance in 2023. Last live appearance: 2012 London Olympics. Tub...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "artist": "Miley Cyrus",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Intimate to arena-scale shows with full backing band including string section and guitarist Maxx Morando. 2025: Spotify Billions Club Live at Maxim's Paris, Chateau Marmont. One-off performances rather than extensive tours."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Miley_Cyrus_live_performances",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No major headline tour since 2022. One-off performances.",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Intimate to arena-scale shows with full backing band including string section and guitarist Maxx Morando. 2025: Spotify Billions Club Live at Maxim's Paris, Chateau Marmont. One-off performances rather than extensive tours.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/List_of_Miley_Cyrus_live_performances",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Intimate to arena-scale shows with full backing band including string section and guitarist Maxx Mor...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "artist": "Moby",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Active touring in 2026 with festival dates and headline shows. Electronic music pioneer performing live with band and as DJ. Mixes classic hits with newer material. Regular festival appearances worldwide."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/143660-moby",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Active 2026 touring with festival dates",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Active touring in 2026 with festival dates and headline shows. Electronic music pioneer performing live with band and as DJ. Mixes classic hits with newer material. Regular festival appearances worldwide.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/143660-moby",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Active touring in 2026 with festival dates and headline shows. Electronic music pioneer performing l...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "artist": "Moderat",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Modeselektor + Apparat electronic trio. No 2025-2026 dates. Last tour ended in 2023. When active, perform large-scale A/V shows with elaborate visual production. Reunion shows are occasional events."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/992400-moderat",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No 2025-2026 dates. Last tour 2023.",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Modeselektor + Apparat electronic trio. No 2025-2026 dates. Last tour ended in 2023. When active, perform large-scale A/V shows with elaborate visual production. Reunion shows are occasional events.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/992400-moderat",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Modeselektor + Apparat electronic trio. No 2025-2026 dates. Last tour ended in 2023. When active, pe...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "artist": "Monolake / Robert Henke",
+    "updates": {
+      "livePerformance.frequency": "rarely",
+      "livePerformance.touringPackageDescription": "Focuses on rare site-specific audiovisual installations. One Barbican show Nov 2026. Minimalist techno/ambient performances with self-built software and unique visual systems. Not a traditional touring artist."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "rarely",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/112244-monolake",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Occasional one-off performances. Barbican Nov 2026.",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Focuses on rare site-specific audiovisual installations. One Barbican show Nov 2026. Minimalist techno/ambient performances with self-built software and unique visual systems. Not a traditional touring artist.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/112244-monolake",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Focuses on rare site-specific audiovisual installations. One Barbican show Nov 2026. Minimalist tech...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "artist": "Naomi Jon",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "German electronic/pop artist actively touring in 2026 with headline tour dates across Germany and Europe. Live electronic sets blending pop vocals with electronic production. Festival and club appearances."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9945909-naomi-jon",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 headline tour dates confirmed",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "German electronic/pop artist actively touring in 2026 with headline tour dates across Germany and Europe. Live electronic sets blending pop vocals with electronic production. Festival and club appearances.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9945909-naomi-jon",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "German electronic/pop artist actively touring in 2026 with headline tour dates across Germany and Eu...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "artist": "Nicolas Jaar",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Electronic producer with extensive 2025 Latin America tour. Live A/V performances blending experimental electronics with visual art. Performs at festivals, clubs, and art institutions worldwide. Active touring schedule."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/324353-nicolas-jaar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Extensive 2025 Latin America tour",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Electronic producer with extensive 2025 Latin America tour. Live A/V performances blending experimental electronics with visual art. Performs at festivals, clubs, and art institutions worldwide. Active touring schedule.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/324353-nicolas-jaar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Electronic producer with extensive 2025 Latin America tour. Live A/V performances blending experimen...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "artist": "Nils Frahm",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "German pianist/composer performing solo and with ensembles. Intimate concert hall and venue performances blending classical piano with electronic elements. 2025 tour but no 2026 dates confirmed yet. Occasional touring."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/263181-nils-frahm",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2025 tour dates, no 2026 confirmed",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "German pianist/composer performing solo and with ensembles. Intimate concert hall and venue performances blending classical piano with electronic elements. 2025 tour but no 2026 dates confirmed yet. Occasional touring.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/263181-nils-frahm",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "German pianist/composer performing solo and with ensembles. Intimate concert hall and venue performa...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "artist": "Nine Inch Nails",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Industrial rock with massive production. Just completed 63-date 'Peel It Back Tour' (June 2025-March 2026). Trent Reznor-led with elaborate lighting, visual effects. High-intensity performances with full band."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/375016-nine-inch-nails",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "63-date Peel It Back Tour Jun 2025-Mar 2026",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Industrial rock with massive production. Just completed 63-date 'Peel It Back Tour' (June 2025-March 2026). Trent Reznor-led with elaborate lighting, visual effects. High-intensity performances with full band.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/375016-nine-inch-nails",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Industrial rock with massive production. Just completed 63-date 'Peel It Back Tour' (June 2025-March...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "artist": "Nitin Sawhney",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "British musician/producer performing with full band blending Indian classical, flamenco, jazz, electronica. Occasional concerts at prestigious venues and festivals. Select live performances rather than extensive touring."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/174381-nitin-sawhney",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Occasional live dates and festival appearances",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "British musician/producer performing with full band blending Indian classical, flamenco, jazz, electronica. Occasional concerts at prestigious venues and festivals. Select live performances rather than extensive touring.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/174381-nitin-sawhney",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "British musician/producer performing with full band blending Indian classical, flamenco, jazz, elect...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "artist": "Photay",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Electronic producer performing live sets blending ambient, electronic, and world music influences. Intimate club and festival appearances. Occasional touring with select dates."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 3,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9108739-photay",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Occasional live dates",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Electronic producer performing live sets blending ambient, electronic, and world music influences. Intimate club and festival appearances. Occasional touring with select dates.",
+        "status": "verified",
+        "confidence": 3,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9108739-photay",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Electronic producer performing live sets blending ambient, electronic, and world music influences. I...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "artist": "Pink Floyd",
+    "updates": {
+      "livePerformance.frequency": "retired",
+      "livePerformance.touringPackageDescription": "Band inactive since 1994. Roger Waters and David Gilmour tour solo but not together. No Pink Floyd live performances since Division Bell tour. Roger Waters' This Is Not a Drill tour ended 2023."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "retired",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pink_Floyd",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Inactive since 1994. Members tour solo.",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Band inactive since 1994. Roger Waters and David Gilmour tour solo but not together. No Pink Floyd live performances since Division Bell tour. Roger Waters' This Is Not a Drill tour ended 2023.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pink_Floyd",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Band inactive since 1994. Roger Waters and David Gilmour tour solo but not together. No Pink Floyd l...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "artist": "Portishead",
+    "updates": {
+      "livePerformance.frequency": "rarely",
+      "livePerformance.touringPackageDescription": "Rarely performs live. Beth Gibbons' haunting vocals with dark trip-hop: vinyl scratches, atmospheric electronics, live band. Moody, minimalist production. Occasional festival appearances or short runs in major cities rather than extended tours."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "rarely",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/109930-portishead",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No full tours. Occasional festival appearances.",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Rarely performs live. Beth Gibbons' haunting vocals with dark trip-hop: vinyl scratches, atmospheric electronics, live band. Moody, minimalist production. Occasional festival appearances or short runs in major cities rather than extended tours.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/109930-portishead",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Rarely performs live. Beth Gibbons' haunting vocals with dark trip-hop: vinyl scratches, atmospheric...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "artist": "Radiohead",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Returned in 2025 after 7-year hiatus with 20-show European arena tour. In-the-round 360-degree circular stage with kinetic sculpture of 12 moving LED screens. Fluid setlists spanning entire catalog. Planning 2027 tour. No 2026 dates."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2025_Radiohead_tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "20 concerts Nov-Dec 2025. Planning 2027 tour.",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Returned in 2025 after 7-year hiatus with 20-show European arena tour. In-the-round 360-degree circular stage with kinetic sculpture of 12 moving LED screens. Fluid setlists spanning entire catalog. Planning 2027 tour. No 2026 dates.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2025_Radiohead_tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Returned in 2025 after 7-year hiatus with 20-show European arena tour. In-the-round 360-degree circu...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "artist": "RAYE",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "2026 'THIS TOUR MAY CONTAIN NEW MUSIC' covering major venues including Greek Theatre LA, The O2 London, Reading/Leeds. Full band, powerhouse vocals, genre-spanning material. Biggest headline tour to date."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/raye-tickets/artist/2065089",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "May 2026 Greek Theatre LA, The O2 London, Reading Festival",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "2026 'THIS TOUR MAY CONTAIN NEW MUSIC' covering major venues including Greek Theatre LA, The O2 London, Reading/Leeds. Full band, powerhouse vocals, genre-spanning material. Biggest headline tour to date.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/raye-tickets/artist/2065089",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 'THIS TOUR MAY CONTAIN NEW MUSIC' covering major venues including Greek Theatre LA, The O2 Lond...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "artist": "Rival Consoles",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Immersive live A/V show combining deep ambient with techno. 2026 tour supports 'Landscape from Memory' album. Long-form narrative spanning 15 years of material. Visuals co-created and performed live by David Sydiongco. Mid-size venues and festivals."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Erased Tapes",
+        "sourceUrl": "https://www.erasedtapes.com/news/rival-consoles-announces-european-and-north-american-tour-dates-and-shares-new-remix",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "European spring + North American August 2026 dates",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Immersive live A/V show combining deep ambient with techno. 2026 tour supports 'Landscape from Memory' album. Long-form narrative spanning 15 years of material. Visuals co-created and performed live by David Sydiongco. Mid-size venues and festivals.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Erased Tapes",
+        "sourceUrl": "https://www.erasedtapes.com/news/rival-consoles-announces-european-and-north-american-tour-dates-and-shares-new-remix",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Immersive live A/V show combining deep ambient with techno. 2026 tour supports 'Landscape from Memor...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "artist": "Robyn",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "2026 'The Sexistential Tour' - 25 shows across Europe, North America, Australia in support of ninth album. Arena and major venues including Barclays Center, United Center, O2 London. High-energy dance party with full band and rave-like energy."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Sexistential_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "25 shows June-Nov 2026 across three continents",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "2026 'The Sexistential Tour' - 25 shows across Europe, North America, Australia in support of ninth album. Arena and major venues including Barclays Center, United Center, O2 London. High-energy dance party with full band and rave-like energy.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Sexistential_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 'The Sexistential Tour' - 25 shows across Europe, North America, Australia in support of ninth ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "artist": "Romy",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "The xx member performing occasional solo shows plus select opening slots on Robyn's 2026 Sexistential Tour (Barclays Center). Solo: electronic pop with dancefloor material. Also performs as part of The xx."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Sexistential_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Opening select dates on Robyn's 2026 tour",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "The xx member performing occasional solo shows plus select opening slots on Robyn's 2026 Sexistential Tour (Barclays Center). Solo: electronic pop with dancefloor material. Also performs as part of The xx.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Sexistential_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The xx member performing occasional solo shows plus select opening slots on Robyn's 2026 Sexistentia...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "artist": "Ryoji Ikeda",
+    "updates": {
+      "livePerformance.frequency": "rarely",
+      "livePerformance.touringPackageDescription": "Immersive audiovisual performances blending electronic music with data-driven visual art. 'ultratronics' live set at Sónar, Fuji Rock, specialized venues and art institutions. Multisensory experience orchestrating sound, visuals, mathematical notions."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "rarely",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "NiEW Media",
+        "sourceUrl": "https://niewmedia.com/en/news/057190/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Japan tour Dec 2025, first-ever Japan tour",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Immersive audiovisual performances blending electronic music with data-driven visual art. 'ultratronics' live set at Sónar, Fuji Rock, specialized venues and art institutions. Multisensory experience orchestrating sound, visuals, mathematical notions.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "NiEW Media",
+        "sourceUrl": "https://niewmedia.com/en/news/057190/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Immersive audiovisual performances blending electronic music with data-driven visual art. 'ultratron...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "artist": "Sampha",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Dynamic five-piece live band with drums, bass, keyboards, percussion. In-the-round experiences, all band members singing. Blends soulful vocals with cosmic electronics, West African rhythms. 2026: Dekmantel Festival. 90-minute shows."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Sampha Official",
+        "sourceUrl": "https://www.sampha.com/tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Aug 2026 Dekmantel Festival Amsterdam",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Dynamic five-piece live band with drums, bass, keyboards, percussion. In-the-round experiences, all band members singing. Blends soulful vocals with cosmic electronics, West African rhythms. 2026: Dekmantel Festival. 90-minute shows.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Sampha Official",
+        "sourceUrl": "https://www.sampha.com/tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dynamic five-piece live band with drums, bass, keyboards, percussion. In-the-round experiences, all ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "updates": {
+      "livePerformance.frequency": "none",
+      "livePerformance.touringPackageDescription": "Hong Kong multidisciplinary sound artist working across installations, performance, video, multimedia. 'Muted concert experiences,' sound drawings, robotic installations. Exhibited at Venice Biennale, SFMOMA, Guggenheim. Not a touring musician."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "none",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Petzel Gallery",
+        "sourceUrl": "https://www.petzel.com/artists/samson-young",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Multi-disciplinary sound artist, not a touring musician",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Hong Kong multidisciplinary sound artist working across installations, performance, video, multimedia. 'Muted concert experiences,' sound drawings, robotic installations. Exhibited at Venice Biennale, SFMOMA, Guggenheim. Not a touring musician.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Petzel Gallery",
+        "sourceUrl": "https://www.petzel.com/artists/samson-young",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Hong Kong multidisciplinary sound artist working across installations, performance, video, multimedi...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "artist": "Skrillex",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Constant presence on global festival circuit. 2026: Lollapalooza South America, Primavera Sound Barcelona, Bonnaroo, Boomtown UK, Austin City Limits. Hybrid DJ/live sets with rapid-fire transitions, bass-heavy drops, mash-ups. 60-90 min sets."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Skrillex Tour",
+        "sourceUrl": "https://www.skrillextour.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 across South America, Europe, North America",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Constant presence on global festival circuit. 2026: Lollapalooza South America, Primavera Sound Barcelona, Bonnaroo, Boomtown UK, Austin City Limits. Hybrid DJ/live sets with rapid-fire transitions, bass-heavy drops, mash-ups. 60-90 min sets.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Skrillex Tour",
+        "sourceUrl": "https://www.skrillextour.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Constant presence on global festival circuit. 2026: Lollapalooza South America, Primavera Sound Barc...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "artist": "Sofia Kourtesis",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Peruvian DJ/producer performing energetic sets blending house with live instrumental elements. Ranges from DJ sets to live with bassist/percussionist. International festivals and club venues. Joyful, emotionally resonant dance music."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Resident Advisor",
+        "sourceUrl": "https://ra.co/dj/sofiakourtesis/tour-dates",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026: Bergtattfestivalen, Finsbury Park, Collins Barracks Dublin",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Peruvian DJ/producer performing energetic sets blending house with live instrumental elements. Ranges from DJ sets to live with bassist/percussionist. International festivals and club venues. Joyful, emotionally resonant dance music.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Resident Advisor",
+        "sourceUrl": "https://ra.co/dj/sofiakourtesis/tour-dates",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Peruvian DJ/producer performing energetic sets blending house with live instrumental elements. Range...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "artist": "Steve Miller Band",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Classic rock institution performing hit-filled 90-min to 2-hour concerts at arenas, amphitheaters, state fairs. Wall-to-wall hits: The Joker, Fly Like an Eagle, Jet Airliner. 6-piece band. 31-date 2025 tour across US."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Pollstar",
+        "sourceUrl": "https://news.pollstar.com/2025/05/29/steve-miller-band-announces-2025-tour-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "31-date tour Aug-Nov 2025, $121.8M gross since 1999",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Classic rock institution performing hit-filled 90-min to 2-hour concerts at arenas, amphitheaters, state fairs. Wall-to-wall hits: The Joker, Fly Like an Eagle, Jet Airliner. 6-piece band. 31-date 2025 tour across US.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Pollstar",
+        "sourceUrl": "https://news.pollstar.com/2025/05/29/steve-miller-band-announces-2025-tour-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Classic rock institution performing hit-filled 90-min to 2-hour concerts at arenas, amphitheaters, s...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "artist": "Steve Reich",
+    "updates": {
+      "livePerformance.frequency": "rarely",
+      "livePerformance.touringPackageDescription": "89-year-old minimalist composer no longer performs personally. Works performed by Steve Reich Ensemble and classical groups worldwide. Major 90th birthday festival Oct 2026 featuring Music for 18 Musicians, Drumming, Desert Music."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "rarely",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "The Glasshouse",
+        "sourceUrl": "https://theglasshouseicm.org/seasons/steve-reich-at-90/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "October 2026 festival for 90th birthday",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "89-year-old minimalist composer no longer performs personally. Works performed by Steve Reich Ensemble and classical groups worldwide. Major 90th birthday festival Oct 2026 featuring Music for 18 Musicians, Drumming, Desert Music.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "The Glasshouse",
+        "sourceUrl": "https://theglasshouseicm.org/seasons/steve-reich-at-90/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "89-year-old minimalist composer no longer performs personally. Works performed by Steve Reich Ensemb...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "artist": "Steven Wilson",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Immersive A/V progressive rock with two-set performances and full band. 2025 Overview Tour: complete album with video projections and surround audio. Only two 2026 shows: Royal Albert Hall with orchestra Oct 28-29."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "XS Noize",
+        "sourceUrl": "https://www.xsnoize.com/steven-wilson-to-play-his-only-2026-live-shows-at-the-royal-albert-hall/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Only 2026 shows: Royal Albert Hall Oct 28-29 with orchestra",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Immersive A/V progressive rock with two-set performances and full band. 2025 Overview Tour: complete album with video projections and surround audio. Only two 2026 shows: Royal Albert Hall with orchestra Oct 28-29.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "XS Noize",
+        "sourceUrl": "https://www.xsnoize.com/steven-wilson-to-play-his-only-2026-live-shows-at-the-royal-albert-hall/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Immersive A/V progressive rock with two-set performances and full band. 2025 Overview Tour: complete...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "artist": "Stevie Nicks",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Rock icon performing arena and theater shows blending Fleetwood Mac classics with solo hits. Elaborate stage production with video screens, storytelling, mystical presence. Full backing band, 13 songs plus encores, nearly 2 hours."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/stevie-nicks-tickets/artist/735755",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026: Moody Center Austin, New Orleans Jazz Fest",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Rock icon performing arena and theater shows blending Fleetwood Mac classics with solo hits. Elaborate stage production with video screens, storytelling, mystical presence. Full backing band, 13 songs plus encores, nearly 2 hours.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/stevie-nicks-tickets/artist/735755",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Rock icon performing arena and theater shows blending Fleetwood Mac classics with solo hits. Elabora...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "artist": "Suzanne Ciani",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Electronic pioneer performing immersive quadraphonic shows on Buchla 200e modular synthesizer in intimate venues, churches, cathedrals. Spatial sound experiences with four-channel audio. Reflections series with supporting ambient artists."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Avant Music News",
+        "sourceUrl": "https://avantmusicnews.com/2025/06/15/suzanne-ciani-reflections-tour-two-new-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Reflections Tour 2025-2026: Grace Cathedral, Denver",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Electronic pioneer performing immersive quadraphonic shows on Buchla 200e modular synthesizer in intimate venues, churches, cathedrals. Spatial sound experiences with four-channel audio. Reflections series with supporting ambient artists.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Avant Music News",
+        "sourceUrl": "https://avantmusicnews.com/2025/06/15/suzanne-ciani-reflections-tour-two-new-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Electronic pioneer performing immersive quadraphonic shows on Buchla 200e modular synthesizer in int...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "artist": "SZA",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Large-scale stadium and arena concerts with theatrical sets including giant ant prop, elaborate backdrops, extensive choreography. 2025 Grand National Tour: 23 stadium dates with Kendrick Lamar. 3-hour spectacular shows."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/sza-tickets/artist/1858419",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2025 Grand National Tour: 23 stadium dates with Kendrick Lamar",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Large-scale stadium and arena concerts with theatrical sets including giant ant prop, elaborate backdrops, extensive choreography. 2025 Grand National Tour: 23 stadium dates with Kendrick Lamar. 3-hour spectacular shows.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/sza-tickets/artist/1858419",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Large-scale stadium and arena concerts with theatrical sets including giant ant prop, elaborate back...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "artist": "Talking Heads",
+    "updates": {
+      "livePerformance.frequency": "retired",
+      "livePerformance.touringPackageDescription": "Officially disbanded 1991, never reunited. David Byrne tours regularly with solo material and Talking Heads classics. His Who Is The Sky tour (2025-2026) features 13 musicians/dancers with massive LED screens. Byrne refuses to reunite band."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "retired",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Consequence of Sound",
+        "sourceUrl": "https://consequence.net/2026/04/david-byrne-summer-2026-tour-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Who Is The Sky tour with 13 musicians, singers, dancers",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Officially disbanded 1991, never reunited. David Byrne tours regularly with solo material and Talking Heads classics. His Who Is The Sky tour (2025-2026) features 13 musicians/dancers with massive LED screens. Byrne refuses to reunite band.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Consequence of Sound",
+        "sourceUrl": "https://consequence.net/2026/04/david-byrne-summer-2026-tour-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Officially disbanded 1991, never reunited. David Byrne tours regularly with solo material and Talkin...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "artist": "Tarik Barri",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Dutch audiovisual artist creating real-time generative visuals using self-programmed Versum software. A/V collaborations with Thom Yorke, Nicolas Jaar, Ben Frost. Large-scale projections transforming venues. Performance at Sharjah Art Foundation Nov 2025."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Sharjah Art Foundation",
+        "sourceUrl": "https://www.sharjahart.org/en/event/details/sote-and-tarik-barri-majestic-noise/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Collaborative performance Nov 2025 with generative visuals",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Dutch audiovisual artist creating real-time generative visuals using self-programmed Versum software. A/V collaborations with Thom Yorke, Nicolas Jaar, Ben Frost. Large-scale projections transforming venues. Performance at Sharjah Art Foundation Nov 2025.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Sharjah Art Foundation",
+        "sourceUrl": "https://www.sharjahart.org/en/event/details/sote-and-tarik-barri-majestic-noise/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dutch audiovisual artist creating real-time generative visuals using self-programmed Versum software...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "artist": "Tash Sultana",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Australian multi-instrumentalist building entire songs via live looping: guitar, bass, drums, keys, sax, flute, trumpet, vocals. 2025-2026 Return to the Roots tour. 42 upcoming concerts across 15 countries. 90-min to 2-hour improvisational shows."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Tash Sultana Official",
+        "sourceUrl": "https://www.tashsultanatour.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "42 upcoming concerts across 15 countries in 2026",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Australian multi-instrumentalist building entire songs via live looping: guitar, bass, drums, keys, sax, flute, trumpet, vocals. 2025-2026 Return to the Roots tour. 42 upcoming concerts across 15 countries. 90-min to 2-hour improvisational shows.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Tash Sultana Official",
+        "sourceUrl": "https://www.tashsultanatour.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Australian multi-instrumentalist building entire songs via live looping: guitar, bass, drums, keys, ...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "artist": "Taylor Swift",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Stadium spectacle with 3.5-hour shows, 44+ songs, 10 acts, elaborate stage, pyrotechnics, aerial stunts, multiple costume changes, surprise songs. Eras Tour (2023-2024) grossed $2.08B, highest-grossing tour ever. Nearly 150 shows worldwide."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Pollstar",
+        "sourceUrl": "https://news.pollstar.com/2024/12/08/taylor-swift-breaks-2-billion-in-earnings/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Eras Tour grossed $2.08B, highest-grossing tour ever",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Stadium spectacle with 3.5-hour shows, 44+ songs, 10 acts, elaborate stage, pyrotechnics, aerial stunts, multiple costume changes, surprise songs. Eras Tour (2023-2024) grossed $2.08B, highest-grossing tour ever. Nearly 150 shows worldwide.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Pollstar",
+        "sourceUrl": "https://news.pollstar.com/2024/12/08/taylor-swift-breaks-2-billion-in-earnings/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Stadium spectacle with 3.5-hour shows, 44+ songs, 10 acts, elaborate stage, pyrotechnics, aerial stu...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "artist": "Thom Yorke",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Radiohead frontman touring extensively solo and with The Smile. Currently on 'A Light for Attracting Attention' tour. 2025-2026: Radio City Music Hall, Tomorrow's Modern Boxes at Coachella. 4-person band with 2 drumsets. Intimate to arena-scale."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Thom Yorke Official",
+        "sourceUrl": "https://www.thomyorke-tour.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2025-2026 tour across Europe, North America",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Radiohead frontman touring extensively solo and with The Smile. Currently on 'A Light for Attracting Attention' tour. 2025-2026: Radio City Music Hall, Tomorrow's Modern Boxes at Coachella. 4-person band with 2 drumsets. Intimate to arena-scale.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Thom Yorke Official",
+        "sourceUrl": "https://www.thomyorke-tour.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Radiohead frontman touring extensively solo and with The Smile. Currently on 'A Light for Attracting...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "artist": "Tipper",
+    "updates": {
+      "livePerformance.frequency": "rarely",
+      "livePerformance.touringPackageDescription": "UK electronic/breaks pioneer known for immersive 5.1 surround sound audio events (Tipper & Friends). Curated multi-day festivals with bespoke Funktion-One soundsystems. Pure DJ sets blending downtempo, glitch-hop, ambient. Very limited appearances."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "rarely",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/669532-tipper",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Only Tipper & Friends events 2025. No 2026 dates.",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "UK electronic/breaks pioneer known for immersive 5.1 surround sound audio events (Tipper & Friends). Curated multi-day festivals with bespoke Funktion-One soundsystems. Pure DJ sets blending downtempo, glitch-hop, ambient. Very limited appearances.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/669532-tipper",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "UK electronic/breaks pioneer known for immersive 5.1 surround sound audio events (Tipper & Friends)....",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "artist": "Tourist",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "William Phillips performs live electronic sets with Ableton Push, modular synths, live piano, vocals. Self-taught. Builds immersive experiences blending ambient, house, and melodic electronics. Occasional live dates at select venues and festivals."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/8917709-tourist",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Occasional live dates at select venues and festivals",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "William Phillips performs live electronic sets with Ableton Push, modular synths, live piano, vocals. Self-taught. Builds immersive experiences blending ambient, house, and melodic electronics. Occasional live dates at select venues and festivals.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/8917709-tourist",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "William Phillips performs live electronic sets with Ableton Push, modular synths, live piano, vocals...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "artist": "Tove Lo",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "High-energy pop/alt-pop shows with full band and backing singers, theatrical elements, club-inspired lighting. 2025 'Heat' Tour: intimate clubs and larger venues. Extensive touring throughout 2024-2025. Multiple headline and festival slots."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/7806784-tove-lo",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2025 Heat Tour across Europe, North America, Australia",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "High-energy pop/alt-pop shows with full band and backing singers, theatrical elements, club-inspired lighting. 2025 'Heat' Tour: intimate clubs and larger venues. Extensive touring throughout 2024-2025. Multiple headline and festival slots.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/7806784-tove-lo",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "High-energy pop/alt-pop shows with full band and backing singers, theatrical elements, club-inspired...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "artist": "Travis Scott",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Stadium and arena spectacle with Astroworld-inspired production: rollercoaster imagery, pyrotechnics, massive stage. 2024-2025 Circus Maximus Tour. High-energy rap performances with elaborate visual production and special effects."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/311197-travis-scott",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Circus Maximus Tour 2024-2025, festival headline slots",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Stadium and arena spectacle with Astroworld-inspired production: rollercoaster imagery, pyrotechnics, massive stage. 2024-2025 Circus Maximus Tour. High-energy rap performances with elaborate visual production and special effects.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/311197-travis-scott",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Stadium and arena spectacle with Astroworld-inspired production: rollercoaster imagery, pyrotechnics...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "artist": "UNIIQU3",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Jersey club and footwork DJ performing high-energy live sets at underground clubs and festivals. Chicago-based. 2026: All Points East Festival (London), Eaux Claires Festival. Mixes club edits, breakbeat, ballroom vogue house. Dynamic turntablist sets."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9681929-uniiqu3",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026: All Points East, Eaux Claires",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Jersey club and footwork DJ performing high-energy live sets at underground clubs and festivals. Chicago-based. 2026: All Points East Festival (London), Eaux Claires Festival. Mixes club edits, breakbeat, ballroom vogue house. Dynamic turntablist sets.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9681929-uniiqu3",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jersey club and footwork DJ performing high-energy live sets at underground clubs and festivals. Chi...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "artist": "The Weeknd",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Stadium and arena mega-tours with cinematic production, elaborate stage design, choreographed performances. After Hours Til Dawn Tour (2022-2025). High-production value shows with pyrotechnics, visual screens, theatrical elements."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/387199-weeknd",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "After Hours Til Dawn Tour 2022-2025, stadium shows",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Stadium and arena mega-tours with cinematic production, elaborate stage design, choreographed performances. After Hours Til Dawn Tour (2022-2025). High-production value shows with pyrotechnics, visual screens, theatrical elements.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/387199-weeknd",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Stadium and arena mega-tours with cinematic production, elaborate stage design, choreographed perfor...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "artist": "Weval",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Dutch electronic duo performing live A/V shows blending warm analogue synths with pulsating beats and ethereal vocals. Immersive shows with custom visual elements. Moderate touring with European dates and select festivals."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/6828039-weval",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Moderate touring with European dates and festivals",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Dutch electronic duo performing live A/V shows blending warm analogue synths with pulsating beats and ethereal vocals. Immersive shows with custom visual elements. Moderate touring with European dates and select festivals.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/6828039-weval",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dutch electronic duo performing live A/V shows blending warm analogue synths with pulsating beats an...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "artist": "The xx",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "Intimate live shows featuring all three members: Romy (guitar, vocals), Oliver Sim (bass, vocals), Jamie xx (beats, production). Minimal stage setup with dramatic lighting, smoke effects, moody atmosphere. Occasional touring with select dates."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/380036-xx",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Occasional live dates, intimate venue shows",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Intimate live shows featuring all three members: Romy (guitar, vocals), Oliver Sim (bass, vocals), Jamie xx (beats, production). Minimal stage setup with dramatic lighting, smoke effects, moody atmosphere. Occasional touring with select dates.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/380036-xx",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Intimate live shows featuring all three members: Romy (guitar, vocals), Oliver Sim (bass, vocals), J...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "artist": "Yaeji",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Korean-American electronic/house producer performing DJ sets and live shows. 2025 North American, Europe, Asia headline tour. Full band sets with live vocals, beats, bass, synths. 'Yaeji Presents Garden Club' intimate venues. 2025-2026 tour including NYC, LA, London."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9563619-yaeji",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2025-2026 headline tour across North America, Europe, Asia",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Korean-American electronic/house producer performing DJ sets and live shows. 2025 North American, Europe, Asia headline tour. Full band sets with live vocals, beats, bass, synths. 'Yaeji Presents Garden Club' intimate venues. 2025-2026 tour including NYC, LA, London.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9563619-yaeji",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Korean-American electronic/house producer performing DJ sets and live shows. 2025 North American, Eu...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "artist": "Yīn Yīn",
+    "updates": {
+      "livePerformance.frequency": "regularly",
+      "livePerformance.touringPackageDescription": "Dutch psychedelic rock quartet from Maastricht performing energetic live shows with heavy use of wah-wah pedals, phasing effects, exotic rhythms. Support for Parcels (Germany). 2026 tour across Europe, US, Mexico. Joyful, danceable psych-rock."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "regularly",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9682319-yin-yin",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 tour across Europe, US, Mexico",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "Dutch psychedelic rock quartet from Maastricht performing energetic live shows with heavy use of wah-wah pedals, phasing effects, exotic rhythms. Support for Parcels (Germany). 2026 tour across Europe, US, Mexico. Joyful, danceable psych-rock.",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/9682319-yin-yin",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dutch psychedelic rock quartet from Maastricht performing energetic live shows with heavy use of wah...",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "artist": "yunè pinku",
+    "updates": {
+      "livePerformance.frequency": "occasionally",
+      "livePerformance.touringPackageDescription": "London-based electronic/UK garage producer performing DJ sets and live electronic shows. Mix of UK garage, breakbeats, and melodic electronics. Occasional club shows and festival appearances. Intimate live electronic sets."
+    },
+    "fieldEvidence": [
+      {
+        "field": "livePerformanceFrequency",
+        "value": "occasionally",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/10030334-yune-pinku",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Occasional live dates and club shows",
+        "notes": null
+      },
+      {
+        "field": "touringPackageDescription",
+        "value": "London-based electronic/UK garage producer performing DJ sets and live electronic shows. Mix of UK garage, breakbeats, and melodic electronics. Occasional club shows and festival appearances. Intimate live electronic sets.",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/10030334-yune-pinku",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "London-based electronic/UK garage producer performing DJ sets and live electronic shows. Mix of UK g...",
+        "notes": null
+      }
+    ]
+  }
+]

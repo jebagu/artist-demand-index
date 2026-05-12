@@ -1,0 +1,172 @@
+[
+  {
+    "id": 51,
+    "artist": "Ian Dearden",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Ian Dearden is an independent folk/ambient artist from Australia with two self-released albums: 'What Took You So Long?' and 'One Day In A Life' (2020). His name appears occasionally in Dolby Atmos contexts only as a mastering credit on other artists' work (e.g., Michael Whalen's 'Imaginary Trains'). No evidence of any official Dolby Atmos or Spatial Audio releases for his own albums. Thorough search of Apple Music, streaming services, and music databases found no Atmos/Spatial Audio listings."
+  },
+  {
+    "id": 52,
+    "artist": "Igor Levit",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Beethoven: Complete Piano Sonatas",
+        "releaseYear": 2019,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/beethoven-complete-piano-sonatas/1472274311",
+          "https://classical.music.apple.com/nz/album/1472274311"
+        ],
+        "confidence": 5,
+        "notes": "Apple Music explicitly lists this album as 'available in immersive Spatial Audio' with 'these epic performances set a towering standard.' Released as part of Beethoven's 250th anniversary commemorations."
+      }
+    ],
+    "notes": "Igor Levit is a Russian-German pianist whose Beethoven: Complete Piano Sonatas recording is available in Spatial Audio on Apple Music. No other Atmos albums found for this artist."
+  },
+  {
+    "id": 53,
+    "artist": "James Blake",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Wind Down",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/wind-down/1624135737",
+          "https://www.reddit.com/r/ambientmusic/comments/xr7a66/dolby_atmos_ambient_albums/",
+          "https://www.forbes.com/sites/cathyolson/2022/03/18/endel-extends-adaptive-sleep-music-to-apple-tv-with-james-blake-soundscape/"
+        ],
+        "confidence": 5,
+        "notes": "Collaborative ambient soundscape album with Endel, released on Apple Music in Dolby Atmos. Specifically designed as a sleep/wind-down experience. Frequently cited in Dolby Atmos ambient music playlists and discussions."
+      }
+    ],
+    "notes": "James Blake has at least one confirmed Dolby Atmos album: 'Wind Down' (2022), an ambient collaboration with Endel available on Apple Music in Spatial Audio. His song 'Trying Times' also appears in Apple's 'Alternative in Spatial Audio' playlist, suggesting possible Atmos availability for additional tracks."
+  },
+  {
+    "id": 54,
+    "artist": "Jamie xx",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "In Waves",
+        "releaseYear": 2024,
+        "sourceService": "Immersive Audio Album",
+        "sourceUrls": [
+          "https://immersiveaudioalbum.com/now-available-in-dolby-atmos-jamie-xxs-in-waves/",
+          "https://immersiveaudioalbum.com/shop/"
+        ],
+        "confidence": 5,
+        "notes": "Jamie xx's second studio LP 'In Waves' is his first LP to receive an immersive mix. Available in Dolby Atmos on streaming services (Apple Music, Tidal, Amazon) and as a hi-res digital download (Dolby TrueHD MKV + MP4) from IAA. Part of Beggars Group's immersive catalog series."
+      }
+    ],
+    "notes": "Jamie xx has one confirmed Dolby Atmos album: 'In Waves' (2024), his sophomore studio album, available on streaming services in Dolby Atmos and as a hi-res download from Immersive Audio Album. This is his first LP to receive an immersive mix."
+  },
+  {
+    "id": 55,
+    "artist": "Janelle Monáe",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "The Age of Pleasure",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/the-age-of-pleasure/1686979040",
+          "https://www.reddit.com/r/AppleMusic/comments/14w1mh8/recommendations_for_music_that_sounds_better_in/"
+        ],
+        "confidence": 5,
+        "notes": "Apple Music page explicitly lists 'Made for Spatial Audio' badge. Full album was mixed in Dolby Atmos and is available on Apple Music in Spatial Audio. YouTube also has an unofficial Dolby Atmos mix playlist of the full album, confirming its Atmos availability."
+      }
+    ],
+    "notes": "Janelle Monáe's 'The Age of Pleasure' (2023) is confirmed available in Spatial Audio/Dolby Atmos on Apple Music, with explicit 'Made for Spatial Audio' labeling."
+  },
+  {
+    "id": 56,
+    "artist": "Jennifer Walshe",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Jennifer Walshe is an Irish experimental composer and vocalist known for works like 'ALL THE MANY PEOPLS' (2019), 'In The Merry Month Of May' (2024), and 'A Late Anthology of Early Music, Vol. 1'. Her work is primarily released on independent labels like Migro Records and Western Vinyl. No evidence of any Dolby Atmos or Spatial Audio album releases. She is an avant-garde composer whose work is not typically associated with immersive audio streaming formats."
+  },
+  {
+    "id": 57,
+    "artist": "Jon Hopkins",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Music For Psychedelic Therapy",
+        "releaseYear": 2021,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/be/album/music-for-psychedelic-therapy/1581582605",
+          "https://www.reddit.com/r/AppleMusic/comments/yvszpj/one_of_the_best_dolby_atmos_albums_jon_hopkins/"
+        ],
+        "confidence": 5,
+        "notes": "Widely cited as one of the best Dolby Atmos albums on Apple Music. The Reddit post title explicitly states 'One Of The Best Dolby Atmos Albums - Jon Hopkins Music For Psychedelic Therapy.'"
+      },
+      {
+        "title": "RITUAL",
+        "releaseYear": 2024,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/ritual/1740733246",
+          "https://music.apple.com/us/playlist/electronic-in-spatial-audio/pl.9ca5521e31c8408c97377a71030396d1",
+          "https://www.reddit.com/r/jonhopkins/comments/1pl7zvv/dolby_atmos_is_a_game_changer/"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed in Dolby Atmos on Apple Music. Reddit users confirm it 'shows as Atmos' and Jon Hopkins stated in interviews that it was mixed in Atmos. Featured in Apple's 'Electronic in Spatial Audio' playlist."
+      }
+    ],
+    "notes": "Jon Hopkins has two confirmed Dolby Atmos albums: 'Music For Psychedelic Therapy' (2021) and 'RITUAL' (2024). Both are available in Spatial Audio on Apple Music and are widely praised for their immersive mixes."
+  },
+  {
+    "id": 58,
+    "artist": "Jorja Smith",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Be Right Back",
+        "releaseYear": 2021,
+        "sourceService": "MusicBrainz / Apple Music",
+        "sourceUrls": [
+          "https://musicbrainz.org/release/fc43a808-9cde-412d-9918-3c678701a426",
+          "https://music.apple.com/us/album/be-right-back/1563007618",
+          "https://forwa3d.com/bio"
+        ],
+        "confidence": 4,
+        "notes": "MusicBrainz lists a 'Dolby Atmos mix' version of this EP. Mixed and mastered by Prash 'Engine-Earz' Mistry, who is Jorja Smith's in-house immersive mix engineer. The EP was specifically ATMOS-mixed at his Tileyard studio. Apple Music availability is strongly implied but not independently verified on the page."
+      }
+    ],
+    "notes": "Jorja Smith's EP 'Be Right Back' (2021) has a confirmed Dolby Atmos mix. Her in-house engineer Prash 'Engine-Earz' Mistry mixed it in Atmos, and it's listed on MusicBrainz as having a Dolby Atmos version. Her debut album 'Lost & Found' was also Atmos-mixed by Engine-Earz per his bio."
+  },
+  {
+    "id": 59,
+    "artist": "Justin Gray",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Immersed",
+        "releaseYear": 2025,
+        "sourceService": "Immersive Audio Album / Apple Music",
+        "sourceUrls": [
+          "https://justingraysound.bandcamp.com/album/immersed",
+          "https://immersiveaudioalbum.com/product/immersed-justin-gray-atmos-auro-3d-mkv-mp4/",
+          "https://justingraysound.com/immersed/",
+          "https://www.mixonline.com/recording/music-production/grammy-winner-justin-gray-immersed-from-the-beginning"
+        ],
+        "confidence": 5,
+        "notes": "Won the 2026 Grammy Award for Best Immersive Audio Album. A cinematic album composed, recorded, and produced from the ground up for immersive audio, featuring 38 artists. Mixed and produced in Dolby Atmos. Available on Apple Music, Tidal, Amazon, and as hi-res download from IAA. The Dolby Atmos mix is the primary mix, not a translation from stereo."
+      }
+    ],
+    "notes": "Justin Gray's 'Immersed' (2025) is a landmark Dolby Atmos album that won the 2026 Grammy for Best Immersive Audio Album. It was the first Grammy in this category created in Dolby Atmos from the ground up as a spatial presentation. Available on all major streaming platforms in Atmos."
+  },
+  {
+    "id": 60,
+    "artist": "Kaitlyn Aurelia Smith",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Kaitlyn Aurelia Smith is an American composer and producer known for her work with modular synthesizers. Notable albums include 'EARS' (2016), 'The Kid' (2017), 'Let's Turn It Into Sound' (2022), 'GUSH' (2025), and 'Thoughts On The Future' (2025). She has collaborated with Suzanne Ciani, Joe Goddard, and Emile Mosseri. While she has composed for companies like Apple and her music appears on various playlists, no evidence of any Dolby Atmos or Spatial Audio album releases was found. Her 'Neptunes' EP with Joe Goddard appears on Apple Music but without any Atmos/Spatial Audio indicators."
+  }
+]

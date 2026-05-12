@@ -1,0 +1,112 @@
+[
+  {
+    "id": 11,
+    "artist": "Billie Eilish",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Pop",
+    "subGenre": "Alt-Pop",
+    "instrumentSounds": "Vocals, Production, Synthesizer",
+    "mf": "Female",
+    "descriptionShort": "Billie Eilish is an American singer-songwriter who rose to international prominence as a Gen Z icon, known for her whispery vocal delivery and dark, introspective pop songs produced alongside her brother Finneas. She is one of the defining pop artists of her generation and a major festival headliner worldwide.",
+    "confidence": 5
+  },
+  {
+    "id": 12,
+    "artist": "Björk",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Experimental",
+    "subGenre": "Art Pop",
+    "instrumentSounds": "Vocals, Electronics, Synthesizer",
+    "mf": "Female",
+    "descriptionShort": "Björk is an Icelandic artist renowned for her singular vision spanning avant-garde pop, electronic experimentation, and innovative multimedia art. Over three decades she has consistently pushed boundaries in music, technology, and performance, establishing herself as one of the most influential creative figures in contemporary music.",
+    "confidence": 5
+  },
+  {
+    "id": 13,
+    "artist": "Bob Dylan",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Rock",
+    "subGenre": "Singer-Songwriter",
+    "instrumentSounds": "Guitar, Vocals, Harmonica",
+    "mf": "Male",
+    "descriptionShort": "Bob Dylan is a legendary American singer-songwriter whose poetic lyrics and genre-defying catalog have made him one of the most important cultural figures of the 20th century. As a Nobel laureate and decades-spanning artist, he remains a revered festival headliner and live performer.",
+    "confidence": 5
+  },
+  {
+    "id": 14,
+    "artist": "Bonobo",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "Electronic",
+    "subGenre": "Downtempo",
+    "instrumentSounds": "Synthesizer, Drums, Samples",
+    "mf": "Male",
+    "descriptionShort": "Bonobo is the stage name of Simon Green, a British producer and DJ celebrated for his lush, organic electronic compositions that blend downtempo, world music textures, and live instrumentation. His immersive live shows and DJ sets have made him a staple of major electronic music festivals worldwide.",
+    "confidence": 5
+  },
+  {
+    "id": 15,
+    "artist": "Brian Eno",
+    "programmingStyle": "Ambient Stage",
+    "genreLabels": "Ambient",
+    "subGenre": "Generative Ambient",
+    "instrumentSounds": "Synthesizer, Tape Machines, Laptop",
+    "mf": "Male",
+    "descriptionShort": "Brian Eno is a British musician, producer, and artist credited with pioneering ambient music and shaping modern sound through his innovative use of studio technology and generative composition. His vast body of work spans solo ambient albums, landmark productions for artists like David Bowie and U2, and influential sound art installations.",
+    "confidence": 5
+  },
+  {
+    "id": 16,
+    "artist": "Cardi B",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Hip-Hop",
+    "subGenre": "Pop Rap",
+    "instrumentSounds": "Vocals, Beats, Samples",
+    "mf": "Female",
+    "descriptionShort": "Cardi B is an American rapper and cultural icon known for her bold personality, chart-topping hits, and rapid-fire lyrical delivery that blends trap and pop sensibilities. Rising from social media stardom to Grammy-winning artist, she is one of the most commercially successful female rappers in history.",
+    "confidence": 5
+  },
+  {
+    "id": 17,
+    "artist": "Caribou",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "Electronic",
+    "subGenre": "Psychedelic Electronic",
+    "instrumentSounds": "Synthesizer, Drums, Vocals",
+    "mf": "Male",
+    "descriptionShort": "Caribou is the stage name of Canadian composer and producer Dan Snaith, known for his emotionally rich electronic music that fuses psychedelic textures with dancefloor rhythms and live instrumentation. His performances blend electronic production with a full band setup, bridging the gap between club and festival stages.",
+    "confidence": 5
+  },
+  {
+    "id": 18,
+    "artist": "Carl Craig",
+    "programmingStyle": "DJ Set",
+    "genreLabels": "Electronic",
+    "subGenre": "Detroit Techno",
+    "instrumentSounds": "Turntables, Synthesizer, Drum Machine",
+    "mf": "Male",
+    "descriptionShort": "Carl Craig is a pioneering Detroit techno producer and DJ who has been instrumental in shaping the second wave of the genre since the early 1990s. Known for his boundary-pushing productions under aliases like Innerzone Orchestra and Paperclip People, he remains a revered figure in underground electronic music culture worldwide.",
+    "confidence": 5
+  },
+  {
+    "id": 19,
+    "artist": "Channel Tres",
+    "programmingStyle": "DJ Set",
+    "genreLabels": "House",
+    "subGenre": "G-Funk House",
+    "instrumentSounds": "Drum Machine, Synthesizer, Vocals",
+    "mf": "Male",
+    "descriptionShort": "Channel Tres is a producer, DJ, and vocalist from Compton, California, who merges the deep grooves of Chicago house with the swagger of West Coast hip-hop. Known for his distinctive baritone vocals over infectious house beats, he has carved out a unique lane in contemporary dance music.",
+    "confidence": 5
+  },
+  {
+    "id": 20,
+    "artist": "Charli XCX",
+    "programmingStyle": "Subheadliner",
+    "genreLabels": "Pop",
+    "subGenre": "Hyperpop",
+    "instrumentSounds": "Synthesizer, Vocals, Production",
+    "mf": "Female",
+    "descriptionShort": "Charli XCX is a British singer-songwriter and pop innovator who has evolved from catchy mainstream hits to become the driving force behind the hyperpop movement. Known for her forward-thinking collaborations with PC Music artists and avant-garde approach to pop songwriting, she bridges underground and mainstream sensibilities.",
+    "confidence": 5
+  }
+]

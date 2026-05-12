@@ -1,0 +1,302 @@
+[
+  {
+    "id": 31,
+    "artist": "DeLaurentis",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "DeLaurentis delivers an avant-garde immersive audiovisual live performance that merges electronic music with cutting-edge technology. Her shows feature 360\u00b0 spatial audio setups, innovative instruments like ERAE controllers and Sony AI tools, and the IRCAM Virtual Choir. The French artist creates a sensorial experience at the crossroads of concert and art installation, performing melodic techno inspired by her synesthesia. She has been actively touring France and Great Britain throughout 2025 and into 2026.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Bandsintown",
+        "sourceUrl": "https://www.bandsintown.com/a/7267030-delaurentis",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "DeLaurentis repousse les limites de la creation avec des instruments innovants comme les ERAE d'embodme, les I.A de Sony CSL ou encore le Choeur Virtuel de l'IRCAM... performance avant-gardiste et emotionnelle a la pointe de la French Tech",
+        "notes": "Describes her innovative live setup and upcoming tour dates"
+      },
+      {
+        "sourceName": "YouTube - DeLaurentis LIVE 360\u00b0",
+        "sourceUrl": "https://www.youtube.com/watch?v=FaszeKA6_1I",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "A circular live performance that transforms the space into an immersive setup, where sound envelops the audience, at the crossroads of concert, installation, and visual experience.",
+        "notes": "360\u00b0 immersive A/V performance at Gaite Lyrique"
+      },
+      {
+        "sourceName": "Music Connection",
+        "sourceUrl": "https://www.musicconnection.com/artist-musician-producer-delaurentis-collaborates-with-producer-engineer-herve-dejardin/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "French electronic artist DeLaurentis... tour France and Great Britain throughout 2025.",
+        "notes": "Confirmed 2025 touring activity"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "artist": "Ellie Goulding",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Ellie Goulding performs as a versatile pop singer-songwriter, equally comfortable with electronic productions and acoustic arrangements. Her recent shows range from intimate acoustic sets with pianist, guitarist and violinists to full-scale arena performances with elaborate production. She has toured with diverse acts from U2 to Katy Perry. Her 2025 Oxford show featured reworked versions of Calvin Harris collaborations with lush strings. She currently performs selectively at special events and festivals rather than extensive tours.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/2332047-ellie-goulding",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No concert dates for Ellie Goulding scheduled in 2025... BBC Radio 1's Big Weekend - Saturday Sunderland, United Kingdom May 23, 2026... Past concert Jun 6, 2025 Oxford, UK",
+        "notes": "Only one scheduled 2026 show, last tour was 2023"
+      },
+      {
+        "sourceName": "Photo Pit Live - Ellie Goulding Review",
+        "sourceUrl": "https://www.photopitlive.com/reviews/2025/6/6/ellie-goulding-live-review",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Billed as an acoustic set, the stage was richer than anticipated, featuring a pianist, a guitarist, two violinists, and three backing singers. This 'acoustic-plus' arrangement allowed for a stunning reinterpretation of her extensive catalogue.",
+        "notes": "2025 acoustic performance with full band setup"
+      },
+      {
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/ellie-goulding-tickets/artist/214173",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "There are no upcoming concerts in United States... International Concerts: May 23, 2026 BBC Radio 1's Big Weekend Sunderland",
+        "notes": "Minimal touring activity currently scheduled"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "artist": "Eurythmics",
+    "livePerformanceFrequency": "rarely",
+    "touringPackageDescription": "The original Eurythmics duo (Annie Lennox and Dave Stewart) no longer tours together, with Lennox having retired from live performance. Dave Stewart now performs as 'Dave Stewart Eurythmics featuring Vanessa Amorosi' - an all-female live band with the Australian vocalist fronting performances of the iconic songbook. The show features all the hits including 'Sweet Dreams,' 'Here Comes the Rain Again,' and 'Would I Lie to You?' Stewart has played 60+ shows across the US and Europe since 2023 with this configuration.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Noise11",
+        "sourceUrl": "https://www.noise11.com/news/dave-stewart-to-tour-eurythmics-with-vanessa-amorosi-on-vocals-again-20250526",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Lennox and Stewart last toured Eurythmics on the 1999 Peace tour... Annie Lennox, who no longer tours, Stewart and his critically acclaimed live band have been mesmerising audiences for the last two years with headline shows in the UK, US, Germany, France, Switzerland, Italy",
+        "notes": "Annie Lennox no longer tours; Dave Stewart tours with Vanessa Amorosi"
+      },
+      {
+        "sourceName": "Surfdog Records",
+        "sourceUrl": "https://surfdog.com/dave-stewart-announces-summer-2025-european-tour-dave-stewart-eurythmics-featuring-vanessa-amorosi/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dave Stewart Eurythmics featuring Vanessa Amorosi... with an exceptional all female live band... playing more than 60 shows across the US and Europe",
+        "notes": "Detailed description of the current live show format"
+      },
+      {
+        "sourceName": "Songkick - Dave Stewart Eurythmics",
+        "sourceUrl": "https://www.songkick.com/artists/10333613-dave-stewart-eurythmics/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Tour dates through Summer 2025 across Europe",
+        "notes": "Ongoing tour activity by Dave Stewart's version of the act"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "artist": "Excision",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Excision is one of the most active bass music producers in live touring, known for his massive-scale dubstep and riddim performances featuring extraordinary production values. His shows include an ungodly amount of lasers, LED screens lining the venue walls, cryo tanks, shapeshifting flames, and some of the loudest bass music in the scene. He headlines his own festivals (Lost Lands, Bass Canyon) and performs at major EDM festivals year-round. His 2026 calendar includes dozens of dates across North America.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Excision Official Website",
+        "sourceUrl": "https://excision.ca/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Tour dates: May 29-31 ILLfest, Jun 7 Beyond Wonderland Chicago, Jun 19-20 Apocalypse: Zombieland, Jul 24-27 Shambhala, Jul 31 Mile High, Aug 14-16 Bass Canyon, Sep 18-20 Lost Lands, Oct 22 Hulaween",
+        "notes": "Extensive 2026 tour schedule with multiple festival headlining slots"
+      },
+      {
+        "sourceName": "SF Shameless - Excision Review",
+        "sourceUrl": "https://www.sfshameless.com/the-artists/2026/3/15/show-review-photos-excision-brings-mind-shattering-show-back-to-san-francisco",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "There is simply no artist out there who is visually and sonically pulling off the kind of show that he is... an orgy of pyrotechnics, lasers, speaker-breaking drops, and overstimulation. LED screens line the walls... Cryo tanks... Shapeshifting flames",
+        "notes": "Detailed description of his massive production setup"
+      },
+      {
+        "sourceName": "1013 Music Reviews - Excision Minneapolis",
+        "sourceUrl": "https://1013musicreviews.com/excision-armory-minneapolis-mn-december-19th-2025/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "One of the biggest differences was how the visuals shaped the experience... the night flowed smoothly without breaking the energy",
+        "notes": "Review of his December 2025 show"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "artist": "Fatboy Slim",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Fatboy Slim (Norman Cook) remains one of the UK's most iconic and consistently touring DJs, celebrating 40 years in music in 2025. His 'Acid Ballroom' UK tour in February 2026 features 8 dates with two-night residencies at iconic venues including London's Alexandra Palace and Glasgow's Barrowland. He is also a prolific festival draw, having played his 100th Glastonbury set in June 2025. His shows are high-energy DJ sets packed with big beat classics, remixes, and crowd-pleasing party anthems delivered with his trademark showmanship.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Gigs and Tours",
+        "sourceUrl": "https://www.gigsandtours.com/news/fatboy-slim-announces-acid-ballroom-uk-headline-tour-february-2026/5904",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fatboy Slim has today announced a UK tour 'Acid Ballroom' set for February 2026. The 8-date tour... two-night residencies... London's Alexandra Palace and Glasgow's Barrowland... 40 years in music... 100th Glastonbury set back in June",
+        "notes": "2026 UK tour announcement with residencies"
+      },
+      {
+        "sourceName": "Songkick - Fatboy Slim",
+        "sourceUrl": "https://www.songkick.com/artists/371111-fatboy-slim/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fatboy Slim is currently touring across 4 countries and has 5 upcoming concerts... festival appearances across Europe",
+        "notes": "Active touring status across multiple countries"
+      },
+      {
+        "sourceName": "Dork - Fatboy Slim Acid Ballroom",
+        "sourceUrl": "https://readdork.com/tours/fatboy-slim/acid-ballroom",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Acid Ballroom 2025-2026 Tour... 16 confirmed shows across 3 countries including UK, ID and USA",
+        "notes": "Comprehensive tour data showing regular touring"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "artist": "FKA twigs",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "FKA twigs is currently on her biggest headlining tour to date, the 'Body High Tour 2026,' supporting her 2025 albums EUSEXUA and EUSEXUA Afterglow. The tour spans 21 arena and theater shows across North America and Europe, including Madison Square Garden, London's O2 Arena, and Coachella. Her live show is a theatrical, immersive experience combining live vocals with exceptional dance choreography, pole artistry, martial arts, vogueing, and opera. Critics describe it as a transcendent experience blurring the line between concert and art installation, with multiple acts and costume changes.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Wikipedia - Body High Tour",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Body_High_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Body High Tour is the fourth concert tour by FKA Twigs... 21 shows... Brutalismus 3000, Eartheater, Izzy Spears, Tokischa, and Yves Tumor will serve as the opening acts.",
+        "notes": "Official tour page with 21 shows confirmed"
+      },
+      {
+        "sourceName": "The Needle Drop - MSG Review",
+        "sourceUrl": "https://theneedledrop.com/concert-review-fka-twigs-body-high-tour-at-msg/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "A combination of all three, an exhibition of talent and precision... pole-dances with a sword... the body highs extend to her roots in vogue... ballroom breakdown... an all-encompassing showcase of singular artistry",
+        "notes": "Detailed live review of the Body High Tour at Madison Square Garden"
+      },
+      {
+        "sourceName": "Ticketmaster - FKA twigs",
+        "sourceUrl": "https://www.ticketmaster.com/fka-twigs-tickets/artist/2004165",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Body High Tour dates: Mar 14 Miami, Mar 21 MSG, Apr 12-19 Coachella, Jun 4 Copenhagen, Jun 10 London O2 Arena, Jun 12 Berlin",
+        "notes": "Full 2026 tour schedule confirming extensive touring"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "artist": "Floating Points",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Floating Points (Sam Shepherd) performs occasionally as both a live electronic act and DJ, primarily at select festivals and club appearances rather than extensive tours. His shows blend jazz, electronic, and classical influences, reflecting his background as a neuroscientist and musician. He is known for long, genre-spanning DJ sets as well as live performances with full band setups. His 2025-2026 calendar includes festival appearances at Outside Lands, Rainbow Disco Club Japan, and select European dates including Brockwell Park Brixton in May 2026.",
+    "confidence": 3,
+    "evidence": [
+      {
+        "sourceName": "Dork - Floating Points Tickets",
+        "sourceUrl": "https://readdork.com/artists/floating-points/tickets",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Floating Points has an upcoming show at Brockwell Park in Brixton on 23 May 2026. Currently touring in support of the 2025 release 'Lazarus'",
+        "notes": "Upcoming 2026 show and 2025 release mentioned"
+      },
+      {
+        "sourceName": "Music Festival Wizard",
+        "sourceUrl": "https://www.musicfestivalwizard.com/artist/floating-points/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Rainbow Disco Club 2026 Japan April 17-19, 2026; Outside Lands 2025; Club to Club 2025",
+        "notes": "Festival appearances rather than headline tours"
+      },
+      {
+        "sourceName": "Ticketmaster UK",
+        "sourceUrl": "https://www.ticketmaster.co.uk/floating-points-tickets/artist/1893537",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Floating Points at Hall 7 Chiba Japan Aug 15 2025; Worthy Farm Pilton UK Jun 27 2025",
+        "notes": "Select festival dates in 2025, limited touring schedule"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "artist": "Flying Lotus",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Flying Lotus (Steven Ellison) is known for his groundbreaking immersive audiovisual live shows that blend experimental hip-hop, jazz, and electronic music with cutting-edge 3D visuals. His performances feature stereoscopic 3D LED technology (audiences wear 3D glasses), custom-designed DJ booths, and real-time visual manipulation by collaborator Timeboy/Strangeloop. Shows have taken place at prestigious venues including Carnegie Hall and Sydney Opera House. His 2026 activity includes Big Ears Festival in March, but he tours selectively rather than extensively.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Timeboy Studio - Flying Lotus",
+        "sourceUrl": "https://www.timeboystudio.com/flying-lotus",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Since 2010, Timeboy has been a key visual architect... visual design for four tours, with shows at major venues like the Sydney Opera House and Carnegie Hall... 3D LED technology, audiences equipped with polarizing glasses, immersive in a dimensional spectacle",
+        "notes": "Detailed description of his visual show setup and history"
+      },
+      {
+        "sourceName": "Songkick - Flying Lotus",
+        "sourceUrl": "https://www.songkick.com/artists/404765-flying-lotus",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Big Ears Festival 2026 26-29 Mar; MIRA Festival 2025 07-09 Nov 2025",
+        "notes": "Limited 2025-2026 appearances, mostly festivals"
+      },
+      {
+        "sourceName": "Atwood Magazine - Flying Lotus 3D Review",
+        "sourceUrl": "https://atwoodmagazine.com/live-flying-lotus-brooklyn-2017/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The 3D graphics... were colorful and psychedelic... visuals ranging from jellyfish tentacles and crawling beetles, to flowing liquid and animatronic faces... a total assault on the senses",
+        "notes": "Live review of his immersive 3D show experience"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "artist": "Four Tet",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Four Tet (Kieran Hebdomad) is a prolific live performer known for his extended DJ sets that seamlessly blend his own productions with eclectic selections spanning techno, house, jazz, and world music. His shows range from intimate club appearances to large-scale events with innovative lighting installations. He regularly performs at major festivals and has been doing multi-night residencies at venues like Alexandra Palace. His 2026 schedule includes dates at Mission Ballroom Denver, Way Out West Sweden, Piknic Electronik Montreal, and Bonnaroo, reflecting his steady touring pace.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Ticketmaster - Four Tet",
+        "sourceUrl": "https://www.ticketmaster.com/four-tet-tickets/artist/1291160",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "September 24, 2026 Denver COMission Ballroom; WAY OUT WEST AUGUST 13-15 2026 Sweden; Bonnaroo 2026",
+        "notes": "Multiple 2026 dates confirmed"
+      },
+      {
+        "sourceName": "Resident Advisor - Four Tet Tour",
+        "sourceUrl": "https://ra.co/dj/fourtet/tour-dates",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2026 dates: Jun 26 Montreal Piknic Electronik, Jul 3 KappaFuturFestival Turin",
+        "notes": "Regular festival and club bookings throughout 2026"
+      },
+      {
+        "sourceName": "Songkick - Four Tet",
+        "sourceUrl": "https://www.songkick.com/artists/306583-four-tet",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "May 16 Paris; Bonnaroo June 11-14 2026",
+        "notes": "Confirmed 2026 European and US dates"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "artist": "Fred Again..",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Fred Again.. has become one of the most dynamic live performers in electronic music with his innovative 'USB' residency-style tours where he releases new tracks weekly and performs intimate shows. His USB002 tour (Oct 2025-Feb 2026) spanned 15+ shows across 7 countries including multi-night residencies at New York's East End Studios and London's Alexandra Palace. His collaborative DJ-style shows feature surprise guests, live sampling, and a fluid setlist mixing his own productions with UK garage, techno, and unexpected covers. The format emphasizes intimacy and spontaneity over large festival stages.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Dork - Fred Again USB002",
+        "sourceUrl": "https://readdork.com/tours/fred-again-2/usb002",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "USB002 tour... 15 confirmed shows across 4 countries... 122 unique songs... residency-style shows in New York and London",
+        "notes": "Comprehensive tour data for USB002"
+      },
+      {
+        "sourceName": "DJ Mag - Fred Again Extends USB002",
+        "sourceUrl": "https://djmag.com/news/fred-again-extends-usb002-tour-10-shows-new-york-and-london",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "six shows at East End Studios on the 16th and 17th, 23rd and 24th and the 30th and 31st... four-night residency at Alexandra Palace between 12th and 27th February",
+        "notes": "2026 residency extensions announced"
+      },
+      {
+        "sourceName": "Uproxx - Fred Again 2026 Tour",
+        "sourceUrl": "https://uproxx.com/indie/fred-again-2026-tour-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fred is playing six shows at New York's East End Studios in January and four at London's Alexandra Palace in February",
+        "notes": "Detailed 2026 tour dates confirmed"
+      }
+    ]
+  }
+]

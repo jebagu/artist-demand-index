@@ -1,0 +1,101 @@
+[
+  {
+    "id": 22,
+    "artist": "Christian Marclay",
+    "field": "all_social",
+    "issue": "artist_type_no_social",
+    "description": "Christian Marclay is a visual/sound artist (not a performing musician). He explicitly does not use social media, confirmed in interviews. Expected gap.",
+    "recommendedAction": "Keep all social fields as null. This is expected for a gallery-based visual artist.",
+    "sourceUrls": []
+  },
+  {
+    "id": 23,
+    "artist": "Christina Kubisch",
+    "field": "all_social",
+    "issue": "artist_type_no_social",
+    "description": "Christina Kubisch is a German sound artist/composer (b. 1948). No social media presence found. Expected for a contemporary classical composer of her generation.",
+    "recommendedAction": "Keep all social fields as null.",
+    "sourceUrls": []
+  },
+  {
+    "id": 49,
+    "artist": "Haroon Mirza",
+    "field": "all_social",
+    "issue": "artist_type_no_social",
+    "description": "Haroon Mirza is a British-Pakistani visual/sound artist represented by Lisson Gallery. No personal social media presence found. Expected for gallery-based artists.",
+    "recommendedAction": "Keep all social fields as null.",
+    "sourceUrls": []
+  },
+  {
+    "id": 61,
+    "artist": "Karlheinz Stockhausen",
+    "field": "all_social",
+    "issue": "deceased_artist",
+    "description": "Karlheinz Stockhausen passed away in 2007. No social media presence exists; only an official estate-managed website. No public social profiles.",
+    "recommendedAction": "Keep all social fields as null. Estate-managed only via official website.",
+    "sourceUrls": []
+  },
+  {
+    "id": 79,
+    "artist": "Monolake / Robert Henke",
+    "field": "all_social",
+    "issue": "artist_type_no_social",
+    "description": "Robert Henke (Monolake) is a very private artist focused on his work and Ableton Live development. No public social media presence found.",
+    "recommendedAction": "Keep all social fields as null. Expected for this artist.",
+    "sourceUrls": []
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "field": "all_social",
+    "issue": "artist_type_no_social",
+    "description": "Samson Young is a Hong Kong sound artist/composer operating primarily in gallery/museum context. No public social media found.",
+    "recommendedAction": "Keep all social fields as null.",
+    "sourceUrls": []
+  },
+  {
+    "id": 68,
+    "artist": "Lana Del Rey",
+    "field": "xHandle",
+    "issue": "account_deactivated",
+    "description": "Lana Del Rey deactivated her X/Twitter account in 2021. She is currently only active on Instagram (@honeymoon, 24M followers) and Facebook (14.9M followers). No X presence.",
+    "recommendedAction": "Set xHandle and xFollowers to null. Note: artist intentionally left platform.",
+    "sourceUrls": []
+  },
+  {
+    "id": 42,
+    "artist": "Gold Panda",
+    "field": "xHandle",
+    "issue": "account_inactive",
+    "description": "Gold Panda's X/Twitter account (@goldpanda) exists but explicitly states 'not on twitter' in bio. Only 51 followers. Account is essentially abandoned.",
+    "recommendedAction": "Record xHandle as @goldpanda but note account is inactive. xFollowers: 51.",
+    "sourceUrls": []
+  },
+  {
+    "id": 82,
+    "artist": "Nils Frahm",
+    "field": "all_social",
+    "issue": "minimal_presence",
+    "description": "Nils Frahm deleted his Facebook and Instagram accounts in 2019 citing 'political and moral costs.' He only maintains a minimal X/Twitter presence (@NilsFrahm) with 80 followers.",
+    "recommendedAction": "Record xHandle as @NilsFrahm with 80 followers. Instagram and Facebook are null (intentionally deleted).",
+    "sourceUrls": []
+  },
+  {
+    "id": 110,
+    "artist": "Tourist",
+    "field": "xHandle",
+    "issue": "account_suspended",
+    "description": "Tourist's X/Twitter account (@Tourist) has been suspended. Only Instagram (44K followers) and Facebook (56K followers) remain active.",
+    "recommendedAction": "Set xHandle and xFollowers to null. Note: account suspended.",
+    "sourceUrls": []
+  },
+  {
+    "id": 109,
+    "artist": "Tipper",
+    "field": "all_social",
+    "issue": "minimal_presence",
+    "description": "Tipper (Dave Tipper) has virtually no public social media. Only a Facebook page (tippermusic) exists via his official website, with no visible follower count. No Instagram or X/Twitter found.",
+    "recommendedAction": "Set Instagram and X to null. Facebook page exists but follower count not accessible.",
+    "sourceUrls": []
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "id": 51,
+    "artist": "Ian Dearden",
+    "instagramHandle": null,
+    "instagramFollowers": null,
+    "xHandle": null,
+    "xFollowers": null,
+    "facebookPage": null,
+    "facebookFollowers": null,
+    "totalSocialReach": null,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "all",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "Multiple sources",
+        "sourceUrl": "https://www.operaballet.nl/en/ian-dearden",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Ian Dearden is a sound designer with Sound Intermedia. No official public social media profiles found after extensive search.",
+        "notes": "Ian Dearden is a theatrical sound designer (not a performing artist). Searched operaballet.nl, irishnationalopera.ie, and other sources. Only institutional social links found (organization pages, not personal)."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "artist": "Igor Levit",
+    "instagramHandle": "@igorpianist",
+    "instagramFollowers": 116000,
+    "xHandle": "@igorpianist",
+    "xFollowers": 15000,
+    "facebookPage": null,
+    "facebookFollowers": null,
+    "totalSocialReach": 131000,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@igorpianist",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/igorpianist/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "116,000 followers. Bio: 'My only Instagram account'",
+        "notes": "Official account linked from igor-levit.com and Sony Classical"
+      },
+      {
+        "field": "xHandle",
+        "value": "@igorpianist",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/igorpianist",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "15,000 followers. Bio: 'Pianist. (All other accounts are fake!)' Verified checkmark.",
+        "notes": "Active account. Verified on X."
+      },
+      {
+        "field": "facebookPage",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 4,
+        "sourceName": "igor-levit.com",
+        "sourceUrl": "https://www.igor-levit.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Official website footer only lists Apple Music, Spotify, Instagram. No Facebook link.",
+        "notes": "No official Facebook page found. URL /igorlevitpianist redirects to login."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "artist": "James Blake",
+    "instagramHandle": "@jamesblake",
+    "instagramFollowers": 827000,
+    "xHandle": "@jamesblake",
+    "xFollowers": 305000,
+    "facebookPage": "@jamesblakemusic",
+    "facebookFollowers": 750000,
+    "totalSocialReach": 1882000,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@jamesblake",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/jamesblake/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "827,000 followers. Bio: 'Trying Times out now.'",
+        "notes": "Official account"
+      },
+      {
+        "field": "xHandle",
+        "value": "@jamesblake",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/jamesblake",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "305,000 followers. Verified. Active posting.",
+        "notes": "Official verified account"
+      },
+      {
+        "field": "facebookPage",
+        "value": "@jamesblakemusic",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/jamesblakemusic/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "750,000 followers. Page category: Musician/Band. Link: jamesblakemusic.com",
+        "notes": "Official page linked from jamesblakemusic.com"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "artist": "Jamie xx",
+    "instagramHandle": "@jamie___xx",
+    "instagramFollowers": 525000,
+    "xHandle": "@jamie___xx",
+    "xFollowers": 12000,
+    "facebookPage": "@jamiexxofficial",
+    "facebookFollowers": 370000,
+    "totalSocialReach": 907000,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@jamie___xx",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/jamie___xx/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "525,000 followers. Bio: 'Ldn'",
+        "notes": "Official account linked from jamiexx.com"
+      },
+      {
+        "field": "xHandle",
+        "value": "@jamie___xx",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/jamie___xx",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "12,000 followers. Location: UK. Website: jamiexx.com. 0 posts.",
+        "notes": "Account exists but dormant (0 posts). Official handle reserved."
+      },
+      {
+        "field": "facebookPage",
+        "value": "@jamiexxofficial",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/jamiexxofficial/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "370,000 followers. Category: Producer. Website: jamiexx.com",
+        "notes": "Official page linked from jamiexx.com"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "artist": "Janelle Monáe",
+    "instagramHandle": "@janellemonae",
+    "instagramFollowers": 5297000,
+    "xHandle": "@JanelleMonae",
+    "xFollowers": 1253000,
+    "facebookPage": "@janellemonae",
+    "facebookFollowers": 1580000,
+    "totalSocialReach": 8130000,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@janellemonae",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/janellemonae/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "5,297,000 followers. Verified presence.",
+        "notes": "Official verified account"
+      },
+      {
+        "field": "xHandle",
+        "value": "@JanelleMonae",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/JanelleMonae",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1,253,000 followers. Verified checkmark. Bio includes alien/train/robot emojis.",
+        "notes": "Official verified account. Active poster."
+      },
+      {
+        "field": "facebookPage",
+        "value": "@janellemonae",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/janellemonae/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1,580,000 followers. Category: Musician/Band. Links to janellemonae.lnk.to",
+        "notes": "Official verified page"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "artist": "Jennifer Walshe",
+    "instagramHandle": null,
+    "instagramFollowers": null,
+    "xHandle": "@JenniferWalshe",
+    "xFollowers": 3696,
+    "facebookPage": null,
+    "facebookFollowers": null,
+    "totalSocialReach": 3696,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 3,
+        "sourceName": "Multiple searches",
+        "sourceUrl": "https://www.instagram.com/jenniferwalshe/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Instagram account /jenniferwalshe not accessible. No Instagram handle found in interviews or articles.",
+        "notes": "Contemporary classical composer. No public Instagram found after extensive search."
+      },
+      {
+        "field": "xHandle",
+        "value": "@JenniferWalshe",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/JenniferWalshe",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "3,696 followers. Bio: 'Composer, vocalist, Aisteach. Professor of composition management. tweets own'",
+        "notes": "Active account. Links to jenniferwalshe.bandcamp.com and aisteach.net"
+      },
+      {
+        "field": "facebookPage",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 3,
+        "sourceName": "Multiple searches",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No official Facebook page found.",
+        "notes": "No Facebook presence found."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "artist": "Jon Hopkins",
+    "instagramHandle": "@mrjonhopkins",
+    "instagramFollowers": 154000,
+    "xHandle": "@jon_hopkins",
+    "xFollowers": 29,
+    "facebookPage": "@jonhopkinsmusic",
+    "facebookFollowers": 220000,
+    "totalSocialReach": 374000,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@mrjonhopkins",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/mrjonhopkins/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "154,000 followers. Category: Singer/Band. Bio: 'RITUAL, Polarity, MFPT'",
+        "notes": "Official account linked from jonhopkins.co.uk"
+      },
+      {
+        "field": "xHandle",
+        "value": "@jon_hopkins",
+        "status": "data_unavailable",
+        "confidence": 2,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/jon_hopkins",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "29 followers, 16 posts, 0 following. Account essentially abandoned.",
+        "notes": "Not the musician's active account. Last.fm lists @Jon_Hopkins_ but that account (312 followers, Birmingham) appears to be a different person. Musician Jon Hopkins is from Kingston upon Thames."
+      },
+      {
+        "field": "facebookPage",
+        "value": "@jonhopkinsmusic",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/jonhopkinsmusic/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "220,000 followers. Category: Musician/Band. Website: jonhopkins.co.uk",
+        "notes": "Official page linked from jonhopkins.co.uk"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "artist": "Jorja Smith",
+    "instagramHandle": "@jorjasmith",
+    "instagramFollowers": 23070000,
+    "xHandle": "@JorjaSmith",
+    "xFollowers": 406000,
+    "facebookPage": "@jorjasmithmusic",
+    "facebookFollowers": 640000,
+    "totalSocialReach": 24116000,
+    "verifiedStatus": "Verified on X",
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@jorjasmith",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/jorjasmith/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "23,070,000 followers (displayed as 2307万). 187 posts.",
+        "notes": "Official verified account"
+      },
+      {
+        "field": "xHandle",
+        "value": "@JorjaSmith",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/JorjaSmith",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "406,000 followers. Bio: 'Official account of Jorja Smith, run by Jorja Smith's team.' Verified.",
+        "notes": "Official verified account. Website: jorjasmith.com"
+      },
+      {
+        "field": "facebookPage",
+        "value": "@jorjasmithmusic",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/jorjasmithmusic/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "640,000 followers. Category: Musician/Band. Website: jorjasmith.com",
+        "notes": "Official page linked from jorjasmith.com"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "artist": "Justin Gray",
+    "instagramHandle": "@iamjustingray",
+    "instagramFollowers": 5307,
+    "xHandle": null,
+    "xFollowers": null,
+    "facebookPage": null,
+    "facebookFollowers": null,
+    "totalSocialReach": 5307,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@iamjustingray",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/iamjustingray/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "5,307 followers. Bio: 'Producer, Songwriter, Composer, Music Executive, Founder, Consultant, Dreamer...ALWAYS SWINGING FOR THE FENCES'",
+        "notes": "Official account linked from iamjustingray.com"
+      },
+      {
+        "field": "xHandle",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 3,
+        "sourceName": "Multiple searches",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No official X/Twitter account found for the musician. Account @iamjustingray exists but is a different person (Web3/crypto).",
+        "notes": "Canadian musician/producer based in LA. X account not found."
+      },
+      {
+        "field": "facebookPage",
+        "value": null,
+        "status": "not_found_publicly",
+        "confidence": 3,
+        "sourceName": "Multiple searches",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No official Facebook page found.",
+        "notes": "No Facebook presence found for the musician."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "artist": "Kaitlyn Aurelia Smith",
+    "instagramHandle": "@kaitlynaurelia",
+    "instagramFollowers": 32000,
+    "xHandle": "@kaitlynaurelia",
+    "xFollowers": 6965,
+    "facebookPage": "@kaitlynaurelia",
+    "facebookFollowers": 21000,
+    "totalSocialReach": 59965,
+    "verifiedStatus": null,
+    "evidence": [
+      {
+        "field": "instagramHandle",
+        "value": "@kaitlynaurelia",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Instagram",
+        "sourceUrl": "https://www.instagram.com/kaitlynaurelia/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "32,000 followers. Bio: 'Composer, synthesist, producer, sound designer, visual artist'",
+        "notes": "Official account linked from kaitlynaureliasmith.com"
+      },
+      {
+        "field": "xHandle",
+        "value": "@kaitlynaurelia",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "X",
+        "sourceUrl": "https://x.com/kaitlynaurelia",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "6,965 followers. Bio: 'Modular Synth Sound Sculptress Producer and Orchestral Composer.' Website: kaitlynaureliasmith.com",
+        "notes": "Official verified account"
+      },
+      {
+        "field": "facebookPage",
+        "value": "@kaitlynaurelia",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "Facebook",
+        "sourceUrl": "https://www.facebook.com/kaitlynaurelia/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "21,000 followers. Category: Performing Arts. Website: kaitlynaureliasmith.com",
+        "notes": "Official page linked from kaitlynaureliasmith.com"
+      }
+    ]
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "id": 21,
+    "artist": "The Chemical Brothers",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "The Chemical Brothers deliver a large-scale arena and festival electronic live show featuring Tom Rowlands and Ed Simons performing behind a bank of equipment, accompanied by a spectacular visual production directed by Adam Smith and Marcus Lyall. The show includes a massive LED screen displaying surreal CGI animations, dancers in wild costumes, giant walking robots, and an elaborate laser rig. Sets span 90-120 minutes of career-spanning big beat and electronic music, blending classics like 'Hey Boy Hey Girl' and 'Block Rockin' Beats' with newer material. A team of 18 people tours the production.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "ABC News Australia (Double J)",
+        "sourceUrl": "https://www.abc.net.au/listen/doublej/music-reads/features/chemical-brothers-brisbane-australia-live-review-2024/103523624",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "It takes a team of 18 people to bring The Chemical Brothers' show to Australia. Only two of those people are on stage... The Manchester duo's seamless, explosive musical display is matched with an unparalleled visual show... There are dancers in incomprehensibly wild costumes, adorable animated robots, and wonderfully warped splashes of colour and imagery",
+        "notes": "2024 Australia tour review describing production scale"
+      },
+      {
+        "sourceName": "MusicTech",
+        "sourceUrl": "https://musictech.com/news/events/the-chemical-brothers-live-review-o2-arena/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Pioneering electronic duo The Chemical Brothers brought the ultimate rave to London's O2 Arena... Kickstarting their career-spanning two-hour show... It was the beaming light show and trippy, sci-fi-leaning visuals that really took the experience to another dimension",
+        "notes": "2023 O2 Arena review confirming arena-scale production"
+      },
+      {
+        "sourceName": "Shazam Tour Dates",
+        "sourceUrl": "https://www.shazam.com/artist/the-chemical-brothers/3726283/events",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Sat, Feb 14, 2026. Cosquin cordoba. Villa Aberastain, San Juan Province; Fri, Feb 13, 2026. Espacio Riesco. Huechuraba, Chile; Sat, Nov 22, 2025. Milan, Italy",
+        "notes": "2025-2026 confirmed tour dates"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "artist": "Christian Marclay",
+    "livePerformanceFrequency": "none",
+    "touringPackageDescription": "Christian Marclay is a visual and sound artist whose practice centers on installations, video works, and occasional live performances rather than traditional music touring. He is best known for 'The Clock' (a 24-hour video installation) and other gallery-based works. His live appearances are typically one-off collaborative performances or events tied to exhibition openings at museums and art institutions, not commercial touring. He does not maintain a regular live performance schedule.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "White Cube (Christian Marclay CV 2025)",
+        "sourceUrl": "https://white-cube.files.svdcdn.com/production/uploads/CVs/Christian-Marclay/Christian-Marclay-CV-May-2025.pdf",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Selected performances: 2023 Penstock, International Sound Biennial, Valais, Switzerland; 2018 Concerto Spaziale, Museo del Novecento, Milan; 2017 Small Sphere and Heavy Sphere, Whitney Museum of American Art, New York",
+        "notes": "Sparse performance history - occasional one-off events, not tours"
+      },
+      {
+        "sourceName": "Art at Berlin",
+        "sourceUrl": "https://www.artatberlin.com/en/news-christian-marclay-the-clock-neue-nationalgalerie-berlin-29-11-2025-25-01-2026-2/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Christian Marclay's 'The Clock' is a 24-hour video work... Since its premiere in London in 2010 and winning the Golden Lion at the 54th Venice Biennale in 2011, the work has attracted worldwide attention and has since been shown in major museums",
+        "notes": "His primary work is installation-based, not performance"
+      },
+      {
+        "sourceName": "Paula Cooper Gallery",
+        "sourceUrl": "https://www.paulacoopergallery.com/exhibitions/new-works",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Marclay has exhibited his artwork and performed his music both nationally and internationally. Most recently, Marclay presented The Sounds of Christmas, an installation at the New Museum, New York, featuring an archive of over one thousand Christmas records, which were remixed by DJs during a series of live performances",
+        "notes": "Live elements are part of installations, not standalone tours"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "artist": "Christina Kubisch",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Christina Kubisch is a pioneering German sound artist and composer whose live appearances consist of sound installations, electro-acoustic compositions, and occasional performances at festivals and art institutions. Her work includes 'Electrical Walks' where participants explore electromagnetic fields with special headphones, site-specific sound installations, and compositions for multi-channel systems. She is primarily an installation artist whose work is exhibited in galleries, museums, and festivals rather than a touring live performer.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Christina Kubisch Official Website (News)",
+        "sourceUrl": "https://christinakubisch.de/news",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Echonance festival Amsterdam 08.02.2026 - Christina Kubisch 'Stromsänger', composition for 6 voices and electromagnetic sounds, concert with the ensemble Trondheim Voices; Urban Sound Art 07.02.2026 – 09.03.2026 Beethoven-Haus Bonn; Electrical Walks Dresden 25.10.2025 – 30.10.2025",
+        "notes": "Active with installations and occasional performances through 2025-2026"
+      },
+      {
+        "sourceName": "Digital in Berlin",
+        "sourceUrl": "https://www.digitalinberlin.de/kiezsalon-limpe-fuchs-maika-garnica-wasserspeicher-prenzlauer-berg/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Christina Kubisch, born in Bremen 1948, belongs to the first generation of sound artists. Kubisch's practice ranges from performances, concerts, to works with video and visual art, but she is best known for her sound installations and electro-acoustic compositions",
+        "notes": "Description of her practice as installation-focused"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "artist": "Christine Sun Kim",
+    "livePerformanceFrequency": "none",
+    "touringPackageDescription": "Christine Sun Kim is a Deaf sound and visual artist whose practice centers on drawings, video installations, sculptures, murals, and occasional sound art performances rather than traditional music concerts. She explores the non-auditory and political dimensions of sound through American Sign Language (ASL) translated into graphic forms, musical notation, and infographics. Her work is exhibited in major museums (Whitney Museum 2025, Walker Art Center 2026) and biennials. She does not tour as a performing musician.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Whitney Museum of American Art",
+        "sourceUrl": "https://whitney.org/exhibitions/christine-sun-kim-all-day-all-night",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Christine Sun Kim (b. 1980) engages sound and the complexities of communication... she has produced drawings, videos, sculptures, and installations that often explore non-auditory, political dimensions of sound",
+        "notes": "Major museum survey exhibition, not a touring performer"
+      },
+      {
+        "sourceName": "Walker Art Center",
+        "sourceUrl": "https://www.walkerart.org/whats-on/christine-sun-kim-all-day-all-night/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Co-organized by the Walker Art Center and the Whitney Museum of American Art, All Day All Night surveys Kim's entire artistic output from 2011 to 2026",
+        "notes": "Exhibition-based practice, not live music performance"
+      },
+      {
+        "sourceName": "ArtForum",
+        "sourceUrl": "https://www.artforum.com/features/christine-sun-kim-mara-mills-whitney-museum-review-1234728306/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Many of her public installations are designed for ambient immersion or mobile attention. She is equally known for live performance of sound art and handwritten works... but these are exhibition/art context performances",
+        "notes": "Sound art performances in gallery context, not touring musician"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "artist": "Cigarettes After Sex",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Cigarettes After Sex performs as a three-piece ambient pop band led by frontman Greg Gonzalez, delivering intimate yet arena-scale shows featuring reverb-heavy guitar, slow tempos, and Gonzalez's distinctive vocals. The live show is minimalist and atmospheric with subtle black-and-white visuals, moody lighting, and a disco ball for key moments. The band creates a dreamlike, ethereal ambiance with a setlist spanning their catalog including 'Apocalypse,' 'Sweet,' and 'K.' Their 2024-2025 X's World Tour included dates across Europe, North America, Asia, Australia, and New Zealand.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Cigarettes After Sex Official Website",
+        "sourceUrl": "https://www.cigarettesaftersex.com/shows",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Upcoming Shows: Mar 30, 2025 - Beijing, China - Beijing National Indoor Stadium; Mar 28, 2025 - Shanghai, China - Oriental Sports Center",
+        "notes": "2025 tour dates in Asia confirming active touring"
+      },
+      {
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/4114466-cigarettes-after-sex/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Unfortunately there are no concert dates for Cigarettes After Sex scheduled in 2026",
+        "notes": "No 2026 dates yet but extensive 2024-2025 touring"
+      },
+      {
+        "sourceName": "Utah Concert Review",
+        "sourceUrl": "https://utahconcertreview.com/cigarettes-after-sex/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "They are positioned three across and the lighting is very subtle. Most of the time the only spotlight is on Gonzalez... Greg Gonzalez wins the award for 'Getting The Most Out Of The Most Subtle Of Moves'",
+        "notes": "Live review describing minimalist stage setup"
+      },
+      {
+        "sourceName": "StereoBoard",
+        "sourceUrl": "https://www.stereoboard.com/cigarettes-after-sex-tickets",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Cigarettes After Sex will support their new LP with a World Tour, which includes their biggest ever headline UK shows at The O2 London... in 2025, they'll play a run of Asian shows in January, before heading across South Africa, Australia and New Zealand in March",
+        "notes": "2024-2025 world tour details"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "artist": "Colin Benders",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Colin Benders is a Dutch modular synthesizer artist who performs live hardware electronic sets, manipulating oscillators, rhythms, and effects in real-time to create improvised techno and IDM compositions. His shows are unique, unpredictable experiences where he builds polyphenic, harmony-based pieces from scratch using his modular system. Formerly known for leading the Kyteman Orchestra, he now focuses entirely on modular synth performances at underground clubs and festivals. He has performed at Awakenings, Dekmantel, Le Guess Who?, ADE, and Berghain.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Colin Benders Official Website",
+        "sourceUrl": "https://colinbenders.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "next show: 08 May 2026. CLUB CIELOTERRA, Rome, IT",
+        "notes": "Confirmed upcoming 2026 performance"
+      },
+      {
+        "sourceName": "Awakenings",
+        "sourceUrl": "https://www.awakenings.com/en/artists/colin-benders/270/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Over the past few years, Benders has been invited to perform at established festivals and clubs, including Awakenings, Dekmantel, Le Guess Who?, Amsterdam Dance Event and Berghain... each of these performances became a unique experience in itself",
+        "notes": "Description of live performance approach"
+      },
+      {
+        "sourceName": "Xceed (Rome event)",
+        "sourceUrl": "https://xceed.me/en/roma/event/08-05-2026-yanamaste-colin-benders-x-rr-at-cieloterra-closing-party/225252",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Colin Benders: The modular universe is the pole around which his sonic vision revolves... His live sets build polyphonic soundscapes in constant mutation, where improvisation and control meet in perfect balance",
+        "notes": "2026 confirmed live show"
+      },
+      {
+        "sourceName": "mxdwn",
+        "sourceUrl": "https://www.mxdwn.co.uk/news/colin-benders-brings-modular-techno-to-dublin/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "This isn't a DJ set: Benders manipulates hardware in real time, creating one-of-a-kind compositions on stage... Expect a musical journey built from hands-on modulation of oscillators, rhythms, and effects",
+        "notes": "Description of live modular performance style"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "artist": "DARKSIDE",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "DARKSIDE performs as a trio featuring Nicolas Jaar (keys, vocals), Dave Harrington (guitar, keys), and Tlacael Esparza (drums), delivering an immersive 90-minute to two-hour show of experimental electronic rock. The performance is shrouded in darkness with minimal, tasteful lighting, creating hyper-talented silhouettes on stage. Their live sets blend dark dubby instrumentals, psychedelic elements, and improvisational jams, with songs often stretching to 12-15 minutes. They are known for extensive improvisation, transforming tracks from their albums 'Psychic,' 'Spiral,' and 'Nothing' into unique live experiences. Recent tours include 2024-2025 North American and European dates, with 2026 residencies in LA, Paris, London, and NYC.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Matador Records",
+        "sourceUrl": "https://matadorrecords.com/blogs/news/darkside-2026-residencies",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "In the fall of 2025, DARKSIDE held a six-show residency at Lodge Room in Los Angeles... The band will now bring this same residency format to three new cities as part of their 2026 touring schedule, with a return to Lodge Room (eight shows across four nights this time), plus similar intimate runs in Paris, London, and New York City",
+        "notes": "2026 residency tour announcement"
+      },
+      {
+        "sourceName": "Spectrum Culture",
+        "sourceUrl": "https://spectrumculture.com/2025/04/07/concert-review-darkside-2/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The trio, shrouded in darkness and backed by the glow of tasteful stage lighting, were rendered as hyper-talented silhouettes for almost all of the show... their knack for thoughtful remixing and improvisation... for 15 minutes, they grabbed onto the essence of what makes live performance special",
+        "notes": "2025 Portland live review describing stage setup"
+      },
+      {
+        "sourceName": "The Skinny (Edinburgh review)",
+        "sourceUrl": "https://www.theskinny.co.uk/music/live-music/reviews/darkside-la-belle-angele-edinburgh-21-oct",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Now joined by percussionist Tlacael Esparza, they're taking this latest iteration of Darkside on the road... It's a set that's by turns hypnotic and danceable, often turning in unexpected ways... They seem to be enjoying the freedom of the live format too, stretching and transforming tracks like Paper Trails into immersive, extended jams",
+        "notes": "2024 Edinburgh review describing improvisational live approach"
+      },
+      {
+        "sourceName": "Atlanta Concert Reviews",
+        "sourceUrl": "https://atlantaconcertreviews.com/darkside-atlanta-concert-review-photos-2025/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "This is Darkside's first North American tour in 11 years... The band's two-hour set was an immersive auditory experience. The minimalist lighting diminishes their 'psychedelic rock' label in favor of an electronic or experimental rock aesthetic",
+        "notes": "2025 Atlanta review confirming two-hour immersive show"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Dave Stewart performs the Eurythmics Songbook as a live show fronting an exceptional all-female band of eight musicians, featuring Australian vocalist Vanessa Amorosi on lead vocals along with additional singers. The 60-90 minute set spans Eurythmics' greatest hits including 'Sweet Dreams (Are Made of This),' 'Here Comes the Rain Again,' 'Would I Lie to You?,' and 'Missionary Man,' performed with Stewart on multiple guitars alongside keyboards, drums, bass, saxophone, and harmonica. The show celebrates the Eurythmics catalog with Annie Lennox's blessing (she no longer tours). Stewart has played 60+ shows across the US and Europe in 2023-2025.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Surfdog Records",
+        "sourceUrl": "https://surfdog.com/dave-stewart-announces-summer-2025-european-tour-dave-stewart-eurythmics-featuring-vanessa-amorosi/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dave Stewart... is set to embark on an electrifying Summer 2025 European Tour... the spectacular set will bring the timeless worldwide hits of Eurythmics to life, fronted by maestro Dave, with an exceptional all female live band and featuring the incredible vocal prowess of Australian powerhouse vocalist Vanessa Amorosi",
+        "notes": "2025 European tour announcement with all-female band"
+      },
+      {
+        "sourceName": "Classic Pop Magazine",
+        "sourceUrl": "https://www.classicpopmag.com/news/eurythmics-songbook-sweet-dreams-40th-anniversary-tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Eurythmics Songbook: Sweet Dreams 40th Anniversary Tour features the former Eurythmic alongside an all-female band of singers and musicians... With the blessing of musical partner Annie Lennox, who no longer tours, Stewart has decided to take the show on the road",
+        "notes": "2025 UK/Europe tour with dates in November"
+      },
+      {
+        "sourceName": "Parklife DC",
+        "sourceUrl": "https://parklifedc.com/2024/03/28/live-review-dave-stewart-and-eurythmics-songbook-eaglebank-arena-3-13-24/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Dave recruited a stunning band of female musicians... to explore 11 superb Eurythmics songs in concert... The dapper and cerebral Mr. Stewart moved with grace and ease, pacing the set with a number of magnificent guitars as he strode comfortably across and along the entire stage",
+        "notes": "2024 live review describing the show format"
+      },
+      {
+        "sourceName": "Dave Stewart Official Tour Page",
+        "sourceUrl": "https://davestewartent.com/p/tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "There are no upcoming events.",
+        "notes": "No current 2026 dates listed, but extensive 2024-2025 touring"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "artist": "David Sheppard",
+    "livePerformanceFrequency": "rarely",
+    "touringPackageDescription": "David Sheppard is primarily a studio-based musician, music journalist, and author (known for his acclaimed Brian Eno biography 'On Some Faraway Beach'). His musical projects include State River Widening (post-rock trio), Ellis Island Sound, and Snow Palms (minimalist duo with Matt Gooderson). While these projects have occasionally performed live - including a debut show at London's Purcell Room - live performances are rare. Sheppard does not tour as a solo artist and his focus is on recording, writing, and journalism rather than live performance.",
+    "confidence": 3,
+    "evidence": [
+      {
+        "sourceName": "Village Green Recordings (Snow Palms)",
+        "sourceUrl": "https://villagegreenrecordings.co.uk/artists/snow-palms",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "David Sheppard is a musician, teacher and writer, the author of acclaimed biography On Some Faraway Beach: The Life and Times of Brian Eno... They performed their first live gig at the prestigious Purcell Room at London's Southbank Centre last July, before lockdown scuppered plans for more shows",
+        "notes": "Rare live performances, primarily studio-focused"
+      },
+      {
+        "sourceName": "Grokipedia (State River Widening)",
+        "sourceUrl": "https://grokipedia.com/page/state_river_widening",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Though they maintained a low profile with rare live performances alongside bands like Low and Piano Magic, State River Widening went on hiatus in the mid-2000s",
+        "notes": "History of rare live shows with his band"
+      },
+      {
+        "sourceName": "NTS Radio",
+        "sourceUrl": "https://www.nts.live/artists/50017-david-sheppard",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "David Sheppard is one of the people behind State river widening, Ellis Island Sound and Phelan Sheppard",
+        "notes": "Studio project-based musician, no touring activity found"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "artist": "deadmau5",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "deadmau5 (Joel Zimmerman) performs as a DJ/live electronic producer, delivering high-energy shows featuring his signature Cube V3 production setup with custom LED visuals and the iconic mau5head. His sets span progressive house, electro, and techno, blending original productions like 'Ghosts 'n' Stuff,' 'Strobe,' and 'Maths' with selections from his extensive catalog and occasional covers. He performs both as deadmau5 and under his techno alter-ego Testpilot, with regular Las Vegas residencies at XS Nightclub, festival headline slots, and arena shows. His 2026 schedule includes Red Rocks Amphitheatre, festival appearances, and club dates.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "deadmau5 Official Website",
+        "sourceUrl": "https://deadmau5.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Upcoming Shows: Jun 19. Kx5. We Belong Here. New York, NY; Jun 27. deadmau5. XS Nightclub. Las Vegas, NV; Jul 04. deadmau5. Illum Block Party. San Francisco, CA",
+        "notes": "2026 confirmed dates"
+      },
+      {
+        "sourceName": "Ticketmaster",
+        "sourceUrl": "https://www.ticketmaster.com/deadmau5-tickets/artist/1221074",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "June 27, 2026. Las Vegas, NV XS Nightclub at Wynn Las Vegas; July 4, 2026. San Francisco, CA The Midway; July 24, 2026. Las Vegas, NV XS Nightclub; September 5, 2026. Palmer, AK Alaska State Fair; October 30-31, 2026. Morrison, CO Red Rocks Amphitheatre",
+        "notes": "Multiple 2026 dates confirmed"
+      },
+      {
+        "sourceName": "Red Rocks Online",
+        "sourceUrl": "https://www.redrocksonline.com/events/deadmau5-908897/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "AEG Presents is thrilled to announce DEADMAU5 live at Red Rocks Amphitheatre Friday, November 7th, 2025",
+        "notes": "Red Rocks show confirming major venue performances"
+      },
+      {
+        "sourceName": "JamBase",
+        "sourceUrl": "https://www.jambase.com/band/deadmau5",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "deadmau5 Tour Dates See the deadmau5 concert schedule for 2026. Jun. 19. 2026. Fri. Kx5; Jun. 27. 2026. Sat. deadmau5",
+        "notes": "2026 tour dates listed"
+      }
+    ]
+  }
+]

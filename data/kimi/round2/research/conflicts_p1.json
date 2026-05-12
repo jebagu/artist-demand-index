@@ -1,0 +1,80 @@
+[
+  {
+    "id": 5,
+    "artist": "Aphex Twin",
+    "field": "spotifyFollowers",
+    "issue": "multiple_profiles",
+    "description": "Multiple Spotify profiles may exist for Aphex Twin/Richard D. James. The main verified profile (6kBDZFXuLrZgHnvmPu9NsG) shows 2.0M followers. Additional alias profiles (e.g., AFX, Polygon Window, Caustic Window) may have separate follower counts.",
+    "recommendedAction": "Verify if the dashboard should aggregate all Richard D. James aliases or use the main Aphex Twin profile only.",
+    "sourceUrls": [
+      "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+    ]
+  },
+  {
+    "id": 18,
+    "artist": "Carl Craig",
+    "field": "spotifyFollowers",
+    "issue": "multiple_profiles",
+    "description": "Multiple Spotify profiles exist for Carl Craig and his aliases (e.g., Innerzone Orchestra, Paperclip People, 69). The main profile shows 99,417 followers. Alias profiles may have additional followers.",
+    "recommendedAction": "Determine whether to aggregate alias profiles or use the main Carl Craig profile only.",
+    "sourceUrls": [
+      "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+    ]
+  },
+  {
+    "id": 79,
+    "artist": "Monolake / Robert Henke",
+    "field": "spotifyFollowers",
+    "issue": "dual_identity",
+    "description": "Robert Henke has two Spotify profiles: Monolake (44,998 followers) and Robert Henke solo (6,253 followers). Both represent the same person. The dashboard lists 'Monolake / Robert Henke' suggesting both identities are tracked together.",
+    "recommendedAction": "Decide whether to use Monolake profile only (44,998), Robert Henke solo only (6,253), or create a combined entry.",
+    "sourceUrls": [
+      "https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq",
+      "https://open.spotify.com/artist/5cSssfrNDzZdX1c5qVe30y"
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "field": "spotifyFollowers",
+    "issue": "identity_overlap",
+    "description": "Dave Stewart has a solo profile (1.52M followers) separate from Eurythmics (7.79M followers). Some listeners may follow both, causing potential double-counting in aggregate metrics.",
+    "recommendedAction": "Note for social reach calculations: Dave Stewart solo and Eurythmics are separate Spotify entities.",
+    "sourceUrls": [
+      "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+    ]
+  },
+  {
+    "id": 51,
+    "artist": "Ian Dearden",
+    "field": "spotifyFollowers",
+    "issue": "ambiguous_identity",
+    "description": "At least two people named Ian Dearden exist: (1) a sound designer/engineer with Sound Intermedia - no Spotify artist profile; (2) an Australian folk musician - has a separate Spotify profile but is a different person. The brief lists this as a sound artist (likely #1).",
+    "recommendedAction": "Manual verification needed to confirm which Ian Dearden is in the dashboard. If #1 (sound designer), spotifyFollowers should remain null.",
+    "sourceUrls": [
+      "https://www.google.com/search"
+    ]
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "field": "spotifyFollowers",
+    "issue": "data_unavailable",
+    "description": "Spotify profile exists (14 monthly listeners) but follower count is not publicly displayed. This is a sound artist/composer with minimal streaming presence. The follower count may be below Spotify's display threshold.",
+    "recommendedAction": "Flag for manual check. May need to use Spotify API or note as <display threshold rather than null.",
+    "sourceUrls": [
+      "https://open.spotify.com/artist/3AiEBEtUkD6TKUJKBnAjeh"
+    ]
+  },
+  {
+    "id": 49,
+    "artist": "Haroon Mirza",
+    "field": "spotifyFollowers",
+    "issue": "data_unavailable",
+    "description": "Spotify profile exists (59 monthly listeners) but follower count is not publicly displayed. Visual/sound installation artist with minimal streaming presence.",
+    "recommendedAction": "Flag for manual check. Follower count may be 0 or below display threshold.",
+    "sourceUrls": [
+      "https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC"
+    ]
+  }
+]

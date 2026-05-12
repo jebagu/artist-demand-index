@@ -75,6 +75,8 @@ export function DataQualitySection({ artists, summary, health, onSelect }: DataQ
         </ChartCard>
       </div>
 
+      <KimiImportPanel artists={artists} health={health} summary={summary} />
+
       <ChartCard
         className="mt-6"
         title="Missingness Matrix"
@@ -181,4 +183,83 @@ function labelFor(key: string): string {
     .replace(/([A-Z])/g, " $1")
     .replace(/^./, (char) => char.toUpperCase())
     .replace("Usd", "USD");
+}
+
+function KimiImportPanel({ artists, health, summary }: { artists: ArtistRecord[]; health: DataHealth; summary: SummaryStats }) {
+  const kimi = health.parser.kimiRound2;
+  if (!kimi?.available) return null;
+
+  const remainingFollowers = artists.filter((artist) => artist.streaming.spotifyFollowers === null);
+  const remainingSocial = artists.filter((artist) => artist.social.totalReach === null);
+  const remainingCatalog = artists.filter((artist) => artist.streaming.estimatedCatalogStreams === null);
+  const supportedFields = Object.entries(kimi.supportedFields).sort((a, b) => b[1] - a[1]);
+  const unsupportedFields = Object.entries(kimi.unsupportedFields).sort((a, b) => b[1] - a[1]);
+
+  return (
+    <ChartCard
+      className="mt-6"
+      title="Kimi Round 2 Import"
+      description="The dashboard is now using supported values from the latest Kimi research package. Unsupported fields are preserved in data/kimi/round2 and need explicit schema support before they affect charts."
+    >
+      <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-5">
+        <ImportMetric label="Applied values" value={formatCount(kimi.appliedUpdates)} detail={`${formatCount(kimi.updatedArtists)} artists updated`} />
+        <ImportMetric label="Research rows" value={formatCount(kimi.updateRows)} detail={`${formatCount(kimi.filesRead)} priority files read`} />
+        <ImportMetric label="Remaining followers" value={formatCount(remainingFollowers.length)} detail="After round 2" />
+        <ImportMetric label="Remaining social" value={formatCount(remainingSocial.length)} detail="Missing total reach" />
+        <ImportMetric label="Remaining catalog" value={formatCount(remainingCatalog.length)} detail="Missing catalog streams" />
+      </div>
+
+      <div className="mt-5 grid gap-5 xl:grid-cols-2">
+        <div className="rounded-lg border border-white/10 bg-white/[0.04] p-4">
+          <h3 className="text-sm font-semibold uppercase tracking-[0.16em] text-slate-500">Supported imported fields</h3>
+          <div className="mt-3 flex flex-wrap gap-2">
+            {supportedFields.map(([field, count]) => (
+              <span key={field} className="rounded-md border border-mint/20 bg-mint/10 px-2.5 py-1 text-xs text-mint">
+                {field}: {count}
+              </span>
+            ))}
+          </div>
+        </div>
+
+        <div className="rounded-lg border border-white/10 bg-white/[0.04] p-4">
+          <h3 className="text-sm font-semibold uppercase tracking-[0.16em] text-slate-500">Still unsupported by schema</h3>
+          <div className="mt-3 flex max-h-32 flex-wrap gap-2 overflow-y-auto pr-1">
+            {unsupportedFields.slice(0, 14).map(([field, count]) => (
+              <span key={field} className="rounded-md border border-amber/20 bg-amber/10 px-2.5 py-1 text-xs text-amber">
+                {field}: {count}
+              </span>
+            ))}
+          </div>
+          <p className="mt-3 text-xs leading-5 text-slate-400">
+            Includes live performance prose, certification subfields, and programming identity fields. They are archived but not charted yet.
+          </p>
+        </div>
+      </div>
+
+      <details className="mt-5 rounded-lg border border-white/10 bg-white/[0.04] p-4 text-sm text-slate-300">
+        <summary className="cursor-pointer font-medium text-slate-100">Remaining Spotify follower gaps</summary>
+        <div className="mt-3 flex flex-wrap gap-2">
+          {remainingFollowers.map((artist) => (
+            <span key={artist.id} className="rounded-md bg-white/8 px-2.5 py-1 text-xs text-slate-300">
+              {artist.artist}
+            </span>
+          ))}
+        </div>
+      </details>
+
+      <p className="mt-4 text-xs text-slate-500">
+        Current available social reach: {formatCount(summary.missingnessCounts.socialReach.available)} of {formatCount(summary.totalArtistCount)} artists.
+      </p>
+    </ChartCard>
+  );
+}
+
+function ImportMetric({ label, value, detail }: { label: string; value: string; detail: string }) {
+  return (
+    <div className="rounded-lg border border-white/10 bg-white/[0.04] p-3">
+      <div className="text-xs uppercase tracking-[0.14em] text-slate-500">{label}</div>
+      <div className="mt-2 text-2xl font-semibold text-white">{value}</div>
+      <div className="text-xs text-slate-400">{detail}</div>
+    </div>
+  );
 }

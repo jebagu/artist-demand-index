@@ -1,0 +1,112 @@
+[
+  {
+    "id": 97,
+    "artist": "Sofia Kourtesis",
+    "programmingStyle": "DJ Set",
+    "genreLabels": "Electronic",
+    "subGenre": "House",
+    "instrumentSounds": "Laptop, Synthesizer, Field Recordings",
+    "mf": "Female",
+    "descriptionShort": "Sofia Kourtesis is a Peruvian-born electronic music producer and DJ based in Berlin, known for blending house and techno with Latin American rhythms and emotionally resonant, personal narratives. Her acclaimed debut album 'Madres' (2023) explores themes of family, loss, and resilience, establishing her as a distinctive voice in contemporary electronic music. She has performed at major festivals including Glastonbury and Primavera Sound.",
+    "confidence": 5
+  },
+  {
+    "id": 98,
+    "artist": "Steve Miller Band",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "Rock",
+    "subGenre": "Classic Rock",
+    "instrumentSounds": "Guitar, Vocals, Harmonica",
+    "mf": "Group",
+    "descriptionShort": "Steve Miller Band is an American rock band formed in San Francisco in 1967, led by guitarist and vocalist Steve Miller. The band dominated the 1970s with a string of hit singles including 'The Joker,' 'Jet Airliner,' and 'Fly Like an Eagle' that remain staples of classic rock radio. Their blues-tinged psychedelic rock sound helped define the classic rock genre.",
+    "confidence": 5
+  },
+  {
+    "id": 99,
+    "artist": "Steve Reich",
+    "programmingStyle": "Classical",
+    "genreLabels": "Classical",
+    "subGenre": "Minimalism",
+    "instrumentSounds": "Percussion, Piano, Marimba",
+    "mf": "Male",
+    "descriptionShort": "Steve Reich, born in 1936, is one of the most influential American composers of the 20th century and a leading pioneer of minimalist music. His groundbreaking works such as 'Music for 18 Musicians,' 'Clapping Music,' and 'Different Trains' use repetitive patterns, phasing techniques, and rhythmic precision to create large-scale compositions from minimal materials. His influence extends across classical, electronic, and popular music.",
+    "confidence": 5
+  },
+  {
+    "id": 100,
+    "artist": "Steven Wilson",
+    "programmingStyle": "Main Stage",
+    "genreLabels": "Rock",
+    "subGenre": "Progressive Rock",
+    "instrumentSounds": "Guitar, Synthesizer, Vocals",
+    "mf": "Male",
+    "descriptionShort": "Steven Wilson is a British musician, songwriter, and producer who first gained recognition as the frontman of the progressive rock band Porcupine Tree. Known for his prolific output and genre-defying approach, his solo career spans from ambient electronics to expansive progressive rock, earning him critical acclaim and chart success. He is also a Grammy-nominated spatial audio mixer and sought-after producer.",
+    "confidence": 5
+  },
+  {
+    "id": 101,
+    "artist": "Stevie Nicks",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Rock",
+    "subGenre": "Classic Rock",
+    "instrumentSounds": "Vocals, Piano, Tambourine",
+    "mf": "Female",
+    "descriptionShort": "Stevie Nicks is an iconic American singer-songwriter best known as a member of Fleetwood Mac and for her prolific solo career. Her distinctive raspy vocals and mystical stage persona produced timeless hits like 'Rhiannon,' 'Dreams,' and 'Edge of Seventeen.' With both Fleetwood Mac and as a solo artist, she has sold over 140 million records and remains one of rock's most influential female artists.",
+    "confidence": 5
+  },
+  {
+    "id": 102,
+    "artist": "Suzanne Ciani",
+    "programmingStyle": "A/V Installation",
+    "genreLabels": "Electronic",
+    "subGenre": "Ambient",
+    "instrumentSounds": "Buchla Synthesizer, Modular Synth, Piano",
+    "mf": "Female",
+    "descriptionShort": "Suzanne Ciani is a pioneering American electronic music composer and five-time Grammy nominee who has been at the forefront of synthesizer music since the 1960s. She is renowned for her mastery of the Buchla modular synthesizer, creating iconic sound designs and quadraphonic live performances that blend electronic and acoustic textures. Her work spans commercial sound design, film scores, and influential ambient electronic albums.",
+    "confidence": 5
+  },
+  {
+    "id": 103,
+    "artist": "SZA",
+    "programmingStyle": "Headliner",
+    "genreLabels": "R&B",
+    "subGenre": "Alternative R&B",
+    "instrumentSounds": "Vocals",
+    "mf": "Female",
+    "descriptionShort": "SZA is an American singer-songwriter whose diaristic songwriting and genre-fluid approach have made her one of the most influential voices in contemporary R&B. Her acclaimed albums including 'Ctrl' (2017) and 'SOS' (2022) blend alternative R&B, soul, and hip-hop influences, earning her multiple Grammy Awards and widespread critical praise. She is regarded as a defining figure in shaping modern R&B.",
+    "confidence": 5
+  },
+  {
+    "id": 104,
+    "artist": "Talking Heads",
+    "programmingStyle": "Headliner",
+    "genreLabels": "Rock",
+    "subGenre": "New Wave",
+    "instrumentSounds": "Guitar, Vocals, Drums",
+    "mf": "Group",
+    "descriptionShort": "Talking Heads was an American new wave band formed in 1975 by David Byrne, Chris Frantz, Tina Weymouth, and Jerry Harrison. They became one of the most influential bands of their era by blending punk, art rock, funk, and world music influences, producing landmark albums such as 'Remain in Light' and the concert film 'Stop Making Sense.' Their innovative approach to rhythm, composition, and performance redefined popular music.",
+    "confidence": 5
+  },
+  {
+    "id": 105,
+    "artist": "Tarik Barri",
+    "programmingStyle": "A/V Installation",
+    "genreLabels": "Electronic",
+    "subGenre": "Visual Music",
+    "instrumentSounds": "Laptop, Custom Software, Visuals",
+    "mf": "Male",
+    "descriptionShort": "Tarik Barri is a Dutch audiovisual composer and software developer known for creating his own tools for live audiovisual performance and composition. As co-founder of Showsync, he developed Videosync, software that extends Ableton Live into an audiovisual engine. His work takes the form of installations, videos, and A/V performances, frequently collaborating with artists such as Thom Yorke, Nicolas Jaar, Ben Frost, and Robert Henke.",
+    "confidence": 4
+  },
+  {
+    "id": 106,
+    "artist": "Tash Sultana",
+    "programmingStyle": "Second Stage",
+    "genreLabels": "Rock",
+    "subGenre": "Psychedelic Rock",
+    "instrumentSounds": "Guitar, Loop Pedal, Vocals",
+    "mf": "Non-Binary",
+    "descriptionShort": "Tash Sultana is an Australian singer, songwriter, and multi-instrumentalist who turned solo performance into a full-band experience through masterful live looping. Their genre-blending sound fuses psychedelic rock, reggae, soul, and R&B, built layer by layer on stage using loop pedals and effects. After a viral bedroom performance of 'Jungle' launched their career, they have headlined major festivals and arenas worldwide.",
+    "confidence": 5
+  }
+]

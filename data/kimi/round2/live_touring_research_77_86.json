@@ -1,0 +1,288 @@
+[
+  {
+    "id": 77,
+    "artist": "Moby",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Moby performs live with a full band setup including vocalists, guitar, keyboards, and percussion, blending his electronic hits with rock instrumentation. His shows feature extensive back-catalog favorites like 'Porcelain,' 'Natural Blues,' and 'Extreme Ways' alongside newer material. Productions include large-scale light shows and video screens. He tours extensively at major festivals and arenas across Europe and North America, often donating proceeds to animal rights charities.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Moby Official Website - Live",
+        "sourceUrl": "https://moby.com/live/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "moby will be playing live at festivals across the US, Mexico and Europe in 2026. June 26, 2026 - Odense, Denmark - Tinderbox 2026; August 6, 2026 - Tartu, Estonia - Tartu Laululava; August 13-15, 2026 - Gothenburg, Sweden - Way Out West",
+        "notes": "Multiple confirmed 2026 festival dates across Europe"
+      },
+      {
+        "sourceName": "Ticketmaster - Moby",
+        "sourceUrl": "https://www.ticketmaster.com/moby-tickets/artist/806872",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "July 5, 2026 - Rock Werchter, Belgium; July 11, 2026 - Bospop, Netherlands; August 18, 2026 - Bonn, Germany - Kunst!Rasen; August 21, 2026 - Dublin, Ireland - IMMA",
+        "notes": "Extensive 2026 European festival circuit"
+      },
+      {
+        "sourceName": "Respect My Region - Moby Cercle Odyssey Review",
+        "sourceUrl": "https://respectmyregion.com/moby-live-cercle-odyssey-los-angeles/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Moby understood the assignment and played a thoughtful blend of fan favorites such as 'Natural Blues,' 'Porcelain,' and 'Extreme Ways' while peppering in some techno and electronica tunes... His supporting case exhibited instrumentation and vocals of the highest standard.",
+        "notes": "Full band performance with vocalists and live instrumentation"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "artist": "Moderat",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Moderat (Modeselektor + Apparat) delivers a cinematic live electronic show featuring a three-screen AV setup, lasers, and striking visual projections. The Berlin trio combines Apparat's ethereal falsetto vocals and guitar with Modeselektor's thundering beats and electronics. Known for tracks like 'Rusty Nails,' 'Bad Kingdom,' and 'A New Error,' their performances weave between cataclysmic percussion and ambient shoegaze textures. The show typically runs 45-90 minutes with encore.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Songkick - Moderat",
+        "sourceUrl": "https://www.songkick.com/artists/2379286-moderat/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Unfortunately there are no concert dates for Moderat scheduled in 2025 or 2026. Last concert: Dec 1, 2023 - Berlin, Germany - Velodrom.",
+        "notes": "No confirmed 2025-2026 dates; last tour ended 2023"
+      },
+      {
+        "sourceName": "The Skinny - Moderat Live Review 2016",
+        "sourceUrl": "https://www.theskinny.co.uk/music/live-music/reviews/moderat-o2-academy-5-april-2016",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Against spectacular, Kraftwerk-indebted visuals, we undulate between the trancey, staccato pulse of Running and the Radiohead-smokiness of The Fool... the throbbing dubstep delivery of Rusty Nails proves anything, it's that Moderat's beats are far too big.",
+        "notes": "Cinematic visual production with three-screen AV setup"
+      },
+      {
+        "sourceName": "LiveRate - Moderat Consensus",
+        "sourceUrl": "https://www.liverate.com/artists/moderat",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Based on 46 concert reviews, critics consensus is that Moderat is rated as an excellent live performer... concerts described as cinematic, incredible, emotive, ambient, innovative, and melodic. Top 5% of all live performers.",
+        "notes": "Highly rated live act when they do perform"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "artist": "Monolake / Robert Henke",
+    "livePerformanceFrequency": "rarely",
+    "touringPackageDescription": "Robert Henke performs as Monolake with site-specific audiovisual installations featuring custom laser graphics and surround sound. His shows are immersive, one-off events rather than conventional tours - like the 2023 Modena New Year's Eve laser performance on a 90m hospital wall. He also presents works like 'Lumiere III' and 'FIRST LIGHT' (Barbican, Nov 2026). Performances blend minimal techno, ambient, and algorithmic visuals using software he writes himself.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Robert Henke Official - Concerts",
+        "sourceUrl": "https://roberthenke.com/concerts/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "FIRST LIGHT - audiovisual laser performance in surround sound. 2026. Modena... Monolake Live 1995-2024.",
+        "notes": "Performance catalog shows sporadic, mostly installation-based work"
+      },
+      {
+        "sourceName": "Barbican - Robert Henke FIRST LIGHT",
+        "sourceUrl": "https://www.barbican.org.uk/whats-on/2026/event/robert-henke-first-light",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Robert Henke. FIRST LIGHT. Sat 7 Nov 2026, 20:30, Hall.",
+        "notes": "One confirmed 2026 date - a site-specific audiovisual performance"
+      },
+      {
+        "sourceName": "Robert Henke - Monolake Live Modena",
+        "sourceUrl": "https://roberthenke.com/concerts/monolakeModena20232024.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monolake Live 20232024 was a site-specific performance on December 31, 2023 in Modena, Italy... A free-of-charge, open-air event with sound and laser graphics by Robert Henke, projecting on the 90m long and 17m high wall... A sixty minute long audiovisual composition timed to end exactly at midnight.",
+        "notes": "Site-specific laser/sound installation, not a conventional concert tour"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "artist": "Naomi Jon",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Naomi Jon headlines club and theater shows across Europe with her 'Strawberry Tour 2026,' promoting her second album 'Strawberry.' Her live show combines electronic/pop production with theatrical visual elements and her vibrant, chaotic stage energy. Performing in venues like Akvarium Klub (Budapest), Manchester Academy 2, and La Maroquinerie (Paris), she delivers a high-energy pop spectacle designed as a 'safe space' for fans, featuring new visual production and live debuts of her latest material.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Naomi Jon Tour Official",
+        "sourceUrl": "https://naomijontour.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The spectacle begins on April 7, 2026. Fans can catch the show in major hubs including Prague, Vienna, Paris, Berlin, and London. This tour is her most ambitious yet, designed to promote her upcoming second album, Strawberry.",
+        "notes": "Active 2026 European headline tour with multiple dates"
+      },
+      {
+        "sourceName": "Bandsintown - Naomi Jon",
+        "sourceUrl": "https://www.bandsintown.com/a/15543926-naomi-jon",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Naomi Jon - Strawberry Tour 2026. April 19, 2026 - London, UK; April 20, 2026 - Manchester, UK",
+        "notes": "Confirmed 2026 UK and European tour dates"
+      },
+      {
+        "sourceName": "Akvárium Klub - Naomi Jon",
+        "sourceUrl": "https://akvariumklub.hu/en/events/naomi-jon-strawberry-tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Naomi Jon brings the songs of Strawberry to Budapest... Next year, her second full-length album, Strawberry, will arrive, preceded by hits such as ASMR, Hello Kitty, and her latest release, Paragon.",
+        "notes": "Album release tour with active promotion cycle"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "artist": "Nicolas Jaar",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Nicolas Jaar performs expansive live electronic sets that blend ambient textures, techno, and experimental sound design, often incorporating live musicians. His 2025 Latin America tour included over 20 dates across Mexico, Brazil, Colombia, Argentina and more. He also collaborates on special projects, like his 2025 Paris show with Ali Sethi reinterpreting ghazals. Jaar's shows are described as 'spellbinding' and 'expansive,' typically running 90 minutes, featuring both solo electronic performances and ensemble work.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Jaar Music Archive",
+        "sourceUrl": "https://www.jaar.site/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "GIRA LATINOAMERICA JULIO-AGOSTO 2025: 21.07 Coatepec... 24.07 Ciudad de Mexico... 31.07 Rio de Janeiro... 06.08 Bogota... 18.08 Buenos Aires... plus November 6 2025 Paris show with Ali Sethi",
+        "notes": "Extensive 2025 touring across Latin America and Europe"
+      },
+      {
+        "sourceName": "Bandsintown - Nicolas Jaar",
+        "sourceUrl": "https://www.bandsintown.com/a/787777-nicolas-jaar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No upcoming shows... Past: MIRA Festival Barcelona Nov 2025, Le Guess Who? Utrecht Nov 2025",
+        "notes": "Very active in 2025 but no 2026 dates listed yet"
+      },
+      {
+        "sourceName": "LiveRate - Nicolas Jaar",
+        "sourceUrl": "https://www.liverate.com/artists/nicolas-jaar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Based on 44 concert reviews... Nicolas Jaar concert reviews describe live shows and performances as spellbinding, expansive, and ambient. Concerts usually last an hour and a half.",
+        "notes": "Highly rated live performer with immersive ambient electronic shows"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "artist": "Nils Frahm",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Nils Frahm delivers mesmerizing solo live performances where he moves seamlessly between grand piano, electric piano, synthesizers, and looping rigs, creating complex layered compositions in real-time. His 90-minute to two-hour shows feature no intervals and minimal banter, blending delicate piano pieces like 'My Friend the Forest' with beat-driven electronic explorations like 'Hammers' and 'Says.' He tours in focused cycles, with his most recent North American and Australian dates in 2025.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Nils Frahm Official Website",
+        "sourceUrl": "https://www.nilsfrahm.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "He has also just shared his first live dates for 2025 - in March, he will return to Australia, and in May, he will be touring North America.",
+        "notes": "2025 tour dates; no 2026 dates announced yet"
+      },
+      {
+        "sourceName": "Songkick - Nils Frahm",
+        "sourceUrl": "https://www.songkick.com/artists/1061208-nils-frahm/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "No upcoming concerts for Nils Frahm scheduled in 2026.",
+        "notes": "No confirmed 2026 dates; tours in cycles"
+      },
+      {
+        "sourceName": "The Skinny - Nils Frahm Live Review",
+        "sourceUrl": "https://www.theskinny.co.uk/music/live-music/reviews/nils-frahm-usher-hall-edinburgh-19-feb",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "He moves from electric piano to mellotron, kicking out at Moog pedals, dabbling in his manufactured grand piano and adjusting delay effects, all while keeping several loops in the air with sorcerous precision... a one-man orchestra.",
+        "notes": "Solo multi-instrumentalist performance with piano, synths, and live looping"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "artist": "Nine Inch Nails",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Nine Inch Nails delivers an ambitious arena-scale industrial rock show featuring a dual-stage setup (main stage + intimate B-stage), spectacular light shows, video projections, and theatrical production. The 'Peel It Back Tour' (2025-2026) spanned 63 dates across Europe and North America, featuring Trent Reznor on vocals/guitar, Atticus Ross on keyboards, Robin Finck on guitar, and rotating drummers. The four-act show ranges from quiet piano ballads to ferocious wall-of-sound industrial anthems, with opening act Boys Noize joining for collaborative remix segments.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Nine Inch Nails Wiki - Peel It Back Tour",
+        "sourceUrl": "https://www.nin.wiki/Peel_It_Back_Tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Nine Inch Nails embarked on a world tour titled the Peel It Back Tour with dates in Europe and North America from June 2025 to March 2026... 63-date tour",
+        "notes": "Massive 63-date world tour just completed"
+      },
+      {
+        "sourceName": "FOH Online - NIN Production Profile",
+        "sourceUrl": "https://fohonline.com/articles/production-profile/nine-inch-nails-2/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The show is in four acts, two of which happen on a smaller 'B' stage in front of a massive L-Acoustics system... Each performance spans the dynamic breath of a just-piano-and-vocal heartbreaking ballad to the formidable wall-of-reverberations",
+        "notes": "Elaborate production with dual-stage setup and four-act structure"
+      },
+      {
+        "sourceName": "AudioPhix - NIN Nashville Review",
+        "sourceUrl": "https://audiophix.com/nine-inch-nails-live-nashville-review-lights-music-action",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The main stage was set at one end... but the other, smaller one was in the middle of the floor. This is where the show begins with Trent Reznor alone playing 'Right Where It Belongs'... The light show is also brilliant, as it has always been with NIN concerts.",
+        "notes": "Two-stage setup with intimate opening on B-stage, spectacular lighting"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "artist": "Nitin Sawhney",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Nitin Sawhney performs with a full band incorporating Indian classical, jazz, electronica, and world music elements. His live shows feature virtuoso musicianship on guitar, tabla, and keyboards, often accompanied by vocalists and orchestral arrangements. He performs at prestigious venues like the Barbican and Union Chapel in London, with a mix of intimate concerts and large-scale collaborative productions. His November 2025 and 2026 UK dates show continued periodic touring activity.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Bandsintown - Nitin Sawhney",
+        "sourceUrl": "https://www.bandsintown.com/a/26025-nitin-sawhney",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "FEB 15 2026 - Toronto, Canada - Boogie; NOV 04 2025 - London, UK - Union Chapel; JUL 18 2025 - London, UK - Barbican",
+        "notes": "Confirmed 2025-2026 dates across UK and Canada"
+      },
+      {
+        "sourceName": "Ents24 - Nitin Sawhney",
+        "sourceUrl": "https://www.ents24.com/uk/tour-dates/nitin-sawhney",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Sun 29 Nov - London, The Roundhouse; Sat 28 Nov - Brighton Dome; Thu 26 Nov - Leeds Town Hall; Wed 25 Nov - Manchester",
+        "notes": "November 2025 UK tour with multiple dates"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "artist": "Photay",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Photay (Evan Shornstein) performs live electronic sets that blend chamber-pop arrangements, post-techno textures, and intricate polyrhythms with live drumming. His shows range from intimate club performances to immersive spatial audio experiences, such as his April 2026 Envelop SF set designed for a 32-speaker immersive sound system. Photay's kinetic, improvisation-friendly live sets invite both deep listening and movement, weaving between buoyant house, downtempo, and ambient textures.",
+    "confidence": 3,
+    "evidence": [
+      {
+        "sourceName": "Envelop SF - Photay Live",
+        "sourceUrl": "https://ma.to/event/photay-live-24-apr-2026",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "A special live performance by Photay. This set is specifically designed for Envelop's 32-speaker immersive sound system, blending live electronic music with spatial exploration.",
+        "notes": "One confirmed 2026 immersive audio performance"
+      },
+      {
+        "sourceName": "Cooper Hewitt - Photay Listening Room",
+        "sourceUrl": "https://www.cooperhewitt.org/event/live-operator-hours-featuring-photay-in-the-listening-room-03-03-2026/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Live Operator Hours: Featuring Photay in the Listening Room. March 3, 2026",
+        "notes": "Museum/institutional performance, not a conventional tour"
+      },
+      {
+        "sourceName": "Concert Archives - Photay",
+        "sourceUrl": "https://www.concertarchives.org/bands/photay",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Nov 15, 2025 - Assembly Kingston; Nov 14, 2025 - Public Records; Jan 03, 2026 - Tubby's",
+        "notes": "Small venue shows and DJ sets, occasional live performances"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "artist": "Pink Floyd",
+    "livePerformanceFrequency": "retired",
+    "touringPackageDescription": "Pink Floyd as a band no longer performs live. The group effectively disbanded after their 1994 'Division Bell Tour,' with only sporadic reunion appearances since (notably Live 8 in 2005). Individual members pursue solo projects: Roger Waters completed his farewell tour in 2023, David Gilmour released solo work and may tour, and Nick Mason performs early Pink Floyd catalog with 'Nick Mason's Saucerful of Secrets.' Tribute acts like Brit Floyd carry on the legacy with elaborate productions.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Neptune Pink Floyd - Tour Dates",
+        "sourceUrl": "https://www.neptunepinkfloyd.co.uk/pink-floyd-tour-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Pink Floyd is not touring but solo members may announce tours soon... There are 0 concerts coming up... Roger Waters Tour 2026 - Roger has done his first Final Farewell tour which finished in 2023.",
+        "notes": "Band officially not touring; 0 upcoming concerts"
+      },
+      {
+        "sourceName": "Neptune Pink Floyd - Historical Tours",
+        "sourceUrl": "https://www.neptunepinkfloyd.co.uk/pink-floyd-tour-dates/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1994 The Division Bell Tour - last major tour. List of tours from 1965-1994.",
+        "notes": "Last official tour was 1994 Division Bell Tour"
+      }
+    ]
+  }
+]

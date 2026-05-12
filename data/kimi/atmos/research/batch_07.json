@@ -1,0 +1,270 @@
+[
+  {
+    "id": 61,
+    "artist": "Karlheinz Stockhausen",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Karlheinz Stockhausen was a pioneering composer of spatial music (e.g., 'Gesang der Jünglinge' used 5-speaker mixes in 1956, and 'KONTAKTE' features spatialized electronic sounds). However, his works predate the Dolby Atmos format. A 2020 Bandcamp release of 'KONTAKTE' was mastered for 'surround-sound binaural format,' but this is not Dolby Atmos. The 'Sonic Sphere' spatial audio installation at The Shed NYC (2023) was a live performance concept, not an album release. No official Dolby Atmos album releases were found."
+  },
+  {
+    "id": 62,
+    "artist": "Kelela",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Raven",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/raven/1652665077",
+          "https://quadraphonicquad.com/threads/listening-to-in-dolby-atmos-streaming-via-tidal-apple-amazon.31491/page-393"
+        ],
+        "confidence": 4,
+        "notes": "Confirmed by user report on QuadraphonicQuad forum that 'Raven' is available in Dolby Atmos on Apple Music. Apple Music page shows album released Feb 10, 2023."
+      }
+    ],
+    "notes": "Kelela's second studio album 'Raven' is available in Dolby Atmos on Apple Music. No Atmos availability found for her debut 'Take Me Apart' (2017)."
+  },
+  {
+    "id": 63,
+    "artist": "Kelly Lee Owens",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Searched Apple Music and other sources for Dolby Atmos availability on Kelly Lee Owens' albums including her self-titled debut (2017), 'Inner Song' (2020), and 'LP.8' (2022). No Spatial Audio or Dolby Atmos badges or mentions were found on her Apple Music pages or in industry coverage. No evidence of Atmos releases for her catalog."
+  },
+  {
+    "id": 64,
+    "artist": "Kendrick Lamar",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "GNX",
+        "releaseYear": 2024,
+        "sourceService": "Dolby",
+        "sourceUrls": [
+          "https://x.com/Dolby/status/1861907923804267007",
+          "https://www.soundandvision.com/content/kendrick-lamar-luther-and-tv-dolby-atmos"
+        ],
+        "confidence": 5,
+        "notes": "Dolby's official X/Twitter account confirmed GNX is available in Dolby Atmos. Sound & Vision review specifically praised the Atmos mix of tracks 'Luther' and 'TV Off.'"
+      },
+      {
+        "title": "Mr. Morale & The Big Steppers",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.headphonesty.com/2026/04/iconic-dolby-atmos-tracks-trash-stereo-versions/"
+        ],
+        "confidence": 4,
+        "notes": "Track 'Count Me Out' specifically cited as an iconic Dolby Atmos track on Apple Music in a Headphonesty roundup, confirming the album's Atmos availability."
+      }
+    ],
+    "notes": "Kendrick Lamar has at least two confirmed albums in Dolby Atmos: GNX (2024) and Mr. Morale & The Big Steppers (2022). GNX was confirmed by Dolby's official social media account."
+  },
+  {
+    "id": 65,
+    "artist": "Kiasmos",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Kiasmos (Debut Album)",
+        "releaseYear": 2014,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://x.com/kiasmos_/status/1861048297286152286",
+          "https://music.apple.com/us/album/kiasmos/1451077320"
+        ],
+        "confidence": 5,
+        "notes": "Official Kiasmos X/Twitter account (Nov 25, 2024) confirmed: 'Our debut album is now available in Dolby Atmos, exclusively on Apple Music, courtesy our trusted Atmos mixer Richard Whittaker.' Apple Music page shows 'Hear the innovative techno duo's immersive 2014 debut in Spatial Audio.'"
+      },
+      {
+        "title": "Kiasmos II",
+        "releaseYear": 2024,
+        "sourceService": "Other",
+        "sourceUrls": [
+          "https://www.starboard.audio/"
+        ],
+        "confidence": 4,
+        "notes": "Confirmed by Atmos mixer Richard Whittaker on starboard.audio: 'KIASMOS II is the second album from superduo Ólafur Arnalds and Janus Rasmussen... I was asked to mix this future classic in Dolby Atmos.'"
+      }
+    ],
+    "notes": "Both Kiasmos albums are confirmed in Dolby Atmos. The debut was officially announced via the band's X/Twitter account with Apple Music exclusivity. Kiasmos II was confirmed by the Atmos mixer who worked on it."
+  },
+  {
+    "id": 66,
+    "artist": "Kraftwerk",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Autobahn (50th Anniversary)",
+        "releaseYear": 2024,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.soundandvision.com/content/kraftwerk-autobahn-dolby-atmos",
+          "https://magicvinyldigital.net/2025/08/17/kraftwerk-autobahn-review-the-50th-anniversary-edition-becomes-a-reference-in-dolby-atmos/"
+        ],
+        "confidence": 5,
+        "notes": "50th Anniversary edition released March 7, 2025 on Blu-ray and digitally (Apple Music, Amazon, Tidal). Brand-new Dolby Atmos mix created by Ralf Hütter and Fritz Hilpert from original 16-track master tapes. Reviewed as a 'reference in Dolby Atmos.'"
+      },
+      {
+        "title": "Radio-Activity (50th Anniversary)",
+        "releaseYear": 2025,
+        "sourceService": "Other",
+        "sourceUrls": [
+          "https://superdeluxeedition.com/news/kraftwerk-radio-activity-50th-anniversary-blu-ray/"
+        ],
+        "confidence": 5,
+        "notes": "50th Anniversary Blu-ray announced with brand-new Dolby Atmos Mix created by Ralf Hütter and Fritz Hilpert from original 16-track master tapes. Scheduled for release May 15, 2026 via Parlophone."
+      },
+      {
+        "title": "3-D The Catalogue",
+        "releaseYear": 2017,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.whathifi.com/features/kraftwerk-3-d-catalogue-blu-ray-review",
+          "https://music.apple.com/us/album/3-d-the-catalogue-live/1572506374"
+        ],
+        "confidence": 5,
+        "notes": "Live album/concert film from 2017 3D Tour. Blu-ray features Dolby Atmos, Dolby TrueHD 7.1, and PCM stereo. What Hi-Fi reviewed it as a 'concert film as progressive as its subject music deserves.' Apple Music page lists the album."
+      }
+    ],
+    "notes": "Kraftwerk has been actively releasing their catalog in Dolby Atmos format. Autobahn 50th Anniversary (2024/2025) and Radio-Activity 50th Anniversary (2026) feature new Atmos mixes from original master tapes. 3-D The Catalogue (2017) live album also features Dolby Atmos on Blu-ray. These are available on Blu-ray and digital streaming (Apple Music, Tidal, Amazon Music)."
+  },
+  {
+    "id": 67,
+    "artist": "Lady Gaga",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "The Fame",
+        "releaseYear": 2008,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+        ],
+        "confidence": 4,
+        "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+      },
+      {
+        "title": "The Fame Monster",
+        "releaseYear": 2009,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+        ],
+        "confidence": 4,
+        "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+      },
+      {
+        "title": "Born This Way",
+        "releaseYear": 2011,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+        ],
+        "confidence": 4,
+        "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+      },
+      {
+        "title": "ARTPOP",
+        "releaseYear": 2013,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+        ],
+        "confidence": 4,
+        "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+      },
+      {
+        "title": "Love For Sale (with Tony Bennett)",
+        "releaseYear": 2021,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+        ],
+        "confidence": 4,
+        "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+      },
+      {
+        "title": "Chromatica",
+        "releaseYear": 2020,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://ladygaganow.net/news/2022-gaga-dolby-atmos/"
+        ],
+        "confidence": 4,
+        "notes": "Part of the 2022 Lady Gaga catalog Dolby Atmos rollout on Apple Music and Tidal."
+      },
+      {
+        "title": "MAYHEM",
+        "releaseYear": 2025,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://magicvinyldigital.net/2025/03/07/lady-gaga-presents-her-7th-album-mayhem-review-high-resolution-stereo-vs-dolby-atmos/",
+          "https://music.apple.com/us/album/mayhem/1792666546"
+        ],
+        "confidence": 5,
+        "notes": "Released March 7, 2025. Detailed review comparing Tidal stereo (DR5) vs Tidal Dolby Atmos (DR13) versions confirms Atmos availability with superior dynamics. Also had an Apple Music Live: MAYHEM Requiem Spatial Audio live album released in 2026."
+      }
+    ],
+    "notes": "Lady Gaga has an extensive Dolby Atmos catalog. Six of her earlier albums (The Fame through Chromatica) were released in Dolby Atmos in July 2022 on Apple Music and Tidal per an official announcement. Her 2025 album MAYHEM was released with Dolby Atmos from day one. Additionally, an Apple Music Live: MAYHEM Requiem Spatial Audio live album was released in 2026."
+  },
+  {
+    "id": 68,
+    "artist": "Lana Del Rey",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Did you know that there's a tunnel under Ocean Blvd",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://x.com/AppleMusic/status/1639116207847768064",
+          "https://magicvinyldigital.net/2023/04/08/lana-del-rey-did-you-know-that-theres-a-tunnel-under-ocean-blvd-review-test-vinyl-white-vinyl-qobuz-hi-res-apple-dolby-atmos-what-is-the-best-colour-for-vinyl/"
+        ],
+        "confidence": 5,
+        "notes": "Officially confirmed by Apple Music X/Twitter account: 'Listen to her new album in Spatial Audio with Dolby Atmos.' Detailed review confirmed Apple Music Dolby Atmos version with DR13 dynamic range vs DR7 for stereo Qobuz."
+      }
+    ],
+    "notes": "Only one confirmed Dolby Atmos album for Lana Del Rey: 'Did you know that there's a tunnel under Ocean Blvd' (2023), confirmed by Apple's official Twitter account at release. Magic Vinyl Digital review extensively analyzed the Atmos mix. Reddit discussions from 2022 indicate frustration that her earlier catalog (Born to Die, Ultraviolence, Honeymoon) was not in Atmos at that time. Blue Banisters was mentioned in Audio Science Review forum lists but no direct Atmos confirmation found."
+  },
+  {
+    "id": 69,
+    "artist": "Madame Gandhi",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Vibrations",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.allamericanspeakers.com/speakers/436280/Madame-Gandhi",
+          "https://music.apple.com/us/album/vibrations-ep/1659926199"
+        ],
+        "confidence": 4,
+        "notes": "Multiple sources (speaker bio sites, Tidal video description) confirm: 'Her third studio album, Vibrations, mixed in Dolby Atmos, was released in 2022, on Sony Masterworks.' Apple Music page shows 5-song EP released Dec 23, 2022. Also performed live Spatial Audio shows at Sonic Sphere at The Shed NYC."
+      }
+    ],
+    "notes": "Madame Gandhi's 'Vibrations' EP/album (2022) was specifically mixed in Dolby Atmos and released on Sony Masterworks. She is also known for Spatial Audio live performances at the Sonic Sphere at The Shed NYC (2023). Earlier albums 'Voices' (2016) and 'Visions' (2019) do not appear to have Atmos releases."
+  },
+  {
+    "id": 70,
+    "artist": "Madonna",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "The Immaculate Collection (Dolby Atmos Mix)",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.madonna.com/blogs/news/the-immaculate-collection-now-available-in-dolby-atmos",
+          "https://music.apple.com/us/album/the-immaculate-collection/80812428",
+          "https://en.wikipedia.org/wiki/The_Immaculate_Collection"
+        ],
+        "confidence": 5,
+        "notes": "Officially released May 4, 2023. New Dolby Atmos mix overseen by award-winning producer Mike Dean. Released on Apple Music. Apple Music page shows 'Made for Spatial Audio' badge. The original album was released in 1990; this is a 2023 Atmos remix. Wikipedia also references this release."
+      }
+    ],
+    "notes": "Madonna's 'The Immaculate Collection' received an official Dolby Atmos mix in May 2023, produced by Mike Dean. This appears to be her only confirmed album-level Atmos release to date. There were unconfirmed rumors about a 'Ray of Light' 25th Anniversary Atmos mix in 2023, and a shelved Atmos project by William Orbit was mentioned, but these did not materialize as released albums."
+  }
+]

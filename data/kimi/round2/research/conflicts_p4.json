@@ -1,0 +1,126 @@
+[
+  {
+    "id": 7,
+    "artist": "Bassnectar",
+    "field": "livePerformanceFrequency",
+    "issue": "hiatus_uncertainty",
+    "description": "Announced end of hiatus in March 2026 but no tour dates confirmed as of May 2026. Previously inactive since 2020 sexual misconduct allegations. Status highly uncertain.",
+    "recommendedAction": "Mark as 'rarely' until confirmed dates emerge. Monitor for updates.",
+    "sourceUrls": [
+      "https://www.edmtunes.com/2026/03/bassnectar-announces-the-end-of-his-hiatus/"
+    ]
+  },
+  {
+    "id": 8,
+    "artist": "The Beatles",
+    "field": "livePerformanceFrequency",
+    "issue": "disbanded",
+    "description": "Disbanded 1970. Two members deceased. LOVE by Cirque du Soleil closed July 2024. No Beatles performances exist.",
+    "recommendedAction": "Mark as 'retired'. Consider tracking Paul McCartney/Ringo Starr solo shows separately.",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/The_Beatles"
+    ]
+  },
+  {
+    "id": 9,
+    "artist": "Beyonce",
+    "field": "livePerformanceFrequency",
+    "issue": "inconsistent_description",
+    "description": "Wikipedia says Cowboy Carter Tour was 32 concerts with $407.6M gross, but Wikipedia infobox shows 24 concerts. Ticket numbers vary between sources.",
+    "recommendedAction": "Use 32 concerts / $407.6M from the main article text.",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Cowboy_Carter_Tour"
+    ]
+  },
+  {
+    "id": 22,
+    "artist": "Christian Marclay",
+    "field": "livePerformanceFrequency",
+    "issue": "artist_type",
+    "description": "Visual/sound artist, not a performing musician. Live appearances are one-off collaborative events at galleries/museums, not commercial tours.",
+    "recommendedAction": "Mark as 'none'. This is expected for a gallery-based artist.",
+    "sourceUrls": []
+  },
+  {
+    "id": 24,
+    "artist": "Christine Sun Kim",
+    "field": "livePerformanceFrequency",
+    "issue": "artist_type",
+    "description": "Deaf sound/visual artist. Practice centers on drawings, installations, murals. Does not perform music live.",
+    "recommendedAction": "Mark as 'none'. Expected for a visual artist.",
+    "sourceUrls": []
+  },
+  {
+    "id": 33,
+    "artist": "Eurythmics",
+    "field": "livePerformanceFrequency",
+    "issue": "duo_disbanded",
+    "description": "Annie Lennox retired from live performance. Dave Stewart tours solo as 'Eurythmics Songbook' with Vanessa Amorosi - not the original duo.",
+    "recommendedAction": "Mark as 'rarely'. Note that current shows are Dave Stewart's solo interpretation.",
+    "sourceUrls": [
+      "https://www.noise11.com/news/dave-stewart-to-tour-eurythmics-with-vanessa-amorosi-on-vocals-again-20250526"
+    ]
+  },
+  {
+    "id": 49,
+    "artist": "Haroon Mirza",
+    "field": "livePerformanceFrequency",
+    "issue": "artist_type",
+    "description": "Gallery-based sound/visual artist represented by Lisson Gallery. Creates installations, not live performances.",
+    "recommendedAction": "Mark as 'none'. Expected for gallery-based artist.",
+    "sourceUrls": []
+  },
+  {
+    "id": 61,
+    "artist": "Karlheinz Stockhausen",
+    "field": "livePerformanceFrequency",
+    "issue": "deceased",
+    "description": "Died in 2007. Estate-managed performances by Stockhausen Foundation and classical ensembles. Not the composer performing.",
+    "recommendedAction": "Mark as 'retired'. His works are performed but he is not.",
+    "sourceUrls": [
+      "https://www.karlheinzstockhausen.org/Auffuhrungen_Performances_english.htm"
+    ]
+  },
+  {
+    "id": 86,
+    "artist": "Pink Floyd",
+    "field": "livePerformanceFrequency",
+    "issue": "disbanded",
+    "description": "Inactive since 1994. Roger Waters tours solo (This Is Not a Drill ended 2023). David Gilmour tours solo. No Pink Floyd performances.",
+    "recommendedAction": "Mark as 'retired'. Members tour solo but not together.",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Pink_Floyd"
+    ]
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "field": "livePerformanceFrequency",
+    "issue": "artist_type",
+    "description": "Gallery-based multidisciplinary sound artist. Works in installation, performance art, video, multimedia contexts. Not a touring musician.",
+    "recommendedAction": "Mark as 'none'. Expected for gallery-based artist.",
+    "sourceUrls": []
+  },
+  {
+    "id": 99,
+    "artist": "Steve Reich",
+    "field": "livePerformanceFrequency",
+    "issue": "age",
+    "description": "Age 89 (b. 1936). No longer performs personally. 90th birthday celebration festival Oct 2026 features his ensemble performing his works.",
+    "recommendedAction": "Mark as 'rarely'. His ensemble performs; he does not personally.",
+    "sourceUrls": [
+      "https://theglasshouseicm.org/seasons/steve-reich-at-90/"
+    ]
+  },
+  {
+    "id": 104,
+    "artist": "Talking Heads",
+    "field": "livePerformanceFrequency",
+    "issue": "disbanded",
+    "description": "Disbanded 1991. David Byrne refuses to reunite. Byrne tours solo with Talking Heads classics (2025-2026 Who Is The Sky tour). Not the original band.",
+    "recommendedAction": "Mark as 'retired'. Byrne tours solo but not as Talking Heads.",
+    "sourceUrls": [
+      "https://consequence.net/2026/04/david-byrne-summer-2026-tour-dates/"
+    ]
+  }
+]

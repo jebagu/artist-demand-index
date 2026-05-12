@@ -1,0 +1,4526 @@
+[
+  {
+    "id": 1,
+    "artist": "Acid Pauli",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "artist": "AfroRack",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "artist": "Air",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Moon Safari",
+        "sales": 2000000
+      },
+      "sales.ifpiBestAlbums": [
+        {
+          "year": 1998,
+          "album": "Moon Safari",
+          "rank": 8
+        }
+      ],
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "artist": "Alva Noto",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "artist": "Aphex Twin",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Selected Ambient Works 85-92",
+        "sales": 500000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "artist": "Arooj Aftab",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "artist": "The Beatles",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Sgt. Pepper's Lonely Hearts Club Band",
+        "sales": 32000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "The Beatles (White Album)",
+          "level": "24x Platinum",
+          "date": "2019"
+        },
+        {
+          "album": "Abbey Road",
+          "level": "12x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Sgt. Pepper",
+          "level": "11x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Rubber Soul",
+          "level": "6x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Revolver",
+          "level": "5x Platinum",
+          "date": ""
+        },
+        {
+          "album": "A Hard Day's Night",
+          "level": "4x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Help!",
+          "level": "3x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Let It Be",
+          "level": "4x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Please Please Me",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "With The Beatles",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Beatles For Sale",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Magical Mystery Tour",
+          "level": "6x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Yellow Submarine",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Introducing... The Beatles",
+          "level": "5x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Meet The Beatles!",
+          "level": "5x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Yesterday and Today",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Hey Jude",
+          "level": "3x Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Hey Jude"
+        },
+        {
+          "track": "Let It Be"
+        },
+        {
+          "track": "Come Together"
+        },
+        {
+          "track": "Yesterday"
+        },
+        {
+          "track": "Here Comes The Sun"
+        },
+        {
+          "track": "Something"
+        },
+        {
+          "track": " Eleanor Rigby"
+        },
+        {
+          "track": "While My Guitar Gently Weeps"
+        },
+        {
+          "track": "A Day In The Life"
+        },
+        {
+          "track": "Blackbird"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Yesterday"
+        },
+        {
+          "track": "Hey Jude"
+        },
+        {
+          "track": "Let It Be"
+        },
+        {
+          "track": "Come Together"
+        },
+        {
+          "track": "Here Comes The Sun"
+        }
+      ],
+      "sales.riaa100m": 183000000,
+      "sales.riaaBestSellers": 1,
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2019,
+          "rank": 10
+        }
+      ],
+      "sales.totalCertifications": 183
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 183",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "17 RIAA album certs, 10 Diamond tracks, 1 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "artist": "Beyoncé",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "I Am... Sasha Fierce",
+        "sales": 10000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Dangerously in Love",
+          "level": "6x Platinum",
+          "date": ""
+        },
+        {
+          "album": "B'Day",
+          "level": "5x Platinum",
+          "date": ""
+        },
+        {
+          "album": "I Am... Sasha Fierce",
+          "level": "7x Platinum",
+          "date": ""
+        },
+        {
+          "album": "4",
+          "level": "5x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Beyoncé",
+          "level": "5x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Lemonade",
+          "level": "3x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Renaissance",
+          "level": "Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Crazy in Love"
+        },
+        {
+          "track": "Single Ladies (Put a Ring on It)"
+        }
+      ],
+      "sales.riaaLatinDiamond": [
+        {
+          "track": "Mi Gente"
+        },
+        {
+          "track": "Amor Gitano"
+        },
+        {
+          "track": "Beautiful Liar"
+        },
+        {
+          "track": "Irreplaceable"
+        },
+        {
+          "track": "Halo"
+        },
+        {
+          "track": "If I Were a Boy"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Halo"
+        },
+        {
+          "track": "Irreplaceable"
+        },
+        {
+          "track": "Single Ladies"
+        },
+        {
+          "track": "Crazy in Love"
+        },
+        {
+          "track": "Baby Boy"
+        },
+        {
+          "track": "If I Were a Boy"
+        },
+        {
+          "track": "Sweet Dreams"
+        }
+      ],
+      "sales.riaa100m": 103000000,
+      "sales.riaaBestSellers": 8,
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2024,
+          "rank": 18
+        }
+      ],
+      "sales.totalCertifications": 103
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 103",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "7 RIAA album certs, 2 Diamond tracks, 1 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "artist": "Bicep",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Isles",
+        "sales": 50000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "artist": "Billie Eilish",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "When We All Fall Asleep, Where Do We Go?",
+        "sales": 10000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "When We All Fall Asleep, Where Do We Go?",
+          "level": "5x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Happier Than Ever",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Hit Me Hard and Soft",
+          "level": "Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "bad guy"
+        },
+        {
+          "track": "lovely"
+        }
+      ],
+      "sales.riaaLatinDiamond": [
+        {
+          "track": "bad guy"
+        },
+        {
+          "track": "lovely"
+        },
+        {
+          "track": "ocean eyes"
+        },
+        {
+          "track": "when the party's over"
+        },
+        {
+          "track": "everything i wanted"
+        },
+        {
+          "track": "Happier Than Ever"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "bad guy"
+        },
+        {
+          "track": "ocean eyes"
+        },
+        {
+          "track": "lovely"
+        },
+        {
+          "track": "when the party's over"
+        },
+        {
+          "track": "everything i wanted"
+        },
+        {
+          "track": "bury a friend"
+        },
+        {
+          "track": "idontwannabeyouanymore"
+        }
+      ],
+      "sales.riaa100m": 55000000,
+      "sales.riaaBestSellers": 37,
+      "sales.ifpiBestAlbums": [
+        {
+          "year": 2024,
+          "album": "Hit Me Hard and Soft",
+          "rank": 2
+        }
+      ],
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2019,
+          "rank": 4
+        },
+        {
+          "year": 2024,
+          "rank": 4
+        },
+        {
+          "year": 2025,
+          "rank": 9
+        }
+      ],
+      "sales.totalCertifications": 55
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 55",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "3 RIAA album certs, 2 Diamond tracks, 3 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "artist": "Björk",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Debut",
+        "sales": 5700000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Debut",
+          "level": "Platinum",
+          "date": "2001-08-31"
+        },
+        {
+          "album": "Post",
+          "level": "Platinum",
+          "date": "2001-08-31"
+        },
+        {
+          "album": "Homogenic",
+          "level": "Gold",
+          "date": "2001-08-31"
+        }
+      ],
+      "sales.riaj": [
+        {
+          "album_or_single": "Post",
+          "level": "Gold"
+        },
+        {
+          "album_or_single": "Homogenic",
+          "level": "Gold"
+        },
+        {
+          "album_or_single": "Vespertine",
+          "level": "Gold"
+        },
+        {
+          "album_or_single": "Greatest Hits",
+          "level": "Gold"
+        },
+        {
+          "album_or_single": "Selmasongs",
+          "level": "Platinum"
+        }
+      ],
+      "sales.totalCertifications": 8
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 8",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "3 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "artist": "Bob Dylan",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Greatest Hits",
+        "sales": 6000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Greatest Hits",
+          "level": "5x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Blood on the Tracks",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Desire",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Blonde on Blonde",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Planet Waves",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Before the Flood",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "The Basement Tapes",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Slow Train Coming",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Infidels",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Empire Burlesque",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Biograph",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Time Out of Mind",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Love and Theft",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Modern Times",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Together Through Life",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Tempest",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Like a Rolling Stone"
+        },
+        {
+          "track": "Knockin' on Heaven's Door"
+        },
+        {
+          "track": "The Times They Are a-Changin'"
+        },
+        {
+          "track": "Hurricane"
+        },
+        {
+          "track": "Tangled Up in Blue"
+        },
+        {
+          "track": "Mr. Tambourine Man"
+        },
+        {
+          "track": "Blowin' in the Wind"
+        }
+      ],
+      "sales.riaa100m": 35000000,
+      "sales.riaaBestSellers": 60,
+      "sales.totalCertifications": 35
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 35",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "16 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "artist": "Bonobo",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Days to Come",
+        "sales": 250000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "artist": "Brian Eno",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Ambient 1: Music for Airports",
+        "sales": 200000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "artist": "Cardi B",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Invasion of Privacy",
+        "sales": 4300000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Invasion of Privacy",
+          "level": "6x Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Bodak Yellow"
+        },
+        {
+          "track": "I Like It"
+        },
+        {
+          "track": "Girls Like You"
+        }
+      ],
+      "sales.riaaLatinDiamond": [
+        {
+          "track": "I Like It"
+        },
+        {
+          "track": "Taki Taki"
+        },
+        {
+          "track": "La Modelo"
+        },
+        {
+          "track": "Mi Mala (Remix)"
+        },
+        {
+          "track": "Ahora Dice (Remix)"
+        },
+        {
+          "track": "MotorSport"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Bodak Yellow"
+        },
+        {
+          "track": "I Like It"
+        },
+        {
+          "track": "Money"
+        },
+        {
+          "track": "WAP"
+        },
+        {
+          "track": "Up"
+        },
+        {
+          "track": "Be Careful"
+        },
+        {
+          "track": "Please Me"
+        }
+      ],
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2018,
+          "rank": 8
+        }
+      ],
+      "sales.totalCertifications": 58
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 58",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1 RIAA album certs, 3 Diamond tracks, 1 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "artist": "Caribou",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Swim",
+        "sales": 175000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "artist": "Channel Tres",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "artist": "Charli XCX",
+    "updates": {
+      "sales.riaaCertifications": [
+        {
+          "album": "Brat",
+          "level": "Gold",
+          "date": "2024"
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "I Love It"
+        },
+        {
+          "track": "Fancy"
+        }
+      ],
+      "sales.riaaLatinDiamond": [
+        {
+          "track": "I Love It"
+        },
+        {
+          "track": "Fancy"
+        },
+        {
+          "track": "Boom Clap"
+        },
+        {
+          "track": "Break the Rules"
+        },
+        {
+          "track": "1999"
+        },
+        {
+          "track": "Unlock It"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Boom Clap"
+        },
+        {
+          "track": "Break the Rules"
+        },
+        {
+          "track": "1999"
+        },
+        {
+          "track": "I Love It"
+        },
+        {
+          "track": "Fancy"
+        },
+        {
+          "track": "Doing It"
+        },
+        {
+          "track": "Unlock It"
+        }
+      ],
+      "sales.ifpiBestAlbums": [
+        {
+          "year": 2024,
+          "album": "Brat",
+          "rank": 10
+        }
+      ],
+      "sales.totalCertifications": 41
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 41",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1 RIAA album certs, 2 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "artist": "Christian Marclay",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "artist": "Christina Kubisch",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "artist": "Christine Sun Kim",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "artist": "Cigarettes After Sex",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Cigarettes After Sex",
+        "sales": 500000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Cigarettes After Sex",
+          "level": "Platinum",
+          "date": "2023-01-27"
+        },
+        {
+          "album": "Cry",
+          "level": "Gold",
+          "date": "2025-02-11"
+        }
+      ],
+      "sales.totalCertifications": 4
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 4",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "artist": "Colin Benders",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "The Hermit Sessions",
+        "sales": 75000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "artist": "DARKSIDE",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "updates": {
+      "sales.riaaCertifications": [
+        {
+          "album": "Sweet Dreams (Are Made of This)",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Touch",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Be Yourself Tonight",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Peace",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Greatest Hits",
+          "level": "3x Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Sweet Dreams (Are Made of This)"
+        }
+      ],
+      "sales.totalCertifications": 11
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 11",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "5 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "artist": "David Sheppard",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "artist": "deadmau5",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "4x4=12",
+        "sales": 700000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "4x4=12",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "For Lack of a Better Name",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "> album title goes here <",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Ghosts 'n' Stuff"
+        },
+        {
+          "track": "Strobe"
+        },
+        {
+          "track": "Raise Your Weapon"
+        },
+        {
+          "track": "Professional Griefers"
+        },
+        {
+          "track": "I Remember"
+        },
+        {
+          "track": "Some Chords"
+        },
+        {
+          "track": "Maths"
+        }
+      ],
+      "sales.totalCertifications": 11
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 11",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "3 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "artist": "DeLaurentis",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "artist": "Ellie Goulding",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Halcyon",
+        "sales": 2000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Halcyon",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Lights",
+          "level": "Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Lights"
+        },
+        {
+          "track": "Love Me Like You Do"
+        },
+        {
+          "track": "Burn"
+        },
+        {
+          "track": "Anything Could Happen"
+        },
+        {
+          "track": "On My Mind"
+        },
+        {
+          "track": "Outside"
+        },
+        {
+          "track": "Close to Me"
+        }
+      ],
+      "sales.totalCertifications": 25
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 25",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "artist": "Excision",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "artist": "Floating Points",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "artist": "Flying Lotus",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "artist": "Fred Again..",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "USB (EP)",
+        "sales": 2000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "artist": "Future",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "High Off Life",
+        "sales": 2000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "DS2",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "What a Time to Be Alive",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "EVOL",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Future",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Hndrxx",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "The Wizrd",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "High Off Life",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "I Never Liked You",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Pluto",
+          "level": "Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Life Is Good"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Mask Off"
+        },
+        {
+          "track": "Life Is Good"
+        },
+        {
+          "track": "Low Life"
+        },
+        {
+          "track": "Jumpman"
+        },
+        {
+          "track": "Where Ya At"
+        },
+        {
+          "track": "F*ck Up Some Commas"
+        },
+        {
+          "track": "Wicked"
+        }
+      ],
+      "sales.riaa100m": 53000000,
+      "sales.totalCertifications": 66
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 66",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "9 RIAA album certs, 1 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "artist": "Gold Panda",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "artist": "Gorillaz",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Demon Days",
+        "sales": 8000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Demon Days",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Gorillaz",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Plastic Beach",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Feel Good Inc."
+        },
+        {
+          "track": "Clint Eastwood"
+        }
+      ],
+      "sales.riaaLatinDiamond": [
+        {
+          "track": "Feel Good Inc."
+        },
+        {
+          "track": "Clint Eastwood"
+        },
+        {
+          "track": "Stylo"
+        },
+        {
+          "track": "Saturnz Barz"
+        },
+        {
+          "track": "Humility"
+        },
+        {
+          "track": "DARE"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Feel Good Inc."
+        },
+        {
+          "track": "Clint Eastwood"
+        },
+        {
+          "track": "Stylo"
+        },
+        {
+          "track": "DARE"
+        },
+        {
+          "track": "Dirty Harry"
+        },
+        {
+          "track": "19-2000"
+        },
+        {
+          "track": "On Melancholy Hill"
+        }
+      ],
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2018,
+          "rank": 9
+        }
+      ],
+      "sales.totalCertifications": 33
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 33",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "3 RIAA album certs, 2 Diamond tracks, 1 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "artist": "Grandbrothers",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "artist": "Grimes",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Art Angels",
+        "sales": 60000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "artist": "Halina Rice",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "artist": "Halsey",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Badlands",
+        "sales": 500000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Badlands",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Hopeless Fountain Kingdom",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Manic",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "If I Can't Have Love, I Want Power",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Without Me"
+        },
+        {
+          "track": "Closer"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Without Me"
+        },
+        {
+          "track": "Closer"
+        },
+        {
+          "track": "Bad at Love"
+        },
+        {
+          "track": "Colors"
+        },
+        {
+          "track": "Gasoline"
+        },
+        {
+          "track": "New Americana"
+        },
+        {
+          "track": "Nightmare"
+        }
+      ],
+      "sales.totalCertifications": 78
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 78",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "4 RIAA album certs, 2 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "artist": "Hania Rani",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Esja",
+        "sales": 50000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "artist": "Haroon Mirza",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "artist": "Holly Herndon",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "artist": "Ian Dearden",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "artist": "James Blake",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Overgrown",
+        "sales": 70000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "artist": "Jamie xx",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "In Colour",
+        "sales": 100000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "artist": "Janelle Monáe",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "The ArchAndroid",
+        "sales": 500000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "The ArchAndroid",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "We Are Young"
+        }
+      ],
+      "sales.totalCertifications": 3
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 3",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "artist": "Jennifer Walshe",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "artist": "Jon Hopkins",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "artist": "Jorja Smith",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Lost & Found",
+        "sales": 210000
+      },
+      "sales.totalCertifications": 1
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 1",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "artist": "Justin Gray",
+    "updates": {
+      "sales.totalCertifications": 13
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 13",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "artist": "Kaitlyn Aurelia Smith",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "artist": "Kelela",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "artist": "Kelly Lee Owens",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "artist": "Kiasmos",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "artist": "Kraftwerk",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "The Man-Machine",
+        "sales": 1500000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "artist": "Lana Del Rey",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Born to Die",
+        "sales": 2300000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Born to Die",
+          "level": "5x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Ultraviolence",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Lust for Life",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Norman Fucking Rockwell!",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Chemtrails Over the Country Club",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Summertime Sadness"
+        },
+        {
+          "track": "Young and Beautiful"
+        }
+      ],
+      "sales.riaaLatinDiamond": [
+        {
+          "track": "Summertime Sadness"
+        },
+        {
+          "track": "Young and Beautiful"
+        },
+        {
+          "track": "Born to Die"
+        },
+        {
+          "track": "Video Games"
+        },
+        {
+          "track": "Blue Jeans"
+        },
+        {
+          "track": "Ride"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Summertime Sadness"
+        },
+        {
+          "track": "Born to Die"
+        },
+        {
+          "track": "Young and Beautiful"
+        },
+        {
+          "track": "Video Games"
+        },
+        {
+          "track": "Blue Jeans"
+        },
+        {
+          "track": "Ride"
+        },
+        {
+          "track": "West Coast"
+        }
+      ],
+      "sales.riaa100m": 55000000,
+      "sales.riaaBestSellers": 85,
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2023,
+          "rank": 10
+        },
+        {
+          "year": 2024,
+          "rank": 17
+        }
+      ],
+      "sales.totalCertifications": 55
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 55",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "5 RIAA album certs, 2 Diamond tracks, 2 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "artist": "Madame Gandhi",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "artist": "Mat Dryhurst",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "artist": "Mike Oldfield",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Tubular Bells",
+        "sales": 17500000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Tubular Bells",
+          "level": "Gold",
+          "date": "1974"
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Tubular Bells (Excerpt)"
+        }
+      ],
+      "sales.riaaBestSellers": 92,
+      "sales.totalCertifications": 5
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 5",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1 RIAA album certs, 1 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "artist": "Miley Cyrus",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Bangerz",
+        "sales": 3500000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Bangerz",
+          "level": "3x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Hannah Montana",
+          "level": "3x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Breakout",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Meet Miley Cyrus",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Can't Be Tamed",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Plastic Hearts",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Party in the U.S.A."
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Party in the U.S.A."
+        },
+        {
+          "track": "Wrecking Ball"
+        },
+        {
+          "track": "We Can't Stop"
+        },
+        {
+          "track": "The Climb"
+        },
+        {
+          "track": "See You Again"
+        },
+        {
+          "track": "Malibu"
+        },
+        {
+          "track": "Flowers"
+        }
+      ],
+      "sales.riaa100m": 55000000,
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2023,
+          "rank": 3
+        }
+      ],
+      "sales.totalCertifications": 55
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 55",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "6 RIAA album certs, 1 Diamond tracks, 1 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "artist": "Moby",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Play",
+        "sales": 12000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Play",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "18",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Hotel",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Animal Rights",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Porcelain"
+        },
+        {
+          "track": "Natural Blues"
+        },
+        {
+          "track": "South Side"
+        },
+        {
+          "track": "Bodyrock"
+        },
+        {
+          "track": "Extreme Ways"
+        },
+        {
+          "track": "We Are All Made of Stars"
+        },
+        {
+          "track": "Why Does My Heart Feel So Bad?"
+        }
+      ],
+      "sales.riaa100m": 25000000,
+      "sales.riaaBestSellers": 95,
+      "sales.totalCertifications": 25
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 25",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "4 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "artist": "Moderat",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "II",
+        "sales": 75000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "artist": "Monolake / Robert Henke",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "artist": "Naomi Jon",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "artist": "Nicolas Jaar",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Space Is Only Noise",
+        "sales": 20000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "artist": "Nils Frahm",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "artist": "Nine Inch Nails",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "The Downward Spiral",
+        "sales": 4400000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "The Downward Spiral",
+          "level": "4x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Pretty Hate Machine",
+          "level": "3x Platinum",
+          "date": ""
+        },
+        {
+          "album": "The Fragile",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Broken",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Further Down the Spiral",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "With Teeth",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Year Zero",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Ghosts I-IV",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Closer"
+        },
+        {
+          "track": "Head Like a Hole"
+        },
+        {
+          "track": "Hurt"
+        },
+        {
+          "track": "The Hand That Feeds"
+        },
+        {
+          "track": "Wish"
+        },
+        {
+          "track": "Only"
+        },
+        {
+          "track": "Every Day Is Exactly the Same"
+        }
+      ],
+      "sales.riaa100m": 22000000,
+      "sales.totalCertifications": 26
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 26",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "8 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "artist": "Nitin Sawhney",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Beyond Skin",
+        "sales": 160000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "artist": "Photay",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "artist": "Pink Floyd",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "The Dark Side of the Moon",
+        "sales": 45000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "The Dark Side of the Moon",
+          "level": "15x Platinum",
+          "date": ""
+        },
+        {
+          "album": "The Wall",
+          "level": "23x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Animals",
+          "level": "4x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Wish You Were Here",
+          "level": "6x Platinum",
+          "date": ""
+        },
+        {
+          "album": "A Momentary Lapse of Reason",
+          "level": "4x Platinum",
+          "date": ""
+        },
+        {
+          "album": "The Division Bell",
+          "level": "3x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Meddle",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Atom Heart Mother",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Ummagumma",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "The Final Cut",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "A Collection of Great Dance Songs",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Delicate Sound of Thunder",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Pulse",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Piper at the Gates of Dawn",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Obscured by Clouds",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "More",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "A Saucerful of Secrets",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "The Endless River",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Echoes: The Best of Pink Floyd",
+          "level": "Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Another Brick in the Wall (Part 2)"
+        },
+        {
+          "track": "Wish You Were Here"
+        },
+        {
+          "track": "Comfortably Numb"
+        },
+        {
+          "track": "Money"
+        },
+        {
+          "track": "Time"
+        },
+        {
+          "track": "Hey You"
+        },
+        {
+          "track": "Learning to Fly"
+        },
+        {
+          "track": "High Hopes"
+        },
+        {
+          "track": "Shine On You Crazy Diamond"
+        },
+        {
+          "track": "Brain Damage/Eclipse"
+        }
+      ],
+      "sales.riaaLatinDiamond": [
+        {
+          "track": "Another Brick in the Wall (Part 2)"
+        },
+        {
+          "track": "Wish You Were Here"
+        },
+        {
+          "track": "Comfortably Numb"
+        },
+        {
+          "track": "Money"
+        },
+        {
+          "track": "Time"
+        },
+        {
+          "track": "Learning to Fly"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Another Brick in the Wall (Part 2)"
+        },
+        {
+          "track": "Wish You Were Here"
+        },
+        {
+          "track": "Comfortably Numb"
+        },
+        {
+          "track": "Money"
+        },
+        {
+          "track": "Time"
+        },
+        {
+          "track": "Hey You"
+        },
+        {
+          "track": "Learning to Fly"
+        }
+      ],
+      "sales.riaa100m": 75000000,
+      "sales.riaaBestSellers": 3,
+      "sales.ifpiBestArtists": [
+        {
+          "year": 1974,
+          "rank": 1
+        }
+      ],
+      "sales.totalCertifications": 75
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 75",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "19 RIAA album certs, 10 Diamond tracks, 1 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "artist": "Portishead",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Dummy",
+        "sales": 3600000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Dummy",
+          "level": "Gold",
+          "date": "1997-08-21"
+        }
+      ],
+      "sales.totalCertifications": 1
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 1",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "artist": "Radiohead",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "OK Computer",
+        "sales": 7800000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "OK Computer",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Pablo Honey",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "The Bends",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Kid A",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Amnesiac",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Hail to the Thief",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "In Rainbows",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "The King of Limbs",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Creep"
+        }
+      ],
+      "sales.riaaLatinDiamond": [
+        {
+          "track": "Creep"
+        },
+        {
+          "track": "Karma Police"
+        },
+        {
+          "track": "No Surprises"
+        },
+        {
+          "track": "Fake Plastic Trees"
+        },
+        {
+          "track": "Paranoid Android"
+        },
+        {
+          "track": "High and Dry"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Creep"
+        },
+        {
+          "track": "Karma Police"
+        },
+        {
+          "track": "No Surprises"
+        },
+        {
+          "track": "Fake Plastic Trees"
+        },
+        {
+          "track": "Paranoid Android"
+        },
+        {
+          "track": "High and Dry"
+        },
+        {
+          "track": "Idioteque"
+        }
+      ],
+      "sales.riaa100m": 28000000,
+      "sales.riaaBestSellers": 72,
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2018,
+          "rank": 5
+        }
+      ],
+      "sales.totalCertifications": 28
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 28",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "8 RIAA album certs, 1 Diamond tracks, 1 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "artist": "RAYE",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "My 21st Century Blues",
+        "sales": 263000
+      },
+      "sales.totalCertifications": 2
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 2",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "artist": "Rival Consoles",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "artist": "Robyn",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Robyn Is Here",
+        "sales": 1500000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Robyn Is Here",
+          "level": "Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Show Me Love"
+        },
+        {
+          "track": "Do You Know (What It Takes)"
+        }
+      ],
+      "sales.totalCertifications": 6
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 6",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "artist": "Romy",
+    "updates": {
+      "sales.riaaCertifications": [
+        {
+          "album": "xx",
+          "level": "Gold",
+          "date": "2021-03-01"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Intro"
+        }
+      ],
+      "sales.totalCertifications": 2
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 2",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "artist": "Ryoji Ikeda",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "artist": "Sampha",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Process",
+        "sales": 500000
+      },
+      "sales.totalCertifications": 1
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 1",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "artist": "Skrillex",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Scary Monsters and Nice Sprites",
+        "sales": 2000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Scary Monsters and Nice Sprites",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Bangarang",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Recess",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Bangarang"
+        },
+        {
+          "track": "Where Are U Now"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Scary Monsters and Nice Sprites"
+        },
+        {
+          "track": "First of the Year (Equinox)"
+        },
+        {
+          "track": "Kill Everybody"
+        },
+        {
+          "track": "Breakn' a Sweat"
+        },
+        {
+          "track": "Make It Bun Dem"
+        },
+        {
+          "track": "Summit"
+        },
+        {
+          "track": "Purple Lamborghini"
+        }
+      ],
+      "sales.totalCertifications": 19
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 19",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "3 RIAA album certs, 2 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "artist": "Sofia Kourtesis",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "artist": "Steve Miller Band",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Greatest Hits 1974-78",
+        "sales": 15000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Greatest Hits 1974-78",
+          "level": "15x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Fly Like an Eagle",
+          "level": "4x Platinum",
+          "date": ""
+        },
+        {
+          "album": "The Joker",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Abracadabra",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Book of Dreams",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Living in the USA",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Circle of Love",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Italian X Rays",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Wide River",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "The Joker"
+        },
+        {
+          "track": "Fly Like an Eagle"
+        },
+        {
+          "track": "Rock'n Me"
+        }
+      ],
+      "sales.riaa100m": 31000000,
+      "sales.riaaBestSellers": 20,
+      "sales.totalCertifications": 31
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 31",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "9 RIAA album certs, 3 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "artist": "Steve Reich",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "artist": "Steven Wilson",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "artist": "Stevie Nicks",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Bella Donna",
+        "sales": 4000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Bella Donna",
+          "level": "4x Platinum",
+          "date": ""
+        },
+        {
+          "album": "The Wild Heart",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Rock a Little",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "The Other Side of the Mirror",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Timespace: The Best of Stevie Nicks",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Street Angel",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Trouble in Shangri-La",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Crystal Visions...",
+          "level": "Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Edge of Seventeen"
+        },
+        {
+          "track": "Leather and Lace"
+        },
+        {
+          "track": "Stop Draggin' My Heart Around"
+        },
+        {
+          "track": "Stand Back"
+        },
+        {
+          "track": "Talk to Me"
+        },
+        {
+          "track": "Rooms on Fire"
+        },
+        {
+          "track": "Issues"
+        }
+      ],
+      "sales.riaa100m": 25000000,
+      "sales.riaaBestSellers": 65,
+      "sales.totalCertifications": 25
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 25",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "8 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "artist": "Suzanne Ciani",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Seven Waves",
+        "sales": 1000000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "artist": "SZA",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "SOS",
+        "sales": 5000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Ctrl",
+          "level": "3x Platinum",
+          "date": ""
+        },
+        {
+          "album": "SOS",
+          "level": "8x Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Kill Bill"
+        },
+        {
+          "track": "Snooze"
+        }
+      ],
+      "sales.riaaLatinDiamond": [
+        {
+          "track": "Kill Bill"
+        },
+        {
+          "track": "Snooze"
+        },
+        {
+          "track": "Good Days"
+        },
+        {
+          "track": "Saturn"
+        },
+        {
+          "track": "All the Stars"
+        },
+        {
+          "track": "Kiss Me More"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Kill Bill"
+        },
+        {
+          "track": "Snooze"
+        },
+        {
+          "track": "Good Days"
+        },
+        {
+          "track": "Saturn"
+        },
+        {
+          "track": "All the Stars"
+        },
+        {
+          "track": "Kiss Me More"
+        },
+        {
+          "track": "The Weekend"
+        }
+      ],
+      "sales.riaa100m": 120500000,
+      "sales.ifpiBestAlbums": [
+        {
+          "year": 2023,
+          "album": "SOS",
+          "rank": 7
+        }
+      ],
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2023,
+          "rank": 13
+        },
+        {
+          "year": 2024,
+          "rank": 19
+        },
+        {
+          "year": 2025,
+          "rank": 19
+        }
+      ],
+      "sales.totalCertifications": 120
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 120",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2 RIAA album certs, 2 Diamond tracks, 3 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "artist": "Talking Heads",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Stop Making Sense",
+        "sales": 3000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Stop Making Sense",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Little Creatures",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Speaking in Tongues",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Remain in Light",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Fear of Music",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "True Stories",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "More Songs About Buildings and Food",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Naked",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "sales.totalCertifications": 8
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 8",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "8 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "artist": "Tarik Barri",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "artist": "Tash Sultana",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Flow State",
+        "sales": 50000
+      },
+      "sales.totalCertifications": 1
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 1",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "artist": "Taylor Swift",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "1989",
+        "sales": 14000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Taylor Swift",
+          "level": "7x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Fearless",
+          "level": "9x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Speak Now",
+          "level": "6x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Red",
+          "level": "7x Platinum",
+          "date": ""
+        },
+        {
+          "album": "1989",
+          "level": "14x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Reputation",
+          "level": "6x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Lover",
+          "level": "6x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Folklore",
+          "level": "5x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Evermore",
+          "level": "3x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Midnights",
+          "level": "6x Platinum",
+          "date": ""
+        },
+        {
+          "album": "The Tortured Poets Department",
+          "level": "6x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Fearless (Taylor's Version)",
+          "level": "4x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Red (Taylor's Version)",
+          "level": "4x Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Shake It Off"
+        },
+        {
+          "track": "Blank Space"
+        },
+        {
+          "track": "Love Story"
+        },
+        {
+          "track": "You Belong With Me"
+        },
+        {
+          "track": "I Knew You Were Trouble"
+        },
+        {
+          "track": "We Are Never Ever Getting Back Together"
+        },
+        {
+          "track": "Bad Blood"
+        },
+        {
+          "track": "Anti-Hero"
+        },
+        {
+          "track": "Cruel Summer"
+        },
+        {
+          "track": "All Too Well"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Love Story"
+        },
+        {
+          "track": "You Belong With Me"
+        },
+        {
+          "track": "Shake It Off"
+        },
+        {
+          "track": "Blank Space"
+        },
+        {
+          "track": "I Knew You Were Trouble"
+        },
+        {
+          "track": "We Are Never Ever Getting Back Together"
+        },
+        {
+          "track": "Bad Blood"
+        }
+      ],
+      "sales.riaa100m": 150000000,
+      "sales.riaaBestSellers": 2,
+      "sales.ifpiBestAlbums": [
+        {
+          "year": 2024,
+          "album": "The Tortured Poets Department",
+          "rank": 1
+        },
+        {
+          "year": 2025,
+          "album": "The Tortured Poets Department",
+          "rank": 1
+        }
+      ],
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2014,
+          "rank": 1
+        },
+        {
+          "year": 2019,
+          "rank": 1
+        },
+        {
+          "year": 2022,
+          "rank": 1
+        },
+        {
+          "year": 2023,
+          "rank": 1
+        },
+        {
+          "year": 2024,
+          "rank": 1
+        },
+        {
+          "year": 2025,
+          "rank": 1
+        }
+      ],
+      "sales.totalCertifications": 150
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 150",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "13 RIAA album certs, 10 Diamond tracks, 6 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "artist": "Thom Yorke",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "The Eraser",
+        "sales": 400000
+      },
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "artist": "Tipper",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "artist": "Tourist",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "artist": "Tove Lo",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Queen of the Clouds",
+        "sales": 1000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Queen of the Clouds",
+          "level": "Platinum",
+          "date": "2016-02-26"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Habits (Stay High)"
+        },
+        {
+          "track": "Talking Body"
+        },
+        {
+          "track": "Stay High"
+        },
+        {
+          "track": "Habits"
+        },
+        {
+          "track": "No One Dies From Love"
+        },
+        {
+          "track": "Disco Tits"
+        },
+        {
+          "track": "Cool Girl"
+        }
+      ],
+      "sales.totalCertifications": 15
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 15",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "artist": "Travis Scott",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Astroworld",
+        "sales": 6000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Rodeo",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Astroworld",
+          "level": "4x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Utopia",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Birds in the Trap Sing McKnight",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Days Before Rodeo",
+          "level": "Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Sicko Mode"
+        },
+        {
+          "track": "Goosebumps"
+        },
+        {
+          "track": "Butterfly Effect"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Sicko Mode"
+        },
+        {
+          "track": "Goosebumps"
+        },
+        {
+          "track": "Highest in the Room"
+        },
+        {
+          "track": "Antidote"
+        },
+        {
+          "track": "Butterfly Effect"
+        },
+        {
+          "track": "YOSEMITE"
+        },
+        {
+          "track": "SICKO MODE (Remix)"
+        }
+      ],
+      "sales.riaa100m": 45000000,
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2024,
+          "rank": 15
+        }
+      ],
+      "sales.totalCertifications": 45
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 45",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "5 RIAA album certs, 3 Diamond tracks, 1 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "artist": "UNIIQU3",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "artist": "The Weeknd",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "Starboy",
+        "sales": 12000000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "Starboy",
+          "level": "5x Platinum",
+          "date": ""
+        },
+        {
+          "album": "After Hours",
+          "level": "4x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Beauty Behind the Madness",
+          "level": "3x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Kiss Land",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Dawn FM",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "My Dear Melancholy",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Starboy (Deluxe)",
+          "level": "Platinum",
+          "date": ""
+        }
+      ],
+      "sales.riaaDiamond": [
+        {
+          "track": "Blinding Lights"
+        },
+        {
+          "track": "Starboy"
+        },
+        {
+          "track": "The Hills"
+        },
+        {
+          "track": "Can't Feel My Face"
+        },
+        {
+          "track": "Earned It"
+        },
+        {
+          "track": "Save Your Tears"
+        },
+        {
+          "track": "Die for You"
+        }
+      ],
+      "sales.riaaLatinDiamond": [
+        {
+          "track": "Blinding Lights"
+        },
+        {
+          "track": "Starboy"
+        },
+        {
+          "track": "The Hills"
+        },
+        {
+          "track": "Earned It"
+        },
+        {
+          "track": "Save Your Tears"
+        },
+        {
+          "track": "Die for You"
+        }
+      ],
+      "sales.riaaGold": [
+        {
+          "track": "Blinding Lights"
+        },
+        {
+          "track": "Starboy"
+        },
+        {
+          "track": "The Hills"
+        },
+        {
+          "track": "Can't Feel My Face"
+        },
+        {
+          "track": "Earned It"
+        },
+        {
+          "track": "Save Your Tears"
+        },
+        {
+          "track": "Die for You"
+        }
+      ],
+      "sales.riaa100m": 100000000,
+      "sales.ifpiBestArtists": [
+        {
+          "year": 2024,
+          "rank": 7
+        },
+        {
+          "year": 2025,
+          "rank": 4
+        }
+      ],
+      "sales.totalCertifications": 100
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 100",
+        "status": "verified",
+        "confidence": 5,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "7 RIAA album certs, 7 Diamond tracks, 2 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "artist": "Weval",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "artist": "The xx",
+    "updates": {
+      "releases.topAlbumSales": {
+        "album": "xx",
+        "sales": 1930000
+      },
+      "sales.riaaCertifications": [
+        {
+          "album": "xx",
+          "level": "Gold",
+          "date": "2021-03-03"
+        }
+      ],
+      "sales.totalCertifications": 1
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 1",
+        "status": "verified",
+        "confidence": 4,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "1 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "artist": "Yaeji",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "artist": "Yīn Yīn",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "artist": "yunè pinku",
+    "updates": {
+      "sales.totalCertifications": 0
+    },
+    "fieldEvidence": [
+      {
+        "field": "salesData",
+        "value": "totalCertifications: 0",
+        "status": "not_found_publicly",
+        "confidence": 2,
+        "sourceName": "RIAA / IFPI / ChartMasters / Wikipedia",
+        "sourceUrl": "",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "0 RIAA album certs, 0 Diamond tracks, 0 IFPI rankings",
+        "notes": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "id": 101,
+    "artist": "Stevie Nicks",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No solo Stevie Nicks albums found in Dolby Atmos. Fleetwood Mac band albums featuring Nicks (Fleetwood Mac 1975, Rumours 1977) are available in Dolby Atmos, but these are band releases, not solo albums. Extensive searching found no Atmos releases for solo albums like Bella Donna (1981), The Wild Heart (1983), etc."
+  },
+  {
+    "id": 102,
+    "artist": "Suzanne Ciani",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "LIVE Quadraphonic",
+        "releaseYear": 2018,
+        "sourceService": "Tidal/Amazon Music",
+        "sourceUrls": ["https://quadraphonicquad.com/threads/atmos-release-of-suzanne-ciani-live-quadraphonic.29874/", "https://shop.cykik.com/products/suzanne-ciani-live-quadraphonic"],
+        "confidence": 4,
+        "notes": "Atmos version of LIVE Quadraphonic released on Tidal and Amazon Music on Feb 27, 2021. Described as possibly the first truly independent Dolby Atmos release. Also available via Immersive Audio Album. Originally recorded live March 5, 2016 in San Francisco."
+      },
+      {
+        "title": "Golden Apples of the Sun",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://transversales.bandcamp.com/album/golden-apples-of-the-sun-3", "https://music.apple.com/us/album/golden-apples-of-the-sun/1689543586"],
+        "confidence": 5,
+        "notes": "Collaborative album with Jonathan Fitoussi. Atmos Mix by Thibaut Javoy at Studio Benzene. Released October 6, 2023. Tracks confirmed as dolby-atmos on Apple Music streaming."
+      }
+    ],
+    "notes": "Suzanne Ciani has at least two confirmed releases with Dolby Atmos: LIVE Quadraphonic (2018, Atmos streaming release 2021) and Golden Apples of the Sun (2023). She is an electronic music pioneer who has discussed remixing her catalog in Atmos format in interviews."
+  },
+  {
+    "id": 103,
+    "artist": "SZA",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "SOS",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://x.com/AppleMusic/status/1601079293979037696", "https://music.apple.com/ca/playlist/hits-in-spatial-audio/pl.ba2404fbc4464b8ba2d60399189cf24e"],
+        "confidence": 5,
+        "notes": "Officially confirmed by Apple Music Twitter account: 'Listen now in Spatial Audio with Dolby Atmos.' Released December 9, 2022."
+      }
+    ],
+    "notes": "SZA's sophomore album SOS confirmed in Spatial Audio with Dolby Atmos on Apple Music. No evidence found for debut album Ctrl (2017) in Atmos."
+  },
+  {
+    "id": 104,
+    "artist": "Talking Heads",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Talking Heads: 77",
+        "releaseYear": 1977,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/", "https://immersiveaudioalbum.com/talking-heads-77-5-1-surround-sound-dolby-atmos/"],
+        "confidence": 5,
+        "notes": "Dolby Atmos mix by Jerry Harrison and E.T. Thorngren, released to streaming September 2022."
+      },
+      {
+        "title": "More Songs About Buildings and Food",
+        "releaseYear": 1978,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"],
+        "confidence": 5,
+        "notes": "Dolby Atmos mix released to streaming September 2022."
+      },
+      {
+        "title": "Fear of Music",
+        "releaseYear": 1979,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"],
+        "confidence": 5,
+        "notes": "Dolby Atmos mix released to streaming September 2022."
+      },
+      {
+        "title": "Remain in Light",
+        "releaseYear": 1980,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"],
+        "confidence": 5,
+        "notes": "Dolby Atmos mix released to streaming September 2022."
+      },
+      {
+        "title": "Speaking in Tongues",
+        "releaseYear": 1983,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"],
+        "confidence": 5,
+        "notes": "Dolby Atmos mix released to streaming September 2022."
+      },
+      {
+        "title": "Little Creatures",
+        "releaseYear": 1985,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"],
+        "confidence": 5,
+        "notes": "Dolby Atmos mix released to streaming September 2022."
+      },
+      {
+        "title": "True Stories",
+        "releaseYear": 1986,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"],
+        "confidence": 5,
+        "notes": "Dolby Atmos mix released to streaming September 2022."
+      },
+      {
+        "title": "Naked",
+        "releaseYear": 1988,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://theloon.com/talking-heads-jerry-harrison-discusses-fabulous-sounding-new-dolby-atmos-mixes-of-bands-albums/"],
+        "confidence": 5,
+        "notes": "Dolby Atmos mix released to streaming September 2022."
+      },
+      {
+        "title": "Stop Making Sense",
+        "releaseYear": 1984,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://immersiveaudioalbum.com/talking-heads-77-5-1-surround-sound-dolby-atmos/", "https://www.brooklynvegan.com/talking-heads-announce-stop-making-sense-deluxe-edition-soundtrack-cd-blu-ray-w-dolby-atmos-mix-vinyl-repress/"],
+        "confidence": 5,
+        "notes": "Live album. Atmos remix completed by Harrison and Thorngren. Blu-ray with Dolby Atmos mix released 2024."
+      }
+    ],
+    "notes": "All 8 Talking Heads studio albums were released in Dolby Atmos in September 2022, overseen by Jerry Harrison with engineer Eric Thorngren. The live album Stop Making Sense also received an Atmos mix. All mixes approved by band members."
+  },
+  {
+    "id": 105,
+    "artist": "Tarik Barri",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Tarik Barri is a Dutch visual artist and software developer known for real-time audiovisual performances. He collaborates with musicians (Thom Yorke, Nicolas Jaar, Ben Frost) providing visual components, but has no solo music albums in Dolby Atmos. No album releases found under his own name."
+  },
+  {
+    "id": 106,
+    "artist": "Tash Sultana",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No Dolby Atmos albums found for Tash Sultana. Searched for debut album Flow State (2019) and sophomore album Terra Firma (2021). No Atmos releases confirmed on any streaming platform."
+  },
+  {
+    "id": 107,
+    "artist": "Taylor Swift",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Taylor Swift",
+        "releaseYear": 2006,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/", "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"],
+        "confidence": 5,
+        "notes": "Added to Apple Music Spatial Audio December 2025. Original Big Machine masters version."
+      },
+      {
+        "title": "Fearless",
+        "releaseYear": 2008,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/", "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"],
+        "confidence": 5,
+        "notes": "Added to Apple Music Spatial Audio December 2025. Original Big Machine masters version."
+      },
+      {
+        "title": "Speak Now",
+        "releaseYear": 2010,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/", "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"],
+        "confidence": 5,
+        "notes": "Added to Apple Music Spatial Audio December 2025. Original Big Machine masters version."
+      },
+      {
+        "title": "Red",
+        "releaseYear": 2012,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/", "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"],
+        "confidence": 5,
+        "notes": "Added to Apple Music Spatial Audio December 2025. Original Big Machine masters version."
+      },
+      {
+        "title": "1989",
+        "releaseYear": 2014,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/", "https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"],
+        "confidence": 5,
+        "notes": "Added to Apple Music Spatial Audio December 2025. Original Big Machine masters version."
+      },
+      {
+        "title": "Reputation",
+        "releaseYear": 2017,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://www.thatericalper.com/2025/12/13/taylor-swifts-first-six-albums-now-available-in-immersive-spatial-audio-on-apple-music/", "https://stereogum.com/2482875/taylor-swifts-new-dolby-atmos-release-includes-two-reputation-lyric-changes/news"],
+        "confidence": 5,
+        "notes": "Added to Apple Music Spatial Audio December 2025. Includes revised lyrics for some tracks in the Atmos version."
+      },
+      {
+        "title": "Lover",
+        "releaseYear": 2019,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/", "https://music.apple.com/gb/playlist/taylor-swift-in-spatial-audio/pl.504aa3ce64fb45a8a4bcab2c90bbd181"],
+        "confidence": 5,
+        "notes": "Available in Spatial Audio with Dolby Atmos. Republic Records release."
+      },
+      {
+        "title": "Folklore",
+        "releaseYear": 2020,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/", "https://music.apple.com/gb/playlist/taylor-swift-in-spatial-audio/pl.504aa3ce64fb45a8a4bcab2c90bbd181"],
+        "confidence": 5,
+        "notes": "Available in Spatial Audio with Dolby Atmos."
+      },
+      {
+        "title": "Evermore",
+        "releaseYear": 2020,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/", "https://music.apple.com/gb/playlist/taylor-swift-in-spatial-audio/pl.504aa3ce64fb45a8a4bcab2c90bbd181"],
+        "confidence": 5,
+        "notes": "Available in Spatial Audio with Dolby Atmos."
+      },
+      {
+        "title": "Midnights",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/", "https://www.yahoo.com/tech/taylor-swifts-album-renewed-interest-142706914.html"],
+        "confidence": 5,
+        "notes": "Available in Spatial Audio with Dolby Atmos at release."
+      },
+      {
+        "title": "The Tortured Poets Department",
+        "releaseYear": 2024,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/", "https://www.yahoo.com/tech/taylor-swifts-album-renewed-interest-142706914.html"],
+        "confidence": 5,
+        "notes": "Available in Spatial Audio with Dolby Atmos at release."
+      },
+      {
+        "title": "The Life of a Showgirl",
+        "releaseYear": 2025,
+        "sourceService": "Apple Music",
+        "sourceUrls": ["https://themusicuniverse.com/taylor-swifts-era-albums-available-in-spatial-audio-on-apple-music/"],
+        "confidence": 5,
+        "notes": "Available in Spatial Audio with Dolby Atmos at release."
+      }
+    ],
+    "notes": "Taylor Swift's entire standard catalog of 12 studio albums is now available in Spatial Audio with Dolby Atmos on Apple Music. The first 6 albums (Taylor Swift, Fearless, Speak Now, Red, 1989, Reputation) were added in December 2025, completing her catalog. These are the original Big Machine master recordings. The re-recorded versions (Taylor's Version) are also available in Atmos."
+  },
+  {
+    "id": 108,
+    "artist": "Thom Yorke",
+    "hasAtmosAlbum": null,
+    "albums": [
+      {
+        "title": "Anima",
+        "releaseYear": 2019,
+        "sourceService": "Other",
+        "sourceUrls": ["https://rockcellarmagazine.com/thom-yorke-new-album-anima-listen-stream/"],
+        "confidence": 2,
+        "notes": "Rock Cellar Magazine article mentions 'digital and streaming services and Dolby Atmos' but this is ambiguous and may refer to the short film audio, not the album. No independent confirmation of Anima in Atmos on Apple Music or other services. Reddit users have mentioned listening to ANIMA in Atmos context but unclear if referring to Apple's Spatial Audio processing or native Atmos mix."
+      }
+    ],
+    "notes": "Thom Yorke's solo album Atmos status is inconclusive. While one source mentioned 'Dolby Atmos' in relation to Anima (2019), no official Apple Music, Tidal, or Dolby listing confirms a native Atmos mix for his solo albums. The Smile (Yorke's project with Jonny Greenwood) has surround sound mixes but Reddit users confirm these are NOT Dolby Atmos. The single 'Dialing In' (2025) is confirmed in Dolby Atmos format but this is a single, not an album. More research needed for definitive confirmation."
+  },
+  {
+    "id": 109,
+    "artist": "Tipper",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Tipper (David Tipper) is a British electronic music producer known for surround sound compositions. He released 'Surrounded' (2003/2004) specifically for 5.1 surround sound and DualDisc format, and has provided content for DTS. However, no specific Dolby Atmos album releases were found in streaming catalogs or discographies. A Reddit post asking about Tipper in Dolby Atmos received no confirmations of Atmos releases."
+  },
+  {
+    "id": 110,
+    "artist": "Tourist",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "Tourist (William Phillips) is an English electronic musician. Searched all 6 studio albums: U (2016), Everyday (2019), Wild (2019), Inside Out (2022), Memory Morning (2024), and Music Is Invisible (2025). No Dolby Atmos releases found on any major streaming platform. Note: 'The Tourist' soundtrack by Dominik Scherrer is available in Atmos but this is unrelated to the artist Tourist."
+  }
+]

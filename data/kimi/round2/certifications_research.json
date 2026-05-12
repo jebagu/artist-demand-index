@@ -1,0 +1,325 @@
+[
+  {
+    "id": 109,
+    "artist": "Tipper",
+    "data": {
+      "topAlbumSales": {
+        "album": "Surrounded / Jettison Mind Hatch",
+        "sales": 0
+      }
+    },
+    "confidence": 1,
+    "sources": [
+      {
+        "name": "Wikipedia - David Tipper",
+        "url": "https://en.wikipedia.org/wiki/David_Tipper",
+        "snippet": "Underground electronic music producer with no RIAA certifications on record. Albums include Surrounded (2003), Jettison Mind Hatch (2019), and others."
+      },
+      {
+        "name": "RIAA Database",
+        "url": "https://www.riaa.com/gold-platinum/",
+        "snippet": "No RIAA certifications found for Tipper."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "artist": "Tourist",
+    "data": {
+      "topAlbumSales": {
+        "album": "U / Everyday",
+        "sales": 0
+      }
+    },
+    "confidence": 1,
+    "sources": [
+      {
+        "name": "Wikipedia - U (Tourist album)",
+        "url": "https://en.wikipedia.org/wiki/U_(Tourist_album)",
+        "snippet": "U (2016) reached top 40 in Australia. Everyday (2019) is the follow-up album. No RIAA certifications found."
+      },
+      {
+        "name": "RIAA Database",
+        "url": "https://www.riaa.com/gold-platinum/",
+        "snippet": "No RIAA certifications found for Tourist."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "artist": "Tove Lo",
+    "data": {
+      "riaaCertifications": [
+        {
+          "album": "Queen of the Clouds",
+          "level": "Platinum",
+          "date": "February 26, 2016"
+        }
+      ],
+      "riaaDiamond": [
+        {
+          "track": "Habits (Stay High)",
+          "level": "5x Platinum"
+        },
+        {
+          "track": "Talking Body",
+          "level": "2x Platinum"
+        }
+      ],
+      "topAlbumSales": {
+        "album": "Queen of the Clouds",
+        "sales": 1000000
+      }
+    },
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "RIAA Database",
+        "url": "https://www.riaa.com/gold-platinum/?tab_active=default-award&se=Tove+Lo",
+        "snippet": "TOVE LO - QUEEN OF THE CLOUDS: Platinum certified February 26, 2016. Singles: Habits (Stay High) 5x Platinum, Talking Body 2x Platinum, Cool Girl certified."
+      },
+      {
+        "name": "Headline Planet",
+        "url": "https://headlineplanet.com/home/2016/03/03/tove-los-queen-of-the-clouds-reaches-platinum-in-the-us/",
+        "snippet": "Tove Lo's Queen Of The Clouds, which has produced a 5x platinum single in Habits (Stay High) and a 2x platinum single in Talking Body, is now a platinum album."
+      },
+      {
+        "name": "Wikipedia - Tove Lo discography",
+        "url": "https://en.wikipedia.org/wiki/Tove_Lo_discography",
+        "snippet": "Queen of the Clouds peaked at number 14 on US Billboard 200 and received platinum certification in both Sweden and US."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "artist": "UNIIQU3",
+    "data": {},
+    "confidence": 1,
+    "sources": [
+      {
+        "name": "AllMusic - UNIIQU3",
+        "url": "https://www.allmusic.com/artist/uniiqu3-mn0003392290",
+        "snippet": "Cherise Gary, queen of the Jersey club movement, underground electronic producer."
+      },
+      {
+        "name": "RIAA Database",
+        "url": "https://www.riaa.com/gold-platinum/",
+        "snippet": "No RIAA certifications found for UNIIQU3."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "artist": "Weval",
+    "data": {
+      "topAlbumSales": {
+        "album": "Weval / The Weight",
+        "sales": 0
+      }
+    },
+    "confidence": 1,
+    "sources": [
+      {
+        "name": "FabFilter Featured Artist",
+        "url": "https://www.fabfilter.com/artists/weval",
+        "snippet": "Weval has released their third album Remember in 2023, after previous records The Weight (2019) and the self-titled album Weval (2016)."
+      },
+      {
+        "name": "RIAA Database",
+        "url": "https://www.riaa.com/gold-platinum/",
+        "snippet": "No RIAA certifications found for Weval."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "artist": "The xx",
+    "data": {
+      "riaaCertifications": [
+        {
+          "album": "xx",
+          "level": "Gold",
+          "date": "March 3, 2021"
+        }
+      ],
+      "topAlbumSales": {
+        "album": "xx",
+        "sales": 1375000
+      },
+      "totalCertifications": 8
+    },
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "RIAA Database",
+        "url": "https://www.riaa.com/gold-platinum/?adv=SEARCH&ar=the+xx",
+        "snippet": "THE XX - XX album: Gold certified March 3, 2021. Intro single also certified."
+      },
+      {
+        "name": "BestSellingAlbums.org",
+        "url": "https://bestsellingalbums.org/artist/13300",
+        "snippet": "THE XX sold over 1,930,000 albums. Best-selling album is xx with 1,375,000 copies. xx certified Gold in US (500,000)."
+      },
+      {
+        "name": "Wikipedia - Coexist",
+        "url": "https://en.wikipedia.org/wiki/Coexist_(album)",
+        "snippet": "Coexist certified platinum in UK, gold in multiple countries."
+      },
+      {
+        "name": "Wikipedia - I See You",
+        "url": "https://en.wikipedia.org/wiki/I_See_You_(The_xx_album)",
+        "snippet": "I See You certified Gold in UK (100,000 units)."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "artist": "Yaeji",
+    "data": {
+      "topAlbumSales": {
+        "album": "What We Drew / With A Hammer",
+        "sales": 0
+      }
+    },
+    "confidence": 1,
+    "sources": [
+      {
+        "name": "Wikipedia - With a Hammer",
+        "url": "https://en.wikipedia.org/wiki/With_a_Hammer",
+        "snippet": "With a Hammer (2023) is Yaeji's debut studio album via XL Recordings. Metacritic score 86/100."
+      },
+      {
+        "name": "Bandcamp - Yaeji",
+        "url": "https://kraejiyaeji.bandcamp.com/album/what-we-drew",
+        "snippet": "What We Drew (2020) is a mixtape project. No sales figures available."
+      },
+      {
+        "name": "RIAA Database",
+        "url": "https://www.riaa.com/gold-platinum/",
+        "snippet": "No RIAA certifications found for Yaeji."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "artist": "Y\u012bn Y\u012bn",
+    "data": {
+      "topAlbumSales": {
+        "album": "The Rabbit That Hunts Tigers",
+        "sales": 0
+      }
+    },
+    "confidence": 1,
+    "sources": [
+      {
+        "name": "Glitterbeat Records",
+        "url": "https://glitterbeat.com/product/mount-matsu/",
+        "snippet": "Y\u012bn Y\u012bn is a Dutch quartet from Maastricht. Albums: The Rabbit That Hunts Tigers (2019), The Age Of Aquarius (2022), Mount Matsu (2024)."
+      },
+      {
+        "name": "RIAA Database",
+        "url": "https://www.riaa.com/gold-platinum/",
+        "snippet": "No RIAA certifications found for Y\u012bn Y\u012bn."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "artist": "yun\u00e8 pinku",
+    "data": {
+      "topAlbumSales": {
+        "album": "BABY RZ / BOWser",
+        "sales": 0
+      }
+    },
+    "confidence": 1,
+    "sources": [
+      {
+        "name": "RateYourMusic",
+        "url": "https://rateyourmusic.com/artist/yune-pinku",
+        "snippet": "yun\u00e8 pinku discography includes EPs: Bluff (2022), Babylon IX (charted at No. 8 on UK Dance Albums Chart), Scarlet Lamb EP."
+      },
+      {
+        "name": "RIAA Database",
+        "url": "https://www.riaa.com/gold-platinum/",
+        "snippet": "No RIAA certifications found for yun\u00e8 pinku."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "artist": "Talking Heads",
+    "data": {
+      "riaaCertifications": [
+        {
+          "album": "Stop Making Sense",
+          "level": "2x Platinum",
+          "date": "August 17, 1994"
+        },
+        {
+          "album": "Little Creatures",
+          "level": "2x Platinum",
+          "date": ""
+        },
+        {
+          "album": "Speaking in Tongues",
+          "level": "Platinum",
+          "date": ""
+        },
+        {
+          "album": "Fear of Music",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Remain in Light",
+          "level": "Gold",
+          "date": "September 1985"
+        },
+        {
+          "album": "True Stories",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "More Songs About Buildings and Food",
+          "level": "Gold",
+          "date": ""
+        },
+        {
+          "album": "Naked",
+          "level": "Gold",
+          "date": ""
+        }
+      ],
+      "topAlbumSales": {
+        "album": "Stop Making Sense / Little Creatures",
+        "sales": 2365000
+      },
+      "totalCertifications": 8
+    },
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "RIAA Database via Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Talking_Heads_discography",
+        "snippet": "Studio albums with RIAA certifications: Stop Making Sense 2x Platinum, Little Creatures 2x Platinum, Speaking in Tongues Platinum, Fear of Music Gold, Remain in Light Gold, True Stories Gold, More Songs About Buildings and Food Gold, Naked Gold."
+      },
+      {
+        "name": "BestSellingAlbums.org",
+        "url": "https://bestsellingalbums.org/artist/12690",
+        "snippet": "TALKING HEADS sold over 9,212,500 albums, including 7,500,000 in the United States. Best-selling album is STOP MAKING SENSE with 2,365,000 copies."
+      },
+      {
+        "name": "Wikipedia - Remain in Light",
+        "url": "https://en.wikipedia.org/wiki/Remain_in_Light",
+        "snippet": "Remain in Light was certified gold by RIAA in September 1985 after shipping 500,000 copies."
+      },
+      {
+        "name": "Wikipedia - Stop Making Sense",
+        "url": "https://en.wikipedia.org/wiki/Stop_Making_Sense_(album)",
+        "snippet": "Stop Making Sense certified 2x Platinum by RIAA (2,000,000 units). Gold certified March 1, 1985. Platinum July 2, 1986. Double Platinum August 17, 1994."
+      }
+    ]
+  }
+]

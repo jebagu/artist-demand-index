@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "artist": "Acid Pauli",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No Dolby Atmos album releases found after extensive searching. Acid Pauli (Martin Gretschmann) is a German electronic artist known for albums like 'Mst' (2012) and 'BLD' (2017). No Spatial Audio or Dolby Atmos releases were discovered on Apple Music, Amazon Music, Tidal, or other platforms. The artist has performed at spatial audio events but no album-level Atmos releases exist."
+  },
+  {
+    "id": 2,
+    "artist": "AfroRack",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No Dolby Atmos album releases found. AfroRack (Brian Bamanya) is a Ugandan experimental electronic artist who built Africa's first DIY modular synthesizer. His debut album 'The Afrorack' was released in 2022 on Nyege Nyege Tapes to critical acclaim. Despite his innovative work with spatial audio in live performances, no official Dolby Atmos album releases exist."
+  },
+  {
+    "id": 3,
+    "artist": "Air",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Moon Safari",
+        "releaseYear": 2024,
+        "sourceService": "Blu-ray / Apple Music",
+        "sourceUrls": [
+          "https://www.thesdeshop.com/products/air-moon-safari-2cd-blu-ray",
+          "https://superdeluxeedition.com/reviews/airs-moon-safari-atmos-mix-reviewed/",
+          "https://quadraphonicquad.com/threads/air-moon-safari-blu-ray-audio-dolby-atmos.35720/"
+        ],
+        "confidence": 5,
+        "notes": "25th Anniversary 2CD+Blu-ray edition released March 2024 featuring a new Dolby Atmos mix by Bruce Keen & Gildas Lointier. The Atmos mix is also available for streaming on Apple Music."
+      },
+      {
+        "title": "10,000 Hz Legend",
+        "releaseYear": 2021,
+        "sourceService": "Blu-ray / Apple Music",
+        "sourceUrls": [
+          "https://superdeluxeedition.com/news/air-10-000-hz-legend-deluxe/",
+          "https://immersiveaudioalbum.com/10000-hz-legend-by-air-5-1-surround-sound-dolby-atmos/",
+          "https://numero.com/en/non-classifiee/listen-to-an-air-album-as-if-you-were-in-the-studio-with-the-band/"
+        ],
+        "confidence": 5,
+        "notes": "20th Anniversary 2CD+Blu-ray edition released November 2021 featuring a Dolby Atmos mix by Bruce Keen. Initially exclusive on Apple Music streaming, then released on Blu-ray with Dolby TrueHD/Atmos."
+      },
+      {
+        "title": "The Virgin Suicides Redux",
+        "releaseYear": 2025,
+        "sourceService": "Blu-ray / Apple Music",
+        "sourceUrls": [
+          "https://store.airfrenchband.com/products/air-the-virgin-suicides-redux-2cd-bluray",
+          "https://www.brooklynvegan.com/air-announce-25th-anniversary-the-virgin-suicides-reissue-ft-new-analog-mix/",
+          "https://www.thesdeshop.com/products/air-the-virgin-suicides-2cd-blu-ray"
+        ],
+        "confidence": 5,
+        "notes": "25th Anniversary edition 'The Virgin Suicides Redux' released September 26, 2025. Features a new analog mix plus a Dolby Atmos spatial audio Blu-ray of the album, alongside previously unreleased rarities and demos."
+      }
+    ],
+    "notes": "Air (French electronic duo Nicolas Godin and Jean-Benoit Dunckel) has embraced Dolby Atmos for multiple anniversary reissues of their key albums. The Atmos mixes are created by Bruce Keen and Gildas Lointier and praised for their creative use of immersive audio. All three Atmos albums are available both on physical Blu-ray and for streaming."
+  },
+  {
+    "id": 4,
+    "artist": "Alva Noto",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No Dolby Atmos album releases found. Alva Noto (Carsten Nicolai) is a German minimalist electronic artist. Found only Dolby Digital 5.1 surround sound on the 'Insen Live' DVD (2006) collaboration with Ryuichi Sakamoto. Despite extensive discography including albums like 'Univrs', 'Xerrox' series, and collaborations, no Dolby Atmos releases exist."
+  },
+  {
+    "id": 5,
+    "artist": "Aphex Twin",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No official Dolby Atmos album releases found. The track 'Tha' from 'Selected Ambient Works 85-92' briefly appeared on Apple Music as Spatial Audio but was pulled - likely due to AI-upscaling issues (Apple removed tracks that used AI to upscale to Spatial Audio). No official Atmos mixes from Aphex Twin have been released. No other albums found in Atmos format."
+  },
+  {
+    "id": 6,
+    "artist": "Arooj Aftab",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Vulture Prince",
+        "releaseYear": 2021,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.valvetone.com/news/arooj2021",
+          "https://www.syn.world/blog/towadako-summer",
+          "https://quadraphonicquad.com/threads/listening-to-in-dolby-atmos-streaming-via-tidal-apple-amazon.31491/page-63"
+        ],
+        "confidence": 4,
+        "notes": "Mixed in Dolby Atmos by David Levin in Los Angeles. The ValveTone studio (Damon Whittemore) worked on the album and their website mentions it was 'a joy to mix for Dolby ATMOS.' The album won a Grammy and the Atmos mix is available on Apple Music."
+      }
+    ],
+    "notes": "Arooj Aftab's breakthrough album 'Vulture Prince' (2021) received a Dolby Atmos mix. The Pakistani-American artist's blend of jazz, classical, and experimental music was specifically mixed in Atmos by David Levin. While confirmed by studio sources, independent Apple Music verification was not directly checked."
+  },
+  {
+    "id": 7,
+    "artist": "Bassnectar",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No Dolby Atmos album releases found. Bassnectar (Lorin Ashton) is an American electronic music producer and DJ. Despite being mentioned in articles about Apple Music's Spatial Audio launch, no actual Bassnectar albums in Dolby Atmos format were found. No Atmos releases on Apple Music, Tidal, Amazon Music, or other platforms."
+  },
+  {
+    "id": 8,
+    "artist": "The Beatles",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Sgt. Pepper's Lonely Hearts Club Band",
+        "releaseYear": 2017,
+        "sourceService": "Apple Music / Blu-ray",
+        "sourceUrls": [
+          "https://professional.dolby.com/sgt-peppers/",
+          "https://www.theverge.com/2021/7/30/22601508/the-beatles-dolby-atmos-sgt-peppers-lonely-hearts-club-band-remix-mono-stereo-apple-music",
+          "https://www.soundandvision.com/content/sgt-pepper-meets-dolby-atmos"
+        ],
+        "confidence": 5,
+        "notes": "Originally mixed in Dolby Atmos in 2017 for the 50th anniversary, initially for theatrical presentation. Giles Martin later revised the mix in 2021/2022 for near-field listening on streaming services. Considered the first album ever mixed in Dolby Atmos."
+      },
+      {
+        "title": "The Beatles (White Album)",
+        "releaseYear": 2018,
+        "sourceService": "Apple Music / Blu-ray",
+        "sourceUrls": [
+          "https://www.youtube.com/watch?v=OxmsgrifA_8",
+          "https://www.hiresedition.com/review/classic-rock/beatles-1962-1970.html"
+        ],
+        "confidence": 5,
+        "notes": "50th Anniversary Super Deluxe Edition includes Dolby Atmos mix by Giles Martin on Blu-ray, also available for streaming on Apple Music and other platforms."
+      },
+      {
+        "title": "Abbey Road",
+        "releaseYear": 2019,
+        "sourceService": "Apple Music / Blu-ray",
+        "sourceUrls": [
+          "https://usastore.thebeatles.com/products/abbey-road-super-deluxe-edition-4-disc",
+          "https://www.hiresedition.com/review/classic-rock/beatles-1962-1970.html"
+        ],
+        "confidence": 5,
+        "notes": "50th Anniversary Super Deluxe Edition with Dolby Atmos mix by Giles Martin and Sam Okell. Available on Blu-ray and streaming platforms."
+      },
+      {
+        "title": "Let It Be",
+        "releaseYear": 2021,
+        "sourceService": "Apple Music / Blu-ray",
+        "sourceUrls": [
+          "https://usastore.thebeatles.com/products/let-it-be-special-edition-super-deluxe-5cd-1blu-ray",
+          "https://en.wikipedia.org/wiki/Let_It_Be:_Special_Edition",
+          "https://immersiveaudioalbum.com/the-beatles-let-it-be-5-1-dolby-atmos-review/"
+        ],
+        "confidence": 5,
+        "notes": "Special Edition Super Deluxe 5CD/1Blu-ray with new stereo, 5.1 surround DTS, and Dolby Atmos mixes by Giles Martin & Sam Okell. Available on streaming platforms."
+      },
+      {
+        "title": "Revolver",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.the-paulmccartney-project.com/album/revolver-dolby-atmos-2022/",
+          "https://www.hiresedition.com/review/classic-rock/beatles-1962-1970.html"
+        ],
+        "confidence": 5,
+        "notes": "2022 Dolby Atmos mix released for streaming. All tracks feature 2022 Dolby Atmos mix by Giles Martin."
+      },
+      {
+        "title": "1 (Compilation)",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://forums.stevehoffman.tv/threads/beatles-1-compilation-available-in-dolby-atmos.1135758/"
+        ],
+        "confidence": 5,
+        "notes": "The Beatles' '1' compilation album and double A-side eSingle of Strawberry Fields Forever/Penny Lane released in Dolby Atmos on streaming platforms."
+      },
+      {
+        "title": "1962-1966 (The Red Album)",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.hiresedition.com/review/classic-rock/beatles-1962-1970.html",
+          "https://recordscdsandmusic.blog/2024/02/17/atmos-atmos-whos-got-the-dolby-atmos-the-beatles-in-surround-1962-1970/"
+        ],
+        "confidence": 5,
+        "notes": "2023 Expanded Edition with all songs mixed in stereo and Dolby Atmos by Giles Martin, Sam Okell, and Paul Hicks. Includes Dolby Atmos mixes of classic tracks from the early period."
+      },
+      {
+        "title": "1967-1970 (The Blue Album)",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.hiresedition.com/review/classic-rock/beatles-1962-1970.html",
+          "https://recordscdsandmusic.blog/2024/02/17/atmos-atmos-whos-got-the-dolby-atmos-the-beatles-in-surround-1962-1970/"
+        ],
+        "confidence": 5,
+        "notes": "2023 Expanded Edition with all songs mixed in stereo and Dolby Atmos. Includes 'Now and Then' and numerous tracks with new Atmos mixes."
+      },
+      {
+        "title": "Now and Then (single)",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.paulmccartney.com/news/now-and-then-the-last-beatles-song-out-21123",
+          "https://www.thebeatles.com/announcement"
+        ],
+        "confidence": 5,
+        "notes": "The last Beatles song, released as a double A-side single with 'Love Me Do.' Mixed in stereo and Dolby Atmos at Abbey Road Studios. Also included on 1967-1970 (2023 Edition)."
+      }
+    ],
+    "notes": "The Beatles have the most extensive Dolby Atmos catalog of any artist on this list. Starting with Sgt. Pepper's in 2017 (considered the first album ever mixed in Dolby Atmos), Giles Martin has created Atmos mixes for most of their major albums. These are available both on physical Blu-ray (for the anniversary box sets) and on streaming platforms. The 2023 Red and Blue Albums expansions added dozens more tracks in Atmos."
+  },
+  {
+    "id": 9,
+    "artist": "Beyoncé",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "RENAISSANCE",
+        "releaseYear": 2022,
+        "sourceService": "Apple Music / Tidal / Amazon Music",
+        "sourceUrls": [
+          "https://x.com/DolbyNews/status/1575834342894764033",
+          "https://x.com/beyoncepress/status/1575834517394567169",
+          "https://www.reddit.com/r/beyonce/comments/xrxgtw/renaissance_is_finally_in_dolby_atmos/"
+        ],
+        "confidence": 5,
+        "notes": "Officially confirmed by Dolby News on Twitter/X (September 30, 2022): 'RENAISSANCE is now in Spatial Audio with Dolby Atmos.' Available on Apple Music, Tidal Hi-Fi Plus, and Amazon Music HD."
+      }
+    ],
+    "notes": "Beyoncé's album RENAISSANCE (2022) is available in Spatial Audio with Dolby Atmos on major streaming platforms. No definitive evidence found for Cowboy Carter (Act II) being in Dolby Atmos, though there is speculation and requests from fans. RENAISSANCE is the confirmed Atmos album."
+  },
+  {
+    "id": 10,
+    "artist": "Bicep",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Isles",
+        "releaseYear": 2021,
+        "sourceService": "Amazon Music / Apple Music",
+        "sourceUrls": [
+          "https://www.billboard.com/pro/amazon-music-hd-unlimited-spatial-audio-default/",
+          "https://www.shortlist.com/news/jabra-elite-10-review-403881",
+          "https://www.reddit.com/r/apple/comments/st95k0/apple_says_spatial_audio_is_a_hit_drawing_more/"
+        ],
+        "confidence": 4,
+        "notes": "Bicep's sophomore album 'Isles' was an Amazon Music exclusive Spatial Audio/Dolby Atmos release, also available on Apple Music. L-Acoustics partnered with labels for album premieres in Dolby Atmos."
+      },
+      {
+        "title": "TAKKUUK (Original Soundtrack)",
+        "releaseYear": 2025,
+        "sourceService": "Apple Music / Dolby",
+        "sourceUrls": [
+          "https://professional.dolby.com/en-gb/music/studios/",
+          "https://bicepmusic.com/music/takkuuuk",
+          "https://music.apple.com/us/album/takkuuk-original-soundtrack/1823679788"
+        ],
+        "confidence": 5,
+        "notes": "Bicep's soundtrack for TAKKUUK, mixed in Dolby Atmos, showcases immersive audio production. Working with mixer Matt Karmil, the duo reimagined their music with field samples from Greenland and Indigenous vocals. Released July 25, 2025 via Ninja Tune/Earthsonic."
+      }
+    ],
+    "notes": "Bicep has two confirmed Dolby Atmos releases: their album 'Isles' (2021) which was featured as a Spatial Audio exclusive on Amazon Music, and the 'TAKKUUK' soundtrack (2025) which was explicitly mixed in Dolby Atmos for an immersive audio-visual installation."
+  }
+]

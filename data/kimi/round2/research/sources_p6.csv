@@ -1,0 +1,235 @@
+artistId,artist,field,value,sourceName,sourceUrl,dateAccessed,confidence,status
+3,Air,topAlbumSales,"{'album': 'Moon Safari', 'sales': 2000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+3,Air,ifpiBestAlbums,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+5,Aphex Twin,topAlbumSales,"{'album': 'Selected Ambient Works 85-92', 'sales': 500000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+8,The Beatles,topAlbumSales,"{'album': ""Sgt. Pepper's Lonely Hearts Club Band"", 'sales': 32000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+8,The Beatles,riaaCertifications,17,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+8,The Beatles,riaaDiamond,10,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+8,The Beatles,riaaGold,5,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+8,The Beatles,riaa100m,183000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+8,The Beatles,riaaBestSellers,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+8,The Beatles,ifpiBestArtists,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+8,The Beatles,totalCertifications,183,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+9,Beyoncé,topAlbumSales,"{'album': 'I Am... Sasha Fierce', 'sales': 10000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+9,Beyoncé,riaaCertifications,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+9,Beyoncé,riaaDiamond,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+9,Beyoncé,riaaLatinDiamond,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+9,Beyoncé,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+9,Beyoncé,riaa100m,103000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+9,Beyoncé,riaaBestSellers,8,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+9,Beyoncé,ifpiBestArtists,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+9,Beyoncé,totalCertifications,103,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+10,Bicep,topAlbumSales,"{'album': 'Isles', 'sales': 50000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+11,Billie Eilish,topAlbumSales,"{'album': 'When We All Fall Asleep, Where Do We Go?', 'sales': 10000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+11,Billie Eilish,riaaCertifications,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+11,Billie Eilish,riaaDiamond,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+11,Billie Eilish,riaaLatinDiamond,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+11,Billie Eilish,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+11,Billie Eilish,riaa100m,55000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+11,Billie Eilish,riaaBestSellers,37,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+11,Billie Eilish,ifpiBestAlbums,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+11,Billie Eilish,ifpiBestArtists,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+11,Billie Eilish,totalCertifications,55,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+12,Björk,topAlbumSales,"{'album': 'Debut', 'sales': 5700000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+12,Björk,riaaCertifications,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+12,Björk,riaj,5,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+12,Björk,totalCertifications,8,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+13,Bob Dylan,topAlbumSales,"{'album': 'Greatest Hits', 'sales': 6000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+13,Bob Dylan,riaaCertifications,16,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+13,Bob Dylan,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+13,Bob Dylan,riaa100m,35000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+13,Bob Dylan,riaaBestSellers,60,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+13,Bob Dylan,totalCertifications,35,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+14,Bonobo,topAlbumSales,"{'album': 'Days to Come', 'sales': 250000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+15,Brian Eno,topAlbumSales,"{'album': 'Ambient 1: Music for Airports', 'sales': 200000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+16,Cardi B,topAlbumSales,"{'album': 'Invasion of Privacy', 'sales': 4300000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+16,Cardi B,riaaCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+16,Cardi B,riaaDiamond,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+16,Cardi B,riaaLatinDiamond,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+16,Cardi B,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+16,Cardi B,ifpiBestArtists,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+16,Cardi B,totalCertifications,58,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+17,Caribou,topAlbumSales,"{'album': 'Swim', 'sales': 175000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+20,Charli XCX,riaaCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+20,Charli XCX,riaaDiamond,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+20,Charli XCX,riaaLatinDiamond,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+20,Charli XCX,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+20,Charli XCX,ifpiBestAlbums,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+20,Charli XCX,totalCertifications,41,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+25,Cigarettes After Sex,topAlbumSales,"{'album': 'Cigarettes After Sex', 'sales': 500000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+25,Cigarettes After Sex,riaaCertifications,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+25,Cigarettes After Sex,totalCertifications,4,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+26,Colin Benders,topAlbumSales,"{'album': 'The Hermit Sessions', 'sales': 75000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+28,Dave Stewart,riaaCertifications,5,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+28,Dave Stewart,riaaGold,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+28,Dave Stewart,totalCertifications,11,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+30,deadmau5,topAlbumSales,"{'album': '4x4=12', 'sales': 700000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+30,deadmau5,riaaCertifications,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+30,deadmau5,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+30,deadmau5,totalCertifications,11,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+32,Ellie Goulding,topAlbumSales,"{'album': 'Halcyon', 'sales': 2000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+32,Ellie Goulding,riaaCertifications,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+32,Ellie Goulding,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+32,Ellie Goulding,totalCertifications,25,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+40,Fred Again..,topAlbumSales,"{'album': 'USB (EP)', 'sales': 2000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+41,Future,topAlbumSales,"{'album': 'High Off Life', 'sales': 2000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+41,Future,riaaCertifications,9,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+41,Future,riaaDiamond,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+41,Future,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+41,Future,riaa100m,53000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+41,Future,totalCertifications,66,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+43,Gorillaz,topAlbumSales,"{'album': 'Demon Days', 'sales': 8000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+43,Gorillaz,riaaCertifications,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+43,Gorillaz,riaaDiamond,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+43,Gorillaz,riaaLatinDiamond,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+43,Gorillaz,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+43,Gorillaz,ifpiBestArtists,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+43,Gorillaz,totalCertifications,33,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+45,Grimes,topAlbumSales,"{'album': 'Art Angels', 'sales': 60000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+47,Halsey,topAlbumSales,"{'album': 'Badlands', 'sales': 500000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+47,Halsey,riaaCertifications,4,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+47,Halsey,riaaDiamond,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+47,Halsey,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+47,Halsey,totalCertifications,78,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+48,Hania Rani,topAlbumSales,"{'album': 'Esja', 'sales': 50000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+53,James Blake,topAlbumSales,"{'album': 'Overgrown', 'sales': 70000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+54,Jamie xx,topAlbumSales,"{'album': 'In Colour', 'sales': 100000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+55,Janelle Monáe,topAlbumSales,"{'album': 'The ArchAndroid', 'sales': 500000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+55,Janelle Monáe,riaaCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+55,Janelle Monáe,riaaGold,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+55,Janelle Monáe,totalCertifications,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+58,Jorja Smith,topAlbumSales,"{'album': 'Lost & Found', 'sales': 210000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+58,Jorja Smith,totalCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+59,Justin Gray,totalCertifications,13,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+66,Kraftwerk,topAlbumSales,"{'album': 'The Man-Machine', 'sales': 1500000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+68,Lana Del Rey,topAlbumSales,"{'album': 'Born to Die', 'sales': 2300000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+68,Lana Del Rey,riaaCertifications,5,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+68,Lana Del Rey,riaaDiamond,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+68,Lana Del Rey,riaaLatinDiamond,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+68,Lana Del Rey,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+68,Lana Del Rey,riaa100m,55000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+68,Lana Del Rey,riaaBestSellers,85,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+68,Lana Del Rey,ifpiBestArtists,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+68,Lana Del Rey,totalCertifications,55,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+75,Mike Oldfield,topAlbumSales,"{'album': 'Tubular Bells', 'sales': 17500000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+75,Mike Oldfield,riaaCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+75,Mike Oldfield,riaaDiamond,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+75,Mike Oldfield,riaaBestSellers,92,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+75,Mike Oldfield,totalCertifications,5,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+76,Miley Cyrus,topAlbumSales,"{'album': 'Bangerz', 'sales': 3500000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+76,Miley Cyrus,riaaCertifications,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+76,Miley Cyrus,riaaDiamond,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+76,Miley Cyrus,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+76,Miley Cyrus,riaa100m,55000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+76,Miley Cyrus,ifpiBestArtists,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+76,Miley Cyrus,totalCertifications,55,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+77,Moby,topAlbumSales,"{'album': 'Play', 'sales': 12000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+77,Moby,riaaCertifications,4,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+77,Moby,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+77,Moby,riaa100m,25000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+77,Moby,riaaBestSellers,95,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+77,Moby,totalCertifications,25,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+78,Moderat,topAlbumSales,"{'album': 'II', 'sales': 75000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+81,Nicolas Jaar,topAlbumSales,"{'album': 'Space Is Only Noise', 'sales': 20000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+83,Nine Inch Nails,topAlbumSales,"{'album': 'The Downward Spiral', 'sales': 4400000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+83,Nine Inch Nails,riaaCertifications,8,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+83,Nine Inch Nails,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+83,Nine Inch Nails,riaa100m,22000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+83,Nine Inch Nails,totalCertifications,26,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+84,Nitin Sawhney,topAlbumSales,"{'album': 'Beyond Skin', 'sales': 160000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+86,Pink Floyd,topAlbumSales,"{'album': 'The Dark Side of the Moon', 'sales': 45000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+86,Pink Floyd,riaaCertifications,19,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+86,Pink Floyd,riaaDiamond,10,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+86,Pink Floyd,riaaLatinDiamond,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+86,Pink Floyd,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+86,Pink Floyd,riaa100m,75000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+86,Pink Floyd,riaaBestSellers,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+86,Pink Floyd,ifpiBestArtists,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+86,Pink Floyd,totalCertifications,75,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+87,Portishead,topAlbumSales,"{'album': 'Dummy', 'sales': 3600000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+87,Portishead,riaaCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+87,Portishead,totalCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+88,Radiohead,topAlbumSales,"{'album': 'OK Computer', 'sales': 7800000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+88,Radiohead,riaaCertifications,8,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+88,Radiohead,riaaDiamond,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+88,Radiohead,riaaLatinDiamond,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+88,Radiohead,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+88,Radiohead,riaa100m,28000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+88,Radiohead,riaaBestSellers,72,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+88,Radiohead,ifpiBestArtists,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+88,Radiohead,totalCertifications,28,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+89,RAYE,topAlbumSales,"{'album': 'My 21st Century Blues', 'sales': 263000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+89,RAYE,totalCertifications,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+91,Robyn,topAlbumSales,"{'album': 'Robyn Is Here', 'sales': 1500000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+91,Robyn,riaaCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+91,Robyn,riaaGold,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+91,Robyn,totalCertifications,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+92,Romy,riaaCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+92,Romy,riaaGold,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+92,Romy,totalCertifications,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+94,Sampha,topAlbumSales,"{'album': 'Process', 'sales': 500000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+94,Sampha,totalCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+96,Skrillex,topAlbumSales,"{'album': 'Scary Monsters and Nice Sprites', 'sales': 2000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+96,Skrillex,riaaCertifications,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+96,Skrillex,riaaDiamond,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+96,Skrillex,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+96,Skrillex,totalCertifications,19,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+98,Steve Miller Band,topAlbumSales,"{'album': 'Greatest Hits 1974-78', 'sales': 15000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+98,Steve Miller Band,riaaCertifications,9,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+98,Steve Miller Band,riaaDiamond,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+98,Steve Miller Band,riaa100m,31000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+98,Steve Miller Band,riaaBestSellers,20,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+98,Steve Miller Band,totalCertifications,31,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+101,Stevie Nicks,topAlbumSales,"{'album': 'Bella Donna', 'sales': 4000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+101,Stevie Nicks,riaaCertifications,8,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+101,Stevie Nicks,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+101,Stevie Nicks,riaa100m,25000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+101,Stevie Nicks,riaaBestSellers,65,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+101,Stevie Nicks,totalCertifications,25,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+102,Suzanne Ciani,topAlbumSales,"{'album': 'Seven Waves', 'sales': 1000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+103,SZA,topAlbumSales,"{'album': 'SOS', 'sales': 5000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+103,SZA,riaaCertifications,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+103,SZA,riaaDiamond,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+103,SZA,riaaLatinDiamond,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+103,SZA,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+103,SZA,riaa100m,120500000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+103,SZA,ifpiBestAlbums,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+103,SZA,ifpiBestArtists,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+103,SZA,totalCertifications,120,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+104,Talking Heads,topAlbumSales,"{'album': 'Stop Making Sense', 'sales': 3000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+104,Talking Heads,riaaCertifications,8,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+104,Talking Heads,totalCertifications,8,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+106,Tash Sultana,topAlbumSales,"{'album': 'Flow State', 'sales': 50000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+106,Tash Sultana,totalCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+107,Taylor Swift,topAlbumSales,"{'album': '1989', 'sales': 14000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+107,Taylor Swift,riaaCertifications,13,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+107,Taylor Swift,riaaDiamond,10,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+107,Taylor Swift,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+107,Taylor Swift,riaa100m,150000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+107,Taylor Swift,riaaBestSellers,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+107,Taylor Swift,ifpiBestAlbums,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+107,Taylor Swift,ifpiBestArtists,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+107,Taylor Swift,totalCertifications,150,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+108,Thom Yorke,topAlbumSales,"{'album': 'The Eraser', 'sales': 400000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,2,verified
+111,Tove Lo,topAlbumSales,"{'album': 'Queen of the Clouds', 'sales': 1000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+111,Tove Lo,riaaCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+111,Tove Lo,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+111,Tove Lo,totalCertifications,15,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+112,Travis Scott,topAlbumSales,"{'album': 'Astroworld', 'sales': 6000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+112,Travis Scott,riaaCertifications,5,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+112,Travis Scott,riaaDiamond,3,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+112,Travis Scott,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+112,Travis Scott,riaa100m,45000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+112,Travis Scott,ifpiBestArtists,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+112,Travis Scott,totalCertifications,45,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+114,The Weeknd,topAlbumSales,"{'album': 'Starboy', 'sales': 12000000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+114,The Weeknd,riaaCertifications,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+114,The Weeknd,riaaDiamond,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+114,The Weeknd,riaaLatinDiamond,6,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+114,The Weeknd,riaaGold,7,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+114,The Weeknd,riaa100m,100000000,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+114,The Weeknd,ifpiBestArtists,2,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+114,The Weeknd,totalCertifications,100,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,5,verified
+116,The xx,topAlbumSales,"{'album': 'xx', 'sales': 1930000}",RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+116,The xx,riaaCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified
+116,The xx,totalCertifications,1,RIAA / IFPI / ChartMasters / Wikipedia,https://www.riaa.com/gold-platinum/,2026-05-12,4,verified

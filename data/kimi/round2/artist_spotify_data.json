@@ -1,0 +1,198 @@
+[
+  {
+    "id": 40,
+    "artist": "Fred Again..",
+    "totalCatalogStreams": 5000000000,
+    "topTrackName": "Marea (we've lost dancing)",
+    "topTrackStreams": 513866496,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "ChartMasters",
+        "url": "https://chartmasters.org/fred-again-streaming-statistics-spotify-top-songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Fred Again hits 5 billion all-credits Spotify streams on 19 Jan 2025. Lead streams 4B+ noted on 28 Dec 2024."
+      },
+      {
+        "name": "Kworb",
+        "url": "https://kworb.net/spotify/artist/4oLeXFyACqeem2VImYeBFe_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Marea (we've lost dancing) = 513,866,496 streams. Noted as Fred again..'s #1 most popular track."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "artist": "Future",
+    "totalCatalogStreams": 29900000000,
+    "topTrackName": "Mask Off",
+    "topTrackStreams": 2064563104,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "ChartMasters",
+        "url": "https://chartmasters.org/future-streaming-statistics-spotify-top-songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Future's Spotify lead streams 29.9B. All-credits streams 53B. Mask Off hit 2B streams on 2026-01-18."
+      },
+      {
+        "name": "Kworb",
+        "url": "https://kworb.net/spotify/artist/1RyvyyTE3xzB2ZywiAwp0i_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Mask Off: 2,064,563,104 streams. Total artist streams 28,642,552,487."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "artist": "Gold Panda",
+    "totalCatalogStreams": 155000000,
+    "topTrackName": "You",
+    "topTrackStreams": 27454659,
+    "confidence": 3,
+    "sources": [
+      {
+        "name": "Songstats",
+        "url": "https://songstats.com/artist/mowf7hst/gold-panda",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 155M. 130K monthly listeners on Spotify, 191K followers."
+      },
+      {
+        "name": "Spotify",
+        "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "You: 27,454,659 streams. In My Car: 10,405,828 streams. Plain Sailing: 909,843 streams."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "artist": "Gorillaz",
+    "totalCatalogStreams": 13601399094,
+    "topTrackName": "Feel Good Inc.",
+    "topTrackStreams": 2372357350,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "ChartMasters",
+        "url": "https://chartmasters.org/gorillaz-streaming-statistics-spotify-top-songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Gorillaz total lead streams: 13,601,399,094. Most streamed track: Feel Good Inc. with 2,372,357,350 streams."
+      },
+      {
+        "name": "Kworb",
+        "url": "https://kworb.net/spotify/artist/3AA28KZvwAUcZuOKwyblJQ_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Feel Good Inc. 2,372,357,350 streams. Gorillaz #1 most popular track."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "artist": "Grandbrothers",
+    "totalCatalogStreams": 116668831,
+    "topTrackName": "Bloodflow",
+    "topTrackStreams": 32629454,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb",
+        "url": "https://kworb.net/spotify/artist/7zMkJfRXBs73MPRNfGmWlP_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Grandbrothers total streams: 116,668,831. Bloodflow: 32,629,454 streams - top track."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "artist": "Grimes",
+    "totalCatalogStreams": 2683243528,
+    "topTrackName": "Genesis",
+    "topTrackStreams": 510684493,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb",
+        "url": "https://kworb.net/spotify/artist/053q0ukzzzgzHQUR9K4J2Q_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Grimes total streams: 2,683,243,528. Top track: Genesis with 510,684,493 streams. Oblivion: 502,226,325 streams."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "artist": "Halina Rice",
+    "totalCatalogStreams": 3160000,
+    "topTrackName": "TERRAIN",
+    "topTrackStreams": null,
+    "confidence": 3,
+    "sources": [
+      {
+        "name": "Songstats",
+        "url": "https://songstats.com/artist/sbxyt6k5/halina-rice",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 3.16M. 58.2K followers. Top performing track: TERRAIN at 37% popularity."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "artist": "Hania Rani",
+    "totalCatalogStreams": 227713119,
+    "topTrackName": "Dreamy",
+    "topTrackStreams": 22990591,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb",
+        "url": "https://kworb.net/spotify/artist/14YzutUdMwS9yTnI0IFBaD_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Hania Rani total streams: 227,713,119. Dreamy: 22,990,591 streams - top track. Eden: 18,158,858."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "artist": "Holly Herndon",
+    "totalCatalogStreams": 8000000,
+    "topTrackName": "Frontier",
+    "topTrackStreams": 1748610,
+    "confidence": 2,
+    "sources": [
+      {
+        "name": "Spotify",
+        "url": "https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Frontier: 1,748,610 streams. Monthly listeners: 9,500-10,400. Total catalog estimated from top track and track count (~30 tracks across 3 albums)."
+      },
+      {
+        "name": "Research Paper (University of Groningen)",
+        "url": "https://research.rug.nl/files/693764953/Chapter_7.pdf",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "On Herndon's Spotify profile, tracks Frontier and Eternal standing out with over 1,000,000 plays each (2019 data)."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "artist": "James Blake",
+    "totalCatalogStreams": 3266300000,
+    "topTrackName": "Retrograde",
+    "topTrackStreams": 222345647,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Kworb",
+        "url": "https://kworb.net/spotify/artist/4k5fFEYgkWYrzY7OnwzkWc_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "James Blake total streams: 3,266.3M (3,266,300,000). Top track: Retrograde with 222,345,647 streams."
+      },
+      {
+        "name": "TooXclusive",
+        "url": "https://tooxclusive.com/james-blake-total-spotify-streams/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "James Blake estimated total Spotify streams: 3.27B. Kings Dead (with Jay Rock, Kendrick Lamar, Future): 679,250,196."
+      }
+    ]
+  }
+]

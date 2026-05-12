@@ -1,0 +1,288 @@
+[
+  {
+    "id": 51,
+    "artist": "Ian Dearden",
+    "livePerformanceFrequency": "none",
+    "touringPackageDescription": "Ian Dearden is a sound designer and co-founder of Sound Intermedia, not a live performing artist. He creates sound designs for opera, theatre, and installations, including works for the Royal Opera House, English National Opera, and Edinburgh International Festival. His work is experienced through the productions he designs for, not through personal live performances or tours.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Irish National Opera",
+        "sourceUrl": "https://www.irishnationalopera.ie/about/artistic-partners/artists/ian-dearden",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Ian Dearden's recent sound designs for opera include Monteverdi's Orfeo and The Return of Ulysses (Royal Opera House). He formed Sound Intermedia with David Sheppard in 1996.",
+        "notes": "Dearden is a sound designer for opera and theatre, not a live performing musician."
+      },
+      {
+        "sourceName": "d&b Soundscape at Edinburgh International Festival",
+        "sourceUrl": "https://www.dbaudio.com/global/en/applications/touring-and-festivals/the-show-goes-on-with-a-soundscape-enabled-virtual-acoustic-shell-at-edinburgh-international-festival/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "'A PA often brings an element of anxiety to classical musicians,' says founder Ian Dearden. Sound Intermedia provides sound design for classical music festivals and productions.",
+        "notes": "Dearden works behind the scenes as a sound design consultant for festivals and venues."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "artist": "Igor Levit",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Igor Levit performs as a solo classical pianist in recital at major concert halls worldwide. His 2025/26 season includes performances at Elbphilharmonie Hamburg, Carnegie Hall, Theatre des Champs-Elysees Paris, and with orchestras including the Vienna Philharmonic and Los Angeles Philharmonic. His programs often feature substantial works such as Beethoven's Diabelli Variations and Rzewski's The People United Will Never Be Defeated, presented as marathon recitals of intense intellectual and emotional depth.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Shriver Concerts",
+        "sourceUrl": "https://www.shriverconcerts.org/levit",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "In the 2025/26 season Igor Levit performs in recital at the Elbphilharmonie Hamburg, La Fenice Venice, Theatre des Champs-Elysees Paris, Palau de la Musica Barcelona as well as in Luxembourg, Milano and Tokyo among others.",
+        "notes": "Extensive 2025/26 touring schedule across major world venues."
+      },
+      {
+        "sourceName": "Washington Classical Review",
+        "sourceUrl": "https://washingtonclassicalreview.com/2026/01/12/political-piano-levit-speaks-out-through-rzewski-and-beethoven/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Levit performed a marathon recital featuring Beethoven's Diabelli Variations and Rzewski's The People United Will Never Be Defeated at Sixth and I for Washington Performing Arts.",
+        "notes": "Live performance review showing regular concert activity in 2026."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "artist": "James Blake",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "James Blake performs as a live electronic artist and singer-songwriter, blending solo production with live instrumentation. His shows feature him mixing and remixing tracks on stage with keyboards, piano, and electronic equipment, delivering intimate yet powerful performances. His 2026 'Trying Times' tour includes dates across North America and Europe at venues ranging from clubs to theatres, building on extensive 2025 festival appearances at Fuji Rock, Montreux Jazz, and OFF Festival.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Concertfix",
+        "sourceUrl": "https://concertfix.com/tours/james-blake",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "James Blake announces 'Trying Times' tour. The 10-date tour takes place in May/June 2026 making limited stops in Atlanta, Brooklyn, Boston, Washington DC, Philadelphia, Toronto, Chicago, Berkeley and Los Angeles.",
+        "notes": "Active 2026 tour with multiple North American dates."
+      },
+      {
+        "sourceName": "James Blake Official Website",
+        "sourceUrl": "https://jamesblakemusic.com/tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Tour dates listed include May-June 2026 North American tour and October 2026 European dates in London, Utrecht, Brussels, Berlin and Cologne.",
+        "notes": "Official tour page confirms extensive 2026 touring."
+      },
+      {
+        "sourceName": "Evening Standard Review",
+        "sourceUrl": "https://www.standard.co.uk/culture/music/james-blake-union-chapel-review-b1276367.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Blake remixing his songs live on stage, getting the beat wrong on the kick drum (and pausing to laugh), and spinning out the intros to various tracks into experimental, fascinatingly varied segues.",
+        "notes": "Live review showing improvisational, live-produced electronic performance style."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "artist": "Jamie xx",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Jamie xx performs as a solo electronic artist, delivering DJ and live electronic sets that span UK garage, jungle, house, and his own material. His shows are dancefloor-focused experiences featuring vinyl mixing and improvisational track selection. In 2026, he is undertaking an unprecedented 30+ show residency at Madison Square Garden with Harry Styles, following his extensive 2024-2025 'In Waves' international tour that covered North and South America, Europe, Asia, and Australia.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Jamie xx Official Website",
+        "sourceUrl": "https://www.jamiexx.com/tour",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "26th August: Jamie xx w/ Harry Styles - Madison Square Garden. New York, New York. Multiple dates through October 31, 2026.",
+        "notes": "Massive 2026 MSG residency - 30+ shows scheduled."
+      },
+      {
+        "sourceName": "Pitchfork",
+        "sourceUrl": "https://pitchfork.com/news/jamie-xx-announces-huge-international-tour/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jamie xx has announced a huge, intercontinental run of shows behind In Waves that will take him through to March 2025. The run includes North and South America, Europe, Asia, and Australia.",
+        "notes": "Recent extensive international touring history."
+      },
+      {
+        "sourceName": "KALX Concert Review",
+        "sourceUrl": "https://kalx.berkeley.edu/concert-review-jaime-xx-at-cow-palace/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jamie took the stage with some vinyl records. He improvises in his sets. From fast-paced jungle and UK garage to hip-hop, soul, funk, reggae, and disco, Jamie earned the crowd's trust.",
+        "notes": "Live review confirms vinyl DJ-style performance with improvisation."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "artist": "Janelle Monáe",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Janelle Monáe delivers theatrical, high-energy live shows blending funk, soul, R&B, and pop with elaborate choreography, costume changes, and visual storytelling. She performs with a full live band and backup dancers, creating an immersive concert experience drawn from her Afrofuturistic concept albums. Her 2025 schedule included major festival appearances at Newport Jazz Festival, Bumbershoot, and Wonderfront, plus co-headlining shows with Grace Jones, with select 2026 dates continuing.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Janelle Monáe Official Website",
+        "sourceUrl": "https://www.jmonae.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Tour dates listed: Jun 4, 2026 - Downtown First Thursdays, San Francisco. Jun 17, 2026 - North To Shore Festival, Newark, NJ.",
+        "notes": "Has scheduled 2026 live dates."
+      },
+      {
+        "sourceName": "Concert Archives",
+        "sourceUrl": "https://www.concertarchives.org/bands/janelle-monae--2",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "2025 concerts include: Newport Jazz Festival, Bumbershoot, Wonderfront Music & Arts Festival, Ravinia Festival, co-headline with Grace Jones at The Anthem and Prospect Park.",
+        "notes": "Extensive 2025 festival and concert activity."
+      },
+      {
+        "sourceName": "SoulCulture Live Review",
+        "sourceUrl": "https://soulculture.com/live-review-janelle-monae-cargo-london/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monae's show was 45 minutes of dramatic, beautiful lunacy. From her eccentric movements across the stage with her startling facial expressions, to waving a big paintbrush smothered with dripping red paint at the audience.",
+        "notes": "Review confirms theatrical, visually elaborate live show with band."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "artist": "Jennifer Walshe",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Jennifer Walshe performs as a contemporary classical composer, vocalist, and experimental performance artist. Her live shows are interdisciplinary theatrical events combining extended vocal techniques, electronic music, AI-generated content, video, and installation elements. Her 2026 includes performances of 'The Alonetimes' at Fondation Cartier Paris and Musica Festival Strasbourg, plus ensemble performances of her works. She performs at contemporary music festivals and art venues rather than traditional concert tours.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Philip Venables",
+        "sourceUrl": "https://philipvenables.com/2025/10/30/the-alonetimes-with-jennifer-walshe-and-fondation-cartier/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The Alonetimes is a staged piece premiering at Fondation Cartier Paris on April 16-18, 2026, then touring to Strasbourg in September 2026 as part of Musica Festival.",
+        "notes": "Specific 2026 touring theatrical performance confirmed."
+      },
+      {
+        "sourceName": "Ensemble Nikel",
+        "sourceUrl": "https://evs-musikstiftung.ch/en/funding-project/concert-tour-what-is-now/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Ensemble Nikel 20th anniversary concert tour includes pieces by Jennifer Walshe at venues in Switzerland, France, Great Britain, and Portugal in 2026.",
+        "notes": "Her compositions being performed on tour by ensembles in 2026."
+      },
+      {
+        "sourceName": "I Care If You Listen",
+        "sourceUrl": "https://icareifyoulisten.com/2023/12/jennifer-walshe-chaos-whimsy-nostalgia-hcmf-2023/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jennifer Walshe's residency at hcmf// 2023 featured performances of Ireland: A Dataset with experimental vocal ensemble Tonnta, saxophonist Nick Roth, and an improvised set with Matmos.",
+        "notes": "Live performances involve collaborations, extended vocal techniques, and multimedia."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "artist": "Jon Hopkins",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Jon Hopkins performs live electronic music that alternates between ambient piano compositions and dancefloor-oriented techno. His shows blend live keyboard and piano performance with electronic production and immersive visuals. While he has no major 2026 tour, he played festivals including Beyond The Pale and Polygon Live in 2025 and has select 2026 London dates. His live shows are known for shifting between contemplative, seated listening and high-energy rave moments.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Jon Hopkins Official Website",
+        "sourceUrl": "https://jonhopkins.co.uk/shows",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Shows listed: 20/06/2026 London, UK (Southbank Centre) and 23/11/2026 Dublin, IE.",
+        "notes": "Limited 2026 dates, only a couple of shows scheduled."
+      },
+      {
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/298044-jon-hopkins",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Unfortunately there are no concert dates for Jon Hopkins scheduled in 2025.",
+        "notes": "No major tour currently scheduled; occasional festival appearances."
+      },
+      {
+        "sourceName": "Ticketmaster Review",
+        "sourceUrl": "https://discover.ticketmaster.co.uk/review/live-review-jon-hopkins-at-royal-albert-hall-30-08-2023-59095/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Spiritual epics, regal reimaginings and sonic sound baths comes to Prom 58 as Jon Hopkins makes history. The BBC Singers, BBC Symphony Chorus, and BBC Symphony Orchestra were conducted masterfully by Jules Buckley.",
+        "notes": "Live shows range from solo electronic to full orchestral collaborations."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "artist": "Jorja Smith",
+    "livePerformanceFrequency": "regularly",
+    "touringPackageDescription": "Jorja Smith performs soulful R&B and neo-soul live with a full band, typically featuring 6-8 musicians including backup singers and percussionists. Her concerts blend intimate ballads with danceable Afrobeats and UK garage collaborations, showcasing her powerful vocals and emotive songwriting. Following her 2025 'falling or flying' North American tour, she has 2026 festival dates at BBC Radio 1's Big Weekend and All Points East, plus ongoing international festival appearances.",
+    "confidence": 5,
+    "evidence": [
+      {
+        "sourceName": "Songkick",
+        "sourceUrl": "https://www.songkick.com/artists/8715239-jorja-smith/calendar",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jorja Smith is currently touring across 12 countries and has 20 upcoming concerts. Their next tour date is at Herrington Country Park in Sunderland for BBC Radio 1's Big Weekend 2026.",
+        "notes": "Active touring in 2026 across multiple countries."
+      },
+      {
+        "sourceName": "Parklife DC Review",
+        "sourceUrl": "https://parklifedc.com/2025/03/17/live-review-jorja-smith-the-anthem-3-13-25/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Backed by an eight-piece band, including three back up singers and two percussionists, Jorja's songs sounded even richer. She channels the emotional depth and commanding intensity of legendary vocalists like Amy Winehouse and Sade.",
+        "notes": "Live review confirms full band setup with backup singers and percussion."
+      },
+      {
+        "sourceName": "Setlist.fm",
+        "sourceUrl": "https://www.setlist.fm/setlists/jorja-smith-bc54502.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Jorja Smith falling or flying Tour 2025 setlists include Try Me, Blue Lights, Addicted, Feelings, Where Did I Go?, falling or flying, The One, Come Over, Be Honest, On My Mind, Teenage Fantasy.",
+        "notes": "Documented 2025 tour with full setlists."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "artist": "Justin Gray",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Justin Gray performs as a bassist and bandleader with his ensemble Justin Gray & Synthesis, blending Indian classical, jazz, R&B, and electronic music. He plays a custom multi-stringed instrument called the bass veena. His live shows are intimate chamber music performances in small venues and churches, not large-scale tours. He is primarily a recording artist, producer, and engineer, with select live performances around the Toronto area.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Caledon Chamber Concerts",
+        "sourceUrl": "https://caledonchamberconcerts.com/event/justin-gray-synthesis/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Justin Gray & Synthesis performed on March 21, 2026 at St. James Church. Known for blending Indian classical, jazz, R&B and electronic music, anchored by Justin's unique bass veena.",
+        "notes": "Small chamber concert in local venue, not a touring show."
+      },
+      {
+        "sourceName": "Mixonline",
+        "sourceUrl": "https://www.mixonline.com/recording/music-production/grammy-winner-justin-gray-immersed-from-the-beginning",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Justin Gray is a musician, producer, engineer and mixer. He became the first Canadian to win a Grammy Award in the Best Immersive Audio Album category. He started out as a musician and plays bass and percussion.",
+        "notes": "Primarily a recording artist and producer; live performances are secondary."
+      },
+      {
+        "sourceName": "Just Sayin' Caledon",
+        "sourceUrl": "https://justsayincaledon.com/caledon-chamber-concerts-present-grammy-award-winner-justin-gray/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Justin Gray & Synthesis is known for blending Indian classical, jazz, R&B and electronic music, anchored by Justin's unique bass veena, a custom multi-stringed instrument.",
+        "notes": "Ensemble performs chamber music concerts in small venues."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "artist": "Kaitlyn Aurelia Smith",
+    "livePerformanceFrequency": "occasionally",
+    "touringPackageDescription": "Kaitlyn Aurelia Smith performs immersive electronic music using modular synthesizers, blending synthesized textures with orchestral elements. Her live shows are intimate, contemplative experiences featuring her signature Buchla modular synth work, sometimes expanded with woodwinds, strings, and vocal layers. Her 2026 dates include a Barbican performance with the London Contemporary Orchestra and a Brooklyn show at Elsewhere, following her 2025 European tour.",
+    "confidence": 4,
+    "evidence": [
+      {
+        "sourceName": "Kaitlyn Aurelia Smith Official Website",
+        "sourceUrl": "https://kaitlynaureliasmith.com/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "May 27, 2026 - Kaitlyn Aurelia Smith w/ London Contemporary Orchestra at Barbican, London. April 3, 2026 - Brooklyn, NY at Elsewhere.",
+        "notes": "Limited 2026 dates including a major orchestral collaboration."
+      },
+      {
+        "sourceName": "FEMUSIC",
+        "sourceUrl": "https://femmusic.com/2025/12/19/kaitlyn-aurelia-smith-thoughts-on-the-future-2/",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Kaitlyn Aurelia Smith 2026 Tour Dates: Apr 03 - Brooklyn, NY @ Elsewhere. May 27 - London, UK @ The Barbican. New album 'Thoughts on the Future' blends minimalist piano, textural electronics, and chamber motifs.",
+        "notes": "Only 2 confirmed tour dates for 2026."
+      },
+      {
+        "sourceName": "Bandsintown",
+        "sourceUrl": "https://www.bandsintown.com/a/5152291-kaitlyn-aurelia-smith",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Kaitlyn Aurelia Smith has 2 upcoming shows. She transforms synth-driven soundscapes into immersive, otherworldly experiences. Known for her ability to weave organic textures with futuristic electronic elements.",
+        "notes": "Limited upcoming shows; performs immersive electronic sets."
+      }
+    ]
+  }
+]

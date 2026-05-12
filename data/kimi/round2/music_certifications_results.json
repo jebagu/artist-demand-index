@@ -1,0 +1,391 @@
+[
+  {
+    "id": 94,
+    "artist": "Sampha",
+    "data": {
+      "topAlbumSales": {
+        "album": "Process",
+        "sales": 500000
+      },
+      "riaaCertifications": [],
+      "ifpiBestAlbums": [],
+      "ifpiBestArtists": [],
+      "totalCertifications": 0
+    },
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Wikipedia - Process (Sampha album)",
+        "url": "https://en.wikipedia.org/wiki/Process_(Sampha_album)",
+        "snippet": "Process certified Silver by BPI (60,000 units). Globally sold over 500,000 copies as of 2023. No RIAA certification."
+      },
+      {
+        "name": "Music Week - Sampha Lahai",
+        "url": "https://www.musicweek.com/talent/read/people-just-gravitated-towards-my-voice-inside-young-s-sampha-phenomenon/088707",
+        "snippet": "Process ended up selling half a million copies worldwide. Process has 73,567 UK sales to date."
+      },
+      {
+        "name": "Chart data - US pure album sales",
+        "url": "https://x.com/chartdata/status/1030879500085551105",
+        "snippet": "US pure album sales: Sampha, Process 20,900 (total)."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "data": {},
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Guggenheim - Samson Young",
+        "url": "https://www.guggenheim.org/artwork/artist/samson-young",
+        "snippet": "Sound artist. Recipient of BMW Art Journey Award, Prix Ars Electronica, Uli Sigg Prize. No music sales certifications."
+      },
+      {
+        "name": "Petal - Samson Young",
+        "url": "https://www.petzel.com/artists/samson-young",
+        "snippet": "Multi-disciplinary artist working in sound, performance, video, and installation. No commercial music certifications."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "artist": "Sofia Kourtesis",
+    "data": {
+      "topAlbumSales": {
+        "album": "Madres",
+        "sales": 0
+      },
+      "totalCertifications": 0
+    },
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Wikipedia - Madres (album)",
+        "url": "https://en.wikipedia.org/wiki/Madres_(album)",
+        "snippet": "Debut album released October 27, 2023 through Ninja Tune. No certifications found."
+      },
+      {
+        "name": "Ninja Tune - Madres",
+        "url": "https://sofiakourtesis.bandcamp.com/album/madres-2",
+        "snippet": "Debut album on independent label. No RIAA or other certifications found."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "artist": "Steve Reich",
+    "data": {
+      "totalCertifications": 0
+    },
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Wikipedia - Steve Reich",
+        "url": "https://en.wikipedia.org/wiki/Steve_Reich",
+        "snippet": "America's greatest living composer. Won two Grammy Awards and Pulitzer Prize. No RIAA certifications - minimalist/classical composer."
+      },
+      {
+        "name": "Concord - Steve Reich",
+        "url": "https://concord.com/publishing-roster/steve-reich/",
+        "snippet": "Music for 18 Musicians and Different Trains earned two Grammy Awards. No RIAA certifications."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "artist": "Steven Wilson",
+    "data": {
+      "topAlbumSales": {
+        "album": "Hand. Cannot. Erase.",
+        "sales": 100000
+      },
+      "riaaCertifications": [],
+      "ifpiBestAlbums": [],
+      "ifpiBestArtists": [],
+      "totalCertifications": 0
+    },
+    "confidence": 3,
+    "sources": [
+      {
+        "name": "Wikipedia - Hand. Cannot. Erase.",
+        "url": "https://en.wikipedia.org/wiki/Hand._Cannot._Erase.",
+        "snippet": "Fourth solo studio album. UK Rock Albums chart #1. No RIAA certification. UK Gold certification (100,000 units) per forum sources."
+      },
+      {
+        "name": "Louder Sound - Steven Wilson",
+        "url": "https://www.loudersound.com/features/the-story-of-steven-wilsons-hand-cannot-erase",
+        "snippet": "Wilson's solo albums got certified Gold in UK (100,000 copies). Not RIAA certified."
+      },
+      {
+        "name": "BestSellingAlbums.org - Steven Wilson",
+        "url": "https://bestsellingalbums.org/artist/18294",
+        "snippet": "No reliable sales data available in database."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "artist": "Suzanne Ciani",
+    "data": {
+      "topAlbumSales": {
+        "album": "Seven Waves",
+        "sales": 1000000
+      },
+      "riaaCertifications": [],
+      "totalCertifications": 0
+    },
+    "confidence": 3,
+    "sources": [
+      {
+        "name": "Sound on Sound - Suzanne Ciani",
+        "url": "https://www.soundonsound.com/people/suzanne-ciani-riding-independent-wave",
+        "snippet": "Despite topping over one million worldwide album sales with an established record label. Private Music sold more than a million copies of her albums."
+      },
+      {
+        "name": "Seventh Wave - Seven Waves",
+        "url": "https://www.sevwave.com/product-page/seven-waves-cd",
+        "snippet": "Seven Waves released 1982. No RIAA certifications found."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "artist": "SZA",
+    "data": {
+      "topAlbumSales": {
+        "album": "SOS",
+        "sales": 8000000
+      },
+      "riaaCertifications": [
+        {
+          "album": "Ctrl",
+          "level": "3x Platinum",
+          "date": "February 13, 2026",
+          "units": 3000000
+        },
+        {
+          "album": "SOS",
+          "level": "8x Platinum",
+          "date": "August 28, 2025",
+          "units": 8000000
+        }
+      ],
+      "riaaDiamond": [
+        {
+          "track": "Kill Bill",
+          "level": "Diamond",
+          "date": "March 13, 2026",
+          "units": 10000000
+        },
+        {
+          "track": "Snooze",
+          "level": "Diamond",
+          "date": "March 13, 2026",
+          "units": 10000000
+        }
+      ],
+      "riaaMultiPlatinum": [
+        {
+          "track": "Snooze",
+          "level": "11x Platinum",
+          "date": "March 13, 2026"
+        },
+        {
+          "track": "Love Galore (feat. Travis Scott)",
+          "level": "9x Platinum",
+          "date": "March 13, 2026"
+        },
+        {
+          "track": "Good Days",
+          "level": "9x Platinum",
+          "date": "March 13, 2026"
+        },
+        {
+          "track": "Broken Clocks",
+          "level": "8x Platinum",
+          "date": "March 13, 2026"
+        },
+        {
+          "track": "The Weekend",
+          "level": "5x Platinum",
+          "date": "February 8, 2025"
+        },
+        {
+          "track": "Nobody Gets Me",
+          "level": "4x Platinum",
+          "date": "March 13, 2026"
+        },
+        {
+          "track": "Saturn",
+          "level": "4x Platinum",
+          "date": "March 13, 2026"
+        },
+        {
+          "track": "Shirt",
+          "level": "4x Platinum",
+          "date": "March 13, 2026"
+        }
+      ],
+      "riaa100m": 120500000,
+      "ifpiBestAlbums": [
+        {
+          "year": 2023,
+          "album": "SOS",
+          "rank": 7
+        },
+        {
+          "year": 2024,
+          "album": "SOS",
+          "rank": 5
+        }
+      ],
+      "ifpiBestArtists": [
+        {
+          "year": 2023,
+          "rank": 13
+        },
+        {
+          "year": 2024,
+          "rank": 19
+        },
+        {
+          "year": 2025,
+          "rank": 19
+        }
+      ],
+      "ifpiBestSingles": [
+        {
+          "year": 2025,
+          "track": "luther (with Kendrick Lamar)",
+          "rank": 8,
+          "units": "1.18bn"
+        }
+      ],
+      "totalCertifications": 60
+    },
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "RIAA - SZA Certifications",
+        "url": "https://www.riaa.com/gold-platinum/?tab_active=default-award&se=sza",
+        "snippet": "Ctrl 3x Platinum (Feb 2026), SOS 8x Platinum (Aug 2025). Kill Bill and Snooze Diamond certified March 13, 2026. Over 60 total certifications."
+      },
+      {
+        "name": "Billboard - SZA Diamond Certifications",
+        "url": "https://www.billboard.com/music/rb-hip-hop/sza-first-riaa-diamond-certifications-kill-bill-snooze-1236201568/",
+        "snippet": "SZA earned first two RIAA Diamond certifications for Kill Bill and Snooze. 27 additional certifications. Total RIAA certification count over 60."
+      },
+      {
+        "name": "RTTNews - SZA 100 Million Singles",
+        "url": "https://www.rttnews.com/3632723/sza-earns-first-riaa-diamond-certifications-for-kill-bill-and-snooze.aspx",
+        "snippet": "SZA becomes third Black female artist to surpass 100 million singles sold (120.5 million cumulative)."
+      },
+      {
+        "name": "ThatGrapeJuice - SZA Singles Sales",
+        "url": "https://thatgrapejuice.net/2026/03/riaa-szas-snooze-kill-bill-certified-diamond-joining-her-with-beyonce-rihanna-as-the-only-black-women-with-over-100-million-singles-sold-in-usa/",
+        "snippet": "Cumulative single sales of 120.5 million. 22 songs certified platinum, 5 gold in March 2026 batch."
+      },
+      {
+        "name": "IFPI Global Charts",
+        "url": "https://www.ifpi.org/our-industry/global-charts/",
+        "snippet": "SZA ranked #13 in 2023, #19 in 2024 and 2025 Global Artist Charts. SOS ranked #7 Global Album 2023, #5 Global Album 2024."
+      },
+      {
+        "name": "IFPI - SOS Global Streaming Album 2023",
+        "url": "https://www.ifpi.org/taylor-swift-seventeen-and-morgan-wallen-top-ifpi-global-album-charts/",
+        "snippet": "SOS was #2 on IFPI Global Streaming Album Chart 2023, #7 on Global Album Chart 2023."
+      },
+      {
+        "name": "IFPI - Luther Global Single 2025",
+        "url": "https://www.ifpi.org/rose-and-bruno-mars-apt-crowned-ifpis-biggest-selling-global-single-of-the-year-2025/",
+        "snippet": "Kendrick Lamar, SZA 'luther' ranked #8 on IFPI Global Single Chart 2025 with 1.18bn units."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "artist": "Tarik Barri",
+    "data": {},
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Wikipedia - Tarik Barri",
+        "url": "https://en.wikipedia.org/wiki/Tarik_Barri",
+        "snippet": "Dutch audiovisual composer based in Berlin. Creates visual music - collaborates with Thom Yorke, Nicolas Jaar. No music sales certifications."
+      },
+      {
+        "name": "Gray Area - Tarik Barri",
+        "url": "https://grayarea.org/community-entry/tarik-barri/",
+        "snippet": "Audiovisual composer and software developer. Performs live visuals - not a recording artist with certifications."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "artist": "Tash Sultana",
+    "data": {
+      "topAlbumSales": {
+        "album": "Flow State",
+        "sales": 500000
+      },
+      "totalCertifications": 3
+    },
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "SRO PR - Tash Sultana",
+        "url": "https://sropr.com/press-releases/tash-sultana-generates-over-1-billion-streams-overall-critical-praise-for-terra-firma-album/",
+        "snippet": "Jungle and Notion are ARIA accredited 2x Platinum. Mystik, Murder to the Mind and NOTION EP ARIA accredited Gold. Flow State won ARIA for Blues and Roots Album."
+      },
+      {
+        "name": "Wikipedia - Flow State",
+        "url": "https://en.wikipedia.org/wiki/Flow_State",
+        "snippet": "Flow State won ARIA Award for Best Blues and Roots Album 2018. Debuted at #2 on ARIA charts."
+      },
+      {
+        "name": "Reggae Rise Up - Tash Sultana",
+        "url": "https://reggaeriseup.com/artist/tash-sultana/",
+        "snippet": "Debut album Flow State spawned Platinum singles (Mystik) and Gold-certified tracks (Murder to the Mind, Salvation, Free Mind, Cigarettes)."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "artist": "Thom Yorke",
+    "data": {
+      "topAlbumSales": {
+        "album": "The Eraser",
+        "sales": 400000
+      },
+      "riaaCertifications": [],
+      "ifpiBestAlbums": [],
+      "ifpiBestArtists": [],
+      "totalCertifications": 0
+    },
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Wikipedia - The Eraser",
+        "url": "https://en.wikipedia.org/wiki/The_Eraser",
+        "snippet": "Debuted at #3 UK, #2 US Billboard 200 (90,000 first week). UK Gold certified. No RIAA certification."
+      },
+      {
+        "name": "BestSellingAlbums.org - The Eraser",
+        "url": "https://bestsellingalbums.org/album/48030",
+        "snippet": "The Eraser sold 400,000 copies in 48 countries. UK Gold (100,000), Japan Gold (100,000), Canada Gold (50,000)."
+      },
+      {
+        "name": "Wikipedia - Anima (Thom Yorke album)",
+        "url": "https://en.wikipedia.org/wiki/Anima_(Thom_Yorke_album)",
+        "snippet": "Anima reached #5 UK Albums Chart, #1 Billboard Dance/Electronic Albums (10,000 units)."
+      },
+      {
+        "name": "Wikipedia - Tomorrow's Modern Boxes",
+        "url": "https://en.wikipedia.org/wiki/Tomorrow%27s_Modern_Boxes",
+        "snippet": "Released via BitTorrent. 4.4 million downloads by end of 2014. $6 per download bundle."
+      }
+    ]
+  }
+]

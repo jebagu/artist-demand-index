@@ -19,33 +19,35 @@ export function OnlineFootprintSection({ artists, summary, onSelect }: OnlineFoo
       </div>
       <div className="grid gap-6 xl:grid-cols-2">
         <Leaderboard
-          title="Streaming Leaderboard"
-          description="This ranks artists by Spotify monthly listeners from the Streaming Detail workbook tab. Monthly listeners are a current platform footprint signal, not lifetime catalog consumption. Missing listener values are excluded rather than plotted as zero."
+          title="Top Streaming Footprint"
+          description="Top 10 only, ranked by Spotify monthly listeners. This is a current platform footprint signal, not a full-roster ranking or lifetime catalog measure."
           artists={artists}
           value={(artist) => artist.streaming.spotifyMonthlyListeners}
           format={formatCount}
           onSelect={onSelect}
+          limit={10}
         />
         <Leaderboard
-          title="Social Reach Leaderboard"
-          description="This ranks artists by total social reach from the Social Media workbook tab. Total social reach is the sum of available Instagram followers, X/Twitter followers, and Facebook followers. If one platform is missing, the dashboard does not infer it from the other platforms, so the total is only the known public follower count."
+          title="Top Social Reach"
+          description="Top 10 only, ranked by known Instagram, X/Twitter, and Facebook reach. Missing platforms are not inferred."
           artists={artists}
           value={(artist) => artist.social.totalReach}
           format={formatCount}
           onSelect={onSelect}
+          limit={10}
         />
       </div>
 
       <div className="mt-6 grid gap-6 xl:grid-cols-[1.15fr_0.85fr]">
         <ChartCard
           title="Social Platform Breakdown"
-          description="This chart shows the top 25 artists by total social reach and splits each total across Instagram, X/Twitter, and Facebook. The bar segments are based only on platform counts present in the Social Media tab. Missing platform counts are not treated as hidden followers; they simply do not contribute to the total."
+          description="Top 12 by total social reach, split across Instagram, X/Twitter, and Facebook. Missing platform counts are not treated as hidden followers."
         >
           <div className="space-y-3">
             {[...artists]
               .filter((artist) => artist.social.totalReach)
               .sort((a, b) => (b.social.totalReach ?? 0) - (a.social.totalReach ?? 0))
-              .slice(0, 25)
+              .slice(0, 12)
               .map((artist) => {
                 const total = artist.social.totalReach ?? 1;
                 const instagram = ((artist.social.instagramFollowers ?? 0) / total) * 100;
@@ -121,7 +123,40 @@ export function OnlineFootprintSection({ artists, summary, onSelect }: OnlineFoo
           limit={20}
         />
       </div>
+
+      <AtmosResearchStatus artists={artists} />
     </section>
+  );
+}
+
+function AtmosResearchStatus({ artists }: { artists: ArtistRecord[] }) {
+  const pending = artists.filter((artist) => artist.atmos.status === "pending").length;
+  const researched = artists.length - pending;
+  const yes = artists.filter((artist) => artist.atmos.hasAtmosAlbum === true).length;
+  const no = artists.filter((artist) => artist.atmos.hasAtmosAlbum === false).length;
+
+  return (
+    <ChartCard
+      className="mt-6"
+      title="Atmos Research Status"
+      description="Album-level Dolby Atmos / Spatial Audio research is tracked separately from demand. Current rows stay pending until a cited Yes or No result is imported."
+    >
+      <div className="grid gap-3 md:grid-cols-4">
+        <AtmosMetric label="Pending" value={pending} />
+        <AtmosMetric label="Researched" value={researched} />
+        <AtmosMetric label="Confirmed Yes" value={yes} />
+        <AtmosMetric label="Confirmed No" value={no} />
+      </div>
+    </ChartCard>
+  );
+}
+
+function AtmosMetric({ label, value }: { label: string; value: number }) {
+  return (
+    <div className="rounded-lg border border-white/10 bg-white/[0.04] p-3">
+      <div className="text-xs uppercase tracking-[0.14em] text-slate-500">{label}</div>
+      <div className="mt-2 text-2xl font-semibold text-white">{formatCount(value)}</div>
+    </div>
   );
 }
 

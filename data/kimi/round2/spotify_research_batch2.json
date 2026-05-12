@@ -1,0 +1,204 @@
+[
+  {
+    "id": 27,
+    "artist": "DARKSIDE (Nicolas Jaar & Dave Harrington)",
+    "totalCatalogStreams": 138884018,
+    "topTrackName": "Paper Trails",
+    "topTrackStreams": 44584665,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - DARKSIDE Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/2933wDUojoQmvqSdTAE5NB_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total Streams: 138,884,018 | Top track: Paper Trails 44,584,665 streams (Last updated: 2026/03/09)"
+      },
+      {
+        "name": "Songstats - DARKSIDE",
+        "url": "https://songstats.com/artist/r5a2l93q/darkside",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Streams: 154M (alternative source confirming similar scale)"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "totalCatalogStreams": 71109505,
+    "topTrackName": "Lily Was Here (feat. Candy Dulfer)",
+    "topTrackStreams": 46500436,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "Kworb - Dave Stewart Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/7gcCQIlkkfbul5Mt0jBQkg_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "As lead: 62,351,346 | Solo: 8,758,159 | Total solo+lead: 71,109,505 (Last updated: 2026/05/11)"
+      },
+      {
+        "name": "Spotify - Dave Stewart Songwriter Page",
+        "url": "https://artists.spotify.com/songwriter/6JWSgYeObE9WD7nqfpk6x2",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Top solo track: Lily Was Here (feat. Candy Dulfer) at 46,500,436 streams"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "artist": "DeLaurentis",
+    "totalCatalogStreams": 3500000,
+    "topTrackName": "Gone Colors",
+    "topTrackStreams": 552970,
+    "confidence": 2,
+    "sources": [
+      {
+        "name": "Spotify - DeLaurentis Artist Page",
+        "url": "https://open.spotify.com/artist/1Km7DPrZEzlSllBzzkCSN8",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Gone Colors: 552,970 | The Wooden House: 335,278 | I'm Just a Rose: 247,776 | Yellow Hurricane: 25,523"
+      },
+      {
+        "name": "Music Metrics Vault - DeLaurentis",
+        "url": "https://www.musicmetricsvault.com/artists/delaurentis/1Km7DPrZEzlSllBzzkCSN8",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "24,533 monthly listeners, 6,024 followers - niche French electronic artist"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "artist": "Ellie Goulding",
+    "totalCatalogStreams": 16138496720,
+    "topTrackName": "Outside",
+    "topTrackStreams": 1838640581,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Ellie Goulding Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/0X2BH1fck6amBIoJhDVmmJ_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total: 16,138,496,720 | Top: Outside 1,838,640,581 | Love Me Like You Do 1,819,754,534 (Last updated: 2026/05/11)"
+      },
+      {
+        "name": "ChartMasters - Ellie Goulding",
+        "url": "https://chartmasters.org/artist/?id=0X2BH1fck6amBIoJhDVmmJ",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Lead streams: 15.6B | Monthly listeners: 49.2M | Artist reached 16B total streams April 2026"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "artist": "Excision",
+    "totalCatalogStreams": 875347048,
+    "topTrackName": "Feel Something (With I Prevail)",
+    "topTrackStreams": 81974145,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Excision Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/5FKchcZpQOkqFvXBj1aCvb_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total: 875,347,048 | Top: Feel Something (With I Prevail) 81,974,145 | Gold (Stupid Love) 54,477,457 (Last updated: 2026/05/04)"
+      },
+      {
+        "name": "Tooxclusive - Excision Stats",
+        "url": "https://tooxclusive.com/stats/artists/excision",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total Streams: 875.3M | Monthly Listeners: 1.5M | Most streamed song: Gold (Stupid Love) 54M"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "artist": "Fatboy Slim (Norman Cook)",
+    "totalCatalogStreams": 1420809399,
+    "topTrackName": "Praise You",
+    "topTrackStreams": 213646146,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Fatboy Slim Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/4Y7tXHSEejGu1vQ9bwDdXW_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total: 1,420,809,399 | Top: Praise You 213,646,146 | Right Here Right Now 171,903,702 | Rockafeller Skank 158,801,452 (Last updated: 2026/05/06)"
+      },
+      {
+        "name": "Tooxclusive - Fatboy Slim Stats",
+        "url": "https://tooxclusive.com/stats/artists/fatboy-slim",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total Streams: 1.4B | Monthly Listeners: 7.2M | Most streamed song: Rockafeller Skank 159M"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "artist": "FKA twigs",
+    "totalCatalogStreams": 1640620815,
+    "topTrackName": "Two Weeks",
+    "topTrackStreams": 111912681,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - FKA twigs Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/6nB0iY1cjSY1KyhYyuIIKH_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total: 1,640,620,815 | As lead: 1,150,642,288 | Top lead track: Two Weeks 111,912,681 (Last updated: 2026/05/02)"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "artist": "Floating Points (Sam Shepherd)",
+    "totalCatalogStreams": 197963794,
+    "topTrackName": "King Bromeliad",
+    "topTrackStreams": 15305835,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Floating Points Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/2AR42Ur9PcchQDtEdwkv4L_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total: 197,963,794 | Solo: 129,716,341 | Top: King Bromeliad 15,305,835 (Last updated: 2026/05/05)"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "artist": "Flying Lotus (Steven Ellison)",
+    "totalCatalogStreams": 538789601,
+    "topTrackName": "Never Catch Me",
+    "topTrackStreams": 83222416,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Flying Lotus Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/29XOeO6KIWxGthejQqn793_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total: 538,789,601 | Top: Never Catch Me 83,222,416 | Crust 36,680,640 (Last updated: 2026/05/06)"
+      },
+      {
+        "name": "Tooxclusive - Flying Lotus Stats",
+        "url": "https://tooxclusive.com/stats/artists/flying-lotus",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total Streams: 538.8M | Monthly Listeners: 1.1M | Most streamed song: Never Catch Me 83M"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "artist": "Four Tet (Kieran Hebden)",
+    "totalCatalogStreams": 1006877796,
+    "topTrackName": "VOLVER",
+    "topTrackStreams": 138948006,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Four Tet Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/7Eu1txygG6nJttLHbZdQOh_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total: 1,006,877,796 | As lead: 480,245,129 | Top: VOLVER 138,948,006 | Baby again.. 125,393,196 (Last updated: 2026/05/07)"
+      }
+    ]
+  }
+]

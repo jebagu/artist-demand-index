@@ -15,20 +15,20 @@
   "dataQualityNote": "Research snapshot from May 12, 2026. Values are directional and include missing or low-confidence fields. Raw footprint charts use source detail tabs; model tier and composite use the original normalization tab. Tour gross is latest public tour gross, while catalog streams and RIAA units are lifetime-style signals.",
   "missingnessCounts": {
     "spotifyMonthlyListeners": {
-      "available": 110,
-      "missing": 9
+      "available": 116,
+      "missing": 3
     },
     "socialReach": {
-      "available": 59,
-      "missing": 60
+      "available": 98,
+      "missing": 21
     },
     "tourGrossUsd": {
       "available": 10,
       "missing": 109
     },
     "catalogStreams": {
-      "available": 71,
-      "missing": 48
+      "available": 90,
+      "missing": 29
     },
     "bandsintownFollowers": {
       "available": 4,
@@ -287,6 +287,52 @@
       "normalization": 119,
       "qa": 119
     },
-    "generatedAt": "2026-05-12T15:29:15.448Z"
+    "kimiRound2": {
+      "available": true,
+      "filesRead": 7,
+      "updateRows": 552,
+      "appliedUpdates": 943,
+      "skippedUpdates": 80,
+      "unsupportedUpdates": 1202,
+      "updatedArtists": 107,
+      "supportedFields": {
+        "streaming.spotifyFollowers": 47,
+        "streaming.spotifyMonthlyListeners": 53,
+        "streaming.spotifyUrl": 55,
+        "social.instagramHandle": 90,
+        "social.instagramFollowers": 83,
+        "social.xHandle": 89,
+        "social.xFollowers": 89,
+        "social.facebookPage": 77,
+        "social.facebookFollowers": 68,
+        "social.totalReach": 92,
+        "social.verifiedStatus": 72,
+        "catalog.totalCatalogStreams": 43,
+        "catalog.topTrackName": 43,
+        "catalog.topTrackStreams": 42
+      },
+      "unsupportedFields": {
+        "livePerformance.frequency": 113,
+        "livePerformance.touringPackageDescription": 113,
+        "sales.totalCertifications": 104,
+        "releases.topAlbumSales": 54,
+        "sales.ifpiBestAlbums": 5,
+        "sales.riaaCertifications": 35,
+        "sales.riaaDiamond": 19,
+        "sales.riaaGold": 28,
+        "sales.riaa100m": 17,
+        "sales.riaaBestSellers": 12,
+        "sales.ifpiBestArtists": 13,
+        "sales.riaaLatinDiamond": 10,
+        "sales.riaj": 1,
+        "identity.programmingStyle": 113,
+        "identity.genreLabels": 113,
+        "identity.subGenre": 113,
+        "identity.instrumentSounds": 113,
+        "identity.mf": 113,
+        "identity.descriptionShort": 113
+      }
+    },
+    "generatedAt": "2026-05-12T20:27:01.654Z"
   }
 }

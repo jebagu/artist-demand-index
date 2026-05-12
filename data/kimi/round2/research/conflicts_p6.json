@@ -1,0 +1,112 @@
+[
+  {
+    "id": 8,
+    "artist": "The Beatles",
+    "field": "totalCertifications",
+    "issue": "disbanded",
+    "description": "Disbanded 1970. RIAA certifications are 183M units total including album, single, and digital certifications. All members deceased except Paul and Ringo who tour solo.",
+    "recommendedAction": "Use legacy certification data. No new certifications under The Beatles name expected.",
+    "sourceUrls": [
+      "https://www.riaa.com/gold-platinum/?tab_active=default-award&se=the+beatles"
+    ]
+  },
+  {
+    "id": 20,
+    "artist": "Charli XCX",
+    "field": "totalCertifications",
+    "issue": "all_credits_vs_lead",
+    "description": "Brat album certified Gold (2024). No prior RIAA album certifications. Boom Clap single 3x Platinum. Most certifications are from features on other artists' tracks (Iggy Azalea's Fancy, Icona Pop's I Love It).",
+    "recommendedAction": "Include all RIAA certifications regardless of lead vs featured.",
+    "sourceUrls": []
+  },
+  {
+    "id": 28,
+    "artist": "Dave Stewart",
+    "field": "totalCertifications",
+    "issue": "solo_vs_group",
+    "description": "RIAA certifications listed are for Eurythmics (duo), not Dave Stewart solo. Solo work has minimal certifications. Combined certifications reflect Eurythmics output.",
+    "recommendedAction": "Note that certifications reflect Eurythmics work. Solo Dave Stewart certifications are minimal.",
+    "sourceUrls": []
+  },
+  {
+    "id": 40,
+    "artist": "Fred Again..",
+    "field": "topAlbumSales",
+    "issue": "no_album_format",
+    "description": "Fred Again.. primarily releases via EPs and streaming. Traditional album sales figures are not applicable. USB series released as streaming-first projects.",
+    "recommendedAction": "Focus on streaming metrics rather than album sales. USB EP sales minimal.",
+    "sourceUrls": []
+  },
+  {
+    "id": 41,
+    "artist": "Future",
+    "field": "totalCertifications",
+    "issue": "lead_vs_all_credits",
+    "description": "53M RIAA units includes extensive featured artist credits. Life Is Good Diamond certification as lead artist. Most prolific featured artist in hip-hop history.",
+    "recommendedAction": "Include all RIAA-certified units regardless of lead vs featured role.",
+    "sourceUrls": []
+  },
+  {
+    "id": 61,
+    "artist": "Karlheinz Stockhausen",
+    "field": "totalCertifications",
+    "issue": "classical_composer",
+    "description": "20th-century classical composer. No RIAA certifications. His works are performed by classical ensembles but not tracked by commercial certification bodies.",
+    "recommendedAction": "Keep totalCertifications as 0. No commercial certification data exists for classical composers.",
+    "sourceUrls": []
+  },
+  {
+    "id": 66,
+    "artist": "Kraftwerk",
+    "field": "totalCertifications",
+    "issue": "international_only",
+    "description": "No RIAA certifications found. Gold certification in UK for The Man-Machine. Enormous influence but limited US commercial certification record.",
+    "recommendedAction": "Note that international certifications exist but no US (RIAA) certifications.",
+    "sourceUrls": []
+  },
+  {
+    "id": 75,
+    "artist": "Mike Oldfield",
+    "field": "totalCertifications",
+    "issue": "retired",
+    "description": "Retired from live performance 2023. Tubular Bells Gold certified in 1974. Limited RIAA record despite 17.5M album sales worldwide.",
+    "recommendedAction": "Use available historical data. Tubular Bells is primary RIAA certification.",
+    "sourceUrls": []
+  },
+  {
+    "id": 92,
+    "artist": "Romy",
+    "field": "totalCertifications",
+    "issue": "group_vs_solo",
+    "description": "RIAA Gold certification for xx album is as part of The xx band, not solo work. Solo album Mid Air has no RIAA certifications.",
+    "recommendedAction": "Note that certifications reflect The xx band work, not solo output.",
+    "sourceUrls": []
+  },
+  {
+    "id": 99,
+    "artist": "Steve Reich",
+    "field": "totalCertifications",
+    "issue": "classical_composer",
+    "description": "Minimalist composer (b. 1936). No RIAA certifications. His works are performed by classical ensembles. 90th birthday celebration Oct 2026.",
+    "recommendedAction": "Keep totalCertifications as 0. No commercial certification data.",
+    "sourceUrls": []
+  },
+  {
+    "id": 103,
+    "artist": "SZA",
+    "field": "totalCertifications",
+    "issue": "rapidly_increasing",
+    "description": "120.5M RIAA units as of 2025-2026. Kill Bill and Snooze Diamond-certified. Numbers are rapidly increasing due to continued streaming success.",
+    "recommendedAction": "Data valid as of research date (2026-05-12). Monitor for updates.",
+    "sourceUrls": []
+  },
+  {
+    "id": 104,
+    "artist": "Talking Heads",
+    "field": "totalCertifications",
+    "issue": "disbanded",
+    "description": "Disbanded 1991. Certifications reflect legacy catalog only. No new certifications expected. David Byrne tours solo with their songs.",
+    "recommendedAction": "Use legacy certification data.",
+    "sourceUrls": []
+  }
+]

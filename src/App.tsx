@@ -53,7 +53,7 @@ export default function App() {
     <Layout>
       <Header filters={filters} setFilters={setFilters} />
       <main className="mx-auto flex max-w-7xl flex-col gap-10 px-4 py-8 lg:px-6">
-        <OverviewSection artists={filteredArtists} summary={activeSummary} health={activeHealth} />
+        <OverviewSection />
         <FilterBar artists={allArtists} filters={filters} setFilters={setFilters} visibleCount={filteredArtists.length} />
         <FootprintExplorerSection artists={filteredArtists} onSelect={setSelectedArtist} />
         <TierBookingSection artists={filteredArtists} summary={activeSummary} onSelect={setSelectedArtist} />

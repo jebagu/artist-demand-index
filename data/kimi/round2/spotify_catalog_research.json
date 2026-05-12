@@ -1,0 +1,216 @@
+[
+  {
+    "id": 14,
+    "artist": "Bonobo",
+    "totalCatalogStreams": 1848743605,
+    "topTrackName": "Cirrus",
+    "topTrackStreams": 105623111,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Bonobo Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/0cmWgDlu9CwTgxPhf403hb_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 1,848,743,605 | Top track: Cirrus 105,623,111 streams"
+      },
+      {
+        "name": "TooXclusive - Bonobo Stats",
+        "url": "https://tooxclusive.com/stats/artists/bonobo",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Bonobo currently has 1.8B total streams on Spotify. Most streamed song is 'Cirrus' with 105M streams."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "artist": "Brian Eno",
+    "totalCatalogStreams": 1157576071,
+    "topTrackName": "An Ending (Ascent) - Remastered 2019",
+    "topTrackStreams": 121036094,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Brian Eno Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/7MSUfLeTdDEoZiJPDSBXgi_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 1,157,576,071 | Top track: An Ending (Ascent) - Remastered 2019 with 121,036,094 streams"
+      },
+      {
+        "name": "TooXclusive - An Ending (Ascent) Milestone",
+        "url": "https://tooxclusive.com/stats/milestones/facts/brian-eno-brian-eno-an-ending-ascent-remastered-2019-50m-streams-spotify",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "An Ending (Ascent) - Remastered 2019 has 120.8M total streams on Spotify"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "artist": "Cardi B",
+    "totalCatalogStreams": 22180300810,
+    "topTrackName": "I Like It",
+    "topTrackStreams": 1905793499,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Cardi B Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/4kYSro6naA4h99UJvo89HB_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 22,180,300,810 | Top track: I Like It with 1,905,793,499 streams"
+      },
+      {
+        "name": "ChartMasters - Cardi B",
+        "url": "https://chartmasters.org/artist/?id=4kYSro6naA4h99UJvo89HB",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Lead streams 12.4b, Feat streams 9.8b, Total 22.2B+ all credits | I Like It is #1 with 1.9B+ streams"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "artist": "Caribou",
+    "totalCatalogStreams": 728058859,
+    "topTrackName": "Can't Do Without You",
+    "topTrackStreams": 121475609,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Caribou Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/4aEnNH9PuU1HF3TsZTru54_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 728,058,859 | Top track: Can't Do Without You with 121,475,609 streams"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "artist": "Carl Craig",
+    "totalCatalogStreams": 112000000,
+    "topTrackName": "At Les",
+    "topTrackStreams": 1349411,
+    "confidence": 3,
+    "sources": [
+      {
+        "name": "Songstats - Carl Craig",
+        "url": "https://songstats.com/artist/afogkh8u/carl-craig",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Streams: 112M | Followers: 514K"
+      },
+      {
+        "name": "Spotify - Carl Craig Artist Page",
+        "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "At Les: 1,349,411 streams | Most popular original track on primary profile"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "artist": "Channel Tres",
+    "totalCatalogStreams": 645000000,
+    "topTrackName": "Topdown",
+    "topTrackStreams": 70267143,
+    "confidence": 4,
+    "sources": [
+      {
+        "name": "TooXclusive - Channel Tres Stats",
+        "url": "https://tooxclusive.com/stats/artists/channel-tres",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total Streams: 645.0M | Most streamed song: Topdown with 70M streams"
+      },
+      {
+        "name": "Kworb - Channel Tres Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/4cUkGQyhLFqKHBtL58HYVp_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Topdown: 70,267,143 streams | Tunnel: 41,362,624 streams"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "artist": "Charli XCX",
+    "totalCatalogStreams": 14000000000,
+    "topTrackName": "I Love It (feat. Charli XCX)",
+    "topTrackStreams": 1333478311,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "ChartMasters - Charli XCX",
+        "url": "https://chartmasters.org/artist/?id=25uiPmTg16RbhZWAqwLBy5",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Lead streams 10.6b, All credits 16.8b+ | Milestone: Artist all credits 14B reached 2026-05-01"
+      },
+      {
+        "name": "ChartMasters - Charli XCX Most Streamed Songs",
+        "url": "https://chartmasters.org/artist/?id=25uiPmTg16RbhZWAqwLBy5",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "#1: I Love It (feat. Charli XCX) - 1,333,478,311 Spotify streams"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "artist": "The Chemical Brothers",
+    "totalCatalogStreams": 1354300000,
+    "topTrackName": "Hey Boy Hey Girl",
+    "topTrackStreams": 177669088,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Most Streamed Artists of All Time",
+        "url": "https://kworb.net/spotify/artists.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "The Chemical Brothers: 1,354.3 total streams (in millions format: 1,354.3 = 1,354,300,000)"
+      },
+      {
+        "name": "Kworb - Chemical Brothers Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/1GhPHrq36VKCY3ucVaZCfo_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Hey Boy Hey Girl: 177,669,088 streams | Galvanize: 157,054,348 streams | Go: 126,014,286 streams"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "artist": "Cigarettes After Sex",
+    "totalCatalogStreams": 12766228474,
+    "topTrackName": "Apocalypse",
+    "topTrackStreams": 2405264876,
+    "confidence": 5,
+    "sources": [
+      {
+        "name": "Kworb - Cigarettes After Sex Spotify Top Songs",
+        "url": "https://kworb.net/spotify/artist/1QAJqy2dA3ihHBFIHRphZj_songs.html",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Total streams: 12,766,228,474 | Top track: Apocalypse with 2,405,264,876 streams"
+      },
+      {
+        "name": "ChartMasters - Cigarettes After Sex",
+        "url": "https://chartmasters.org/artist/?id=1QAJqy2dA3ihHBFIHRphZj",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Lead streams 12.9b | Monthly listeners 29.3m | Top track: Apocalypse 2.4B+"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "artist": "Colin Benders",
+    "totalCatalogStreams": 3000000,
+    "topTrackName": "Siren",
+    "topTrackStreams": 330531,
+    "confidence": 2,
+    "sources": [
+      {
+        "name": "Spotify - Colin Benders Artist Page",
+        "url": "https://open.spotify.com/artist/0InPKJ21u1TMt0hzF1Y4wz",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "Monthly listeners: 20,692 | Top track: Siren with 330,531 streams | I Can't Feel My Legs: 176,048 streams"
+      },
+      {
+        "name": "Music Metrics Vault - Colin Benders",
+        "url": "https://www.musicmetricsvault.com/artists/colin-benders/0InPKJ21u1TMt0hzF1Y4wz",
+        "dateAccessed": "2026-05-12",
+        "evidenceSnippet": "17,431 monthly listeners | 23,976 followers | Niche modular synth artist with minimal streaming data"
+      }
+    ]
+  }
+]

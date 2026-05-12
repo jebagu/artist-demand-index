@@ -1,0 +1,19 @@
+artistId,artist,field,value,sourceName,sourceUrl,dateAccessed,confidence,status
+5,Aphex Twin,spotifyUrl,https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG,ChartMasters / Spotify,https://chartmasters.org/artist/?id=6kBDZFXuLrZgHnvmPu9NsG,2026-05-12,5,verified
+5,Aphex Twin,spotifyMonthlyListeners,3499548,ChartMasters / Spotify,https://chartmasters.org/artist/?id=6kBDZFXuLrZgHnvmPu9NsG,2026-05-12,5,verified
+23,Christina Kubisch,spotifyUrl,https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O,Spotify,https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O,2026-05-12,4,verified
+23,Christina Kubisch,spotifyMonthlyListeners,537,Spotify,https://open.spotify.com/artist/6SQPrQAl4dYrClGnaRWt1O,2026-05-12,4,verified
+24,Christine Sun Kim,spotifyUrl,null,Multiple searches / Discogs / Gallery sites,,2026-05-12,4,not_found_publicly
+24,Christine Sun Kim,spotifyMonthlyListeners,null,Multiple searches / Discogs / Gallery sites,,2026-05-12,4,not_found_publicly
+49,Haroon Mirza,spotifyUrl,https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC,Spotify,https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC,2026-05-12,4,verified
+49,Haroon Mirza,spotifyMonthlyListeners,59,Spotify,https://open.spotify.com/artist/4R6AV2uI7sxEO0U1FjA0EC,2026-05-12,4,verified
+51,Ian Dearden,spotifyUrl,https://open.spotify.com/artist/5xqKm3vDsiBTFchNTQaSXE,Spotify / NMC Recordings,https://open.spotify.com/artist/5xqKm3vDsiBTFchNTQaSXE,2026-05-12,4,verified
+51,Ian Dearden,spotifyMonthlyListeners,3,Spotify / NMC Recordings,https://open.spotify.com/artist/5xqKm3vDsiBTFchNTQaSXE,2026-05-12,4,verified
+56,Jennifer Walshe,spotifyUrl,https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J,Spotify,https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J,2026-05-12,5,verified
+56,Jennifer Walshe,spotifyMonthlyListeners,300,Spotify,https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J,2026-05-12,5,verified
+59,Justin Gray,spotifyUrl,https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR,Spotify / Wikipedia,https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR,2026-05-12,4,verified
+59,Justin Gray,spotifyMonthlyListeners,2328,Spotify / Wikipedia,https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR,2026-05-12,4,verified
+95,Samson Young,spotifyUrl,https://open.spotify.com/artist/3AiEBEtUkD6TKUJKBnAjeh,Spotify,https://open.spotify.com/intl-it/artist/3AiEBEtUkD6TKUJKBnAjeh,2026-05-12,4,ambiguous
+95,Samson Young,spotifyMonthlyListeners,14,Spotify,https://open.spotify.com/intl-it/artist/3AiEBEtUkD6TKUJKBnAjeh,2026-05-12,4,ambiguous
+105,Tarik Barri,spotifyUrl,null,Multiple searches / Discogs / Last.fm,,2026-05-12,4,not_found_publicly
+105,Tarik Barri,spotifyMonthlyListeners,null,Multiple searches / Discogs / Last.fm,,2026-05-12,4,not_found_publicly

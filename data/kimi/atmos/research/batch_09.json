@@ -1,0 +1,131 @@
+[
+  {
+    "id": 81,
+    "artist": "Nicolas Jaar",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No Dolby Atmos album releases found for Nicolas Jaar despite thorough searching. Reddit posts show fans requesting Atmos mixes of albums like 'Space Is Only Noise', but no official Atmos releases exist. The collaborative album 'Convergence' (2025) featuring Nicolas Jaar appears on Apple Music but without any Dolby Atmos tag. Nicolas Jaar's primary label Other People has not released any Atmos content."
+  },
+  {
+    "id": 82,
+    "artist": "Nils Frahm",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No confirmed Dolby Atmos album releases found. The track 'Says' from the album 'Spaces' (2015) is frequently mentioned in Dolby Atmos showcase articles as an exemplary Spatial Audio track on Apple Music, suggesting it may be available as an Atmos single track. However, no album-level Dolby Atmos release could be confirmed through Apple Music, Tidal, or official label (Erased Tapes) sources. The album 'All Melody' (2018) has been discussed in immersive audio contexts but not confirmed as an Atmos release."
+  },
+  {
+    "id": 83,
+    "artist": "Nine Inch Nails",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No Dolby Atmos album releases found on Apple Music, Tidal, or Amazon Music. The album 'The Downward Spiral' (1994) was released in 5.1 surround sound on SACD in 2004, but this has not been upgraded to a Dolby Atmos release on streaming services. Netflix's 'Nine Inch Nails Live: Beside You in Time' features spatial audio, but this is a video concert, not an album. The Social Network soundtrack was discussed in Atmos contexts but not confirmed as an official release. Multiple fan requests exist for Atmos releases on Reddit and audiophile forums."
+  },
+  {
+    "id": 84,
+    "artist": "Nitin Sawhney",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No Dolby Atmos studio album releases found. Sawhney has extensive experience with spatial audio technology - he has used Dolby Atmos for film scoring (Harry Potter audiobook soundtrack for Audible in 2025) and live performances at venues like the Royal Albert Hall and Polygon Live festival. However, none of his studio albums (including 'Beyond Skin', 'One Zero', etc.) have been officially released in Dolby Atmos format on any streaming service."
+  },
+  {
+    "id": 85,
+    "artist": "Photay",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No Dolby Atmos album releases found. Photay (Evan Shornstein) is an American electronic producer who has been involved in spatial audio live events, most notably performing at Polygon Live LDN 2025, billed as 'the largest outdoor 360-degree spatial audio event' in the UK. However, none of his studio albums have been officially released in Dolby Atmos format. Photay is signed to International Anthem label."
+  },
+  {
+    "id": 86,
+    "artist": "Pink Floyd",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "The Dark Side of the Moon",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://shop.pinkfloyd.com/products/the-dark-side-of-the-moon-50th-anniversary-bluray",
+          "https://www.pinkfloydz.com/discography/studio-albums/the-dark-side-of-the-moon-in-dolby-atmos/"
+        ],
+        "confidence": 5,
+        "notes": "50th Anniversary edition with Dolby Atmos mix by James Guthrie. Released on Blu-ray and available for streaming on Apple Music and Tidal. The Atmos mix was created in 2023 as part of the 50th anniversary deluxe box set."
+      },
+      {
+        "title": "Animals",
+        "releaseYear": 2024,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://shop.pinkfloyd.com/products/animals-2018-remix-audio-bluray-wdolby-atmos-mix",
+          "https://www.pinkfloydz.com/pink-floyd-animals-2018-dolby-atmos-mix/",
+          "https://www.hiresedition.com/review/progressive-rock/pink-floyd-animals-atmos.html"
+        ],
+        "confidence": 5,
+        "notes": "2018 Remix with Dolby Atmos mix by James Guthrie (2022). Released on standalone Blu-ray on May 17, 2024, and available for streaming on Apple Music and Tidal. Includes 2018 stereo mix, 5.1 surround mix, and original 1977 stereo mix alongside the Atmos version."
+      },
+      {
+        "title": "Wish You Were Here",
+        "releaseYear": 2024,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://trackingangle.com/features/pink-floyd-wish-you-were-here-dolby-atmos-listening-event-review"
+        ],
+        "confidence": 5,
+        "notes": "50th Anniversary Dolby Atmos mix by James Guthrie, unveiled at a listening event on December 3, 2024, and released on December 12, 2024 on standalone Blu-ray and in the multi-format deluxe box set. Available for streaming on Apple Music."
+      }
+    ],
+    "notes": "Pink Floyd has received extensive Dolby Atmos treatment from longtime engineer James Guthrie. Three studio albums are now available in Dolby Atmos: The Dark Side of the Moon (2023), Animals (2024), and Wish You Were Here (2024). These are available both on physical Blu-ray and streaming platforms (Apple Music, Tidal). Additionally, Tidal reportedly has 'Live at Pompeii' in Atmos format. The Atmos mixes are praised as high-quality immersive audio experiences."
+  },
+  {
+    "id": 87,
+    "artist": "Portishead",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No Dolby Atmos album releases found. The album 'Dummy' (1994) has been featured in listening sessions at Dolby Atmos-equipped studios (e.g., Omni Sound Lab in Barcelona), but this appears to be a third-party immersive playback of the stereo recording rather than an official Atmos mix release. Portishead is listed on Delta Music Belgium's website as an artist they would like to work with in Atmos, but no official releases exist on any streaming platform."
+  },
+  {
+    "id": 88,
+    "artist": "Radiohead",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No official Dolby Atmos album releases found. Radiohead producer Nigel Godrich has publicly dismissed Dolby Atmos as 'rubbish,' stating that 'stereo is optimum.' The 'Kid A Mnesia Exhibition' (2021) featured an immersive audio experience, but this was a 5.1 mixdown from a fan-made Atmos mix, not an official release. 'Kid A' has been featured in listening sessions at Dolby Atmos-equipped facilities, but no official Atmos versions are available on streaming services. Radiohead is frequently cited by fans as a band that would benefit from Atmos releases, but none have materialized."
+  },
+  {
+    "id": 89,
+    "artist": "RAYE",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "My 21st Century Blues",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://x.com/AppleMusic/status/1621373224373157894",
+          "https://music.apple.com/us/playlist/hits-in-spatial-audio/pl.ba2404fbc4464b8ba2d60399189cf24e"
+        ],
+        "confidence": 5,
+        "notes": "Debut album by RAYE, available in Spatial Audio with Dolby Atmos on Apple Music. Officially confirmed by Apple Music's Twitter account on February 3, 2023. The album won the Brit Award for British Album of the Year in 2024."
+      }
+    ],
+    "notes": "RAYE's debut album 'My 21st Century Blues' is confirmed to be available in Spatial Audio with Dolby Atmos on Apple Music. The album was officially promoted by Apple Music with a tweet confirming its Atmos availability. It appears in Apple Music's 'Hits in Spatial Audio' playlist and other Spatial Audio curated playlists."
+  },
+  {
+    "id": 90,
+    "artist": "Rival Consoles",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Landscape from Memory",
+        "releaseYear": 2025,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://inbroadcast.com/news/nugens-halo-upmix-plug-in-plays-key-role-in-aneek-thapars-dolby-atmos-mixes",
+          "https://music.apple.com/us/album/landscape-from-memory/1798316163",
+          "https://music.apple.com/us/playlist/electronic-in-spatial-audio/pl.9ca5521e31c8408c97377a71030396d1"
+        ],
+        "confidence": 5,
+        "notes": "Mixed in Dolby Atmos by Aneek Thapar using NUGEN Audio Halo Upmix. The album appears in Apple Music's 'Electronic in Spatial Audio' playlist, confirming its availability in Dolby Atmos on the platform. Released July 4, 2025 on Erased Tapes label."
+      }
+    ],
+    "notes": "Rival Consoles (Ryan Lee West) has at least one confirmed Dolby Atmos album: 'Landscape from Memory' (2025), which was specifically mixed in Atmos by engineer Aneek Thapar. The album appears in Apple Music's 'Electronic in Spatial Audio' curated playlist, confirming its streaming availability. The Atmos mix was created using NUGEN Audio's Halo Upmix plugin after Thapar had already mixed the stereo version. Rival Consoles' earlier albums (including 'Now Is' (2022), 'Persona' (2018), and 'Articulation' (2020)) do not appear to have Atmos versions."
+  }
+]

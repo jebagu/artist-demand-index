@@ -17,6 +17,7 @@ const root = process.cwd();
 const workbookPath = path.join(root, "data/raw/sonic_sphere_artist_demand.xlsx");
 const atmosResearchPath = path.join(root, "data/raw/atmos_album_research.json");
 const generatedDir = path.join(root, "src/data/generated");
+const kimiRound2Dir = path.join(root, "data/kimi/round2/research");
 
 const sheetNames = {
   master: "Artist Master",
@@ -251,13 +252,18 @@ function loadAtmosResearch(): Map<string, RawRow> {
   if (!fs.existsSync(atmosResearchPath)) return map;
 
   const raw = JSON.parse(fs.readFileSync(atmosResearchPath, "utf8"));
+  const researchedAt = asString(valueOf(raw as RawRow, ["Researched At", "researchedAt", "researched_at", "Snapshot Date"]));
   const entries: RawRow[] = Array.isArray(raw) ? raw : Array.isArray(raw?.artists) ? raw.artists : [];
 
   entries.forEach((entry) => {
-    const id = asNumber(valueOf(entry, ["ID", "Artist ID", "id"]));
-    const artist = asString(valueOf(entry, ["Artist", "Artist Name", "artist"]));
-    if (id !== null) map.set(`id:${id}`, entry);
-    if (artist) map.set(`artist:${normalizeKey(artist)}`, entry);
+    const normalizedEntry =
+      researchedAt && asString(valueOf(entry, ["Researched At", "researchedAt", "researched_at", "Snapshot Date"])) === null
+        ? { ...entry, researchedAt }
+        : entry;
+    const id = asNumber(valueOf(normalizedEntry, ["ID", "Artist ID", "id"]));
+    const artist = asString(valueOf(normalizedEntry, ["Artist", "Artist Name", "artist"]));
+    if (id !== null) map.set(`id:${id}`, normalizedEntry);
+    if (artist) map.set(`artist:${normalizeKey(artist)}`, normalizedEntry);
   });
 
   return map;
@@ -298,7 +304,7 @@ function atmosFor(id: number, artist: string, map: Map<string, RawRow>) {
     : [];
 
   return {
-    status: hasAtmosAlbum === null ? ("pending" as const) : ("researched" as const),
+    status: hasAtmosAlbum === null ? ("inconclusive" as const) : ("researched" as const),
     hasAtmosAlbum,
     albums,
     researchedAt: asString(valueOf(row, ["Researched At", "researchedAt", "researched_at", "Snapshot Date"])),
@@ -412,6 +418,219 @@ function topBy<T extends { artist: string; id: number; tier: { ordinal: number |
     .filter((item): item is { id: number; artist: string; tier: number | null; value: number } => item.value !== null)
     .sort((a, b) => b.value - a.value)
     .slice(0, limit);
+}
+
+type KimiImportSummary = {
+  available: boolean;
+  filesRead: number;
+  updateRows: number;
+  appliedUpdates: number;
+  skippedUpdates: number;
+  unsupportedUpdates: number;
+  updatedArtists: number;
+  supportedFields: Record<string, number>;
+  unsupportedFields: Record<string, number>;
+};
+
+function applyKimiRound2Updates(records: typeof artists): KimiImportSummary {
+  const summary: KimiImportSummary = {
+    available: fs.existsSync(kimiRound2Dir),
+    filesRead: 0,
+    updateRows: 0,
+    appliedUpdates: 0,
+    skippedUpdates: 0,
+    unsupportedUpdates: 0,
+    updatedArtists: 0,
+    supportedFields: {},
+    unsupportedFields: {}
+  };
+
+  if (!summary.available) return summary;
+
+  const byId = new Map(records.map((artist) => [artist.id, artist]));
+  const touched = new Set<number>();
+  const files = Array.from({ length: 7 }, (_, index) => path.join(kimiRound2Dir, `artist_updates_p${index + 1}.json`));
+
+  for (const file of files) {
+    if (!fs.existsSync(file)) continue;
+    summary.filesRead += 1;
+    const updates = JSON.parse(fs.readFileSync(file, "utf8")) as Array<{
+      id: number;
+      updates?: Record<string, unknown>;
+      fieldEvidence?: Array<{ field: string; status: string; confidence?: number | null }>;
+    }>;
+    summary.updateRows += updates.length;
+
+    for (const update of updates) {
+      const artist = byId.get(update.id);
+      if (!artist || !update.updates) continue;
+      for (const [field, value] of Object.entries(update.updates)) {
+        if (!isSupportedKimiField(field)) {
+          summary.unsupportedUpdates += 1;
+          summary.unsupportedFields[field] = (summary.unsupportedFields[field] ?? 0) + 1;
+          continue;
+        }
+
+        if (!shouldApplyKimiValue(field, value, update.fieldEvidence ?? [])) {
+          summary.skippedUpdates += 1;
+          continue;
+        }
+
+        if (setKimiValue(artist, field, value)) {
+          summary.appliedUpdates += 1;
+          summary.supportedFields[field] = (summary.supportedFields[field] ?? 0) + 1;
+          touched.add(artist.id);
+        } else {
+          summary.skippedUpdates += 1;
+        }
+      }
+    }
+  }
+
+  for (const id of touched) {
+    const artist = byId.get(id);
+    if (!artist) continue;
+    refreshMissingFlags(artist);
+    refreshCompletenessScore(artist);
+  }
+
+  summary.updatedArtists = touched.size;
+  return summary;
+}
+
+function isSupportedKimiField(field: string): boolean {
+  return (
+    field.startsWith("streaming.") ||
+    field.startsWith("social.") ||
+    field === "catalog.totalCatalogStreams" ||
+    field === "catalog.topTrackName" ||
+    field === "catalog.topTrackStreams"
+  );
+}
+
+function shouldApplyKimiValue(
+  field: string,
+  value: unknown,
+  evidence: Array<{ field: string; status: string; confidence?: number | null }>
+): boolean {
+  if (value === null || value === undefined || value === "") return false;
+  if (Array.isArray(value) && value.length === 0) return false;
+
+  const fieldToken = normalizeEvidenceField(field);
+  const matching = evidence.filter((item) => normalizeEvidenceField(item.field) === fieldToken);
+  const candidates = matching.length ? matching : evidence;
+
+  if (!candidates.length) return true;
+  return candidates.some((item) => {
+    const status = item.status.toLowerCase();
+    return (status === "verified" || status === "partial") && (item.confidence ?? 3) >= 3;
+  });
+}
+
+function normalizeEvidenceField(field: string): string {
+  const aliases: Record<string, string> = {
+    "streaming.spotifyfollowers": "spotifyfollowers",
+    "streaming.spotifymonthlylisteners": "spotifymonthlylisteners",
+    "streaming.spotifyurl": "spotifyurl",
+    "social.totalreach": "totalsocialreach",
+    "catalog.totalcatalogstreams": "totalcatalogstreams",
+    "catalog.toptrackname": "toptrackname",
+    "catalog.toptrackstreams": "toptrackstreams"
+  };
+  const normalized = compactKey(field);
+  return aliases[normalized] ?? normalized.replace(/^(streaming|social|catalog)/, "");
+}
+
+function setKimiValue(artist: (typeof artists)[number], field: string, value: unknown): boolean {
+  switch (field) {
+    case "streaming.spotifyFollowers":
+      artist.streaming.spotifyFollowers = asNumber(value);
+      return artist.streaming.spotifyFollowers !== null;
+    case "streaming.spotifyMonthlyListeners":
+      artist.streaming.spotifyMonthlyListeners = asNumber(value);
+      return artist.streaming.spotifyMonthlyListeners !== null;
+    case "streaming.spotifyUrl":
+      artist.streaming.spotifyUrl = asString(value);
+      return artist.streaming.spotifyUrl !== null;
+    case "social.instagramHandle":
+      artist.social.instagramHandle = asString(value);
+      return artist.social.instagramHandle !== null;
+    case "social.instagramFollowers":
+      artist.social.instagramFollowers = asNumber(value);
+      return artist.social.instagramFollowers !== null;
+    case "social.xHandle":
+      artist.social.xHandle = asString(value);
+      return artist.social.xHandle !== null;
+    case "social.xFollowers":
+      artist.social.xFollowers = asNumber(value);
+      return artist.social.xFollowers !== null;
+    case "social.facebookPage":
+      artist.social.facebookPage = asString(value);
+      return artist.social.facebookPage !== null;
+    case "social.facebookFollowers":
+      artist.social.facebookFollowers = asNumber(value);
+      return artist.social.facebookFollowers !== null;
+    case "social.totalReach":
+      artist.social.totalReach = asNumber(value);
+      return artist.social.totalReach !== null;
+    case "social.verifiedStatus":
+      artist.social.verifiedStatus = asString(value);
+      return artist.social.verifiedStatus !== null;
+    case "catalog.totalCatalogStreams":
+      artist.streaming.estimatedCatalogStreams = asNumber(value);
+      return artist.streaming.estimatedCatalogStreams !== null;
+    case "catalog.topTrackName": {
+      const name = asString(value);
+      if (!name) return false;
+      artist.streaming.topTracks = artist.streaming.topTracks.length
+        ? artist.streaming.topTracks.map((track, index) => (index === 0 ? { ...track, name } : track))
+        : [{ name, streams: null }];
+      return true;
+    }
+    case "catalog.topTrackStreams": {
+      const streams = asNumber(value);
+      if (streams === null) return false;
+      artist.streaming.topTracks = artist.streaming.topTracks.length
+        ? artist.streaming.topTracks.map((track, index) => (index === 0 ? { ...track, streams } : track))
+        : [{ name: "Unknown", streams }];
+      return true;
+    }
+    default:
+      return false;
+  }
+}
+
+function refreshMissingFlags(artist: (typeof artists)[number]) {
+  artist.qa.missingDataFlags = artist.qa.missingDataFlags.filter((flag) => {
+    if (/spotify monthly listeners/i.test(flag)) return artist.streaming.spotifyMonthlyListeners === null;
+    if (/social media/i.test(flag)) {
+      return (
+        artist.social.totalReach === null &&
+        artist.social.instagramFollowers === null &&
+        artist.social.xFollowers === null &&
+        artist.social.facebookFollowers === null
+      );
+    }
+    if (/tour gross/i.test(flag)) return artist.live.tourGrossUsd === null;
+    return true;
+  });
+}
+
+function refreshCompletenessScore(artist: (typeof artists)[number]) {
+  const majorFields = [
+    artist.streaming.spotifyMonthlyListeners,
+    artist.streaming.spotifyFollowers,
+    artist.social.totalReach,
+    artist.live.tourGrossUsd,
+    artist.sales.riaaTotalUnits,
+    artist.streaming.estimatedCatalogStreams,
+    artist.heat.score,
+    artist.qa.confidenceRating,
+    artist.tier.compositeScore
+  ];
+  artist.qa.completenessScore = Math.round(
+    (majorFields.filter((value) => value !== null).length / majorFields.length) * 100
+  );
 }
 
 const rows = Object.fromEntries(
@@ -558,6 +777,8 @@ const artists = baseRows.map((master, index) => {
   return record;
 });
 
+const kimiImportSummary = applyKimiRound2Updates(artists);
+
 const allWarnings = artists.flatMap((artist) =>
   artist.qa.consistencyWarnings.map((message) => ({
     artist: artist.artist,
@@ -629,6 +850,7 @@ const dataHealth = {
     .map((artist) => ({ id: artist.id, artist: artist.artist, issue: artist.qa.disambiguationIssue })),
   parser: {
     rowCounts: Object.fromEntries(Object.entries(rows).map(([key, value]) => [key, value.length])),
+    kimiRound2: kimiImportSummary,
     generatedAt: new Date().toISOString()
   }
 };
@@ -640,3 +862,8 @@ fs.writeFileSync(path.join(generatedDir, "dataHealth.json"), `${JSON.stringify(d
 
 console.log(`Prepared ${artists.length} artist records.`);
 console.log(`Consistency warnings: ${summaryStats.consistencyWarningCount}`);
+if (kimiImportSummary.available) {
+  console.log(
+    `Applied Kimi round 2 updates: ${kimiImportSummary.appliedUpdates} values across ${kimiImportSummary.updatedArtists} artists.`
+  );
+}

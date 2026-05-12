@@ -1,0 +1,257 @@
+[
+  {
+    "id": 86,
+    "artist": "Pink Floyd",
+    "data": {
+      "topAlbumSales": {"album": "The Dark Side of the Moon", "sales": 63000000},
+      "riaaCertifications": [
+        {"album": "The Dark Side of the Moon", "level": "15x Platinum", "date": "1998-06-04"},
+        {"album": "The Wall", "level": "23x Platinum", "date": "1999-01-29"},
+        {"album": "Wish You Were Here", "level": "7x Platinum", "date": "2025-12-12"},
+        {"album": "The Division Bell", "level": "3x Platinum", "date": ""}
+      ],
+      "ifpiBestAlbums": [
+        {"year": 2025, "album": "The Dark Side of the Moon", "rank": 11}
+      ],
+      "totalCertifications": 50
+    },
+    "confidence": 5,
+    "sources": [
+      {"name": "RIAA", "url": "https://www.riaa.com/gold-platinum/", "snippet": "The Dark Side of the Moon certified 15x Platinum (1998), The Wall certified 23x Platinum (1999)"},
+      {"name": "ChartMasters", "url": "https://chartmasters.org/cspc-pink-floyd-popularity-analysis/", "snippet": "Pink Floyd surpassed 251.5m equivalent album sales, Dark Side of the Moon 63.1m units"},
+      {"name": "IFPI 2025 Vinyl Chart", "url": "https://www.ifpi.org/", "snippet": "Dark Side of the Moon ranked #11 on IFPI Global Vinyl Album Chart 2025 with 223k units"},
+      {"name": "Forbes", "url": "https://www.forbes.com/sites/hughmcintyre/2025/12/13/pink-floyds-blockbuster-earns-its-first-new-certification-in-a-quarter-century/", "snippet": "Wish You Were Here certified 7x Platinum December 2025"}
+    ]
+  },
+  {
+    "id": 88,
+    "artist": "Radiohead",
+    "data": {
+      "topAlbumSales": {"album": "OK Computer", "sales": 5700000},
+      "riaaCertifications": [
+        {"album": "Pablo Honey", "level": "Platinum", "date": "1995"},
+        {"album": "OK Computer", "level": "2x Platinum", "date": "2003"}
+      ],
+      "ifpiBestAlbums": [
+        {"year": 2025, "album": "OK Computer", "rank": 15}
+      ],
+      "totalCertifications": 5
+    },
+    "confidence": 4,
+    "sources": [
+      {"name": "ChartMasters", "url": "https://chartmasters.org/artist/?id=4Z8W4fKeB5YxbusRsdQVPb", "snippet": "Radiohead CSPC units 61.1m, OK Computer 4.5 billion streams"},
+      {"name": "Heritage Auctions", "url": "https://entertainment.ha.com/", "snippet": "OK Computer certified Platinum by RIAA May 6 1998, 2x Multi-Platinum by 2003"},
+      {"name": "IFPI 2025 Vinyl Chart", "url": "https://www.ifpi.org/", "snippet": "OK Computer ranked #15 on IFPI Global Vinyl Album Chart 2025 with 193k units"},
+      {"name": "MusicGoldMine", "url": "https://musicgoldmine.com/products/radiohead-pablo-honey-riaa-gold-album-award-1", "snippet": "Pablo Honey certified Gold Sept 1 1993, Platinum by 1995"}
+    ]
+  },
+  {
+    "id": 91,
+    "artist": "Robyn",
+    "data": {
+      "riaaCertifications": [
+        {"album": "Robyn Is Here", "level": "Platinum", "date": "1998-04-10"}
+      ],
+      "riaaGold": [
+        {"track": "Show Me Love", "date": "1997-12-17"},
+        {"track": "Do You Know (What It Takes)", "date": "1997-08-12"}
+      ],
+      "totalCertifications": 5
+    },
+    "confidence": 4,
+    "sources": [
+      {"name": "RIAA", "url": "https://www.riaa.com/gold-platinum/?tab_active=default-award&se=Robyn", "snippet": "Robyn Is Here certified Platinum April 10 1998; Show Me Love Gold Dec 17 1997; Do You Know Gold Aug 12 1997"},
+      {"name": "MusicGoldMine", "url": "https://musicgoldmine.com/products/robyn-riaa-platinum-album-award-for-robyn-is-here-singles", "snippet": "Robyn Is Here album certified Platinum for one million copies sold"},
+      {"name": "BestsellingAlbums", "url": "https://bestsellingalbums.org/artist/11157", "snippet": "Robyn Is Here US sales 1,000,000 Platinum; Body Talk Sweden Gold 20,000"}
+    ]
+  },
+  {
+    "id": 96,
+    "artist": "Skrillex",
+    "data": {
+      "riaaCertifications": [
+        {"album": "Scary Monsters and Nice Sprites EP", "level": "Gold", "date": "2013-10-03"},
+        {"album": "Bangarang EP", "level": "Gold", "date": "2016-07-11"}
+      ],
+      "riaaDiamond": [
+        {"track": "Scary Monsters and Nice Sprites", "level": "2x Platinum"},
+        {"track": "Bangarang", "level": "3x Platinum"}
+      ],
+      "totalCertifications": 10
+    },
+    "confidence": 4,
+    "sources": [
+      {"name": "Grokipedia", "url": "https://grokipedia.com/page/Scary_Monsters_and_Nice_Sprites", "snippet": "Scary Monsters EP certified Gold by RIAA, title track 2x Platinum"},
+      {"name": "Grokipedia Bangarang", "url": "https://grokipedia.com/page/Bangarang_(EP)", "snippet": "Bangarang EP certified Gold by RIAA July 11 2016, title track 3x Platinum"},
+      {"name": "Skrillex Wiki", "url": "https://skrillex.fandom.com/", "snippet": "Over 3 million album sales worldwide"}
+    ]
+  },
+  {
+    "id": 98,
+    "artist": "Steve Miller Band",
+    "data": {
+      "topAlbumSales": {"album": "Greatest Hits 1974-78", "sales": 15000000},
+      "riaaCertifications": [
+        {"album": "Greatest Hits 1974-78", "level": "15x Platinum (Diamond)", "date": "2021-10-27"},
+        {"album": "Fly Like an Eagle", "level": "4x Platinum", "date": ""},
+        {"album": "Book of Dreams", "level": "3x Platinum", "date": ""},
+        {"album": "The Joker", "level": "Platinum", "date": ""},
+        {"album": "Abracadabra", "level": "Platinum", "date": ""}
+      ],
+      "totalCertifications": 24
+    },
+    "confidence": 5,
+    "sources": [
+      {"name": "RIAA", "url": "https://www.riaa.com/gold-platinum/", "snippet": "Greatest Hits 1974-78 certified 15x Platinum October 27 2021"},
+      {"name": "Steve Miller Band Official", "url": "https://www.stevemillerband.com/bio/", "snippet": "Greatest Hits 1974-78 received RIAA Diamond Award with sales of more than fifteen million copies"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Greatest_Hits_1974%E2%80%9378", "snippet": "RIAA 15x Platinum 15,000,000 units, Canada Diamond 1,000,000"},
+      {"name": "Business Insider", "url": "https://www.businessinsider.com/best-selling-albums-ever-all-time-riaa-certified-platinum", "snippet": "Greatest Hits 1974-78 among 31 albums certified 15x platinum or more"}
+    ]
+  },
+  {
+    "id": 101,
+    "artist": "Stevie Nicks",
+    "data": {
+      "topAlbumSales": {"album": "Bella Donna", "sales": 4000000},
+      "riaaCertifications": [
+        {"album": "Bella Donna", "level": "4x Platinum", "date": "1990"}
+      ],
+      "totalCertifications": 65
+    },
+    "confidence": 4,
+    "sources": [
+      {"name": "RIAA", "url": "https://www.riaa.com/gold-platinum/", "snippet": "Bella Donna certified 4x Platinum"},
+      {"name": "Fleetwood Mac UK", "url": "https://www.fleetwoodmac-uk.com/albums/bella-donna/bella-donna-infopage.html", "snippet": "Bella Donna certified 4x Platinum by RIAA for shipments of over 4,000,000 copies"},
+      {"name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bella_Donna_(album)", "snippet": "Bella Donna certified platinum Oct 7 1981, quadruple-platinum in 1990"},
+      {"name": "NCruz", "url": "https://www.ncruz.com/stevie-nicks/", "snippet": "65 million copies certified in US alone (solo + Fleetwood Mac)"}
+    ]
+  },
+  {
+    "id": 107,
+    "artist": "Taylor Swift",
+    "data": {
+      "topAlbumSales": {"album": "1989", "sales": 14000000},
+      "riaaCertifications": [
+        {"album": "Taylor Swift", "level": "8x Platinum", "date": "2025-09-30"},
+        {"album": "Fearless", "level": "11x Platinum", "date": "2025-09-30"},
+        {"album": "Speak Now (Taylor's Version)", "level": "4x Platinum", "date": "2025-09-30"},
+        {"album": "Red", "level": "8x Platinum", "date": "2025-09-30"},
+        {"album": "1989", "level": "14x Platinum", "date": "2025-09-30"},
+        {"album": "reputation", "level": "7x Platinum", "date": "2025-09-30"},
+        {"album": "Lover", "level": "7x Platinum", "date": "2025-09-30"},
+        {"album": "folklore", "level": "6x Platinum", "date": "2025-09-30"},
+        {"album": "evermore", "level": "4x Platinum", "date": "2025-09-30"},
+        {"album": "Midnights", "level": "7x Platinum", "date": "2025-09-30"},
+        {"album": "THE TORTURED POETS DEPARTMENT", "level": "8x Platinum", "date": "2025-09-30"},
+        {"album": "The Life of a Showgirl", "level": "5x Platinum", "date": "2025-12"}
+      ],
+      "riaa100m": 105,
+      "ifpiBestArtists": [
+        {"year": 2014, "rank": 1},
+        {"year": 2019, "rank": 1},
+        {"year": 2022, "rank": 1},
+        {"year": 2023, "rank": 1},
+        {"year": 2024, "rank": 1},
+        {"year": 2025, "rank": 1}
+      ],
+      "ifpiBestAlbums": [
+        {"year": 2024, "album": "THE TORTURED POETS DEPARTMENT", "rank": 1},
+        {"year": 2025, "album": "The Life of a Showgirl", "rank": 1}
+      ],
+      "totalCertifications": 105
+    },
+    "confidence": 5,
+    "sources": [
+      {"name": "RIAA", "url": "https://www.riaa.com/taylor-swift-alex-warren-dominate-at-year-end-huntr-x-heads-classof2025/", "snippet": "First female artist to surpass 100 million RIAA certified album units; 1989 14x Platinum, Fearless 11x Platinum"},
+      {"name": "ChartMasters", "url": "https://chartmasters.org/taylor-swift-overtakes-madonna-best-selling-female-artist/", "snippet": "253 million equivalent album sales"},
+      {"name": "IFPI", "url": "https://www.ifpi.org/taylor-swift-named-ifpis-official-biggest-selling-global-artist-of-the-year-for-a-sixth-time/", "snippet": "IFPI Global Artist #1 in 2014, 2019, 2022, 2023, 2024, 2025"},
+      {"name": "Entertainment Now", "url": "https://entertainmentnow.com/music/taylor-swift-history-ahead-new-album/", "snippet": "Over 105 million albums certified, 1989 14x Platinum"}
+    ]
+  },
+  {
+    "id": 112,
+    "artist": "Travis Scott",
+    "data": {
+      "topAlbumSales": {"album": "Astroworld", "sales": 17000000},
+      "riaaCertifications": [
+        {"album": "Rodeo", "level": "Platinum", "date": ""},
+        {"album": "Birds In The Trap Sing McKnight", "level": "Platinum", "date": "2025-04-29"},
+        {"album": "Astroworld", "level": "4x Platinum", "date": ""},
+        {"album": "Utopia", "level": "2x Platinum", "date": "2025"}
+      ],
+      "riaaDiamond": [
+        {"track": "Sicko Mode", "level": "15x Platinum"},
+        {"track": "Goosebumps", "level": "Diamond"},
+        {"track": "Butterfly Effect", "level": "8x Platinum"}
+      ],
+      "ifpiBestArtists": [
+        {"year": 2024, "rank": 15}
+      ],
+      "totalCertifications": 62
+    },
+    "confidence": 4,
+    "sources": [
+      {"name": "RIAA Travis Scott Search", "url": "https://www.riaa.com/gold-platinum/", "snippet": "Utopia 2x Platinum 2025; Birds In The Trap Sing McKnight Platinum; multiple singles certifications"},
+      {"name": "NMPA", "url": "https://www.nmpa.org/travis-scott-named-top-artist-songwriter-in-q3-2024/", "snippet": "62 certifications including 15x Platinum Sicko Mode, 9x Platinum Highest In The Room"},
+      {"name": "ChartMasters", "url": "https://chartmasters.org/artist/?id=0Y5tJX1MQlPlqiwlOH1tJY", "snippet": "76.0m CSPC units, Astroworld 17m EAS"},
+      {"name": "Travis Scott Wiki", "url": "https://travisscott.fandom.com/wiki/Astroworld", "snippet": "Astroworld certified 4x Platinum by RIAA"},
+      {"name": "IFPI 2024", "url": "https://www.ifpi.org/", "snippet": "Travis Scott ranked #15 on IFPI Global Artist Chart 2024"}
+    ]
+  },
+  {
+    "id": 114,
+    "artist": "The Weeknd",
+    "data": {
+      "topAlbumSales": {"album": "Starboy", "sales": 21313000},
+      "riaaCertifications": [
+        {"album": "Beauty Behind the Madness", "level": "Multi-Platinum", "date": ""},
+        {"album": "Starboy", "level": "5x Platinum", "date": "2024-12-05"},
+        {"album": "After Hours", "level": "4x Platinum", "date": "2022-12-06"},
+        {"album": "Dawn FM", "level": "Platinum", "date": "2023-07-17"}
+      ],
+      "riaaDiamond": [
+        {"track": "Blinding Lights", "level": "Diamond"},
+        {"track": "Starboy", "level": "Diamond"},
+        {"track": "The Hills", "level": "Diamond"},
+        {"track": "Can't Feel My Face", "level": "Diamond"},
+        {"track": "Earned It", "level": "Diamond"},
+        {"track": "Save Your Tears", "level": "Diamond"},
+        {"track": "Die For You", "level": "Diamond"}
+      ],
+      "ifpiBestArtists": [
+        {"year": 2022, "rank": 5},
+        {"year": 2024, "rank": 7},
+        {"year": 2025, "rank": 4}
+      ],
+      "totalCertifications": 104
+    },
+    "confidence": 5,
+    "sources": [
+      {"name": "RIAA", "url": "https://riaa.com/gold-platinum/?tab_active=default-award&se=The+Weeknd", "snippet": "Starboy album 5x Platinum Dec 2024; After Hours 4x Platinum Dec 2022; 7 Diamond singles"},
+      {"name": "ChartMasters", "url": "https://chartmasters.org/the-weeknd-albums-and-songs-sales/", "snippet": "104 million+ equivalent album sales; Starboy 21.3m EAS, After Hours 18.9m EAS"},
+      {"name": "IFPI", "url": "https://www.ifpi.org/our-industry/global-charts/", "snippet": "The Weeknd ranked #4 on IFPI Global Artist Chart 2025, #7 in 2024"},
+      {"name": "Express Tribune", "url": "https://tribune.com.pk/story/2472865/the-weeknd-makes-history-with-seven-diamond-singles-and-platinum-hits", "snippet": "First Canadian artist to achieve 7 Diamond-certified singles"}
+    ]
+  },
+  {
+    "id": 75,
+    "artist": "Mike Oldfield",
+    "data": {
+      "topAlbumSales": {"album": "Tubular Bells", "sales": 17500000},
+      "riaaCertifications": [
+        {"album": "Tubular Bells", "level": "Gold", "date": "1974-03-26"}
+      ],
+      "riaj": [
+        {"album_or_single": "The Division Bell (Pink Floyd related)", "level": "Gold"}
+      ],
+      "totalCertifications": 1
+    },
+    "confidence": 4,
+    "sources": [
+      {"name": "RIAA", "url": "https://tsort.info/music/mbctmb.htm", "snippet": "Tubular Bells US Gold certified by RIAA March 1974"},
+      {"name": "Innerviews", "url": "https://www.innerviews.org/inner/oldfield-1", "snippet": "Tubular Bells sold more than 17 million copies worldwide"},
+      {"name": "Prog Report", "url": "https://progreport.com/mike-oldfields-tubular-bells-celebrates-50th-anniversary/", "snippet": "Total of 17.5 million copies sold worldwide and 18 million streams"},
+      {"name": "BestsellingAlbums", "url": "https://bestsellingalbums.org/album/31046", "snippet": "Tubular Bells 18 million worldwide; UK 2.76m 9x Platinum; US 500k Gold"}
+    ]
+  }
+]

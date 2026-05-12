@@ -16,7 +16,7 @@ type TierBookingSectionProps = {
 
 export function TierBookingSection({ artists, summary, onSelect }: TierBookingSectionProps) {
   const [showAll, setShowAll] = useState(false);
-  const ranked = [...artists].sort(defaultArtistSort).slice(0, showAll ? artists.length : 50);
+  const ranked = [...artists].sort(compositeScoreSort).slice(0, showAll ? artists.length : 50);
 
   return (
     <section id="tiers" className="scroll-mt-32">
@@ -131,4 +131,10 @@ function commonValue(values: Array<string | null>): string | null {
   const counts = new Map<string, number>();
   values.filter(Boolean).forEach((value) => counts.set(value!, (counts.get(value!) ?? 0) + 1));
   return [...counts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] ?? null;
+}
+
+function compositeScoreSort(a: ArtistRecord, b: ArtistRecord): number {
+  const scoreDiff = (b.tier.compositeScore ?? -1) - (a.tier.compositeScore ?? -1);
+  if (scoreDiff !== 0) return scoreDiff;
+  return defaultArtistSort(a, b);
 }

@@ -226,9 +226,11 @@ function AtmosAlbums({ artist }: { artist: ArtistRecord }) {
     );
   }
 
+  const atmosStatus = artist.atmos.status === "inconclusive" ? "Inconclusive" : artist.atmos.hasAtmosAlbum ? "Yes" : "No";
+
   return (
     <div className="space-y-3">
-      <InfoGrid rows={[["Has Atmos album", artist.atmos.hasAtmosAlbum ? "Yes" : "No"], ["Research notes", artist.atmos.notes]]} />
+      <InfoGrid rows={[["Has Atmos album", atmosStatus], ["Researched at", artist.atmos.researchedAt], ["Research notes", artist.atmos.notes]]} />
       {artist.atmos.albums.length ? (
         <div className="space-y-2">
           {artist.atmos.albums.map((album, index) => (

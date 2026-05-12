@@ -1,0 +1,230 @@
+[
+  {
+    "id": 91,
+    "artist": "Robyn",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Sexistential",
+        "releaseYear": 2026,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/sexistential/1852752613",
+          "https://music.apple.com/by/grouping/188746"
+        ],
+        "confidence": 5,
+        "notes": "Apple Music page explicitly shows 'Made for Spatial Audio' badge. Album released March 27, 2026. Also appears on Apple's Spatial Audio editorial pages."
+      }
+    ],
+    "notes": "Robyn's 2026 album Sexistential is confirmed in Spatial Audio/Dolby Atmos on Apple Music. Earlier albums (Honey, Body Talk, Robyn) do not appear to have Atmos availability. The Dopamine single also appears in Spatial Audio playlists."
+  },
+  {
+    "id": 92,
+    "artist": "Romy",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Mid Air",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://immersiveaudioalbum.com/now-available-in-dolby-atmos-romys-mid-air/",
+          "https://music.apple.com/is/album/mid-air/1688051982"
+        ],
+        "confidence": 5,
+        "notes": "Confirmed Dolby Atmos release by Immersive Audio Album. Apple Music listing includes Spatial Audio. Romy is a member of The xx; this is her debut solo album released September 2023 on Young Records."
+      }
+    ],
+    "notes": "Romy's solo debut Mid Air is available in Dolby Atmos on Apple Music and other streaming services. The xx albums do not appear to have Atmos availability."
+  },
+  {
+    "id": 93,
+    "artist": "Ryoji Ikeda",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No album-level Dolby Atmos releases found. Ryoji Ikeda is a Japanese sound artist whose work is primarily presented as installations, audiovisual concerts, and gallery exhibitions. His albums (Dataplex, Test Pattern, Ultratronics, etc.) are available on streaming services in standard stereo but not in Dolby Atmos format. While his live installations use immersive multi-channel spatial audio, this is not the same as commercially released album-level Atmos availability on streaming platforms."
+  },
+  {
+    "id": 94,
+    "artist": "Sampha",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Lahai",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://immersiveaudioalbum.com/now-available-in-dolby-atmos-samphas-lahai/",
+          "https://immersiveaudioalbum.com/product/lahai-sampha-atmos-mkv-mp4/"
+        ],
+        "confidence": 5,
+        "notes": "Immersive Audio Album confirmed Lahai is available in Dolby Atmos. Released October 2023, this is Sampha's sophomore album. Atmos mix available on Apple Music and for download via IAA."
+      }
+    ],
+    "notes": "Sampha's 2023 album Lahai is confirmed in Dolby Atmos. His debut album Process (2017) does not appear to have Atmos availability."
+  },
+  {
+    "id": 95,
+    "artist": "Samson Young",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No album-level Dolby Atmos releases found. Samson Young is a Hong Kong-based sound artist, composer, and installation artist. His work (Muted Situations series, Possible Music, Real Music, etc.) is exhibited in galleries, museums, and biennials rather than distributed as commercial albums on streaming services. No commercial album releases in Atmos format were found."
+  },
+  {
+    "id": 96,
+    "artist": "Skrillex",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Quest for Fire",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://rateyourmusic.com/list/robbya01/ranking-dolby-atmos-album-mixes-from-apple-music_tidal/",
+          "https://www.reddit.com/r/skrillex/comments/11699mv/dolby_atmos_on_apple_music_qffdgtc/",
+          "https://music.apple.com/us/album/quest-for-fire/1672154692"
+        ],
+        "confidence": 5,
+        "notes": "Multiple sources confirm Quest for Fire is available in Dolby Atmos on Apple Music. Released February 2023. RateYourMusic lists it with 10/10 immersion rating in Atmos."
+      },
+      {
+        "title": "Don't Get Too Close",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.reddit.com/r/skrillex/comments/11699mv/dolby_atmos_on_apple_music_qffdgtc/",
+          "https://music.apple.com/us/album/dont-get-too-close/1672465067"
+        ],
+        "confidence": 5,
+        "notes": "Reddit users confirm both 2023 Skrillex albums (QFF and DGTC) are in Dolby Atmos on Apple Music. Released February 2023 alongside Quest for Fire."
+      }
+    ],
+    "notes": "Both of Skrillex's 2023 albums (Quest for Fire and Don't Get Too Close) are confirmed in Dolby Atmos on Apple Music. Earlier albums including Recess (2014) do not appear to have Atmos availability. Skrillex tracks also appear in Apple Music Spatial Audio marketing."
+  },
+  {
+    "id": 97,
+    "artist": "Sofia Kourtesis",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Madres",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://music.apple.com/us/album/madres/1695712922",
+          "https://www.reddit.com/r/SpatialSongs/comments/17m1lgb/sofia_kourtesis_madres/"
+        ],
+        "confidence": 4,
+        "notes": "Apple Music page shows 'Apple Music Spatial Audio' indicator. The track 'Volver' from the album appears on Apple's 'Electronic in Spatial Audio' playlist. DJ sets from Warehouse Project are also in Spatial Audio. Released October 27, 2023 on Ninja Tune."
+      }
+    ],
+    "notes": "Sofia Kourtesis's debut album Madres is available in Spatial Audio/Dolby Atmos on Apple Music. DJ mixes from Warehouse Project are also available in Spatial Audio as part of an Apple Music partnership."
+  },
+  {
+    "id": 98,
+    "artist": "Steve Miller Band",
+    "hasAtmosAlbum": false,
+    "albums": [],
+    "notes": "No album-level Dolby Atmos releases found. Individual tracks (The Joker, Abracadabra, Fly Like an Eagle) appear in Apple Music Spatial Audio playlists (Classic Rock Hits in Spatial Audio, 80s Hits in Spatial Audio), but these are individual track appearances in curated playlists rather than full album-level Atmos releases. Reddit users mention The Joker as utilizing spatial audio well. No confirmation that any full Steve Miller Band album has been remixed and released in Dolby Atmos."
+  },
+  {
+    "id": 99,
+    "artist": "Steve Reich",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "Steve Reich: Music for 18 Musicians",
+        "releaseYear": 2023,
+        "sourceService": "Colin Currie Records",
+        "sourceUrls": [
+          "https://www.colincurriegroup.com/2023/03/steve-reichs-music-for-18-musicians-release/",
+          "https://music.sonyselect.net/m/page/album.html?id=18890"
+        ],
+        "confidence": 5,
+        "notes": "Official press release from Colin Currie Group confirms 'Mastered in Dolby Atmos, it will be available on SACD and via all major streaming and download services.' Performed by Colin Currie Group with Synergy Vocals, recorded at Abbey Road Studios. Released April 2023."
+      },
+      {
+        "title": "The String Quartets",
+        "releaseYear": 2023,
+        "sourceService": "Deutsche Grammophon",
+        "sourceUrls": [
+          "https://www.deutschegrammophon.com/en/catalogue/products/reich-the-string-quartets-mivos-quartet-12866"
+        ],
+        "confidence": 5,
+        "notes": "Deutsche Grammophon product page explicitly states 'Also available in Dolby Atmos.' Performed by Mivos Quartet. Released February 2023. Includes WTC 9/11, Triple Quartet, and Different Trains."
+      },
+      {
+        "title": "Steve Reich: The Sextets",
+        "releaseYear": 2026,
+        "sourceService": "Colin Currie Records",
+        "sourceUrls": [
+          "https://www.nativedsd.com/product/ccr0009d-ccr0009d-steve-reich-the-sextets/"
+        ],
+        "confidence": 4,
+        "notes": "Released for Steve Reich's 90th birthday celebration. Performed by Colin Currie Group. Part of the ongoing series of Reich recordings in Atmos. Available in Spatial Audio."
+      }
+    ],
+    "notes": "Steve Reich has multiple albums available in Dolby Atmos, primarily through the Colin Currie Group's series of recordings on Colin Currie Records and the Mivos Quartet on Deutsche Grammophon. Music for 18 Musicians was 'mastered in Dolby Atmos' and is available on streaming services. The Sextets (2026) is also in Atmos. Note that these are recent recordings of Reich's compositions by other ensembles, not necessarily Atmos versions of Reich's original recordings."
+  },
+  {
+    "id": 100,
+    "artist": "Steven Wilson",
+    "hasAtmosAlbum": true,
+    "albums": [
+      {
+        "title": "The Overview",
+        "releaseYear": 2025,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.soundandvision.com/content/steven-wilson-overview-dolby-atmos",
+          "https://immersiveaudioalbum.com/steven-wilson-the-overview-5-1-surround-sound-dolby-atmos/"
+        ],
+        "confidence": 5,
+        "notes": "Released March 14, 2025. Dolby Atmos mix available on Apple Music, Tidal, and Amazon Music. Also available on Blu-ray with Atmos. Wilson is known as 'the once and forever Dolby Atmos mixing king.'"
+      },
+      {
+        "title": "The Harmony Codex",
+        "releaseYear": 2023,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.stereophile.com/content/steven-wilson-master-immersive-music",
+          "https://www.soundandvision.com/content/steven-wilson-overview-dolby-atmos"
+        ],
+        "confidence": 5,
+        "notes": "Released September 2023. Dolby Atmos mix available on Apple Music and other streaming services. Wilson discussed the Atmos mix process extensively in interviews."
+      },
+      {
+        "title": "The Future Bites",
+        "releaseYear": 2021,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://www.mixonline.com/recording/steven-wilson-knows-surround-part-1",
+          "https://immersiveaudioalbum.com/qa-steven-wilson-on-touring-the-overview-remixing-jeff-buckleys-grace-in-dolby-atmos-and-more/"
+        ],
+        "confidence": 5,
+        "notes": "Wilson's first solo album to get the Atmos treatment. Released January 2021. Grammy-nominated for Best Immersive Audio Album."
+      },
+      {
+        "title": "The Raven That Refused to Sing (and Other Stories)",
+        "releaseYear": 2013,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://superdeluxeedition.com/news/steven-wilson-announces-dolby-atmos-downloads-website/"
+        ],
+        "confidence": 4,
+        "notes": "Originally released 2013. Dolby Atmos remix released February 2026 on Wilson's Headphone Dust website. Available for download in Atmos, 5.1, Stereo, and Binaural formats."
+      },
+      {
+        "title": "Hand.Cannot.Erase.",
+        "releaseYear": 2015,
+        "sourceService": "Apple Music",
+        "sourceUrls": [
+          "https://superdeluxeedition.com/news/steven-wilson-announces-dolby-atmos-downloads-website/"
+        ],
+        "confidence": 4,
+        "notes": "Originally released 2015. Dolby Atmos remix released February 2026 on Wilson's Headphone Dust website. Available for download in Atmos, 5.1, Stereo, and Binaural formats."
+      }
+    ],
+    "notes": "Steven Wilson is one of the most prolific Dolby Atmos mixers for both his own solo work and other artists' catalogs. His own solo albums in Atmos include The Future Bites (2021), The Harmony Codex (2023), and The Overview (2025). He also remixed his back catalog albums The Raven That Refused to Sing (2013/2026) and Hand.Cannot.Erase. (2015/2026) in Atmos. Wilson is widely regarded as the leading immersive audio mixer in the industry."
+  }
+]
