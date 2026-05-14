@@ -15,23 +15,23 @@
   "dataQualityNote": "Research snapshot from May 12, 2026. Values are directional and include missing or low-confidence fields. Raw footprint charts use source detail tabs; model tier and composite use the original normalization tab. Tour gross is latest public tour gross, while catalog streams and RIAA units are lifetime-style signals.",
   "missingnessCounts": {
     "spotifyMonthlyListeners": {
-      "available": 117,
+      "available": 118,
       "missing": 3
     },
     "socialReach": {
-      "available": 99,
+      "available": 100,
       "missing": 21
     },
     "tourGrossUsd": {
       "available": 10,
-      "missing": 110
+      "missing": 111
     },
     "catalogStreams": {
-      "available": 91,
+      "available": 92,
       "missing": 29
     },
     "bandsintownFollowers": {
-      "available": 5,
+      "available": 6,
       "missing": 115
     }
   },
@@ -276,30 +276,30 @@
   ],
   "parser": {
     "rowCounts": {
-      "master": 120,
-      "streaming": 120,
-      "social": 120,
-      "live": 120,
-      "sales": 120,
-      "catalog": 120,
-      "genre": 120,
-      "heat": 120,
-      "normalization": 120,
-      "qa": 120
+      "master": 121,
+      "streaming": 121,
+      "social": 121,
+      "live": 121,
+      "sales": 121,
+      "catalog": 121,
+      "genre": 121,
+      "heat": 121,
+      "normalization": 121,
+      "qa": 121
     },
     "manualArtistAdditions": {
       "available": true,
       "rowCounts": {
-        "master": 1,
-        "streaming": 1,
-        "social": 1,
-        "live": 1,
-        "sales": 1,
-        "catalog": 1,
-        "genre": 1,
-        "heat": 1,
-        "normalization": 1,
-        "qa": 1
+        "master": 2,
+        "streaming": 2,
+        "social": 2,
+        "live": 2,
+        "sales": 2,
+        "catalog": 2,
+        "genre": 2,
+        "heat": 2,
+        "normalization": 2,
+        "qa": 2
       }
     },
     "kimiRound2": {
@@ -348,6 +348,6 @@
         "identity.descriptionShort": 113
       }
     },
-    "generatedAt": "2026-05-13T18:53:56.232Z"
+    "generatedAt": "2026-05-14T06:46:59.099Z"
   }
 }

@@ -16204,5 +16204,140 @@
       "consistencyWarnings": [],
       "completenessScore": 89
     }
+  },
+  {
+    "id": 121,
+    "artist": "Daft Punk",
+    "identity": {
+      "artistType": "Duo",
+      "primaryGenre": "Electronic",
+      "secondaryGenre": "French house / dance / disco / synth-pop",
+      "country": "France",
+      "countryMarket": "France / Global",
+      "language": "Instrumental / English / French",
+      "cluster": "Electronic headliners / legacy icons",
+      "activeStatus": "Disbanded / archival active",
+      "yearsActive": "1993-2021"
+    },
+    "tier": {
+      "stars": "★★★★★",
+      "ordinal": 5,
+      "label": "5-star",
+      "qualifierNote": "Stadium / arena legacy headliner",
+      "compositeScore": 85.2
+    },
+    "streaming": {
+      "spotifyMonthlyListeners": 26700000,
+      "spotifyFollowers": 11100000,
+      "spotifyUrl": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi",
+      "listenerConfidence": 4,
+      "followerConfidence": 4,
+      "topTracks": [
+        {
+          "name": "Starboy",
+          "streams": 4307532003
+        },
+        {
+          "name": "I Feel It Coming",
+          "streams": 2124846307
+        },
+        {
+          "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+          "streams": 1333747990
+        }
+      ],
+      "estimatedCatalogStreams": 16000000000
+    },
+    "social": {
+      "instagramHandle": "@daftpunk",
+      "instagramFollowers": 2073758,
+      "xHandle": "@daftpunk",
+      "xFollowers": 186000,
+      "facebookPage": "https://www.facebook.com/daftpunk",
+      "facebookFollowers": 11000000,
+      "totalReach": 13259758,
+      "verifiedStatus": "Verified official accounts"
+    },
+    "live": {
+      "latestTourName": "Alive 2006/2007",
+      "latestTourYears": "2006-2007",
+      "tourGrossUsd": null,
+      "ticketsSold": null,
+      "showsCount": 48,
+      "avgGrossPerShow": null,
+      "venueScale": "Arena/Festival legacy headliner",
+      "festivalHeadliner": "Yes",
+      "bandsintownFollowers": 3285037,
+      "upcomingShowsCount": 0
+    },
+    "sales": {
+      "riaaAlbumCertUnits": 2000000,
+      "riaaSingleCertUnits": 10500000,
+      "riaaTotalUnits": 12500000,
+      "riaaConfidence": 4,
+      "bpiCertifications": "Get Lucky 4x Platinum; Random Access Memories 2x Platinum; Discovery 3x Platinum; Human After All Gold; Lose Yourself to Dance Silver; Instant Crush Silver",
+      "bpiConfidence": 4,
+      "claimedGlobalSales": 14600000,
+      "globalSalesConfidence": 4,
+      "highestCertifiedAlbum": "Random Access Memories"
+    },
+    "heat": {
+      "majorPress2024To2026": "Official Human After All video; Fortnite x Daft Punk Experience; Interstella 5555 screenings and archival drops",
+      "awardsLast3Years": "No new competitive awards; legacy Grammy-winning catalog remains active",
+      "culturalMoment": "Disbanded but culturally active through archival video, gaming, film, and anniversary releases",
+      "activeTouring2025To2026": "No",
+      "score": 5
+    },
+    "atmos": {
+      "status": "researched",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Random Access Memories (10th Anniversary Edition)",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music / streaming",
+          "sourceUrls": [
+            "https://daftpunk.com/ram10/",
+            "https://music.apple.com/us/album/touch/1673536063",
+            "https://support.apple.com/en-euro/HT212182"
+          ],
+          "confidence": 5,
+          "notes": "Daft Punk's official RAM10 page documents the 2023 10th Anniversary Edition, and Apple Music describes the release as having a new Spatial Audio mix. Apple documents Spatial Audio in Apple Music as Dolby Atmos-supported."
+        }
+      ],
+      "researchedAt": "2026-05-14",
+      "notes": "At least one Daft Punk album is confirmed in Apple Music Spatial Audio/Dolby Atmos: Random Access Memories (10th Anniversary Edition). Other catalog titles were not counted without direct Atmos confirmation."
+    },
+    "normalized": {
+      "spotifyScore": 92.3,
+      "socialScore": 80.4,
+      "tourScore": 84.4,
+      "riaaScore": 78.2
+    },
+    "qa": {
+      "confidenceRating": 4,
+      "missingDataFlags": [
+        "Public tour gross",
+        "Ticket sales",
+        "Average gross per show",
+        "Current tour dates"
+      ],
+      "disambiguationIssue": null,
+      "sourceSnapshotDate": "2026-05-14",
+      "dataSourceNames": [
+        "Official Daft Punk site",
+        "Spotify",
+        "ChartMasters",
+        "Bandsintown",
+        "HypeAuditor",
+        "TwStalker",
+        "Official Charts",
+        "RIAA/BPI certification references",
+        "Apple Music"
+      ],
+      "notes": "Manual public-research addition. Spotify and catalog streams use ChartMasters' Daft Punk artist dashboard; total social reach sums public Instagram, X, and Facebook counts. No current Daft Punk tour dates exist; live score reflects historical Alive 2006/2007 arena/festival demand and current Bandsintown follower demand.",
+      "consistencyWarnings": [],
+      "completenessScore": 89
+    }
   }
 ]

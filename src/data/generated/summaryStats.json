@@ -1,11 +1,11 @@
 {
-  "totalArtistCount": 120,
+  "totalArtistCount": 121,
   "tierCounts": {
     "1": 11,
     "2": 5,
     "3": 46,
     "4": 23,
-    "5": 33,
+    "5": 34,
     "N/A": 2
   },
   "genreClusterCounts": {
@@ -20,7 +20,8 @@
     "Pop Electronic": 18,
     "N/A": 6,
     "Hip-Hop/Electronic": 8,
-    "Electronic pioneers / immersive spectacle": 1
+    "Electronic pioneers / immersive spectacle": 1,
+    "Electronic headliners / legacy icons": 1
   },
   "venueScaleCounts": {
     "N/A": 51,
@@ -43,41 +44,42 @@
     "Club": 1,
     "Arena (hist.)": 2,
     "Amphitheater": 1,
-    "Arena/Festival/Outdoor landmark": 1
+    "Arena/Festival/Outdoor landmark": 1,
+    "Arena/Festival legacy headliner": 1
   },
   "confidenceDistribution": {
     "1": 9,
     "2": 41,
     "3": 39,
-    "4": 24,
+    "4": 25,
     "5": 7
   },
-  "averageConfidence": 2.825,
-  "averageCompositeScore": 42.090833333333315,
+  "averageConfidence": 2.834710743801653,
+  "averageCompositeScore": 42.44710743801651,
   "heatScoreDistribution": {
-    "low": 120,
+    "low": 121,
     "medium": 0,
     "high": 0
   },
   "missingnessCounts": {
     "spotifyMonthlyListeners": {
-      "available": 117,
+      "available": 118,
       "missing": 3
     },
     "socialReach": {
-      "available": 99,
+      "available": 100,
       "missing": 21
     },
     "tourGrossUsd": {
       "available": 10,
-      "missing": 110
+      "missing": 111
     },
     "catalogStreams": {
-      "available": 91,
+      "available": 92,
       "missing": 29
     },
     "bandsintownFollowers": {
-      "available": 5,
+      "available": 6,
       "missing": 115
     }
   },
@@ -598,10 +600,10 @@
         "value": 16138496720
       },
       {
-        "id": 20,
-        "artist": "Charli XCX",
-        "tier": 4,
-        "value": 14000000000
+        "id": 121,
+        "artist": "Daft Punk",
+        "tier": 5,
+        "value": 16000000000
       }
     ],
     "heatScore": [

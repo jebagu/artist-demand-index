@@ -2555,6 +2555,27 @@
         }
       ],
       "notes": "Jean-Michel Jarre has at least one confirmed Dolby Atmos album: Oxymore (2022), a multichannel and binaural project explicitly released in Dolby Atmos. Amazônia is documented as binaural/immersive but was not confirmed as Dolby Atmos, so it is not counted here."
+    },
+    {
+      "id": 121,
+      "artist": "Daft Punk",
+      "hasAtmosAlbum": true,
+      "researchedAt": "2026-05-14",
+      "albums": [
+        {
+          "title": "Random Access Memories (10th Anniversary Edition)",
+          "releaseYear": 2023,
+          "sourceService": "Apple Music / streaming",
+          "sourceUrls": [
+            "https://daftpunk.com/ram10/",
+            "https://music.apple.com/us/album/touch/1673536063",
+            "https://support.apple.com/en-euro/HT212182"
+          ],
+          "confidence": 5,
+          "notes": "Daft Punk's official RAM10 page documents the 2023 10th Anniversary Edition, and Apple Music describes the release as having a new Spatial Audio mix. Apple documents Spatial Audio in Apple Music as Dolby Atmos-supported."
+        }
+      ],
+      "notes": "At least one Daft Punk album is confirmed in Apple Music Spatial Audio/Dolby Atmos: Random Access Memories (10th Anniversary Edition). Other catalog titles were not counted without direct Atmos confirmation."
     }
   ]
 }

@@ -18,6 +18,25 @@
       "Language": "Instrumental / French",
       "Years Active": "1968-present",
       "Active Status": "Active"
+    },
+    {
+      "ID": 121,
+      "Artist": "Daft Punk",
+      "Artist Type": "Duo",
+      "Primary Genre": "Electronic",
+      "Country": "France",
+      "Spotify Monthly Listeners": 26700000,
+      "Spotify Followers": 11100000,
+      "Social Total Followers": 13259758,
+      "Latest Tour Gross (USD)": null,
+      "RIAA Total Units": 12500000,
+      "Albums Count": 4,
+      "Breakthrough Year": 1997,
+      "Venue Scale": "Arena/Festival legacy headliner",
+      "Spotify URL": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi",
+      "Language": "Instrumental / English / French",
+      "Years Active": "1993-2021",
+      "Active Status": "Disbanded / archival active"
     }
   ],
   "streaming": [
@@ -36,6 +55,22 @@
       "Top 3 Track Name": "Equinoxe, Pt. 4",
       "Top 3 Streams": 11609364,
       "Est. Total Catalog Streams": 503600000
+    },
+    {
+      "ID": 121,
+      "Artist": "Daft Punk",
+      "Spotify Monthly Listeners": 26700000,
+      "Spotify Followers": 11100000,
+      "Listeners Confidence": 4,
+      "Followers Confidence": 4,
+      "Spotify URL": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi",
+      "Top 1 Track Name": "Starboy",
+      "Top 1 Streams": 4307532003,
+      "Top 2 Track Name": "I Feel It Coming",
+      "Top 2 Streams": 2124846307,
+      "Top 3 Track Name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "Top 3 Streams": 1333747990,
+      "Est. Total Catalog Streams": 16000000000
     }
   ],
   "social": [
@@ -49,6 +84,18 @@
       "Facebook Page": "https://www.facebook.com/jeanmicheljarre/",
       "Facebook Followers": null,
       "Total Social Reach": 203000,
+      "Verified Status": "Verified official accounts"
+    },
+    {
+      "ID": 121,
+      "Artist": "Daft Punk",
+      "Instagram Handle": "@daftpunk",
+      "Instagram Followers": 2073758,
+      "X Handle": "@daftpunk",
+      "X Followers": 186000,
+      "Facebook Page": "https://www.facebook.com/daftpunk",
+      "Facebook Followers": 11000000,
+      "Total Social Reach": 13259758,
       "Verified Status": "Verified official accounts"
     }
   ],
@@ -66,6 +113,20 @@
       "Festival Headliner": "Yes",
       "Bandsintown Followers": 307962,
       "Upcoming Shows Count": 10
+    },
+    {
+      "ID": 121,
+      "Artist": "Daft Punk",
+      "Latest Tour Name": "Alive 2006/2007",
+      "Latest Tour Years": "2006-2007",
+      "Tour Gross (USD)": null,
+      "Tickets Sold": null,
+      "Shows Count": 48,
+      "Avg Gross/Show": null,
+      "Venue Scale": "Arena/Festival legacy headliner",
+      "Festival Headliner": "Yes",
+      "Bandsintown Followers": 3285037,
+      "Upcoming Shows Count": 0
     }
   ],
   "sales": [
@@ -81,6 +142,19 @@
       "Claimed Global Sales": 85000000,
       "Global Sales Confidence": 3,
       "Highest Certified Album": "Oxygène"
+    },
+    {
+      "ID": 121,
+      "Artist": "Daft Punk",
+      "RIAA Album Certs": 2000000,
+      "RIAA Single Certs": 10500000,
+      "RIAA Total Units": 12500000,
+      "RIAA Confidence": 4,
+      "BPI Certifications": "Get Lucky 4x Platinum; Random Access Memories 2x Platinum; Discovery 3x Platinum; Human After All Gold; Lose Yourself to Dance Silver; Instant Crush Silver",
+      "BPI Confidence": 4,
+      "Claimed Global Sales": 14600000,
+      "Global Sales Confidence": 4,
+      "Highest Certified Album": "Random Access Memories"
     }
   ],
   "catalog": [
@@ -95,6 +169,18 @@
       "Breakthrough Confidence": 5,
       "Active/Disbanded": "Active",
       "Years Active": "1968-present"
+    },
+    {
+      "ID": 121,
+      "Artist": "Daft Punk",
+      "Studio Albums": 4,
+      "Studio Albums Confidence": 5,
+      "First Major Release": "Homework",
+      "First Release Confidence": 5,
+      "Breakthrough Year": 1997,
+      "Breakthrough Confidence": 5,
+      "Active/Disbanded": "Disbanded / archival active",
+      "Years Active": "1993-2021"
     }
   ],
   "genre": [
@@ -107,6 +193,16 @@
       "Country/Market": "France / Global",
       "Language": "Instrumental / French",
       "Sonic Sphere Genre Cluster": "Electronic pioneers / immersive spectacle"
+    },
+    {
+      "ID": 121,
+      "Artist": "Daft Punk",
+      "Artist Type": "Duo",
+      "Primary Genre": "Electronic",
+      "Secondary Genre": "French house / dance / disco / synth-pop",
+      "Country/Market": "France / Global",
+      "Language": "Instrumental / English / French",
+      "Sonic Sphere Genre Cluster": "Electronic headliners / legacy icons"
     }
   ],
   "heat": [
@@ -117,6 +213,15 @@
       "Awards Last 3 Years": "OXYMORE immersive/Webby-era recognition; long-running UNESCO cultural ambassador profile",
       "Cultural Moment": "Legacy electronic pioneer active in immersive audio, AI visuals, and landmark outdoor concerts",
       "Active Touring 2025-2026": "Yes",
+      "Overall Heat Score": 5
+    },
+    {
+      "ID": 121,
+      "Artist": "Daft Punk",
+      "Major Press 2024-2026": "Official Human After All video; Fortnite x Daft Punk Experience; Interstella 5555 screenings and archival drops",
+      "Awards Last 3 Years": "No new competitive awards; legacy Grammy-winning catalog remains active",
+      "Cultural Moment": "Disbanded but culturally active through archival video, gaming, film, and anniversary releases",
+      "Active Touring 2025-2026": "No",
       "Overall Heat Score": 5
     }
   ],
@@ -135,6 +240,21 @@
       "Composite Score": 60.4,
       "Demand Tier": "★★★★★",
       "Qualifier Note": "Arena / outdoor landmark headliner"
+    },
+    {
+      "ID": 121,
+      "Artist": "Daft Punk",
+      "Spotify ML (Raw)": 26700000,
+      "Spotify ML (Log Norm 0-100)": 92.3,
+      "Social Followers (Raw)": 13259758,
+      "Social Followers (Log Norm 0-100)": 80.4,
+      "Tour Gross (Raw)": null,
+      "Tour Gross (Log Norm 0-100)": 84.4,
+      "RIAA Units (Raw)": 12500000,
+      "RIAA Units (Log Norm 0-100)": 78.2,
+      "Composite Score": 85.2,
+      "Demand Tier": "★★★★★",
+      "Qualifier Note": "Stadium / arena legacy headliner"
     }
   ],
   "qa": [
@@ -148,6 +268,17 @@
       "Source Snapshot Date": "2026-05-13",
       "Data Source Names": "Official Jean-Michel Jarre site; Spotify; ChartMasters; Bandsintown; Billboard Instagram embed; TwStalker X mirror; Guardian; BPI certification references",
       "Notes": "Manual public-research addition. Social total reach sums cited Instagram and X counts only; public Facebook follower count was not available. Tour score reflects official 2026 arena/festival/outdoor schedule and Bandsintown demand because public grosses were unavailable. RIAA units are zero because no RIAA certification was found; global sales are claimed records sold."
+    },
+    {
+      "ID": 121,
+      "Artist": "Daft Punk",
+      "Spotify URL": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi",
+      "Confidence Rating (1-5)": 4,
+      "Disambiguation Issue": null,
+      "Missing Data Flags": "Public tour gross; Ticket sales; Average gross per show; Current tour dates",
+      "Source Snapshot Date": "2026-05-14",
+      "Data Source Names": "Official Daft Punk site; Spotify; ChartMasters; Bandsintown; HypeAuditor; TwStalker; Official Charts; RIAA/BPI certification references; Apple Music",
+      "Notes": "Manual public-research addition. Spotify and catalog streams use ChartMasters' Daft Punk artist dashboard; total social reach sums public Instagram, X, and Facebook counts. No current Daft Punk tour dates exist; live score reflects historical Alive 2006/2007 arena/festival demand and current Bandsintown follower demand."
     }
   ]
 }
