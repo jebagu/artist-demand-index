@@ -15,6 +15,8 @@ Run the dev server and open:
 3. Run `npm run dev`.
 4. Run `npm run build`.
 
+Additional manually researched artist rows can live in `data/raw/manual_artist_additions.json`; rerun `npm run prepare:data` after editing it.
+
 The app parses the Excel workbook at build time and writes:
 
 - `src/data/generated/artists.json`

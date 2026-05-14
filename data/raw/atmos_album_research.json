@@ -2534,6 +2534,27 @@
       "hasAtmosAlbum": false,
       "albums": [],
       "notes": "yunè pinku is an Irish electronic musician with EPs 'Bluff' (2022), 'Babylon IX' (2023), and 'Scarlet Lamb' (2024). Despite extensive searching across Apple Music, Tidal, and Dolby sources, no Dolby Atmos album or EP releases were found."
+    },
+    {
+      "id": 120,
+      "artist": "Jean-Michel Jarre",
+      "hasAtmosAlbum": true,
+      "researchedAt": "2026-05-13",
+      "albums": [
+        {
+          "title": "Oxymore",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music / Amazon Music / digital",
+          "sourceUrls": [
+            "https://jeanmicheljarre.com/music/oxymore",
+            "https://professional.dolby.com/fr/musique/jean-michel-jarre-dolby-atmos/",
+            "https://music.apple.com/us/album/oxymore/1631819443"
+          ],
+          "confidence": 5,
+          "notes": "Official Jean-Michel Jarre page lists Oxymore as available in Stereo, Binaural, 5.1, and Dolby Atmos. Dolby Professional also published a Jean-Michel Jarre x Dolby Atmos feature for Oxymore."
+        }
+      ],
+      "notes": "Jean-Michel Jarre has at least one confirmed Dolby Atmos album: Oxymore (2022), a multichannel and binaural project explicitly released in Dolby Atmos. Amazônia is documented as binaural/immersive but was not confirmed as Dolby Atmos, so it is not counted here."
     }
   ]
 }

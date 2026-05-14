@@ -23,7 +23,7 @@ function warn(message: string): void {
 }
 
 if (!Array.isArray(artists)) fail("artists.json must contain an array.");
-if (artists.length !== 119) fail(`expected 119 artists, found ${artists.length}.`);
+if (artists.length < 119) fail(`expected at least 119 artists, found ${artists.length}.`);
 
 const ids = new Set<number>();
 for (const artist of artists) {

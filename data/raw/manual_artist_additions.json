@@ -1,0 +1,153 @@
+{
+  "master": [
+    {
+      "ID": 120,
+      "Artist": "Jean-Michel Jarre",
+      "Artist Type": "Solo",
+      "Primary Genre": "Electronic",
+      "Country": "France",
+      "Spotify Monthly Listeners": 765351,
+      "Spotify Followers": 665300,
+      "Social Total Followers": 203000,
+      "Latest Tour Gross (USD)": null,
+      "RIAA Total Units": 0,
+      "Albums Count": 22,
+      "Breakthrough Year": 1976,
+      "Venue Scale": "Arena/Festival/Outdoor landmark",
+      "Spotify URL": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT",
+      "Language": "Instrumental / French",
+      "Years Active": "1968-present",
+      "Active Status": "Active"
+    }
+  ],
+  "streaming": [
+    {
+      "ID": 120,
+      "Artist": "Jean-Michel Jarre",
+      "Spotify Monthly Listeners": 765351,
+      "Spotify Followers": 665300,
+      "Listeners Confidence": 4,
+      "Followers Confidence": 3,
+      "Spotify URL": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT",
+      "Top 1 Track Name": "Oxygène, Pt. 4",
+      "Top 1 Streams": 49404621,
+      "Top 2 Track Name": "Oxygène, Pt. 2",
+      "Top 2 Streams": 19316929,
+      "Top 3 Track Name": "Equinoxe, Pt. 4",
+      "Top 3 Streams": 11609364,
+      "Est. Total Catalog Streams": 503600000
+    }
+  ],
+  "social": [
+    {
+      "ID": 120,
+      "Artist": "Jean-Michel Jarre",
+      "Instagram Handle": "@jeanmicheljarre",
+      "Instagram Followers": 155000,
+      "X Handle": "@jeanmicheljarre",
+      "X Followers": 48000,
+      "Facebook Page": "https://www.facebook.com/jeanmicheljarre/",
+      "Facebook Followers": null,
+      "Total Social Reach": 203000,
+      "Verified Status": "Verified official accounts"
+    }
+  ],
+  "live": [
+    {
+      "ID": 120,
+      "Artist": "Jean-Michel Jarre",
+      "Latest Tour Name": "2026 European live dates",
+      "Latest Tour Years": "2026",
+      "Tour Gross (USD)": null,
+      "Tickets Sold": null,
+      "Shows Count": 10,
+      "Avg Gross/Show": null,
+      "Venue Scale": "Arena/Festival/Outdoor landmark",
+      "Festival Headliner": "Yes",
+      "Bandsintown Followers": 307962,
+      "Upcoming Shows Count": 10
+    }
+  ],
+  "sales": [
+    {
+      "ID": 120,
+      "Artist": "Jean-Michel Jarre",
+      "RIAA Album Certs": 0,
+      "RIAA Single Certs": 0,
+      "RIAA Total Units": 0,
+      "RIAA Confidence": 4,
+      "BPI Certifications": "Oxygène Platinum; Equinoxe Gold; Magnetic Fields Gold; Rendez-Vous Gold; Zoolook Silver; Revolutions Silver; Houston/Lyon Silver; Jarre Live Silver",
+      "BPI Confidence": 4,
+      "Claimed Global Sales": 85000000,
+      "Global Sales Confidence": 3,
+      "Highest Certified Album": "Oxygène"
+    }
+  ],
+  "catalog": [
+    {
+      "ID": 120,
+      "Artist": "Jean-Michel Jarre",
+      "Studio Albums": 22,
+      "Studio Albums Confidence": 4,
+      "First Major Release": "Oxygène",
+      "First Release Confidence": 5,
+      "Breakthrough Year": 1976,
+      "Breakthrough Confidence": 5,
+      "Active/Disbanded": "Active",
+      "Years Active": "1968-present"
+    }
+  ],
+  "genre": [
+    {
+      "ID": 120,
+      "Artist": "Jean-Michel Jarre",
+      "Artist Type": "Solo",
+      "Primary Genre": "Electronic",
+      "Secondary Genre": "Ambient / Synth-pop / Electroacoustic",
+      "Country/Market": "France / Global",
+      "Language": "Instrumental / French",
+      "Sonic Sphere Genre Cluster": "Electronic pioneers / immersive spectacle"
+    }
+  ],
+  "heat": [
+    {
+      "ID": 120,
+      "Artist": "Jean-Michel Jarre",
+      "Major Press 2024-2026": "Bridge From The Future / Live in Bratislava release; 2026 tour dates; AI Film Festival commentary",
+      "Awards Last 3 Years": "OXYMORE immersive/Webby-era recognition; long-running UNESCO cultural ambassador profile",
+      "Cultural Moment": "Legacy electronic pioneer active in immersive audio, AI visuals, and landmark outdoor concerts",
+      "Active Touring 2025-2026": "Yes",
+      "Overall Heat Score": 5
+    }
+  ],
+  "normalization": [
+    {
+      "ID": 120,
+      "Artist": "Jean-Michel Jarre",
+      "Spotify ML (Raw)": 765351,
+      "Spotify ML (Log Norm 0-100)": 73.5,
+      "Social Followers (Raw)": 203000,
+      "Social Followers (Log Norm 0-100)": 58.1,
+      "Tour Gross (Raw)": null,
+      "Tour Gross (Log Norm 0-100)": 80.5,
+      "RIAA Units (Raw)": 0,
+      "RIAA Units (Log Norm 0-100)": 0,
+      "Composite Score": 60.4,
+      "Demand Tier": "★★★★★",
+      "Qualifier Note": "Arena / outdoor landmark headliner"
+    }
+  ],
+  "qa": [
+    {
+      "ID": 120,
+      "Artist": "Jean-Michel Jarre",
+      "Spotify URL": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT",
+      "Confidence Rating (1-5)": 4,
+      "Disambiguation Issue": null,
+      "Missing Data Flags": "Public tour gross; Ticket sales; Average gross per show; Facebook followers",
+      "Source Snapshot Date": "2026-05-13",
+      "Data Source Names": "Official Jean-Michel Jarre site; Spotify; ChartMasters; Bandsintown; Billboard Instagram embed; TwStalker X mirror; Guardian; BPI certification references",
+      "Notes": "Manual public-research addition. Social total reach sums cited Instagram and X counts only; public Facebook follower count was not available. Tour score reflects official 2026 arena/festival/outdoor schedule and Bandsintown demand because public grosses were unavailable. RIAA units are zero because no RIAA certification was found; global sales are claimed records sold."
+    }
+  ]
+}

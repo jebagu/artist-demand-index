@@ -16,6 +16,7 @@ type WarningRecord = {
 const root = process.cwd();
 const workbookPath = path.join(root, "data/raw/sonic_sphere_artist_demand.xlsx");
 const atmosResearchPath = path.join(root, "data/raw/atmos_album_research.json");
+const manualArtistAdditionsPath = path.join(root, "data/raw/manual_artist_additions.json");
 const generatedDir = path.join(root, "src/data/generated");
 const kimiRound2Dir = path.join(root, "data/kimi/round2/research");
 
@@ -245,6 +246,22 @@ function mapByKey(rows: RawRow[]): Map<string, RawRow> {
     if (key) map.set(key, row);
   });
   return map;
+}
+
+function loadManualArtistAdditions(): Partial<Record<keyof typeof sheetNames, RawRow[]>> {
+  if (!fs.existsSync(manualArtistAdditionsPath)) return {};
+
+  const raw = JSON.parse(fs.readFileSync(manualArtistAdditionsPath, "utf8")) as Record<string, unknown>;
+  return Object.fromEntries(
+    Object.keys(sheetNames).map((key) => {
+      const rows = raw[key];
+      if (rows === undefined) return [key, []];
+      if (!Array.isArray(rows)) {
+        throw new Error(`Manual artist additions field "${key}" must be an array.`);
+      }
+      return [key, rows.map((row) => row as RawRow)];
+    })
+  ) as Partial<Record<keyof typeof sheetNames, RawRow[]>>;
 }
 
 function loadAtmosResearch(): Map<string, RawRow> {
@@ -633,8 +650,15 @@ function refreshCompletenessScore(artist: (typeof artists)[number]) {
   );
 }
 
-const rows = Object.fromEntries(
+const workbookRows = Object.fromEntries(
   Object.entries(sheetNames).map(([key, sheetName]) => [key, sheetToRows(sheetName)])
+) as Record<keyof typeof sheetNames, RawRow[]>;
+const manualArtistAdditions = loadManualArtistAdditions();
+const rows = Object.fromEntries(
+  Object.entries(workbookRows).map(([key, value]) => [
+    key,
+    [...value, ...(manualArtistAdditions[key as keyof typeof sheetNames] ?? [])]
+  ])
 ) as Record<keyof typeof sheetNames, RawRow[]>;
 
 const maps = Object.fromEntries(Object.entries(rows).map(([key, value]) => [key, mapByKey(value)])) as Record<
@@ -850,6 +874,15 @@ const dataHealth = {
     .map((artist) => ({ id: artist.id, artist: artist.artist, issue: artist.qa.disambiguationIssue })),
   parser: {
     rowCounts: Object.fromEntries(Object.entries(rows).map(([key, value]) => [key, value.length])),
+    manualArtistAdditions: {
+      available: fs.existsSync(manualArtistAdditionsPath),
+      rowCounts: Object.fromEntries(
+        Object.keys(sheetNames).map((key) => [
+          key,
+          manualArtistAdditions[key as keyof typeof sheetNames]?.length ?? 0
+        ])
+      )
+    },
     kimiRound2: kimiImportSummary,
     generatedAt: new Date().toISOString()
   }

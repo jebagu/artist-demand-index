@@ -15,23 +15,23 @@
   "dataQualityNote": "Research snapshot from May 12, 2026. Values are directional and include missing or low-confidence fields. Raw footprint charts use source detail tabs; model tier and composite use the original normalization tab. Tour gross is latest public tour gross, while catalog streams and RIAA units are lifetime-style signals.",
   "missingnessCounts": {
     "spotifyMonthlyListeners": {
-      "available": 116,
+      "available": 117,
       "missing": 3
     },
     "socialReach": {
-      "available": 98,
+      "available": 99,
       "missing": 21
     },
     "tourGrossUsd": {
       "available": 10,
-      "missing": 109
+      "missing": 110
     },
     "catalogStreams": {
-      "available": 90,
+      "available": 91,
       "missing": 29
     },
     "bandsintownFollowers": {
-      "available": 4,
+      "available": 5,
       "missing": 115
     }
   },
@@ -276,16 +276,31 @@
   ],
   "parser": {
     "rowCounts": {
-      "master": 119,
-      "streaming": 119,
-      "social": 119,
-      "live": 119,
-      "sales": 119,
-      "catalog": 119,
-      "genre": 119,
-      "heat": 119,
-      "normalization": 119,
-      "qa": 119
+      "master": 120,
+      "streaming": 120,
+      "social": 120,
+      "live": 120,
+      "sales": 120,
+      "catalog": 120,
+      "genre": 120,
+      "heat": 120,
+      "normalization": 120,
+      "qa": 120
+    },
+    "manualArtistAdditions": {
+      "available": true,
+      "rowCounts": {
+        "master": 1,
+        "streaming": 1,
+        "social": 1,
+        "live": 1,
+        "sales": 1,
+        "catalog": 1,
+        "genre": 1,
+        "heat": 1,
+        "normalization": 1,
+        "qa": 1
+      }
     },
     "kimiRound2": {
       "available": true,
@@ -333,6 +348,6 @@
         "identity.descriptionShort": 113
       }
     },
-    "generatedAt": "2026-05-12T20:27:01.654Z"
+    "generatedAt": "2026-05-13T18:53:56.232Z"
   }
 }

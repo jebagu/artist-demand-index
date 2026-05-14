@@ -16070,5 +16070,139 @@
       "consistencyWarnings": [],
       "completenessScore": 78
     }
+  },
+  {
+    "id": 120,
+    "artist": "Jean-Michel Jarre",
+    "identity": {
+      "artistType": "Solo",
+      "primaryGenre": "Electronic",
+      "secondaryGenre": "Ambient / Synth-pop / Electroacoustic",
+      "country": "France",
+      "countryMarket": "France / Global",
+      "language": "Instrumental / French",
+      "cluster": "Electronic pioneers / immersive spectacle",
+      "activeStatus": "Active",
+      "yearsActive": "1968-present"
+    },
+    "tier": {
+      "stars": "★★★★★",
+      "ordinal": 5,
+      "label": "5-star",
+      "qualifierNote": "Arena / outdoor landmark headliner",
+      "compositeScore": 60.4
+    },
+    "streaming": {
+      "spotifyMonthlyListeners": 765351,
+      "spotifyFollowers": 665300,
+      "spotifyUrl": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT",
+      "listenerConfidence": 4,
+      "followerConfidence": 3,
+      "topTracks": [
+        {
+          "name": "Oxygène, Pt. 4",
+          "streams": 49404621
+        },
+        {
+          "name": "Oxygène, Pt. 2",
+          "streams": 19316929
+        },
+        {
+          "name": "Equinoxe, Pt. 4",
+          "streams": 11609364
+        }
+      ],
+      "estimatedCatalogStreams": 503600000
+    },
+    "social": {
+      "instagramHandle": "@jeanmicheljarre",
+      "instagramFollowers": 155000,
+      "xHandle": "@jeanmicheljarre",
+      "xFollowers": 48000,
+      "facebookPage": "https://www.facebook.com/jeanmicheljarre/",
+      "facebookFollowers": null,
+      "totalReach": 203000,
+      "verifiedStatus": "Verified official accounts"
+    },
+    "live": {
+      "latestTourName": "2026 European live dates",
+      "latestTourYears": "2026",
+      "tourGrossUsd": null,
+      "ticketsSold": null,
+      "showsCount": 10,
+      "avgGrossPerShow": null,
+      "venueScale": "Arena/Festival/Outdoor landmark",
+      "festivalHeadliner": "Yes",
+      "bandsintownFollowers": 307962,
+      "upcomingShowsCount": 10
+    },
+    "sales": {
+      "riaaAlbumCertUnits": 0,
+      "riaaSingleCertUnits": 0,
+      "riaaTotalUnits": 0,
+      "riaaConfidence": 4,
+      "bpiCertifications": "Oxygène Platinum; Equinoxe Gold; Magnetic Fields Gold; Rendez-Vous Gold; Zoolook Silver; Revolutions Silver; Houston/Lyon Silver; Jarre Live Silver",
+      "bpiConfidence": 4,
+      "claimedGlobalSales": 85000000,
+      "globalSalesConfidence": 3,
+      "highestCertifiedAlbum": "Oxygène"
+    },
+    "heat": {
+      "majorPress2024To2026": "Bridge From The Future / Live in Bratislava release; 2026 tour dates; AI Film Festival commentary",
+      "awardsLast3Years": "OXYMORE immersive/Webby-era recognition; long-running UNESCO cultural ambassador profile",
+      "culturalMoment": "Legacy electronic pioneer active in immersive audio, AI visuals, and landmark outdoor concerts",
+      "activeTouring2025To2026": "Yes",
+      "score": 5
+    },
+    "atmos": {
+      "status": "researched",
+      "hasAtmosAlbum": true,
+      "albums": [
+        {
+          "title": "Oxymore",
+          "releaseYear": 2022,
+          "sourceService": "Apple Music / Amazon Music / digital",
+          "sourceUrls": [
+            "https://jeanmicheljarre.com/music/oxymore",
+            "https://professional.dolby.com/fr/musique/jean-michel-jarre-dolby-atmos/",
+            "https://music.apple.com/us/album/oxymore/1631819443"
+          ],
+          "confidence": 5,
+          "notes": "Official Jean-Michel Jarre page lists Oxymore as available in Stereo, Binaural, 5.1, and Dolby Atmos. Dolby Professional also published a Jean-Michel Jarre x Dolby Atmos feature for Oxymore."
+        }
+      ],
+      "researchedAt": "2026-05-13",
+      "notes": "Jean-Michel Jarre has at least one confirmed Dolby Atmos album: Oxymore (2022), a multichannel and binaural project explicitly released in Dolby Atmos. Amazônia is documented as binaural/immersive but was not confirmed as Dolby Atmos, so it is not counted here."
+    },
+    "normalized": {
+      "spotifyScore": 73.5,
+      "socialScore": 58.1,
+      "tourScore": 80.5,
+      "riaaScore": 0
+    },
+    "qa": {
+      "confidenceRating": 4,
+      "missingDataFlags": [
+        "Public tour gross",
+        "Ticket sales",
+        "Average gross per show",
+        "Facebook followers"
+      ],
+      "disambiguationIssue": null,
+      "sourceSnapshotDate": "2026-05-13",
+      "dataSourceNames": [
+        "Official Jean-Michel Jarre site",
+        "Spotify",
+        "ChartMasters",
+        "Bandsintown",
+        "Billboard Instagram embed",
+        "TwStalker X mirror",
+        "Guardian",
+        "BPI certification references"
+      ],
+      "notes": "Manual public-research addition. Social total reach sums cited Instagram and X counts only; public Facebook follower count was not available. Tour score reflects official 2026 arena/festival/outdoor schedule and Bandsintown demand because public grosses were unavailable. RIAA units are zero because no RIAA certification was found; global sales are claimed records sold.",
+      "consistencyWarnings": [],
+      "completenessScore": 89
+    }
   }
 ]

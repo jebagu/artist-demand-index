@@ -163,6 +163,10 @@ export type DataHealth = {
       supportedFields: Record<string, number>;
       unsupportedFields: Record<string, number>;
     };
+    manualArtistAdditions?: {
+      available: boolean;
+      rowCounts: Record<string, number>;
+    };
     generatedAt: string;
   };
 };
